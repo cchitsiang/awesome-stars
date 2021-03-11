@@ -23,5 +23,5 @@ jobs:
       -
         name: 'Update Repo'
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          GITHUB_TOKEN: '${{ secrets.PAT_TOKEN }}'
         run: 'stargazed --username  "cchitsiang" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
