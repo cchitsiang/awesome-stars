@@ -1094,6 +1094,7 @@
 
 ## Go 
 
+- [nickfiggins/elasticspot](https://github.com/nickfiggins/elasticspot) - Easily reassign Elastic IPs to new Spot instances with AWS Lambda and CloudWatch Events.
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -3057,7 +3058,7 @@
 - [localstack/serverless-localstack](https://github.com/localstack/serverless-localstack) - ⚡ Serverless plugin for running against LocalStack
 - [aizatto/meetups.build.my](https://github.com/aizatto/meetups.build.my) - Source code for build.my. Built in Serverless, AWS Lambda, API Gateway, DynamoDB, TypeScript, GraphQL
 - [eggjs/koa-express-adapter](https://github.com/eggjs/koa-express-adapter) - The adapter for the migration from express to koa
-- [0xPool/Gitter](https://github.com/0xPool/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
+- [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [franciscop/react-text](https://github.com/franciscop/react-text) - 📙 React translation library with plain objects as dictionaries
 - [xShteff/Node-w-docker](https://github.com/xShteff/Node-w-docker) - 
@@ -5815,7 +5816,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [rangle/typescript-react-redux-example](https://github.com/rangle/typescript-react-redux-example) - Typescript, React, Redux, Webpack starter kit
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
 - [MarnoDev/react-native-open-project](https://github.com/MarnoDev/react-native-open-project) - 可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
@@ -6527,7 +6527,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Fast, easy, and reliable Web/UI testing with Python. ✅
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A web automation framework for Python developers. Includes a test generator, a pytest plugin, a dashboard, detailed reports, a driver manager, and more.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -8568,7 +8568,7 @@
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [frappe/books](https://github.com/frappe/books) - Free Desktop Accounting Software for small-businesses and freelancers.
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
-- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
+- [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
 - [Geek-James/ddBuy](https://github.com/Geek-James/ddBuy) - 🎉Vue全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
