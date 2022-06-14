@@ -1121,7 +1121,6 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing tool that monitors performance, errors, and logs
 - [keploy/keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and data mocks from API calls.
 - [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
@@ -1198,7 +1197,7 @@
 - [haraqa/haraqa](https://github.com/haraqa/haraqa) - High Availability Routing and Queueing Application
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless.
+- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [furdarius/rabbitroutine](https://github.com/furdarius/rabbitroutine) - Lightweight library that handles RabbitMQ auto-reconnect and publishing retry routine for you.
 - [qiangxue/go-rest-api](https://github.com/qiangxue/go-rest-api) - An idiomatic Go REST API starter kit (boilerplate) following the SOLID principles and Clean Architecture
@@ -1801,7 +1800,7 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [hofstadter-io/frisby](https://github.com/hofstadter-io/frisby) - API testing framework inspired by frisby-js
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [lukasmartinelli/pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
@@ -2418,7 +2417,7 @@
 - [TheFinestArtist/AndroidBaseUtils](https://github.com/TheFinestArtist/AndroidBaseUtils) - Context free and basic utils to build Android project conveniently
 - [saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) - [Deprecated] An application about movies with material design
 - [lincanbin/Android-Carbon-Forum](https://github.com/lincanbin/Android-Carbon-Forum) - Android Client for Carbon Forum with Material Design.
-- [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [Jeffmen/Git.NB](https://github.com/Jeffmen/Git.NB) - A app client for Github
 - [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
 - [oubowu/OuNews](https://github.com/oubowu/OuNews) - 新闻阅读
@@ -6531,7 +6530,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅🤖 A complete Python framework for reliable web automation and testing. 📊
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -6912,7 +6911,7 @@
 
 ## Rust 
 
-- [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.
+- [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - GaiaX dynamic template engine is a lightweight cross-platform solution for pure native dynamic card.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -7234,7 +7233,7 @@
 - [playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
 - [pitiphong-p/CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 - [tylerhall/DefaultApp](https://github.com/tylerhall/DefaultApp) - A highly-opinionated Xcode project template to build a new macOS app with.
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.
+- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
 - [mhdhejazi/CoronaTracker](https://github.com/mhdhejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with maps & charts
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 - [microsoft/FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit) - A library for backporting Dark Mode in iOS
@@ -8008,7 +8007,7 @@
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
-- [redpanda-data/kowl](https://github.com/redpanda-data/kowl) - Kowl is a developer-friendly UI for managing your Kafka/Redpanda workloads. Kowl gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer group
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [CovidShield/mobile](https://github.com/CovidShield/mobile) - React Native client application for COVID Shield on iOS and Android
@@ -8561,6 +8560,7 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Aggregated set of useful tools that every developer may need once in a while.
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing tool that monitors performance, errors, and logs
 - [aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev) - ⚡ A portfolio for developers with a blog powered by Notion
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
