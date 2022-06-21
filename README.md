@@ -1098,6 +1098,7 @@
 
 ## Go 
 
+- [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes
 - [kelseyhightower/buildinfo](https://github.com/kelseyhightower/buildinfo) - 
 - [nickfiggins/elasticspot](https://github.com/nickfiggins/elasticspot) - Easily reassign Elastic IPs to new Spot instances with AWS Lambda and CloudWatch Events.
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
@@ -1159,7 +1160,7 @@
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, and much more 🚀 It's completely configurable and 100% cross-platform compatible.
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
 - [getgort/gort](https://github.com/getgort/gort) - Gort is a chatbot framework designed from the ground up for chatops.
@@ -1636,7 +1637,7 @@
 - [HeavyHorst/remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool
 - [zuzuleinen/dave](https://github.com/zuzuleinen/dave) - CLI Personal assistant
 - [Dataman-Cloud/crane](https://github.com/Dataman-Cloud/crane) - Yet another control plane based on docker built-in swarmkit
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more | 谢谢 http
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
 - [tidwall/finn](https://github.com/tidwall/finn) - Fast Raft framework using the Redis protocol for Go
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [signal18/replication-manager](https://github.com/signal18/replication-manager) - Signal 18 repman - Replication Manager for MySQL / MariaDB / Percona Server
@@ -2091,7 +2092,7 @@
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/
-- [apache/incubator-inlong](https://github.com/apache/incubator-inlong) - Apache InLong - a one-stop integration framework for massive data
+- [apache/inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop integration framework for massive data
 - [fossasia/susi_server](https://github.com/fossasia/susi_server) - SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [zuihou/lamp-cloud](https://github.com/zuihou/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot的微服务快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框
@@ -2243,7 +2244,7 @@
 - [pqpo/SmartCropper](https://github.com/pqpo/SmartCropper) - 🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
 - [hangum/TadpoleForDBTools](https://github.com/hangum/TadpoleForDBTools) - 
 - [robolectric/robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - RESTHeart - REST, GraphQL and WebSocket API for MongoDB.
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - RESTHeart - Low code Microservices Open Platform with Polyglot Development Framework, Declarative Security and the Best Data APIs for MongoDB
 - [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - [GCX-HCI/tray](https://github.com/GCX-HCI/tray) - a SharedPreferences replacement for Android with multiprocess support
 - [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
@@ -3270,6 +3271,7 @@
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [joshwcomeau/guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
 - [ethjs/ethjs](https://github.com/ethjs/ethjs) - A highly optimised, light-weight JS utility for Ethereum.
+- [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [jeswin/nsoap-express](https://github.com/jeswin/nsoap-express) - NSOAP router for Express
 - [ianstormtaylor/react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
@@ -3483,7 +3485,7 @@
 - [Madmous/madClones](https://github.com/Madmous/madClones) - A collection of frameworks that I love with a strong focus on clean code, testing, software architecture/design and devops.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [gios/hashline](https://github.com/gios/hashline) - Realtime discussions
-- [antonybudianto/cra-universal](https://github.com/antonybudianto/cra-universal) - 🌏 Create React App companion for universal app. No eject, zero config, Streaming SSR with Suspense
+- [antonybudianto/cra-universal](https://github.com/antonybudianto/cra-universal) - 🌏 Create React App companion for universal app. No eject, zero config, Streaming SSR with Suspense. React 18 ready
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
@@ -4110,7 +4112,7 @@
 - [xiekw2010/react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native.
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Modern testing for DevOps & SRE
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing. Keep your app fast & reliable. Loved by developers & SREs.
 - [elierotenberg/react-armor](https://github.com/elierotenberg/react-armor) - Protect your DOM from third-party tampering.
 - [leanote/desktop-app](https://github.com/leanote/desktop-app) - Leanote Desktop App, based on  Electron(atom-shell) http://leanote.org
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
@@ -5014,7 +5016,6 @@
 - [airbnb/paris](https://github.com/airbnb/paris) - Define and apply styles to Android views programmatically
 - [Ray-Eldath/Avalon](https://github.com/Ray-Eldath/Avalon) - :robot: A scalable multi-function group robot for QQ and Discord. 多功能、可扩展的群机器人，支持QQ和Discord。
 - [esafirm/android-conductor-boilerplate](https://github.com/esafirm/android-conductor-boilerplate) - Boilerplate code for ➡️  https://github.com/esafirm/generator-android-conductor
-- [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
 - [TonnyL/WhatsNew](https://github.com/TonnyL/WhatsNew) - 🎉 WhatsNew automatically displays a short description of the new features when users update your app
 - [Cuieney/RxPay](https://github.com/Cuieney/RxPay) - 一个集成支付宝微信的支付工具
 - [rm3l/service-names-port-numbers](https://github.com/rm3l/service-names-port-numbers) - Library and Microservice (GraphQL API) against the IANA Service Names And Port Numbers Registry
@@ -6264,7 +6265,6 @@
 
 - [SharePoint/sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - SharePoint & Viva Connections Developer Documentation
 - [MicrosoftDocs/OfficeDocs-SharePoint](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint) - SharePoint Server, SharePoint Online, and OneDrive for Business documentation
-- [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
 - [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open Source documentation for the Azure Architecture Center on Microsoft Docs
 - [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
 - [ginni-1234/powershell-script](https://github.com/ginni-1234/powershell-script) - 
@@ -6917,7 +6917,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [mobilecoinfoundation/mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) - Private payments for mobile devices.
@@ -7793,6 +7793,8 @@
 
 ## TypeScript 
 
+- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
+- [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
@@ -7904,7 +7906,7 @@
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [milliHQ/terraform-aws-next-js](https://github.com/milliHQ/terraform-aws-next-js) - Terraform module for building and deploying Next.js apps to AWS. Supports SSR (Lambda), Static (S3) and API (Lambda) pages.
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [nessjs/ness](https://github.com/nessjs/ness) - Deploy web sites and apps to your own cloud account effortlessly.
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
@@ -8316,6 +8318,7 @@
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [socketio/socket.io-redis-adapter](https://github.com/socketio/socket.io-redis-adapter) - Adapter to enable broadcasting of events to multiple separate socket.io server nodes.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
+- [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker) - React Native Number Ticker
 - [dawsbot/RelativePath](https://github.com/dawsbot/RelativePath) - VSCode Relative path plugin
