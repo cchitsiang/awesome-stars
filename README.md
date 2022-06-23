@@ -1103,7 +1103,6 @@
 - [nickfiggins/elasticspot](https://github.com/nickfiggins/elasticspot) - Easily reassign Elastic IPs to new Spot instances with AWS Lambda and CloudWatch Events.
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
@@ -1287,7 +1286,7 @@
 - [tommy351/pullup](https://github.com/tommy351/pullup) - Update Kubernetes resources by webhooks.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [benfred/github-analysis](https://github.com/benfred/github-analysis) - Trending Programming Languages ranked by GitHub Users
-- [markphelps/flipt](https://github.com/markphelps/flipt) - An open-source, on-prem feature flag solution
+- [markphelps/flipt](https://github.com/markphelps/flipt) - An open source, self-hosted feature flag solution
 - [sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
 - [bet365/jingo](https://github.com/bet365/jingo) - This package provides the ability to encode golang structs to a buffer as JSON very quickly.
@@ -1879,7 +1878,7 @@
 - [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) - Airplay Receiver SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
-- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [changelogsite/changelog](https://github.com/changelogsite/changelog) - Jekyll powered static site to host your product's changelog. Demo -
 - [prabhakar267/WA-Reader](https://github.com/prabhakar267/WA-Reader) - :speech_balloon: WA Reader is a platform to read WhatsApp conversations from email text backups in a easy-to-read UI.
 - [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
@@ -2400,6 +2399,7 @@
 - [aurelhubert/ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.
 - [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
 - [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - [DEPRECATED] a Contact list implements by RecyclerView
+- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports 
 - [BeatBuddy/beatbuddy_android](https://github.com/BeatBuddy/beatbuddy_android) - 
 - [wsieroci/audio-recognizer](https://github.com/wsieroci/audio-recognizer) - Shazam in Java
 - [salesforce/Argus](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
@@ -4033,7 +4033,6 @@
 - [node-apn/node-apn](https://github.com/node-apn/node-apn) - :calling: Apple Push Notification module for Node.js
 - [Automattic/kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
 - [macacajs/macaca-cli](https://github.com/macacajs/macaca-cli) - Macaca command-line interface
-- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports 
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [siriusastrebe/syc](https://github.com/siriusastrebe/syc) - Client/Server data synchronization library for Node.js
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -5015,6 +5014,7 @@
 - [airbnb/paris](https://github.com/airbnb/paris) - Define and apply styles to Android views programmatically
 - [Ray-Eldath/Avalon](https://github.com/Ray-Eldath/Avalon) - :robot: A scalable multi-function group robot for QQ and Discord. 多功能、可扩展的群机器人，支持QQ和Discord。
 - [esafirm/android-conductor-boilerplate](https://github.com/esafirm/android-conductor-boilerplate) - Boilerplate code for ➡️  https://github.com/esafirm/generator-android-conductor
+- [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
 - [TonnyL/WhatsNew](https://github.com/TonnyL/WhatsNew) - 🎉 WhatsNew automatically displays a short description of the new features when users update your app
 - [Cuieney/RxPay](https://github.com/Cuieney/RxPay) - 一个集成支付宝微信的支付工具
 - [rm3l/service-names-port-numbers](https://github.com/rm3l/service-names-port-numbers) - Library and Microservice (GraphQL API) against the IANA Service Names And Port Numbers Registry
@@ -5115,7 +5115,7 @@
 
 ## Mustache 
 
-- [numary/ledger](https://github.com/numary/ledger) - 🏛 A programmable financial ledger that makes complex money flows easy
+- [numary/ledger](https://github.com/numary/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [mikescandy/krakend-helm](https://github.com/mikescandy/krakend-helm) - An helm chart to deploy krakend in  a kubernetes cluster
 - [rudderlabs/rudderstack-helm](https://github.com/rudderlabs/rudderstack-helm) - Open-source, warehouse-first Customer Data Pipeline and Segment-alternative. Collects and routes clickstream data and builds your customer data lake on your data warehouse.
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -6301,6 +6301,7 @@
 ## Python 
 
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -7793,7 +7794,7 @@
 ## TypeScript 
 
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
-- [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - Preact, but super edgy
+- [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - The next-gen web framework.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
@@ -8318,7 +8319,6 @@
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 - [socketio/socket.io-redis-adapter](https://github.com/socketio/socket.io-redis-adapter) - Adapter to enable broadcasting of events to multiple separate socket.io server nodes.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
-- [dooboolab/react-native-iap](https://github.com/dooboolab/react-native-iap) - react-native native module for In App Purchase.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker) - React Native Number Ticker
 - [dawsbot/RelativePath](https://github.com/dawsbot/RelativePath) - VSCode Relative path plugin
