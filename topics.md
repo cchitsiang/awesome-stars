@@ -771,7 +771,7 @@
 - [danielfsousa/express-rest-boilerplate](https://github.com/danielfsousa/express-rest-boilerplate) - ⌛️ Express starter for building RESTful APIs
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [GitGuardian/APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) - Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation
 - [faressoft/flowa](https://github.com/faressoft/flowa) - 🔥Service level control flow for Node.js
 - [Patreon/nion](https://github.com/Patreon/nion) - 🌵  Declarative API Data Management Library built on top of redux 🌵
@@ -1155,7 +1155,7 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1206,7 +1206,7 @@
 
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [typedorm/typedorm](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [saml-to/assume-aws-role-action](https://github.com/saml-to/assume-aws-role-action) - Assume AWS IAM Roles using SAML.to in GitHub Actions
 - [aws-samples/designing-cloud-native-microservices-on-aws](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws) - Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the 
 - [vantage-sh/handbook.vantage.sh](https://github.com/vantage-sh/handbook.vantage.sh) - The Cloud Cost Handbook is a free, open-source, community-supported set of guides meant to help explain often-times complex pricing of public cloud infrastructure and service providers in plain englis
@@ -1506,7 +1506,7 @@
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1553,7 +1553,7 @@
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -1875,7 +1875,7 @@
 
 ## csharp 
 
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
@@ -1915,6 +1915,7 @@
 - [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios) - Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS.
 - [Kwoth/NadekoBot](https://github.com/Kwoth/NadekoBot) - Open source, general-purpose Discord chat bot written in C#
 - [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+- [UweKeim/ZetaResourceEditor](https://github.com/UweKeim/ZetaResourceEditor) - Free multilingual, parallel .NET resource file editing
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -2510,7 +2511,7 @@
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [shuup/shuup](https://github.com/shuup/shuup) - E-Commerce Platform
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Minimum resources, better performance. Iris is environmentally friendly :leaves:  | 谢谢 |
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [faxad/activflow](https://github.com/faxad/activflow) - Generic, light-weight & extensible Workflow Engine for agile automation of Business Processes | Django, Python
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -2752,6 +2753,7 @@
 
 ## documentation 
 
+- [crisp-oss/chappe](https://github.com/crisp-oss/chappe) - 🧑‍💻 Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
 - [docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A documentation generator
@@ -3116,7 +3118,7 @@
 - [ngduc/node-rem](https://github.com/ngduc/node-rem) - Node REM - NodeJS Rest Express MongoDB and more: typescript, passport, JWT, socket.io, HTTPS, HTTP2, async/await, nodemailer, templates, pagination, docker, etc. Live Demo: https://node-rem-ngduc.verc
 - [eggjs/koa-express-adapter](https://github.com/eggjs/koa-express-adapter) - The adapter for the migration from express to koa
 - [shystruk/create-react-redux-app-structure](https://github.com/shystruk/create-react-redux-app-structure) - Create React + Redux app structure with build configurations ✨
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [JoshuaRabiu/spresso-search](https://github.com/JoshuaRabiu/spresso-search) - Visual metasearch engine built with TypeScript, React, Redux & Express
 - [faressoft/flowa](https://github.com/faressoft/flowa) - 🔥Service level control flow for Node.js
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
@@ -3189,7 +3191,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -3272,6 +3274,7 @@
 
 ## framework 
 
+- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -3305,7 +3308,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [arturovm/min](https://github.com/arturovm/min) - A minimalistic web framework with route grouping and middleware chaining
 - [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [cofoundry-cms/cofoundry](https://github.com/cofoundry-cms/cofoundry) - Cofoundry is an extensible and flexible .NET Core CMS & application framework focusing on code first development
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
@@ -3496,6 +3499,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [jswidler/lockgit](https://github.com/jswidler/lockgit) - A CLI tool for storing encrypted data in a git repo
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.
@@ -3630,6 +3634,8 @@
 
 ## go 
 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -3659,7 +3665,7 @@
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - An open source recommender system service written in Go
 - [getgort/gort](https://github.com/getgort/gort) - Gort is a chatbot framework designed from the ground up for chatops.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -3851,7 +3857,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [emreler/finch](https://github.com/emreler/finch) - 
 - [parrot-translate/parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Minimum resources, better performance. Iris is environmentally friendly :leaves:  | 谢谢 |
 - [radovskyb/go-packages](https://github.com/radovskyb/go-packages) - A large repository of code and documented examples for Go's standard package library.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -3929,7 +3935,7 @@
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - OpenTelemetry distributed tracing tool that monitors performance, errors, and logs
 - [keploy/keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and data mocks from API calls.
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
@@ -3954,7 +3960,7 @@
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Archive, browse, and share videos from nearly any site
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [getgort/gort](https://github.com/getgort/gort) - Gort is a chatbot framework designed from the ground up for chatops.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
@@ -4084,7 +4090,7 @@
 - [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template
 - [jaswdr/faker](https://github.com/jaswdr/faker) - :rocket: Ultimate fake data generator for Go with zero dependencies
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
 - [cornelk/go-benchmark](https://github.com/cornelk/go-benchmark) - Golang benchmarks used for optimizing code
@@ -4191,7 +4197,7 @@
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [emreler/finch](https://github.com/emreler/finch) - 
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Priceless API. The true successor of expressjs | 谢谢 |
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Minimum resources, better performance. Iris is environmentally friendly :leaves:  | 谢谢 |
 - [tidwall/finn](https://github.com/tidwall/finn) - Fast Raft framework using the Redis protocol for Go
 - [radovskyb/go-packages](https://github.com/radovskyb/go-packages) - A large repository of code and documented examples for Go's standard package library.
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -4462,7 +4468,7 @@
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms implemented in Go for beginners, following best practices.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
@@ -4926,6 +4932,7 @@
 
 ## http 
 
+- [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Web API client & Stubber built with async/await for Swift
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
@@ -5492,7 +5499,7 @@
 - [Ramotion/android-ui-animation-components-and-libraries](https://github.com/Ramotion/android-ui-animation-components-and-libraries) - Android UI libraries, components and animations by @ramotion
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [quiph/RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller) - A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android) - The most powerful and beautiful Twitter client available.
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) - 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
@@ -5560,7 +5567,6 @@
 - [cuppa-framework/cuppa](https://github.com/cuppa-framework/cuppa) - Cuppa - A testing framework for Java 8+
 - [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
 - [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
-- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports 
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [klinker24/talon-twitter-holo](https://github.com/klinker24/talon-twitter-holo) - [Deprecated] The Holo version of my popular Android Talon for Twitter app, 100% open-source
 - [requery/requery](https://github.com/requery/requery) - requery - modern SQL based query & persistence for Java / Kotlin / Android
@@ -5619,7 +5625,7 @@
 
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -6688,7 +6694,7 @@
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [canaanites/await-catcher](https://github.com/canaanites/await-catcher) - Promise wrapper for easy error handling without try-catch 💯🔥
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [knockaway/sqsiphon](https://github.com/knockaway/sqsiphon) - 
 - [alexisvisco/kcd](https://github.com/alexisvisco/kcd) - KCD lets you focus on what matters: coding.
 - [allianz/ng-aquila](https://github.com/allianz/ng-aquila) - Angular UI Component library for the Open Insurance Platform
@@ -6846,7 +6852,6 @@
 ## lua 
 
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
 - [dhiaayachi/dynx](https://github.com/dhiaayachi/dynx) - Dynamic Docker friendly gateway
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
@@ -7083,6 +7088,7 @@
 
 ## markdown 
 
+- [crisp-oss/chappe](https://github.com/crisp-oss/chappe) - 🧑‍💻 Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -7532,7 +7538,7 @@
 ## nextjs 
 
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind, Prisma, and Vercel.
 - [next-page-tester/next-page-tester](https://github.com/next-page-tester/next-page-tester) - DOM integration testing for Next.js
 - [AbhinavRajesh/Chatbotish](https://github.com/AbhinavRajesh/Chatbotish) - Chatbotish: Adding Feedback, FAQ, Bug report, Feature request to your website made easy.
@@ -7600,7 +7606,7 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs) - Machine Learning library for the web and Node.
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [JayZang/twitter-clone](https://github.com/JayZang/twitter-clone) - Twitter clone.   The target is learning Vue framework and technique of backend to implement a SPA website.
 - [bemusic/scoreboard](https://github.com/bemusic/scoreboard) - Bemuse internet ranking system based on GraphQL and MongoDB to replace Parse-based backend
@@ -7756,7 +7762,7 @@
 - [binci/binci](https://github.com/binci/binci) - :whale: Containerize your development workflow.
 - [thenativeweb/wolkenkit-eventstore](https://github.com/thenativeweb/wolkenkit-eventstore) - wolkenkit-eventstore is an open-source eventstore for Node.js that is used by wolkenkit.
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [dbacked/agent](https://github.com/dbacked/agent) - The best way to backup and restore your database
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
@@ -7800,7 +7806,6 @@
 - [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆 World Cup 2018 CLI dashboard: watch matches in your terminal.
 - [ParallelTask/dinoloop](https://github.com/ParallelTask/dinoloop) - Rest API framework built on top of expressjs powered by Typescript.
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
 - [ThalKod/DropIt](https://github.com/ThalKod/DropIt) - DropIt is a File Uploader built with nodejs, Upload, get a link, and share your files with anyone easily.
@@ -8587,7 +8592,6 @@
 - [EBazarov/nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier
 - [franciscop/react-text](https://github.com/franciscop/react-text) - 📙 React translation library with plain objects as dictionaries
 - [xShteff/Node-w-docker](https://github.com/xShteff/Node-w-docker) - 
-- [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [GovTechSG/iOneMySgMap](https://github.com/GovTechSG/iOneMySgMap) - A tile server to serve map tiles for Singapore based off the Singapore Metro Extract
 - [lucagez/tattica](https://github.com/lucagez/tattica) - Tactical and adaptive asset loading library
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -12360,7 +12364,7 @@
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [gitscrum-ce/laravel-gitscrum](https://github.com/gitscrum-ce/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
@@ -12596,7 +12600,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation with cust
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
@@ -12673,7 +12677,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [ashwin711/georaptor](https://github.com/ashwin711/georaptor) - Python Geohash Compression Tool
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [grantmcconnaughey/Lintly](https://github.com/grantmcconnaughey/Lintly) - Automated GitHub PR code reviewer for Python, JavaScript, CSS, and more.
 - [dgwozdz/HN_SO_analysis](https://github.com/dgwozdz/HN_SO_analysis) - Is there a relationship between popularity of a given technology on Stack Overflow (SO) and Hacker News (HN)? And a few words about causality
@@ -12720,7 +12723,7 @@
 - [graphql-python/graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -13501,7 +13504,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [Permify/react-role](https://github.com/Permify/react-role) - Lightweight role based access management solution for React applications
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [webeetle/react-headless-hooks](https://github.com/webeetle/react-headless-hooks) - Build and design powerful components while retaining 100% control over markup and styles.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
@@ -13833,7 +13836,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [substantic/rain](https://github.com/substantic/rain) - Framework for large distributed pipelines
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is ONLY a few megabytes with all IP address stored. binding for Java,PHP,C,Py
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0-xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation
@@ -13918,7 +13921,7 @@
 - [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [alextanhongpin/go-microservice-architecture](https://github.com/alextanhongpin/go-microservice-architecture) - Sample microservice architecture to demonstrate how each pieces are linked together
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [alibaba/pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
 - [phellipeandrade/rbac](https://github.com/phellipeandrade/rbac) - Hierarchical Role-Based Access Control for Node.js
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
@@ -14014,7 +14017,7 @@
 
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud.
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [aws-samples/designing-cloud-native-microservices-on-aws](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws) - Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the 
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Heroku = 5 mins || Spin a docker image as a micro-service in your infra. Built in login page a
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
@@ -14721,7 +14724,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-platform 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [TNK-Studio/lazykube](https://github.com/TNK-Studio/lazykube) - ⎈ The lazier way to manage kubernetes.
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
@@ -14849,7 +14852,7 @@
 - [alexmx/ios-ui-automation-overview](https://github.com/alexmx/ios-ui-automation-overview) - An overview of popular iOS UI testing solutions.
 - [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐉 Python framework for Web/UI automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
 - [victorb/autochecker](https://github.com/victorb/autochecker) - ♻️ Test your libraries in many different versions of NodeJS, Ruby, Java and many other languages
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
@@ -14911,7 +14914,7 @@
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [typedorm/typedorm](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
 - [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
-- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [denoflow/denoflow](https://github.com/denoflow/denoflow) - Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
@@ -15050,7 +15053,7 @@
 - [Cryrivers/manta-style](https://github.com/Cryrivers/manta-style) - 🚀 The futuristic API Mock Server for Frontend
 - [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
-- [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
+- [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
