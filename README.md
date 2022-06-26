@@ -1625,7 +1625,7 @@
 - [cloudwan/gohan](https://github.com/cloudwan/gohan) - Gohan is an API Gateway Server written by Go that makes it easy for developers to create and maintain REST-style API
 - [teambition/gear](https://github.com/teambition/gear) - A lightweight, composable and high performance web service framework for Go.
 - [Masterminds/glide](https://github.com/Masterminds/glide) - Package Management for Golang
-- [henrylee2cn/faygo](https://github.com/henrylee2cn/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify t
+- [andeya/faygo](https://github.com/andeya/faygo) - Faygo is a fast and concise Go Web framework that can be used to develop high-performance web app(especially API) with fewer codes. Just define a struct handler, faygo will automatically bind/verify t
 - [uber-archive/cherami-client-go](https://github.com/uber-archive/cherami-client-go) - Go Client Implementation of Cherami - A distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
 - [uber-archive/cherami-server](https://github.com/uber-archive/cherami-server) - Distributed, scalable, durable, and highly available message queue system. This project is deprecated and not maintained.
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -1708,7 +1708,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [newrelic/check_docker](https://github.com/newrelic/check_docker) - A Go Nagios check for Docker
 - [minio/concert](https://github.com/minio/concert) - Concert is a console based certificate generation tool for https://letsencrypt.org.
-- [henrylee2cn/pholcus](https://github.com/henrylee2cn/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
+- [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
@@ -6093,7 +6093,7 @@
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [advancedrei/BootstrapForKendoUI](https://github.com/advancedrei/BootstrapForKendoUI) - A Bootstrap Theme for the Kendo UI HTML5 Framework
-- [ymahmoudnia/de4dotUI](https://github.com/ymahmoudnia/de4dotUI) - de4dotUI
+- [SecureByte/de4dotUI](https://github.com/SecureByte/de4dotUI) - de4dotUI
 - [stevekwan/best-practices](https://github.com/stevekwan/best-practices) - JavaScript and CSS guidelines for pragmatists.
 - [waldronj/DropNet](https://github.com/waldronj/DropNet) - Client Library for the Dropbox API
 - [gsscoder/commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
@@ -6532,7 +6532,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🤖 Python framework for Web UI testing. 📊 Fast • Easy • Reliable. ⚙️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ Python framework for Web UI testing. 📊 Fast • Powerful • Reliable.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -7795,6 +7795,7 @@
 
 ## TypeScript 
 
+- [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
 - [lucacasonato/fresh](https://github.com/lucacasonato/fresh) - The next-gen web framework.
