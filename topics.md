@@ -4735,7 +4735,7 @@
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
@@ -6083,7 +6083,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
 - [javascript-society/javascript-path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development :rocket:
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
@@ -7170,7 +7170,7 @@
 - [arimorty/floatingsearchview](https://github.com/arimorty/floatingsearchview) - A search view that implements a floating search bar also known as persistent search
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
 - [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material Design ProgressBar with consistent appearance
 - [IvBaranov/MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton) - Animated favorite/star/like button
 - [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) - Smooth version of Google Support Design AppBarLayout
@@ -10233,7 +10233,7 @@
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
 - [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild) - Xcode-compatible build tool.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing. Keep your app fast & reliable. Loved by developers & SREs.
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [estin/pomp-craigslist-example](https://github.com/estin/pomp-craigslist-example) - Extract data from Craigslist.org by python3 and pomp framework
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [PierreVincent/discovery-demo-color](https://github.com/PierreVincent/discovery-demo-color) - Service Discovery Demo using Smartstack
@@ -13271,7 +13271,7 @@
 - [joshwcomeau/panther](https://github.com/joshwcomeau/panther) - Discover artists through an infinite node graph
 - [vesparny/marky](https://github.com/vesparny/marky) - A markdown editor built with Electron and React
 - [barbar/vortigern](https://github.com/barbar/vortigern) - A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more.
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
 - [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
@@ -13318,7 +13318,7 @@
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
 - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
@@ -13460,7 +13460,7 @@
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [arjunkomath/Feline-for-Product-Hunt](https://github.com/arjunkomath/Feline-for-Product-Hunt) - A beautiful, unofficial app for Product Hunt
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
 - [mohebifar/react-native-loader](https://github.com/mohebifar/react-native-loader) - A collection of animated spinners for React Native
@@ -15166,7 +15166,7 @@
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
