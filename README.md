@@ -114,7 +114,7 @@
 - [hk029/leetbook](https://github.com/hk029/leetbook) - LeetCode题解开源书《LeetBook》
 - [Nader-Sl/Hackemon](https://github.com/Nader-Sl/Hackemon) - The Multi-Platform Pokemon-Go farming bot on a whole new human level
 - [ShamariFeaster/scut](https://github.com/ShamariFeaster/scut) - Window cmd shortcut/alias manager
-- [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - **Deprecated** eXo Platform Public Distributions
+- [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [duncansmart/less.js-windows](https://github.com/duncansmart/less.js-windows) - A way to run the LESS.js compiler in windows
 
 ## C 
@@ -134,7 +134,7 @@
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
 - [RedisLabsModules/redisml](https://github.com/RedisLabsModules/redisml) - Machine Learning Model Server
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator with ten microsecond searching performance. xdb engine implementation for many programming languages
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [ReversingID/Crackmes-Repository](https://github.com/ReversingID/Crackmes-Repository) - Initiative to collect and preserve crackmes for learning and practice in reverse engineering
@@ -1119,7 +1119,7 @@
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code backend and automation builder
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
@@ -3450,7 +3450,7 @@
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [denysdovhan/inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more!
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - :mailbox: Create, preview, and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, and much more! Made for @forwarde
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
@@ -3797,7 +3797,7 @@
 - [neelkadia-zz/WhereAreYou](https://github.com/neelkadia-zz/WhereAreYou) - Real time location tracker using Android App & Firebase with Mapbox
 - [manosim/gitify-mobile](https://github.com/manosim/gitify-mobile) - GitHub Notifications in your pocket.
 - [whitef0x0/node-email-verification](https://github.com/whitef0x0/node-email-verification) - ✔️ Send user verification emails with NodeJS and MongoDB
-- [uku/Unblock-Youku](https://github.com/uku/Unblock-Youku) - A Chrome extension helping users access their web services while travelling outside mainland China.
+- [uku/Unblock-Youku](https://github.com/uku/Unblock-Youku) - A Chrome extension helping users access their web services while traveling outside mainland China
 - [tj/react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [jprichardson/node-jsonfile](https://github.com/jprichardson/node-jsonfile) - Easily read/write JSON files.
@@ -7079,7 +7079,7 @@
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [jontsai/github-streak](https://github.com/jontsai/github-streak) - Artificially keep your GitHub streak going, and going, and going...
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for 🪝Fish.
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [grigio/docker-meteor](https://github.com/grigio/docker-meteor) - A small Docker image to run you Meteor apps without surprises
 - [testfairy/command-line-uploader](https://github.com/testfairy/command-line-uploader) - Upload builds to TestFairy via command line
@@ -7909,7 +7909,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-- [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui. https://vechaiui.vercel.app/
+- [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [milliHQ/terraform-aws-next-js](https://github.com/milliHQ/terraform-aws-next-js) - Terraform module for building and deploying Next.js apps to AWS. Supports SSR (Lambda), Static (S3) and API (Lambda) pages.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
