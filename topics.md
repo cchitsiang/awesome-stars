@@ -313,7 +313,7 @@
 - [hummatli/AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater) - :sunny::package::racehorse: An Android library to check new versions(update) of your Android applications on the PlayStore (free, open source, third party).
 - [skydoves/Pokedex](https://github.com/skydoves/Pokedex) - 🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
+- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [rgommezz/react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land :fire:
 - [igorwojda/android-showcase](https://github.com/igorwojda/android-showcase) - 💎 Android application following best practices:  Kotlin, Coroutines, JetPack, Clean Architecture, Feature Modules, Tests, MVVM, DI, Static Analysis...
 - [dwmkerr/app-icon](https://github.com/dwmkerr/app-icon) - Icon management for Mobile Apps. Create icons, generate all required sizes, label and annotate. Supports Native, Cordova, React Native, Xamarin and more. Inspired by cordova-icon.
@@ -1942,7 +1942,7 @@
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - GaiaX dynamic template engine is a lightweight cross-platform solution for pure native dynamic card.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [staticallyio/statically](https://github.com/staticallyio/statically) - The CDN for developers.
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp frontend
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and yt-dlp archival manager
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [aullah/quickmenu](https://github.com/aullah/quickmenu) - The new era of mobile navigation for the web, we're out of hamburgers.
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
@@ -2419,6 +2419,7 @@
 
 ## devops 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
@@ -2884,6 +2885,7 @@
 
 ## electron 
 
+- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app) - A tool to make interacting with Firestore less painful
@@ -3274,7 +3276,6 @@
 
 ## framework 
 
-- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -3402,7 +3403,7 @@
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Aggregated set of useful tools that every developer may need once in a while.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp frontend
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and yt-dlp archival manager
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -3957,7 +3958,7 @@
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp frontend
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and yt-dlp archival manager
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
@@ -6271,6 +6272,7 @@
 
 ## json 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [num30/config](https://github.com/num30/config) - Declarative configuration for Go
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
@@ -7407,7 +7409,7 @@
 
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOT
-- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
+- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -7460,6 +7462,7 @@
 - [donet5/SqlSugar](https://github.com/donet5/SqlSugar) - Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [flexxnn/sequelize-auto-migrations](https://github.com/flexxnn/sequelize-auto-migrations) - Migration generator && runner for sequelize
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql
@@ -8600,7 +8603,6 @@
 - [xShteff/Node-w-docker](https://github.com/xShteff/Node-w-docker) - 
 - [GovTechSG/iOneMySgMap](https://github.com/GovTechSG/iOneMySgMap) - A tile server to serve map tiles for Singapore based off the Singapore Metro Extract
 - [lucagez/tattica](https://github.com/lucagez/tattica) - Tactical and adaptive asset loading library
-- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [younatics/MotionBook](https://github.com/younatics/MotionBook) - 📖 Awesome iOS UI/UX Application (Open Source)
 - [wincent/git-cipher](https://github.com/wincent/git-cipher) - 🔐 Tools for storing encrypted content in Git
 - [dotnetcurry/csharpbook](https://github.com/dotnetcurry/csharpbook) - Source code for "The Absolutely Awesome Book on C# and .NET" available at www.dotnetcurry.com/csharpbook
@@ -9795,7 +9797,7 @@
 - [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) - 【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
 - [opentable/hobknob](https://github.com/opentable/hobknob) - Hobknob is a feature toggle front-end built on top of etcd. It allows users to create and modify feature toggles, which can then be accessed in your applications.
 - [Netflix/archaius](https://github.com/Netflix/archaius) - Library for configuration management API
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for 🪝Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [DmitryMalkovich/circular-with-floating-action-button](https://github.com/DmitryMalkovich/circular-with-floating-action-button) - Circular progress with fab integration (a circular loader is integrated with a floating action button, material progress circle and FloatingActionButton, fab with a progress indicator ring, android, m
 - [pinterest/secor](https://github.com/pinterest/secor) - Secor is a service implementing Kafka log persistence
 - [rocjs/roc](https://github.com/rocjs/roc) - 🐦 Modern JavaScript Development Ecosystem
@@ -10238,7 +10240,6 @@
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
 - [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild) - Xcode-compatible build tool.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [estin/pomp-craigslist-example](https://github.com/estin/pomp-craigslist-example) - Extract data from Craigslist.org by python3 and pomp framework
 - [programthink/zhao](https://github.com/programthink/zhao) - 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵
 - [PierreVincent/discovery-demo-color](https://github.com/PierreVincent/discovery-demo-color) - Service Discovery Demo using Smartstack
@@ -13517,7 +13518,7 @@
 - [fusion-hq/fusion](https://github.com/fusion-hq/fusion) - 🚀 Open-source alternative for Mixpanel - Amplitude - Hotjar - Fullstory✨
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [wsmd/use-clipboard-copy](https://github.com/wsmd/use-clipboard-copy) - 📋 Lightweight copy to clipboard hook for React
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted video-hosting website and yt-dlp frontend
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and yt-dlp archival manager
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -14105,6 +14106,7 @@
 - [nficano/python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 - [danilop/LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient sol
 - [opencomponents/oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
@@ -14275,6 +14277,7 @@
 
 ## statistics 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -14908,6 +14911,7 @@
 
 ## typescript 
 
+- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
