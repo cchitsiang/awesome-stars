@@ -1102,6 +1102,7 @@
 
 ## Go 
 
+- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
@@ -3167,7 +3168,6 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [Tencent/westore](https://github.com/Tencent/westore) - 更好的小程序项目架构
 - [Kishanjvaghela/react-native-cardview](https://github.com/Kishanjvaghela/react-native-cardview) - Native CardView for react-native (All Android version and iOS)
-- [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [VGJohn/totoro](https://github.com/VGJohn/totoro) - Node.js API Versioning Helper Module
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) - Configuration and documentation powering the React Native website.
 - [lukeed/fromnow](https://github.com/lukeed/fromnow) - A tiny (339B) utility for human-readable time differences between now and past or future dates.
@@ -3274,7 +3274,7 @@
 - [JKHeadley/rest-hapi](https://github.com/JKHeadley/rest-hapi) - 🚀 A RESTful API generator for Node.js
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
 - [pawelgrzybek/snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
-- [alidlorenzo/rogue.js](https://github.com/alidlorenzo/rogue.js) - The "nearly invisible" way to server-render React applications
+- [aleedmanath/rogue.js](https://github.com/aleedmanath/rogue.js) - The "nearly invisible" way to server-render React applications
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [joshwcomeau/guppy](https://github.com/joshwcomeau/guppy) - 🐠A friendly application manager and task runner for React.js
 - [ethjs/ethjs](https://github.com/ethjs/ethjs) - A highly optimised, light-weight JS utility for Ethereum.
@@ -6553,7 +6553,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Better web testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐍 Python framework for Web UI testing. 🤖 ⚡ Fast • Easy • Reliable. Extends Selenium and pytest.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -8229,6 +8229,7 @@
 - [forsigner/stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
+- [apify/crawlee](https://github.com/apify/crawlee) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [seanpmaxwell/overnight](https://github.com/seanpmaxwell/overnight) - TypeScript decorators for the ExpressJS Server.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
@@ -8274,7 +8275,7 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [zzarcon/react-video-renderer](https://github.com/zzarcon/react-video-renderer) - Build custom video players effortless
 - [Atyantik/pawjs](https://github.com/Atyantik/pawjs) - A highly scalable & plugable, Progressive Web Application Framework with the best Developer Experience. This framework utilizes the power of React with Webpack and is build on top of webpack/tapable f
-- [alidlorenzo/druid.js](https://github.com/alidlorenzo/druid.js) - The "shapeshifting" API framework for Node.js+Graphql applications
+- [aleedmanath/druid.js](https://github.com/aleedmanath/druid.js) - The "shapeshifting" API framework for Node.js+Graphql applications
 - [Cloud-Player/web](https://github.com/Cloud-Player/web) - Angular6 music player to search and play YouTube, SoundCloud and Mixcloud tracks
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [grand-stack/grand-stack-starter](https://github.com/grand-stack/grand-stack-starter) - Simple starter project for GRANDstack full stack apps
