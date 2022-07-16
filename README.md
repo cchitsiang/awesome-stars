@@ -115,7 +115,6 @@
 - [hk029/leetbook](https://github.com/hk029/leetbook) - LeetCode题解开源书《LeetBook》
 - [Nader-Sl/Hackemon](https://github.com/Nader-Sl/Hackemon) - The Multi-Platform Pokemon-Go farming bot on a whole new human level
 - [ShamariFeaster/scut](https://github.com/ShamariFeaster/scut) - Window cmd shortcut/alias manager
-- [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [duncansmart/less.js-windows](https://github.com/duncansmart/less.js-windows) - A way to run the LESS.js compiler in windows
 
 ## C 
@@ -136,7 +135,6 @@
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
 - [RedisLabsModules/redisml](https://github.com/RedisLabsModules/redisml) - Machine Learning Model Server
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [ReversingID/Crackmes-Repository](https://github.com/ReversingID/Crackmes-Repository) - Initiative to collect and preserve crackmes for learning and practice in reverse engineering
@@ -298,6 +296,7 @@
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [aspnet/Benchmarks](https://github.com/aspnet/Benchmarks) - Benchmarks for ASP.NET Core
+- [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
 - [SenseNet/sensenet](https://github.com/SenseNet/sensenet) - Open Source Content Services Platform written in .NET
 - [Elders/Cronus](https://github.com/Elders/Cronus) - Cronus is a lightweight framework for building event driven systems with DDD/CQRS in mind
 - [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
@@ -1080,7 +1079,7 @@
 
 ## Erlang 
 
-- [emqx/emqx](https://github.com/emqx/emqx) - An open-source, cloud-native distributed MQTT broker for IoT.
+- [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT
 - [ninenines/cowboy](https://github.com/ninenines/cowboy) - Small, fast, modern HTTP server for Erlang/OTP.
 - [biokoda/actordb](https://github.com/biokoda/actordb) - ActorDB distributed SQL database
 - [fbeline/rooster](https://github.com/fbeline/rooster) - Erlang REST framework
@@ -1158,7 +1157,7 @@
 - [shipt/plinko](https://github.com/shipt/plinko) - Plinko State Machine
 - [bytedance/gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and yt-dlp archival manager
@@ -2194,6 +2193,7 @@
 - [shehuan/CombineBitmap](https://github.com/shehuan/CombineBitmap) - Android 仿钉钉、微信 群聊组合头像
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [PrototypeZ/SaveState](https://github.com/PrototypeZ/SaveState) - :icecream: Generate 'onSaveInstanceState' and 'onRestoreInstanceState' methods for your application automatically
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [xuuhaoo/OkSocket](https://github.com/xuuhaoo/OkSocket) - An blocking socket client for Android applications.
 - [klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android) - The most powerful and beautiful Twitter client available.
@@ -2857,6 +2857,7 @@
 - [robo-code/robocode](https://github.com/robo-code/robocode) - Build the best - destroy the rest!
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank
+- [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [stevendreamer/openerp_mobile](https://github.com/stevendreamer/openerp_mobile) - 这是 OpenERP 的 android 手机 app. 该项目计划构建一个android本地app，在手机上面完成OpenERP的ERP主要模块的简单查询操作，希望能够对OpenERP在国内的推广有所帮助。
 - [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [xamarin/XobotOS](https://github.com/xamarin/XobotOS) - XobotOS - Android ported to C#
@@ -3463,7 +3464,6 @@
 - [bukinoshita/taskr](https://github.com/bukinoshita/taskr) - A simple task manager app
 - [Gigacore/React-Redux-Sass-Starter](https://github.com/Gigacore/React-Redux-Sass-Starter) - Everything you need to get started with a basic React application
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-- [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
 - [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
@@ -6319,6 +6319,7 @@
 
 ## Python 
 
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
@@ -6553,7 +6554,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 🐍 Python framework for Web UI testing. 🤖 ⚡ Fast • Easy • Reliable. Extends Selenium and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -6935,6 +6936,7 @@
 
 ## Rust 
 
+- [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - GaiaX dynamic template engine is a lightweight cross-platform solution for pure native dynamic card.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -8229,7 +8231,7 @@
 - [forsigner/stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
-- [apify/crawlee](https://github.com/apify/crawlee) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [seanpmaxwell/overnight](https://github.com/seanpmaxwell/overnight) - TypeScript decorators for the ExpressJS Server.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
