@@ -1186,7 +1186,7 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your web app testing with Selenium, Python, and pytest.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1588,7 +1588,7 @@
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your web app testing with Selenium, Python, and pytest.
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -1919,9 +1919,10 @@
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [piggyvault/piggyvault](https://github.com/piggyvault/piggyvault) - Family finance management app.
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
+- [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 6 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 6 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:
 - [SRoddis/Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) - On-the-fly migrations with MongoDB C# Driver
@@ -2226,7 +2227,7 @@
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern Elasticity and Performance cloud data warehouse, activate your object storage for real-time analytics.  Cloud at https://app.databend.com/
@@ -2337,7 +2338,7 @@
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [naiveHobo/InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is an easy to program, scale, and deploy deep learning framework that accelerates the innovation of next-generation AI.
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
@@ -2545,6 +2546,7 @@
 
 ## discord 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -2854,6 +2856,7 @@
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
 - [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+- [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [dotnetcore/SmartCode](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; Build Everything!!!
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
 - [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 6 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 6 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:
@@ -2933,6 +2936,7 @@
 
 ## electron 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - Next version of massCode. A free and open source code snippets manager for developers
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
@@ -3242,7 +3246,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your web app testing with Selenium, Python, and pytest.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -3718,7 +3722,7 @@
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
@@ -4013,7 +4017,7 @@
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and yt-dlp archival manager
@@ -4358,6 +4362,7 @@
 - [Urigo/graphql-modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
 - [rohinivsenthil/postcode](https://github.com/rohinivsenthil/postcode) - Visual Studio Code extension to create and test simple and complex HTTP/s requests
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 - [nksaraf/magiql](https://github.com/nksaraf/magiql) - 🌐 💫 Simple and powerful GraphQL Client, love child of react-query ❤️ relay
@@ -4573,7 +4578,6 @@
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-- [thegooddocsproject/templates](https://github.com/thegooddocsproject/templates) - Templates created by The Good Docs Project - for all your tech writing needs.
 - [bow-swift/nef](https://github.com/bow-swift/nef) - 💊 steroids for Xcode Playgrounds
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
@@ -5509,7 +5513,7 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -5687,7 +5691,7 @@
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
@@ -6824,6 +6828,7 @@
 
 ## linux 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - Next version of massCode. A free and open source code snippets manager for developers
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -6951,7 +6956,7 @@
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is an easy to program, scale, and deploy deep learning framework that accelerates the innovation of next-generation AI.
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -7038,6 +7043,7 @@
 
 ## macos 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - Next version of massCode. A free and open source code snippets manager for developers
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -7598,7 +7604,7 @@
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
-- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a performance-centered and open-source deep learning framework.
+- [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is an easy to program, scale, and deploy deep learning framework that accelerates the innovation of next-generation AI.
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
@@ -7668,7 +7674,7 @@
 
 ## node 
 
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
 - [Tony133/nestjs-api-boilerplate-jwt](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS 9.x + TypeORM and Passport Auth JWT 😻
 - [Aslemammad/vitext](https://github.com/Aslemammad/vitext) - The Next.js like React framework for better User & Developer experience!
@@ -8317,7 +8323,7 @@
 - [prisma/lens](https://github.com/prisma/lens) - 🔬 Prisma design system
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [vedantroy/typecheck.macro](https://github.com/vedantroy/typecheck.macro) - A easy (and fast) typescript validation library/macro. Automatically generate validation functions for Typescript types.
-- [squareboat/nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready  🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJs v8
+- [squareboat/nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready  🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V9!!
 - [irbigdata/data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - a curated list of docker-compose files prepared for testing  data engineering tools, databases and open source libraries.
 - [skyhookadventure/eventfan](https://github.com/skyhookadventure/eventfan) - Setup analytics destinations (e.g. Google Analytics, Facebook Pixel) in a really simple way on React/node
 - [mobilecoinfoundation/mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) - Private payments for mobile devices.
@@ -8478,6 +8484,7 @@
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [egoist/docup](https://github.com/egoist/docup) - The easiest way to write beautiful docs.
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [thegooddocsproject/templates](https://github.com/thegooddocsproject/templates) - Templates created by The Good Docs Project - for all your tech writing needs.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [Open-Federation/json-schema-editor-visual](https://github.com/Open-Federation/json-schema-editor-visual) - A json-schema editor of high efficient and easy-to-use, base on React.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
@@ -12817,7 +12824,7 @@
 - [graphql-python/graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your web app testing with Selenium, Python, and pytest.
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -13008,7 +13015,7 @@
 ## react 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [Permify/react-role](https://github.com/Permify/react-role) - Lightweight role based access management solution for React applications
 - [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
@@ -14244,6 +14251,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## sketch 
 
@@ -14771,6 +14779,7 @@
 
 ## telegram 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [relatedcode/Messenger](https://github.com/relatedcode/Messenger) - Open source, native iOS Messenger, with realtime chat conversations (full offline support).
 - [rhardih/pong](https://github.com/rhardih/pong) - Basic uptime monitoring system, with email alerts and/or push notifications
@@ -14957,7 +14966,7 @@
 - [alexmx/ios-ui-automation-overview](https://github.com/alexmx/ios-ui-automation-overview) - An overview of popular iOS UI testing solutions.
 - [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your Web UI testing with Selenium, Python, and pytest.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Scale your web app testing with Selenium, Python, and pytest.
 - [victorb/autochecker](https://github.com/victorb/autochecker) - ♻️ Test your libraries in many different versions of NodeJS, Ruby, Java and many other languages
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
@@ -14986,6 +14995,7 @@
 
 ## twitter 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [JayZang/twitter-clone](https://github.com/JayZang/twitter-clone) - Twitter clone.   The target is learning Vue framework and technique of backend to implement a SPA website.
@@ -15009,7 +15019,7 @@
 ## typescript 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
@@ -15684,6 +15694,7 @@
 
 ## windows 
 
+- [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - Next version of massCode. A free and open source code snippets manager for developers
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -15740,6 +15751,7 @@
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
