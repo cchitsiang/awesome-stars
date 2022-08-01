@@ -47,7 +47,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mathematica](#mathematica)
 - [Mercury](#mercury)
 - [Mustache](#mustache)
 - [OCaml](#ocaml)
@@ -1102,6 +1101,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -5118,10 +5118,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [apple/swift-evolution](https://github.com/apple/swift-evolution) - This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
-## Mathematica 
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## Mercury 
 
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
@@ -5567,7 +5563,7 @@
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads.
-- [nepaul/awesome-flutter](https://github.com/nepaul/awesome-flutter) - A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!
+- [nepaul/awesome-flutter](https://github.com/nepaul/awesome-flutter) - 💗 A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
@@ -6639,6 +6635,7 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [kamy22/py-serializable](https://github.com/kamy22/py-serializable) - Python serializer class (can be extended by other classes).
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [kennethreitz/records](https://github.com/kennethreitz/records) - SQL for Humans™
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
