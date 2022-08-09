@@ -762,7 +762,7 @@
 - [googlecreativelab/paper-signals](https://github.com/googlecreativelab/paper-signals) - Build your own voice controlled object.
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
-- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services. "brpc" means "better RPC".
+- [apache/incubator-brpc](https://github.com/apache/incubator-brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
