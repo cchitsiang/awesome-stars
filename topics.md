@@ -6009,7 +6009,7 @@
 - [winterbe/sequency](https://github.com/winterbe/sequency) - ⚡️ Type-safe functional sequences for processing iterable data
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [pixielabs/cavy](https://github.com/pixielabs/cavy) - An integration test framework for React Native.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Discontinued] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
@@ -8303,6 +8303,7 @@
 
 ## others 
 
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -13323,7 +13324,7 @@
 - [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [pixielabs/cavy](https://github.com/pixielabs/cavy) - An integration test framework for React Native.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Discontinued] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [alex3165/react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js
