@@ -6992,7 +6992,7 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [callmecavs/outset](https://github.com/callmecavs/outset) - A minimal frontend boilerplate, emphasizing workflow.
 - [Reedyn/Saga](https://github.com/Reedyn/Saga) - A Ghost theme designed for photostories :sunrise_over_mountains:
-- [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class
+- [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
 - [parse-community/docs](https://github.com/parse-community/docs) - Parse Platform docs
