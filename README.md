@@ -166,6 +166,7 @@
 - [hashcat/hashcat-legacy](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [btrask/stronglink](https://github.com/btrask/stronglink) - A searchable, syncable, content-addressable notetaking system
+- [mysql-inception/inception](https://github.com/mysql-inception/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [jerryscript-project/iotjs](https://github.com/jerryscript-project/iotjs) - Platform for Internet of Things with JavaScript http://www.iotjs.net
 - [HunterHillegas/iOS-BetaBuilder](https://github.com/HunterHillegas/iOS-BetaBuilder) - MacOS X tool designed to simplify creating and distributing beta releases of iOS apps.
@@ -1586,7 +1587,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [olivere/elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
+- [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
 - [nytimes/gziphandler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
@@ -6019,7 +6020,6 @@
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking) - A curated list of awesome networking libraries, resources and shiny things
-- [mysql-inception/inception](https://github.com/mysql-inception/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
 - [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [KevinHM/ios-good-practices-the-lastest-version](https://github.com/KevinHM/ios-good-practices-the-lastest-version) - iOS 开发最佳实践：OC 与 Swift 最佳实践
 - [ameizi/awesome-ios-animation](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries
@@ -7205,7 +7205,7 @@
 ## Swift 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀HTTP Web API client & Stubber/Mocker built with async/await for Swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Async/Await HTTP Client made for Swift 5+. It also includes a powerful stubber to mock request/response and simulate network conditions.
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
