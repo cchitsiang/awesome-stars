@@ -8855,7 +8855,6 @@
 - [dgiagio/warp](https://github.com/dgiagio/warp) - Create self-contained single binary applications
 - [istio/community](https://github.com/istio/community) - Istio governance material.
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
-- [wazing/Gank](https://github.com/wazing/Gank) - The project example includes implementations using LiveData, ViewModel, Retrofit, Rxjava, Dagger2  https://gank.io/
 - [boyney123/garie](https://github.com/boyney123/garie) - Open source web performance
 - [joonhocho/batchloader](https://github.com/joonhocho/batchloader) - BatchLoader is a utility for data fetching layer to reduce requests via batching written in TypeScript. Inspired by Facebook's DataLoader. Works great with GraphQL, MongoDB, Mongoose, etc.
 - [microsoft/Snip-Insights](https://github.com/microsoft/Snip-Insights) - Snip Insights, a Microsoft Garage project
