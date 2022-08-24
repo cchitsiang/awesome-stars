@@ -166,7 +166,7 @@
 - [hashcat/hashcat-legacy](https://github.com/hashcat/hashcat-legacy) - Advanced CPU-based password recovery utility
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [btrask/stronglink](https://github.com/btrask/stronglink) - A searchable, syncable, content-addressable notetaking system
-- [mysql-inception/inception](https://github.com/mysql-inception/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
+- [arkdb/inception](https://github.com/arkdb/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
 - [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher
 - [jerryscript-project/iotjs](https://github.com/jerryscript-project/iotjs) - Platform for Internet of Things with JavaScript http://www.iotjs.net
 - [HunterHillegas/iOS-BetaBuilder](https://github.com/HunterHillegas/iOS-BetaBuilder) - MacOS X tool designed to simplify creating and distributing beta releases of iOS apps.
@@ -2411,7 +2411,6 @@
 - [aurelhubert/ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation) - A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.
 - [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
 - [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - [DEPRECATED] a Contact list implements by RecyclerView
-- [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports 
 - [BeatBuddy/beatbuddy_android](https://github.com/BeatBuddy/beatbuddy_android) - 
 - [wsieroci/audio-recognizer](https://github.com/wsieroci/audio-recognizer) - Shazam in Java
 - [salesforce/Argus](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
@@ -3065,7 +3064,7 @@
 - [lavas-project/lavas](https://github.com/lavas-project/lavas) - 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题
 - [storeon/storeon](https://github.com/storeon/storeon) - 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
@@ -3643,7 +3642,7 @@
 - [softvar/secure-ls](https://github.com/softvar/secure-ls) - :lock: Secure localStorage data with high level of encryption and data compression
 - [mastermoo/rn-wunderlist](https://github.com/mastermoo/rn-wunderlist) - Wunderlist Clone written in React Native
 - [endrift/gbajs](https://github.com/endrift/gbajs) - Game Boy Advance in the Browser
-- [huanxsd/MeiTuan](https://github.com/huanxsd/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
+- [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
 - [graphql-boilerplates/react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) - Starter projects for fullstack applications based on React & GraphQL.
 - [EQuimper/nodejs-api-boilerplate](https://github.com/EQuimper/nodejs-api-boilerplate) - A boilerplate for kickstart your nodejs api project with JWT Auth and some new Techs :)
 - [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql) - Serverless GraphQL Examples for AWS AppSync and Apollo
@@ -3897,7 +3896,6 @@
 - [MoonMail/MoonMail](https://github.com/MoonMail/MoonMail) - Email marketing platform for bulk emailing via Amazon SES (Google Cloud Platform and Azure coming soon)
 - [opentable/hobknob](https://github.com/opentable/hobknob) - Hobknob is a feature toggle front-end built on top of etcd. It allows users to create and modify feature toggles, which can then be accessed in your applications.
 - [rocjs/roc](https://github.com/rocjs/roc) - 🐦 Modern JavaScript Development Ecosystem
-- [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
 - [assaf/node-replay](https://github.com/assaf/node-replay) - When API testing slows you down: record and replay HTTP responses like a boss
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [haoliu119/PreLinked](https://github.com/haoliu119/PreLinked) - 
@@ -7203,7 +7201,7 @@
 ## Swift 
 
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Async/Await HTTP Client made for Swift 5+. It also includes a powerful stubber to mock request/response and simulate network conditions.
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
@@ -7821,9 +7819,11 @@
 
 ## TypeScript 
 
+- [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
+- [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
@@ -7921,7 +7921,7 @@
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schema from your Typescript sources
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming SSR React Framework in Deno
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Next-gen browser/server fluid React framework
 - [AbhinavRajesh/Chatbotish](https://github.com/AbhinavRajesh/Chatbotish) - Chatbotish: Adding Feedback, FAQ, Bug report, Feature request to your website made easy.
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [Urigo/graphql-modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
@@ -8237,7 +8237,7 @@
 - [forsigner/stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [seanpmaxwell/overnight](https://github.com/seanpmaxwell/overnight) - TypeScript decorators for the ExpressJS Server.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
@@ -8285,6 +8285,7 @@
 - [Atyantik/pawjs](https://github.com/Atyantik/pawjs) - A highly scalable & plugable, Progressive Web Application Framework with the best Developer Experience. This framework utilizes the power of React with Webpack and is build on top of webpack/tapable f
 - [aleedmanath/druid.js](https://github.com/aleedmanath/druid.js) - The "shapeshifting" API framework for Node.js+Graphql applications
 - [Cloud-Player/web](https://github.com/Cloud-Player/web) - Angular6 music player to search and play YouTube, SoundCloud and Mixcloud tracks
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [grand-stack/grand-stack-starter](https://github.com/grand-stack/grand-stack-starter) - Simple starter project for GRANDstack full stack apps
 - [thomasdondorf/puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Puppeteer Pool, run a cluster of instances in parallel
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
@@ -8497,6 +8498,7 @@
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [mgcrea/redux-rest-resource](https://github.com/mgcrea/redux-rest-resource) - Seamless REST interaction for Redux
 - [dcos/dcos-ui](https://github.com/dcos/dcos-ui) - The UI for The Datacenter Operating System
+- [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [giacomocerquone/angular4-mean-starter](https://github.com/giacomocerquone/angular4-mean-starter) - A very neat and simple starter kit for an angular2/4/5 MEAN app.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
@@ -8642,7 +8644,6 @@
 - [MyEtherWallet/MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet) - MyEtherWallet (our friends call us MEW) is a free, client-side interface helping you interact with the Ethereum blockchain.
 - [sunzongzheng/music](https://github.com/sunzongzheng/music) - electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单
 - [sihaelov/moceen](https://github.com/sihaelov/moceen) - Create beautiful screenshots with device mockups
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
