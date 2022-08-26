@@ -350,7 +350,7 @@
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [didi/chameleon](https://github.com/didi/chameleon) - 🦎 一套代码运行多端，一端所见即多端所见
 - [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
-- [eventtus/photo-editor-android](https://github.com/eventtus/photo-editor-android) - Photo Editor SDK contains a lot of features like edit, scale, rotate and draw on images like Instagram stories.
+- [bevy/photo-editor-android](https://github.com/bevy/photo-editor-android) - Photo Editor SDK contains a lot of features like edit, scale, rotate and draw on images like Instagram stories.
 - [Tencent/matrix](https://github.com/Tencent/matrix) - Matrix is a plugin style, non-invasive APM system developed by WeChat.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -524,7 +524,7 @@
 - [jiang111/awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - some code tips for android 💯
 - [alibaba/macaca](https://github.com/alibaba/macaca) - Automation solution for multi-platform. 多端自动化解决方案
 - [laobie/NineGridImageView](https://github.com/laobie/NineGridImageView) - A custom widget for Android, which used for showing grid pictures.
-- [Hitomis/FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - 好玩的下拉刷新控件，让我们一起来回味童年
+- [Hitomis/FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - [暂停维护]好玩的下拉刷新控件，让我们一起来回味童年
 - [lincanbin/Android-Carbon-Forum](https://github.com/lincanbin/Android-Carbon-Forum) - Android Client for Carbon Forum with Material Design.
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -2944,6 +2944,7 @@
 - [machine/machine.specifications](https://github.com/machine/machine.specifications) - Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.
 - [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
 - [lukencode/FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
+- [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 - [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 
@@ -5093,7 +5094,7 @@
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 - [eashish93/imgsquash](https://github.com/eashish93/imgsquash) - Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.
 - [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) - A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
-- [eventtus/photo-editor-android](https://github.com/eventtus/photo-editor-android) - Photo Editor SDK contains a lot of features like edit, scale, rotate and draw on images like Instagram stories.
+- [bevy/photo-editor-android](https://github.com/bevy/photo-editor-android) - Photo Editor SDK contains a lot of features like edit, scale, rotate and draw on images like Instagram stories.
 - [hardikvasa/google-images-download](https://github.com/hardikvasa/google-images-download) - Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!
 - [zavolokas/Inpainting](https://github.com/zavolokas/Inpainting) - Want to remove something(someone) from a photo as it never was there? This is .NET implementation of content-aware fill. It smartly fills in unwanted or missing areas of photographs.
 - [TinyCrayon/TinyCrayon-iOS-SDK](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps.
@@ -5182,7 +5183,7 @@
 - [IdeasOnCanvas/Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
-- [eventtus/photo-editor](https://github.com/eventtus/photo-editor) - Photo editor with a lot of cool features
+- [bevy/photo-editor](https://github.com/bevy/photo-editor) - Photo editor with a lot of cool features
 - [redbooth/SimplePagedView](https://github.com/redbooth/SimplePagedView) - A UIPageViewController replacement built to be as simple as possible
 - [Ramotion/gliding-collection](https://github.com/Ramotion/gliding-collection) - :octocat: Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller. iOS library made by @Ramotion
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -8318,6 +8319,7 @@
 
 ## others 
 
+- [slicknode/stylemapper](https://github.com/slicknode/stylemapper) - Flexible utility to create styled and type-safe React components
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
@@ -12369,7 +12371,6 @@
 - [TaoK/PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's
 - [nikhilk/scriptsharp](https://github.com/nikhilk/scriptsharp) - Script# Project - a C# to JavaScript compiler, to power your HTML5 and Node.js web development.
 - [matthewaprice/Javascript-Countdown-Timer](https://github.com/matthewaprice/Javascript-Countdown-Timer) - simple javascript countdown timer
-- [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [duncansmart/less.js-windows](https://github.com/duncansmart/less.js-windows) - A way to run the LESS.js compiler in windows
 - [latish/VisualStudioExtensionSync](https://github.com/latish/VisualStudioExtensionSync) - Allows you to synchronize Visual Studio extensions between multiple instances.
 - [ocombe/jQuery-keepAlive](https://github.com/ocombe/jQuery-keepAlive) - A jQuery plugin to keep a php session alive
@@ -14518,7 +14519,7 @@
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [marcosgriselli/SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
 - [Yalantis/PixPic](https://github.com/Yalantis/PixPic) - PixPic, a Photo Editing App
-- [eventtus/photo-editor](https://github.com/eventtus/photo-editor) - Photo editor with a lot of cool features
+- [bevy/photo-editor](https://github.com/bevy/photo-editor) - Photo editor with a lot of cool features
 - [huri000/SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.
 - [radianttap/Coordinator](https://github.com/radianttap/Coordinator) - Implementation of Coordinators app design pattern.
 - [redbooth/SimplePagedView](https://github.com/redbooth/SimplePagedView) - A UIPageViewController replacement built to be as simple as possible
