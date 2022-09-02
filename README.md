@@ -4740,7 +4740,6 @@
 - [loowid/loowid-chrome-extension](https://github.com/loowid/loowid-chrome-extension) - A chrome extension to access to Chrome desktop capture and let navigator send the stream in loowid platform
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [jbillmann/GarageServer.IO](https://github.com/jbillmann/GarageServer.IO) - A simple, lightweight, HTML multiplayer game server (and client) for Node.js
-- [pubnub/tweet-emotion](https://github.com/pubnub/tweet-emotion) - PubNub ❤ Twitter Project - "How is America feeling right now?"
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [amazeui/amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [marcells/node-build-monitor](https://github.com/marcells/node-build-monitor) - A Build Monitor written in Node.js, which supports several build services and can be easily extended.
@@ -6522,7 +6521,7 @@
 - [uber/Python-Sample-Application](https://github.com/uber/Python-Sample-Application) - 
 - [SlapBot/stephanie-va](https://github.com/SlapBot/stephanie-va) - Stephanie is an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks imitating much of an virtual assistant's work.
 - [eskerda/pybikes](https://github.com/eskerda/pybikes) - bike sharing + python = pybikes
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
 - [gitpitch/gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators.
@@ -7008,7 +7007,7 @@
 - [ing-bank/baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
-- [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
+- [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [cloudframeworks-smack/user-guide-smack](https://github.com/cloudframeworks-smack/user-guide-smack) - [Cloudframeworks]SMACK Big Data Architecture - user guide ／ [云框架]SMACK大数据架构-用户指南
 - [getnelson/nelson](https://github.com/getnelson/nelson) - Automated, multi-region container deployment
@@ -8495,7 +8494,7 @@
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [xcarpentier/react-native-country-picker-modal](https://github.com/xcarpentier/react-native-country-picker-modal) - 🇦🇶 Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
 - [rill-js/rill](https://github.com/rill-js/rill) - 🗺 Universal router for web applications.
-- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's cutting edge React Native project boilerplate, along with a CLI, component/model generators, and more!
+- [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [AndrewBarba/apns2](https://github.com/AndrewBarba/apns2) - Node client for connecting to Apple's Push Notification Service using the new HTTP/2 protocol with JSON web tokens
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
