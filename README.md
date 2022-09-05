@@ -3927,7 +3927,6 @@
 - [nnupoor-zz/js_designpatterns](https://github.com/nnupoor-zz/js_designpatterns) - 
 - [mohebifar/react-native-loader](https://github.com/mohebifar/react-native-loader) - A collection of animated spinners for React Native
 - [littlstar/web-lager](https://github.com/littlstar/web-lager) - [DEPRECATED] Flexible logger with Express access logging and S3 integration
-- [giacomorebonato/rn-firebase-basic-authentication](https://github.com/giacomorebonato/rn-firebase-basic-authentication) - React-Native Firebase Basic authentication app
 - [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
 - [christinecha/gridfolio](https://github.com/christinecha/gridfolio) - A library to generate simple, stylish, responsive, and easily customizable grid-based portfolios.
 - [taion/rrtr](https://github.com/taion/rrtr) - [Deprecated] A complete routing solution for React.js
@@ -6947,7 +6946,7 @@
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [RisingWaveLabs/risingwave](https://github.com/RisingWaveLabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, letting you run local code in cloud conditions.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
