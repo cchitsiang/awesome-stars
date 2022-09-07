@@ -4033,7 +4033,7 @@
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool that supports distributed tracing, metrics, and logs.
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool with support for distributed tracing, metrics, and logs
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
@@ -4902,7 +4902,6 @@
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [yiisoft/yii](https://github.com/yiisoft/yii) - Yii PHP Framework 1.1.x
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
 - [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - Silverstripe CMS - this is a module for Silverstripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
@@ -7473,7 +7472,7 @@
 ## monitoring 
 
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool that supports distributed tracing, metrics, and logs.
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool with support for distributed tracing, metrics, and logs
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
