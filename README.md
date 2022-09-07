@@ -1141,7 +1141,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool that supports distributed tracing, metrics, and logs.
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool with support for distributed tracing, metrics, and logs
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
 - [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
