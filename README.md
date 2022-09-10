@@ -11,6 +11,7 @@
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
+- [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -119,6 +120,10 @@
 - [Nader-Sl/Hackemon](https://github.com/Nader-Sl/Hackemon) - The Multi-Platform Pokemon-Go farming bot on a whole new human level
 - [ShamariFeaster/scut](https://github.com/ShamariFeaster/scut) - Window cmd shortcut/alias manager
 - [duncansmart/less.js-windows](https://github.com/duncansmart/less.js-windows) - A way to run the LESS.js compiler in windows
+
+## Bicep 
+
+- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## C 
 
@@ -749,7 +754,7 @@
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.7.45161, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.7.45338, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1840,7 +1845,7 @@
 - [yhat/scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
 - [go-bootstrap/go-bootstrap](https://github.com/go-bootstrap/go-bootstrap) - Generates a lean and mean Go web project.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [kabukky/journey](https://github.com/kabukky/journey) - A blog engine written in Go, compatible with Ghost themes.
 - [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [outbrain/orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology manager/visualizer
@@ -3832,7 +3837,7 @@
 - [grafie/acceptum](https://github.com/grafie/acceptum) - Quickly organize your recipts / web research, or anything you browse!
 - [rojer/a-s-minus](https://github.com/rojer/a-s-minus) - Awesome Screenshot Minus
 - [JoelOtter/kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
-- [highrisehq/lufo](https://github.com/highrisehq/lufo) - Tracks the most recent options chosen on a `&lt;select&gt;` element and displays them at the top of the list
+- [basecamp/lufo](https://github.com/basecamp/lufo) - Tracks the most recent options chosen on a `&lt;select&gt;` element and displays them at the top of the list
 - [allcount/allcountjs](https://github.com/allcount/allcountjs) - Rapid application development framework for Node.js
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [joulehq/joule-node-response](https://github.com/joulehq/joule-node-response) - 
@@ -4031,7 +4036,7 @@
 - [FinFisher/FinFly-Web](https://github.com/FinFisher/FinFly-Web) - 
 - [jquery-archive/jquery-mobile](https://github.com/jquery-archive/jquery-mobile) - jQuery Mobile Framework
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [highrisehq/snapback_cache](https://github.com/highrisehq/snapback_cache) - A client side page cache for jquery.
+- [basecamp/snapback_cache](https://github.com/basecamp/snapback_cache) - A client side page cache for jquery.
 - [opencomponents/oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery
 - [jamhall/s3rver](https://github.com/jamhall/s3rver) - A fake S3 server written in NodeJs
 - [matteobrusa/Tumbless](https://github.com/matteobrusa/Tumbless) - A blogging platform based only on Amazon S3 (and your browser)
@@ -6323,6 +6328,7 @@
 
 ## Python 
 
+- [ServiceNow/azimuth](https://github.com/ServiceNow/azimuth) - Helping AI practitioners better understand their datasets and models in text classification. From ServiceNow.
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
@@ -6381,7 +6387,7 @@
 - [azat-co/you-dont-know-node](https://github.com/azat-co/you-dont-know-node) - You Don't Know Node.js
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) - NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [thenetcircle/dino](https://github.com/thenetcircle/dino) - Distributed notifications using websockets
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
@@ -7161,7 +7167,6 @@
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sveinungkb/ios-ota-buddy](https://github.com/sveinungkb/ios-ota-buddy) - Command line tool to aid in distributin iOS appliactions OTA using the ITMS-protocol (supported by iOS4 and later).
-- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [meteorhacks/meteord](https://github.com/meteorhacks/meteord) - MeteorD - Docker Runtime for Meteor Apps for Production Deployments
@@ -7977,7 +7982,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [formstjs/formst](https://github.com/formstjs/formst) - Model-driven Form library for React
 - [nksaraf/magiql](https://github.com/nksaraf/magiql) - 🌐 💫 Simple and powerful GraphQL Client, love child of react-query ❤️ relay
 - [estevanmaito/windmill-react-ui](https://github.com/estevanmaito/windmill-react-ui) - 🧩 The component library for fast and accessible development of gorgeous interfaces.
@@ -8152,7 +8157,7 @@
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop Visual CMS for React, Vue, Angular, and more
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [opticdev/optic](https://github.com/opticdev/optic) - Track and review API changes as a team
+- [opticdev/optic](https://github.com/opticdev/optic) - Generate, Diff, and Test OpenAPI Descriptions. An open source toolkit for working API-first.
 - [NativeScript/nativescript-dev-appium](https://github.com/NativeScript/nativescript-dev-appium) - A package to help with writing and executing e2e Appium tests in NativeScript apps
 - [oslabs-beta/seeql](https://github.com/oslabs-beta/seeql) - see your database in a new way
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
