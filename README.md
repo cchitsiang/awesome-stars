@@ -1115,7 +1115,7 @@
 
 ## Go 
 
-- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - A powerful messaging platform for modern developers
+- [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Real-Time Data Processing Platform
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
@@ -5706,7 +5706,7 @@
 - [semlinker/awesome-typescript](https://github.com/semlinker/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [dotnet-presentations/dotnetconf2018](https://github.com/dotnet-presentations/dotnetconf2018) - Creative and technical content for running a .NET Conf 2018 local event in your community
-- [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [nikolas/github-drama](https://github.com/nikolas/github-drama) - "locked and limited conversation to collaborators"
 - [charity/tech-leads-skill-share](https://github.com/charity/tech-leads-skill-share) - Growing up tech leads: notes on running a skill share for your peers.
 - [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
@@ -6225,7 +6225,7 @@
 - [kasperisager/php-dockerized](https://github.com/kasperisager/php-dockerized) - Dockerized PHP development stack: Nginx, MySQL, MongoDB, PHP-FPM, HHVM, Memcached, Redis, Elasticsearch and RabbitMQ
 - [unicodeveloper/laravel-hackathon-starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - :computer: :octocat: A hackathon/MVP boilerplate for laravel web applications. Start your hackathons without hassle.
 - [hirak/prestissimo](https://github.com/hirak/prestissimo) - composer parallel install plugin
-- [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
+- [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
