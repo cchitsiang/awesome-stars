@@ -259,6 +259,7 @@
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
@@ -752,7 +753,7 @@
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, letting you run local code in cloud conditions.
 - [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
@@ -1522,6 +1523,7 @@
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [salemove/github-review-helper](https://github.com/salemove/github-review-helper) - GitHub bot for improving your project's PR review workflow
 - [Yoctol/bottender](https://github.com/Yoctol/bottender) - ⚡️ A framework for building conversational user interfaces.
 - [alexellis/derek](https://github.com/alexellis/derek) - Reduce maintainer fatigue by automating GitHub
@@ -2388,6 +2390,7 @@
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - :satellite: Organized Resources for Deep Learning Researchers and Developers
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
@@ -4327,6 +4330,7 @@
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [alexflint/go-restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+- [micro/micro](https://github.com/micro/micro) - Micro services development platform
 - [freshcn/go-id-builder](https://github.com/freshcn/go-id-builder) - 这是一个ID生成器，它可以提供通过高效的方式产生连续的唯一的ID值。在分库分表时可以提供非常有用的帮助。
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nanobox-io/nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
@@ -4598,6 +4602,7 @@
 - [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard
 - [nartc/mapper](https://github.com/nartc/mapper) - 🔥 An Object-Object AutoMapper for TypeScript 🔥
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
+- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [jogendra/BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.
 - [getoutreach/localizer](https://github.com/getoutreach/localizer) - ⛵ A no-frills local development tool for service developers working in Kubernetes
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
@@ -4638,14 +4643,13 @@
 - [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
+- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [rubiin/nestjs-easyconfig](https://github.com/rubiin/nestjs-easyconfig) - Manage nestjs configs on the go 🔥
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
@@ -5036,7 +5040,7 @@
 ## http 
 
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [freshOS/Networking](https://github.com/freshOS/Networking) - ⚡️ Concise networking code leveraging async-await, Decodable & Generics.
@@ -5131,7 +5135,7 @@
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [nepaul/awesome-flutter](https://github.com/nepaul/awesome-flutter) - 💗 A curated list of awesome Flutter libraries, tools, tutorials, articles and more.. All you should know about Flutter development!
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [ente-io/frame](https://github.com/ente-io/frame) - Mobile apps for ente.io, a simple, encrypted photo storage.
@@ -6390,7 +6394,7 @@
 - [num30/config](https://github.com/num30/config) - Declarative configuration for Go
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [PraneetNeuro/Patchman](https://github.com/PraneetNeuro/Patchman) - A macOS application to test APIs with HTTP methods (Decluttered Postman)
 - [jmcdo29/ogma](https://github.com/jmcdo29/ogma) - A monorepo for the ogma logger and related packages
@@ -6524,6 +6528,7 @@
 - [miquelbeltran/kotlin-node.js](https://github.com/miquelbeltran/kotlin-node.js) - Simple REST API with Node and Kotlin
 - [SeunAdelekan/Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
 - [androidstarters/generator-android-mvp-starter](https://github.com/androidstarters/generator-android-mvp-starter) - [Yeoman Generator] Generate MVP Architecture for Android App using https://git.io/v9Ujz
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
 - [Yalantis/Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android in Kotlin
 - [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 - [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
@@ -6584,7 +6589,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [davidfowl/Micronetes](https://github.com/davidfowl/Micronetes) - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.
-- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
+- [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [ManagedKube/kubernetes-ops](https://github.com/ManagedKube/kubernetes-ops) - Running Kubernetes in production
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Sp
@@ -6877,6 +6882,7 @@
 
 ## linux 
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
@@ -7036,6 +7042,7 @@
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [instacart/lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
@@ -7374,6 +7381,7 @@
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
 - [MarnoDev/react-native-open-project](https://github.com/MarnoDev/react-native-open-project) - 可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
 - [vitorebatista/open-source-react-native-apps](https://github.com/vitorebatista/open-source-react-native-apps) - 📱 Collaborative List of Open-Source React Native Apps
 - [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
@@ -7720,6 +7728,7 @@
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 - [jdkato/prose](https://github.com/jdkato/prose) - :book: A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
@@ -9525,7 +9534,6 @@
 - [Necmttn/OpenSourceReactApps](https://github.com/Necmttn/OpenSourceReactApps) - This is a collection of open source apps built with React.JS library.
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of
 - [JaminZhou/snow-effect](https://github.com/JaminZhou/snow-effect) - 
-- [cyanzhong/TodayMind](https://github.com/cyanzhong/TodayMind) - Make Reminders Great Again
 - [6ag/AppScreenshots](https://github.com/6ag/AppScreenshots) - AppScreenshots
 - [intuit/LocationManager](https://github.com/intuit/LocationManager) - Easily get the device's current location on iOS.
 - [intuit/wasabi](https://github.com/intuit/wasabi) - Wasabi A/B Testing service is an open source project that is no longer under active development or being supported
@@ -9606,7 +9614,6 @@
 - [ubershmekel/redditp](https://github.com/ubershmekel/redditp) - Convert any reddit page to a presentation or slide show
 - [microsoft/azure-pipelines-task-lib](https://github.com/microsoft/azure-pipelines-task-lib) - Libraries for writing VSTS and TFS build tasks
 - [ggomaeng/react-native-card-modal](https://github.com/ggomaeng/react-native-card-modal) - A pure javascript card modal for React Native framework.
-- [cyanzhong/Retriever](https://github.com/cyanzhong/Retriever) - Retrieving InfoPlist without Jailbreaking on iOS Devices
 - [insoftpub/storefront](https://github.com/insoftpub/storefront) - ReactJS Storefront
 - [ubilabs/react-geosuggest](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
 - [Lafree317/ShareAndroidResource](https://github.com/Lafree317/ShareAndroidResource) - 安卓库
@@ -10705,7 +10712,6 @@
 - [petehunt/react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 - [nicklockwood/CountryPicker](https://github.com/nicklockwood/CountryPicker) - CountryPicker is a custom UIPickerView subclass that provides an iOS control allowing a user to select a country from a list. It can optionally display a flag next to each country name, and the librar
 - [MoZhouqi/KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for 
-- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [eyaleizenberg/react-native-floating-label-text-input](https://github.com/eyaleizenberg/react-native-floating-label-text-input) - A React Native component for floating label text input
 - [rakyll/gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go
 - [renaudcerrato/FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - Yet another floating search view implementation, also known as persistent search.
@@ -13062,6 +13068,7 @@
 
 ## react 
 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
@@ -13830,7 +13837,7 @@
 
 ## rest-api 
 
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [Tony133/nestjs-api-boilerplate-jwt](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS 9.x + TypeORM and Passport Auth JWT 😻
 - [monstar-lab-oss/nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - NestJS Starter Kit. Monolithic Backend. REST API.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -14468,7 +14475,7 @@
 
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - GaiaX动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+- [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [badrinathvm/StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [apptekstudios/ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI collection view with support for custom layouts, preloading, and more.
@@ -14866,6 +14873,7 @@
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [Honlan/DeepInterests](https://github.com/Honlan/DeepInterests) - 深度有趣
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
+- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [vipstone/faceai](https://github.com/vipstone/faceai) - 一款入门级的人脸、视频、文字检测以及识别的项目.
 - [polyaxon/polyaxon](https://github.com/polyaxon/polyaxon) - MLOps Tools For Managing & Orchestrating The Machine Learning LifeCycle
 - [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow
@@ -15074,6 +15082,7 @@
 
 ## typescript 
 
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
@@ -15140,6 +15149,7 @@
 - [nestjsx/automapper](https://github.com/nestjsx/automapper) - An Object-Object AutoMapper module for NestJS.
 - [nartc/mapper](https://github.com/nartc/mapper) - 🔥 An Object-Object AutoMapper for TypeScript 🔥
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
+- [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [rafgraph/rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
