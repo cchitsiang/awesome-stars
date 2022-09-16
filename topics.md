@@ -162,6 +162,7 @@
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -470,7 +471,7 @@
 - [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
 - [stfalcon-studio/ChatKit](https://github.com/stfalcon-studio/ChatKit) - Android library. Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management.  Made by Stfalcon
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [DaxiaK/MyDiary](https://github.com/DaxiaK/MyDiary) - In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version.
 - [material-components/material-components-android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android
@@ -2312,7 +2313,7 @@
 - [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - REST, GraphQL and WebSocket APIs for MongoDB.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
-- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -3759,6 +3760,7 @@
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
@@ -3838,7 +3840,7 @@
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [rendora/rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [arturovm/min](https://github.com/arturovm/min) - A minimalistic web framework with route grouping and middleware chaining
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together, and build a community.
@@ -4152,7 +4154,7 @@
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [rendora/rendora](https://github.com/rendora/rendora) - dynamic server-side rendering using headless Chrome to effortlessly solve the SEO problem for modern javascript websites
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
 - [arturovm/min](https://github.com/arturovm/min) - A minimalistic web framework with route grouping and middleware chaining
@@ -4796,6 +4798,7 @@
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
@@ -5655,7 +5658,7 @@
 - [jainsahab/AndroidSnooper](https://github.com/jainsahab/AndroidSnooper) - Android library to record the network calls through the interceptor mechanism of the http clients.
 - [timusus/Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
-- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
 - [tony19/logback-android](https://github.com/tony19/logback-android) - 📄The reliable, generic, fast and flexible logging framework for Android
@@ -5941,7 +5944,7 @@
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB & Db2 IBM i
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
@@ -6532,7 +6535,7 @@
 - [miquelbeltran/kotlin-node.js](https://github.com/miquelbeltran/kotlin-node.js) - Simple REST API with Node and Kotlin
 - [SeunAdelekan/Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
 - [androidstarters/generator-android-mvp-starter](https://github.com/androidstarters/generator-android-mvp-starter) - [Yeoman Generator] Generate MVP Architecture for Android App using https://git.io/v9Ujz
-- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [Yalantis/Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Multiselection Solution for Android in Kotlin
 - [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 - [junit-team/junit5](https://github.com/junit-team/junit5) - ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
@@ -7385,7 +7388,7 @@
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
 - [MarnoDev/react-native-open-project](https://github.com/MarnoDev/react-native-open-project) - 可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
-- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [vitorebatista/open-source-react-native-apps](https://github.com/vitorebatista/open-source-react-native-apps) - 📱 Collaborative List of Open-Source React Native Apps
 - [yahoo/AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
@@ -7616,7 +7619,7 @@
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB & Db2 IBM i
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
@@ -8163,7 +8166,7 @@
 - [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - REST, GraphQL and WebSocket APIs for MongoDB.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [torodb/server](https://github.com/torodb/server) - ToroDB Server is an open source NoSQL database that runs on top of a RDBMS. Compatible with MongoDB protocol and APIs, but with support for native SQL, atomic operations and reliable and durable backe
-- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Fast lightweight Java Database for storing and syncing objects in Mobile & IoT
+- [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 - [strapdata/elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
@@ -8353,6 +8356,15 @@
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
+
+## osint 
+
+- [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
+- [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - The most complete open-source tool for Twitter intelligence analysis
+- [eschultze/URLextractor](https://github.com/eschultze/URLextractor) - Information gathering & website reconnaissance | https://phishstats.info/
 
 ## others 
 
@@ -9484,7 +9496,7 @@
 - [hapijs/catbox](https://github.com/hapijs/catbox) - Multi-strategy object caching service
 - [DecoupledLogic/TestPipe](https://github.com/DecoupledLogic/TestPipe) - Automated Test Framework
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [anurse/PS-Get](https://github.com/anurse/PS-Get) - PowerShell Module distribution via NuGet.
+- [analogrelay/PS-Get](https://github.com/analogrelay/PS-Get) - PowerShell Module distribution via NuGet.
 - [ChristianWeyer/tUdUs](https://github.com/ChristianWeyer/tUdUs) - A simple sample for cross-device mobile app architecture.
 - [cdebotton/react-universal](https://github.com/cdebotton/react-universal) - React, redux, react-router, graphql, postgres, koa, universal starter-kit
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
@@ -9514,7 +9526,6 @@
 - [jondot/react-native-network-boot](https://github.com/jondot/react-native-network-boot) - An alternative way of bootstrapping development network bundling for React Native
 - [dsifford/confzen](https://github.com/dsifford/confzen) - A command line utility for creating and maintaining configuration files for javascript and typescript projects
 - [xphung/react-retina](https://github.com/xphung/react-retina) - React-RETINA adds the ability for React components to render to `&lt;canvas&gt;`.  It is a cleaner and leaner alternative implementation to React-Canvas/React-ART that only uses standard React APIs.  
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [iamduo/workq](https://github.com/iamduo/workq) - Job server in Go
 - [ziishaned/opus](https://github.com/ziishaned/opus) - Open source knowledge base application for Teams
 - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
@@ -10450,7 +10461,6 @@
 - [instainer/parse-server-docker](https://github.com/instainer/parse-server-docker) - Simple docker image for parse-server
 - [0xd4d/antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
 - [Flipboard/FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Performant animated GIF engine for iOS
-- [eschultze/URLextractor](https://github.com/eschultze/URLextractor) - Information gathering & website reconnaissance | https://phishstats.info/
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [zhengwenming/WMPlayer](https://github.com/zhengwenming/WMPlayer) - WMPlayer-AVPlayer的封装，继承UIView，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放
 - [buckyroberts/Spider](https://github.com/buckyroberts/Spider) - Python website crawler.
@@ -12314,8 +12324,8 @@
 - [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
 - [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
-- [anurse/MaVeriCk](https://github.com/anurse/MaVeriCk) - ASP.Net MVC Content Management System
-- [anurse/ReviewR](https://github.com/anurse/ReviewR) - SCM-agnostic Code Review Tool, very much in-progress.
+- [analogrelay/MaVeriCk](https://github.com/analogrelay/MaVeriCk) - ASP.Net MVC Content Management System
+- [analogrelay/ReviewR](https://github.com/analogrelay/ReviewR) - SCM-agnostic Code Review Tool, very much in-progress.
 - [assertchris/tutorial-laravel-4-real-time-chat](https://github.com/assertchris/tutorial-laravel-4-real-time-chat) - 
 - [AutoFixture/AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on wha
 - [mwrock/RequestReduce](https://github.com/mwrock/RequestReduce) - Instantly makes your .net website faster by reducing the number and size of requests with almost no effort.
@@ -12618,7 +12628,7 @@
 - [k0kubun/sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB & Db2 IBM i
 - [the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate](https://github.com/the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate) - 💥 A sophisticated GraphQL with Apollo, Express and PostgreSQL boilerplate project.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -14403,7 +14413,7 @@
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [Aaronong/SQLitmus](https://github.com/Aaronong/SQLitmus) - A simple and practical tool for SQL data generation and performance testing
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB & Db2 IBM i
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
