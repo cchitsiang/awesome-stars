@@ -749,6 +749,7 @@
 
 ## api 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
@@ -1193,7 +1194,7 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1599,7 +1600,7 @@
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -2248,6 +2249,7 @@
 
 ## database 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -3285,7 +3287,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -3737,6 +3739,7 @@
 
 ## go 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
@@ -4026,6 +4029,7 @@
 
 ## golang 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Real-Time Data Processing Platform
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -4399,6 +4403,7 @@
 
 ## graphql 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
@@ -4512,7 +4517,7 @@
 - [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard) - A dashboard for managing your Parse Server Apps
 - [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) - :point_up::running: Modern Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
 - [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - Rapid GraphQL prototyping, development, and testing. Core Server, Admin Console, iOS SDK, Web SDK.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - Node.js & Browser SDK & React UI components for Elasticsearch.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
@@ -4554,6 +4559,7 @@
 
 ## hacktoberfest 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
@@ -4606,7 +4612,7 @@
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
-- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard
+- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - Open-source, free, self-hosted alternative to Cypress Dashboard
 - [nartc/mapper](https://github.com/nartc/mapper) - 🔥 An Object-Object AutoMapper for TypeScript 🔥
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
@@ -4844,7 +4850,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
@@ -7380,7 +7386,7 @@
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [nccgroup/house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
@@ -7470,7 +7476,7 @@
 - [SashiDo/parse-server-hosting](https://github.com/SashiDo/parse-server-hosting) - ParseGround.com is Simple Parse Server Hosting.
 - [wecatch/app-turbo](https://github.com/wecatch/app-turbo) - A framework based on tornado for easier development, scaling up and maintenance
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [loowid/loowid](https://github.com/loowid/loowid) - Webconference solution based on webrtc
 
@@ -7691,6 +7697,7 @@
 
 ## nextjs 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
@@ -8112,7 +8119,7 @@
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [SpiralOutDotEu/dockervel](https://github.com/SpiralOutDotEu/dockervel) - Laravel development environment in Docker containers
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [kessler/tempus-fugit](https://github.com/kessler/tempus-fugit) - A scheduling and time utilities module that doesn't waste your time
@@ -8158,6 +8165,7 @@
 
 ## nosql 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [only-cliches/Nano-SQL](https://github.com/only-cliches/Nano-SQL) - Universal database layer for the client, server & mobile devices. It's like Lego for databases.
@@ -8370,6 +8378,7 @@
 
 ## others 
 
+- [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
 - [slicknode/stylemapper](https://github.com/slicknode/stylemapper) - Flexible utility to create styled and type-safe React components
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
@@ -9104,7 +9113,7 @@
 - [L-Zephyr/Drafter](https://github.com/L-Zephyr/Drafter) - 在iOS项目中自动生成类图和方法调用图 - Generate call graph in iOS project
 - [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
-- [vant-ui/vant-weapp](https://github.com/vant-ui/vant-weapp) - 轻量、可靠的小程序 UI 组件库
+- [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 - [berlioz-the/berlioz](https://github.com/berlioz-the/berlioz) - Berlioz - Intent-driven cloud deployment
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [aben1188/awesome-wepy](https://github.com/aben1188/awesome-wepy) - Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总
@@ -10142,7 +10151,7 @@
 - [fex-team/ua-device](https://github.com/fex-team/ua-device) - userAgent解析库
 - [keithwhor/cmnd](https://github.com/keithwhor/cmnd) - Command Line Interface Utility for Node.js using ES6 idioms
 - [naoufal/react-native-activity-view](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
-- [substack/tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
+- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
 - [oddnetworks/terraform-amazon-ecs](https://github.com/oddnetworks/terraform-amazon-ecs) - Terraform files for deploying and running Amazon ECS (+ Private Docker Registry)
 - [oddnetworks/push-notifications-service](https://github.com/oddnetworks/push-notifications-service) - Node app to manage iOS and Android device tokens, coordinate with Amazon SNS, and send push notifications
 - [Brimizer/Slidden](https://github.com/Brimizer/Slidden) - An open source, customizable, iOS 8 keyboard.
@@ -12584,6 +12593,7 @@
 
 ## postgresql 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
@@ -12894,7 +12904,7 @@
 - [graphql-python/graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -12912,7 +12922,7 @@
 - [faxad/activflow](https://github.com/faxad/activflow) - Generic, light-weight & extensible Workflow Engine for agile automation of Business Processes | Django, Python
 - [timofurrer/minion-ci](https://github.com/timofurrer/minion-ci) - minimalist, decentralized, flexible Continuous Integration Server for hackers.
 - [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
-- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [arvados/arvados](https://github.com/arvados/arvados) - An open source platform for managing and analyzing biomedical big data
 - [cr0hn/enteletaor](https://github.com/cr0hn/enteletaor) - Message Queue & Broker Injection tool
 - [joowani/dtags](https://github.com/joowani/dtags) - Command-line tool for tagging directories.
@@ -13328,7 +13338,7 @@
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
 - [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
 - [ElemeFE/element-react](https://github.com/ElemeFE/element-react) - Element UI
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [yTakkar/React-Instagram-Clone-2.0](https://github.com/yTakkar/React-Instagram-Clone-2.0) - A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓 - No longer maintained.
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
@@ -13732,7 +13742,7 @@
 - [este/este](https://github.com/este/este) - This repo is suspended.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [maximevaillancourt/trace](https://github.com/maximevaillancourt/trace) - Supply chain transparency platform proof-of-concept based on the Ethereum blockchain ✍️
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
@@ -13853,6 +13863,7 @@
 
 ## rest-api 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [Tony133/nestjs-api-boilerplate-jwt](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS 9.x + TypeORM and Passport Auth JWT 😻
 - [monstar-lab-oss/nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - NestJS Starter Kit. Monolithic Backend. REST API.
@@ -13898,7 +13909,7 @@
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [datarhei/restreamer](https://github.com/datarhei/restreamer) - 🟡 The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook
 - [RipcordSoftware/AvanceDB](https://github.com/RipcordSoftware/AvanceDB) - An in-memory database based on the CouchDB REST API and containing the CouchDB Futon and Fauxton web sites
 - [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
@@ -14194,6 +14205,7 @@
 
 ## serverless 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: the next-generation streaming database in the cloud.
@@ -14377,6 +14389,7 @@
 
 ## sql 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
@@ -15045,7 +15058,7 @@
 - [alexmx/ios-ui-automation-overview](https://github.com/alexmx/ios-ui-automation-overview) - An overview of popular iOS UI testing solutions.
 - [Quick/Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [victorb/autochecker](https://github.com/victorb/autochecker) - ♻️ Test your libraries in many different versions of NodeJS, Ruby, Java and many other languages
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
@@ -15097,6 +15110,7 @@
 
 ## typescript 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
@@ -15302,7 +15316,7 @@
 - [marblejs/marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
 - [xiaomuzhu/vue-ts-daily](https://github.com/xiaomuzhu/vue-ts-daily) - 基于vue、Typescript、pwa的一款习惯养成app
 - [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [brookshi/awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) - awesome typescript open source projects, includes IDE, Framework, Library, Tool
 - [sequelize/umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js
@@ -15553,7 +15567,7 @@
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
 - [xiaomuzhu/vue-ts-daily](https://github.com/xiaomuzhu/vue-ts-daily) - 基于vue、Typescript、pwa的一款习惯养成app
 - [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [Neuethemes/OpenAdmin](https://github.com/Neuethemes/OpenAdmin) - OpenAdmin - Free Premium Admin Dashboard Theme
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
@@ -15590,6 +15604,7 @@
 
 ## web 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
