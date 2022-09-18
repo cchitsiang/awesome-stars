@@ -3346,7 +3346,7 @@
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [f/vue-wait](https://github.com/f/vue-wait) - Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications
 - [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
-- [vant-ui/vant-weapp](https://github.com/vant-ui/vant-weapp) - 轻量、可靠的小程序 UI 组件库
+- [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
 - [berlioz-the/berlioz](https://github.com/berlioz-the/berlioz) - Berlioz - Intent-driven cloud deployment
 - [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架
 - [dleitee/react-fetches](https://github.com/dleitee/react-fetches) - 🐙React Fetches a new way to make requests into your REST API's.
@@ -4006,7 +4006,7 @@
 - [fex-team/ua-device](https://github.com/fex-team/ua-device) - userAgent解析库
 - [danilop/LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient sol
 - [keithwhor/cmnd](https://github.com/keithwhor/cmnd) - Command Line Interface Utility for Node.js using ES6 idioms
-- [substack/tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
+- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
 - [oddnetworks/push-notifications-service](https://github.com/oddnetworks/push-notifications-service) - Node app to manage iOS and Android device tokens, coordinate with Amazon SNS, and send push notifications
 - [socketio/engine.io](https://github.com/socketio/engine.io) - 
 - [Chris911/mocha-http-detect](https://github.com/Chris911/mocha-http-detect) - Detect HTTP requests in your mocha test suites
@@ -4239,7 +4239,7 @@
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
 - [mpociot/whiteboard](https://github.com/mpociot/whiteboard) - Simply write beautiful API documentation.
 - [sgaurav/understanding-es6](https://github.com/sgaurav/understanding-es6) - Simple examples to help you understand ES6
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [mxstbr/login-flow](https://github.com/mxstbr/login-flow) - :key: A login/register flow built with React&Redux
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -6563,7 +6563,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Web-UI testing framework that lets you move fast at scale with Selenium, Python, and pytest. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -6606,7 +6606,7 @@
 - [dsys/match](https://github.com/dsys/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
 - [timofurrer/minion-ci](https://github.com/timofurrer/minion-ci) - minimalist, decentralized, flexible Continuous Integration Server for hackers.
 - [ProvenanceLabs/image-match](https://github.com/ProvenanceLabs/image-match) - 🎇 Quickly search over billions of images
-- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [alex/letsencrypt-aws](https://github.com/alex/letsencrypt-aws) - 
 - [jhorey/ferry](https://github.com/jhorey/ferry) - Ferry lets you define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
@@ -6945,6 +6945,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - GaiaX动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案
@@ -7828,6 +7829,8 @@
 
 ## TypeScript 
 
+- [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
+- [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
@@ -8006,7 +8009,7 @@
 - [phodal/clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
 - [nestjsx/automapper](https://github.com/nestjsx/automapper) - An Object-Object AutoMapper module for NestJS.
-- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard
+- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - Open-source, free, self-hosted alternative to Cypress Dashboard
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [nartc/mapper](https://github.com/nartc/mapper) - 🔥 An Object-Object AutoMapper for TypeScript 🔥
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -8353,8 +8356,8 @@
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
-- [vant-ui/vant](https://github.com/vant-ui/vant) - Lightweight Mobile UI Components built on Vue
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
+- [youzan/vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [deptno/dynamon](https://github.com/deptno/dynamon) - :smiling_imp: Dynamon is GUI client for DynamoDB, can connect local dynamodb.
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
