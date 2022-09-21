@@ -2998,7 +2998,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
-- [frappe/books](https://github.com/frappe/books) - Free desktop accounting software for small-businesses and freelancers.
+- [frappe/books](https://github.com/frappe/books) - Modern desktop accounting for freelancers and small-businesses.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [antonreshetov/massCode](https://github.com/antonreshetov/massCode) - This repository is outdated and no longer maintained. A new version of massCode is available! https://github.com/massCodeIO/massCode. A free and open source code snippets manager for developers.
 - [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
@@ -5831,7 +5831,7 @@
 - [didi/cube-ui](https://github.com/didi/cube-ui) - :large_orange_diamond: A fantastic mobile ui lib implement by Vue
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [alsatian-test/alsatian](https://github.com/alsatian-test/alsatian) - TypeScript testing framework with test cases
-- [frappe/books](https://github.com/frappe/books) - Free desktop accounting software for small-businesses and freelancers.
+- [frappe/books](https://github.com/frappe/books) - Modern desktop accounting for freelancers and small-businesses.
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
@@ -8316,7 +8316,7 @@
 - [siriwatknp/mui-treasury](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks) - Tweaks I've left open, maybe someone can learn from/correct them.
-- [frappe/books](https://github.com/frappe/books) - Free desktop accounting software for small-businesses and freelancers.
+- [frappe/books](https://github.com/frappe/books) - Modern desktop accounting for freelancers and small-businesses.
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub) - GitHub iOS client in RxSwift and MVVM-C clean architecture
@@ -8386,7 +8386,7 @@
 - [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
 - [slicknode/stylemapper](https://github.com/slicknode/stylemapper) - Flexible utility to create styled and type-safe React components
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
-- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React and MJML
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
@@ -11914,7 +11914,7 @@
 - [fastlane-old/deliver](https://github.com/fastlane-old/deliver) - Upload screenshots, metadata and your app to the App Store using a single command
 - [ciryon/xcodebuild-script](https://github.com/ciryon/xcodebuild-script) - A build and deployment script for Xcode projects
 - [openbakery/iOS-Build-Scripts](https://github.com/openbakery/iOS-Build-Scripts) - iOS-Build-Scripts
-- [falsandtru/pjax-api](https://github.com/falsandtru/pjax-api) - The second generation PJAX for advanced web frameworks.
+- [falsandtru/pjax-api](https://github.com/falsandtru/pjax-api) - The advanced PJAX for web services.
 - [blakeembrey/code-problems](https://github.com/blakeembrey/code-problems) - Common code and interview problems solved in multiple languages
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [gregoryyoung/m-r](https://github.com/gregoryyoung/m-r) - Simple CQRS example
