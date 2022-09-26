@@ -2605,7 +2605,7 @@
 - [hooram/ownphotos](https://github.com/hooram/ownphotos) - Self hosted alternative to Google Photos
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
 - [shuup/shuup](https://github.com/shuup/shuup) - E-Commerce Platform
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [faxad/activflow](https://github.com/faxad/activflow) - Generic, light-weight & extensible Workflow Engine for agile automation of Business Processes | Django, Python
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
@@ -3974,7 +3974,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [emreler/finch](https://github.com/emreler/finch) - 
 - [parrot-translate/parrot](https://github.com/parrot-translate/parrot) - Self-hosted Localization Management Platform built with Go and Angular
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [radovskyb/go-packages](https://github.com/radovskyb/go-packages) - A large repository of code and documented examples for Go's standard package library.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -4319,7 +4319,7 @@
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [emreler/finch](https://github.com/emreler/finch) - 
-- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
+- [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 - [tidwall/finn](https://github.com/tidwall/finn) - Fast Raft framework using the Redis protocol for Go
 - [radovskyb/go-packages](https://github.com/radovskyb/go-packages) - A large repository of code and documented examples for Go's standard package library.
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
@@ -4573,6 +4573,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -6782,7 +6783,7 @@
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [victorlap/laravel-approvable](https://github.com/victorlap/laravel-approvable) - Easily add an approval process to any laravel model.
-- [gitscrum-ce/laravel-gitscrum](https://github.com/gitscrum-ce/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
+- [gitscrum-team/laravel-gitscrum](https://github.com/gitscrum-team/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
 - [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while ex
 - [the-control-group/voyager](https://github.com/the-control-group/voyager) - Voyager - The Missing Laravel Admin
 - [orchidsoftware/platform](https://github.com/orchidsoftware/platform) - Orchid is a @laravel package that allows for rapid application development of back-office applications, admin/user panels, and dashboards.
@@ -12554,7 +12555,7 @@
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
-- [gitscrum-ce/laravel-gitscrum](https://github.com/gitscrum-ce/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
+- [gitscrum-team/laravel-gitscrum](https://github.com/gitscrum-team/laravel-gitscrum) - GitScrum is a Project Management Tool, developed to help entrepreneurs, freelancers, managers, and teams Skyrocket their Productivity with the Agile methodology and Gamification.
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 - [Neuethemes/OpenAdmin](https://github.com/Neuethemes/OpenAdmin) - OpenAdmin - Free Premium Admin Dashboard Theme
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
