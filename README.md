@@ -1213,7 +1213,7 @@
 - [kkuchta/scarr](https://github.com/kkuchta/scarr) - An end-to-end tool for S3 + cloudfront static sites
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [tj/robo](https://github.com/tj/robo) - Simple Go / YAML-based task runner for the team.
 - [haraqa/haraqa](https://github.com/haraqa/haraqa) - High Availability Routing and Queueing Application
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
@@ -4117,7 +4117,7 @@
 - [kissjs/siege.js](https://github.com/kissjs/siege.js) - http benchmark
 - [artilleryio/chaos-lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda) ☁️ 💥
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
-- [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard) - A dashboard for managing your Parse Server Apps
+- [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard) - A dashboard for managing Parse Server
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [scottwoodall/django-react-template](https://github.com/scottwoodall/django-react-template) - Django & React Template For Building Web Applications
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
@@ -7842,7 +7842,7 @@
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React and MJML
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
@@ -8476,7 +8476,7 @@
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [IvanGoncharov/graphql-faker](https://github.com/IvanGoncharov/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [dsifford/confzen](https://github.com/dsifford/confzen) - A command line utility for creating and maintaining configuration files for javascript and typescript projects
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [transistorsoft/rn-background-geolocation-demo](https://github.com/transistorsoft/rn-background-geolocation-demo) - Demo app for react-native-background-geolocation plugin
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
