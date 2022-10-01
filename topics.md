@@ -2975,6 +2975,7 @@
 - [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 - [machine/machine.specifications](https://github.com/machine/machine.specifications) - Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.
 - [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
+- [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 - [lukencode/FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 - [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
@@ -3761,6 +3762,7 @@
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [alphadose/ZenQ](https://github.com/alphadose/ZenQ) - A thread-safe queue faster and more resource efficient than golang's native channels
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
@@ -4053,6 +4055,7 @@
 - [num30/config](https://github.com/num30/config) - Declarative configuration for Go
 - [alphadose/ZenQ](https://github.com/alphadose/ZenQ) - A thread-safe queue faster and more resource efficient than golang's native channels
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
@@ -4597,6 +4600,7 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
+- [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
@@ -4628,6 +4632,7 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
 - [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
+- [batchcorp/plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [samdenty/console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component 🔥
@@ -4664,6 +4669,7 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [bow-swift/nef](https://github.com/bow-swift/nef) - 💊 steroids for Xcode Playgrounds
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Clivern/Beaver](https://github.com/Clivern/Beaver) - 💨 A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
 - [hamaluik/timecop](https://github.com/hamaluik/timecop) - A time tracking app that respects your privacy and the gets the job done without being fancy.
@@ -4691,6 +4697,7 @@
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible.
 - [rubiin/nestjs-easyconfig](https://github.com/rubiin/nestjs-easyconfig) - Manage nestjs configs on the go 🔥
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [freeCodeCamp/chapter](https://github.com/freeCodeCamp/chapter) - A self-hosted event management tool for nonprofits
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
@@ -4719,6 +4726,7 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [ing-bank/baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows
 - [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0 and 7.0  projects you can use. Readme contains explanations on all projects.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
@@ -4749,6 +4757,7 @@
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.7.45745, 3.3.5 = 3.3.5a.12340)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
@@ -4767,8 +4776,10 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [jaswdr/faker](https://github.com/jaswdr/faker) - :rocket: Ultimate fake data generator for Go with zero dependencies
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
 - [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [renancaraujo/axios-endpoints](https://github.com/renancaraujo/axios-endpoints) - Axios endpoints helps you to create a more concise endpoint mapping with axios.
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -4930,6 +4941,7 @@
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [fixie/fixie](https://github.com/fixie/fixie) - Ergonomic Testing for .NET
 - [VulcanJS/Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
 - [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
 - [marcells/node-build-monitor](https://github.com/marcells/node-build-monitor) - A Build Monitor written in Node.js, which supports several build services and can be easily extended.
@@ -4957,6 +4969,7 @@
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
 - [yiisoft/yii](https://github.com/yiisoft/yii) - Yii PHP Framework 1.1.x
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
+- [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
 - [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - Silverstripe CMS - this is a module for Silverstripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
@@ -6692,6 +6705,7 @@
 - [lucperkins/colossus](https://github.com/lucperkins/colossus) - Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
+- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
@@ -7287,6 +7301,7 @@
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [onblogs/JustWrite](https://github.com/onblogs/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器（欢迎Star，🚫禁止Fork）
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -8010,6 +8025,7 @@
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆 World Cup 2018 CLI dashboard: watch matches in your terminal.
 - [ParallelTask/dinoloop](https://github.com/ParallelTask/dinoloop) - Rest API framework built on top of expressjs powered by Typescript.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
@@ -9039,7 +9055,6 @@
 - [edwardwohaijun/file-transfer](https://github.com/edwardwohaijun/file-transfer) - A simple file transfer app
 - [LernaOpenSource/LernaOpenSource](https://github.com/LernaOpenSource/LernaOpenSource) - MIT Open Source fork of the Lerna project
 - [tj/n](https://github.com/tj/n) - Node version management
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [ardanlabs/service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
 - [mafintosh/turbo-json-parse](https://github.com/mafintosh/turbo-json-parse) - Turbocharged JSON.parse for type stable JSON data
 - [agens-no/swiff](https://github.com/agens-no/swiff) - Human readable time diffs on lines of output when running e.g. build commands like fastlane
@@ -12369,7 +12384,6 @@
 - [redbooth/teambox](https://github.com/redbooth/teambox) - This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.
 - [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
-- [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 - [analogrelay/MaVeriCk](https://github.com/analogrelay/MaVeriCk) - ASP.Net MVC Content Management System
 - [analogrelay/ReviewR](https://github.com/analogrelay/ReviewR) - SCM-agnostic Code Review Tool, very much in-progress.
 - [assertchris/tutorial-laravel-4-real-time-chat](https://github.com/assertchris/tutorial-laravel-4-real-time-chat) - 
@@ -15345,6 +15359,7 @@
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [este/este](https://github.com/este/este) - This repo is suspended.
