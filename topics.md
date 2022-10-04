@@ -757,7 +757,7 @@
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 - [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
@@ -1924,6 +1924,7 @@
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
+- [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## cryptocurrency 
@@ -1938,6 +1939,7 @@
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -3771,7 +3773,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
@@ -4064,7 +4066,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool with support for distributed tracing, metrics, and logs
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -4597,12 +4599,13 @@
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
@@ -4610,6 +4613,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
@@ -4619,7 +4623,6 @@
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
@@ -4685,9 +4688,11 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [alsatian-test/alsatian](https://github.com/alsatian-test/alsatian) - TypeScript testing framework with test cases
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
@@ -4857,6 +4862,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [georgegognadze/awesome-resources](https://github.com/georgegognadze/awesome-resources) - :zap: Awesome coding resources for all stages and ages
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
@@ -4864,6 +4870,7 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [euclidity/vscode-cucumber](https://github.com/euclidity/vscode-cucumber) - Code snippets to write scenarios faster + Syntax highlight for .feature files
 - [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
@@ -4885,6 +4892,7 @@
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
 - [AzimoLabs/AndroidKeyboardWatcher](https://github.com/AzimoLabs/AndroidKeyboardWatcher) - Software keyboard open/close watcher for Android.
@@ -4912,6 +4920,7 @@
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+- [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
 - [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -4955,6 +4964,7 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -4989,7 +4999,6 @@
 - [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
-- [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - Silverstripe CMS - this is a module for Silverstripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
 - [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 - [kiegroup/jbpm](https://github.com/kiegroup/jbpm) - a Business Process Management (BPM) Suite
 
@@ -8688,7 +8697,6 @@
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [dotnetcore/Home](https://github.com/dotnetcore/Home) - Home repo of  .NET Core Community
 - [brijeshb42/medium-draft](https://github.com/brijeshb42/medium-draft) - 📝 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.
-- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [microsoft/fluent-ui-react](https://github.com/microsoft/fluent-ui-react) - An ecosystem for building highly customizable enterprise class user interfaces.
 - [leadream/heron-handoff](https://github.com/leadream/heron-handoff) - A Figma handoff tool, support offline exporting.
 - [davidfowl/Todos](https://github.com/davidfowl/Todos) - Various todo list backend API implementations
@@ -12491,6 +12499,7 @@
 - [latish/VisualStudioExtensionSync](https://github.com/latish/VisualStudioExtensionSync) - Allows you to synchronize Visual Studio extensions between multiple instances.
 - [ocombe/jQuery-keepAlive](https://github.com/ocombe/jQuery-keepAlive) - A jQuery plugin to keep a php session alive
 - [igor-tkachev/bltoolkit](https://github.com/igor-tkachev/bltoolkit) - Business Logic Toolkit for .NET
+- [silverstripe/silverstripe-cms](https://github.com/silverstripe/silverstripe-cms) - Silverstripe CMS - this is a module for Silverstripe Framework rather than a standalone app. Use https://github.com/silverstripe/silverstripe-installer/ to set this up.
 - [jivesoftware/tinymce](https://github.com/jivesoftware/tinymce) - TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL.
 - [rhoney/jsBeautifier.net](https://github.com/rhoney/jsBeautifier.net) - .Net wrapper for js-beautify
 - [filamentgroup/jQuery-UI-Date-Range-Picker](https://github.com/filamentgroup/jQuery-UI-Date-Range-Picker) - A range picker built on top of jQuery UI's Datepicker Control
@@ -12824,7 +12833,6 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [xiaomuzhu/vue-ts-daily](https://github.com/xiaomuzhu/vue-ts-daily) - 基于vue、Typescript、pwa的一款习惯养成app
 - [cezerin/cezerin](https://github.com/cezerin/cezerin) - Cezerin is React and Node.js based eCommerce platform.
@@ -13372,7 +13380,6 @@
 - [zzarcon/react-video-renderer](https://github.com/zzarcon/react-video-renderer) - Build custom video players effortless
 - [StephenChou1017/react-big-scheduler](https://github.com/StephenChou1017/react-big-scheduler) - A scheduler and resource planning component built for React and made for modern browsers (IE10+)
 - [grand-stack/grand-stack-starter](https://github.com/grand-stack/grand-stack-starter) - Simple starter project for GRANDstack full stack apps
-- [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [aleedmanath/rogue.js](https://github.com/aleedmanath/rogue.js) - The "nearly invisible" way to server-render React applications
@@ -15068,7 +15075,7 @@
 ## testing 
 
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
-- [keploy/keploy](https://github.com/keploy/keploy) - Unit Testing Toolkit that creates test-cases and data mocks from API calls.
+- [keploy/keploy](https://github.com/keploy/keploy) - Testing Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 - [DeploySentinel/Recorder](https://github.com/DeploySentinel/Recorder) - A browser extension that generates Cypress, Playwright and Puppeteer test scripts from your interactions 🖱 ⌨
 - [next-page-tester/next-page-tester](https://github.com/next-page-tester/next-page-tester) - DEPRECATED - DOM integration testing for Next.js
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
