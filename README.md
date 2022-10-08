@@ -3294,7 +3294,6 @@
 - [ianstormtaylor/react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
@@ -5729,6 +5728,7 @@
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [iraycd/React-Redux-Styleguide](https://github.com/iraycd/React-Redux-Styleguide) - This is a working set of guidelines for developing React applications. We say "guideline" because there are no hard-and-fast rules; best practices, patterns and technology change over time, so we cons
+- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) - 深入理解Node.js：核心思想与源码分析
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -7669,7 +7669,7 @@
 - [JiriTrecak/Laurine](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet!
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) - The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
-- [CosmicMind/Material-deprecated](https://github.com/CosmicMind/Material-deprecated) - A UI/UX framework for creating beautiful applications.
+- [CosmicMind/Material](https://github.com/CosmicMind/Material) - A UI/UX framework for creating beautiful applications.
 - [badoo/Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
 - [marmelroy/Format](https://github.com/marmelroy/Format) - A Swift Formatter Kit
 - [johnlui/FireUpYourVPN](https://github.com/johnlui/FireUpYourVPN) - 在通知中心一键启用 VPN
