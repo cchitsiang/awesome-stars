@@ -1111,6 +1111,7 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
 - [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
@@ -1159,7 +1160,7 @@
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -2877,6 +2878,7 @@
 
 ## JavaScript 
 
+- [grucloud/grucloud](https://github.com/grucloud/grucloud) - Generate diagrams and code from cloud infrastructures: AWS, Azure,GCP, Kubernetes
 - [getferdi/ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
@@ -3310,7 +3312,7 @@
 - [adam-golab/react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake, Oracle DB (v6) & Db2 for IBM i
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [electron-elements/send-feedback](https://github.com/electron-elements/send-feedback) - send-feedback electron element - that could be used to get user feedback from electron app
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
 - [1Strategy/serverless-ci-cd](https://github.com/1Strategy/serverless-ci-cd) - Serverless demo using Code Build and CodePipeline for CI/CD
@@ -7834,6 +7836,7 @@
 
 ## TypeScript 
 
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that allows easy drag-and-drop form creation. Evaluate its capabilities for free.
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
@@ -7891,7 +7894,7 @@
 - [typescript-rtti/typescript-rtti](https://github.com/typescript-rtti/typescript-rtti) - Emits Typescript metadata for use at runtime
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [DeploySentinel/Recorder](https://github.com/DeploySentinel/Recorder) - A browser extension that generates Cypress, Playwright and Puppeteer test scripts from your interactions 🖱 ⌨
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets. The name comes from mushing grid and list together. Yes we know it sounds like gristle.
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [prisma/lens](https://github.com/prisma/lens) - 🔬 Prisma design system
@@ -8330,7 +8333,7 @@
 - [este/este](https://github.com/este/este) - This repo is suspended.
 - [artemsky/vue-snotify](https://github.com/artemsky/vue-snotify) - Vuejs 2 Notification Center
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [renancaraujo/axios-endpoints](https://github.com/renancaraujo/axios-endpoints) - Axios endpoints helps you to create a more concise endpoint mapping with axios.
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [googleapis/nodejs-tasks](https://github.com/googleapis/nodejs-tasks) - Node.js client for Google Cloud Tasks: A fully managed service that allows you to manage the execution, dispatch and delivery of a large number of distributed tasks.
@@ -8531,7 +8534,7 @@
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [nathan-rice/radical](https://github.com/nathan-rice/radical) - A boilerplate-free, composable API framework for React/Redux
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) - VSCode extension for React Native - supports debugging and editor integration
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [actionhero/node-resque](https://github.com/actionhero/node-resque) - Node.js Background jobs backed by redis.
