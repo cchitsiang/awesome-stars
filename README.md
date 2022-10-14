@@ -419,7 +419,7 @@
 - [sscobici/ParallelTestRunner](https://github.com/sscobici/ParallelTestRunner) - Parallel test runner for Visual Studio vstest mstest tests
 - [pgenfer/mixinSharp](https://github.com/pgenfer/mixinSharp) - extension for VS2015 that adds mixins to C#
 - [atemerev/skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark
-- [OctopusDeploy/OctopusClients](https://github.com/OctopusDeploy/OctopusClients) - Octopus.Client for commanding Octopus servers
+- [OctopusDeploy/OctopusClients](https://github.com/OctopusDeploy/OctopusClients) - | Public |  Octopus.Client for commanding Octopus servers
 - [onlyutkarsh/AppVeyorExtension](https://github.com/onlyutkarsh/AppVeyorExtension) - AppVeyor extension for Visual Studio
 - [bilal-fazlani/tracker-enabled-dbcontext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database
 - [Top-Q/Trx-To-Html](https://github.com/Top-Q/Trx-To-Html) - this project based of MSTestResultViewer open source project.
@@ -4811,7 +4811,7 @@
 - [borismus/sonicnet.js](https://github.com/borismus/sonicnet.js) - Ultrasonic Networking with the Web Audio API
 - [chintanbanugaria/92five](https://github.com/chintanbanugaria/92five) - Self hosted project management application
 - [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller
-- [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - A repository of step templates and other community-contributed extensions to Octopus Deploy
+- [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - | Public |  A repository of step templates and other community-contributed extensions to Octopus Deploy
 - [filearts/plunker_run](https://github.com/filearts/plunker_run) - Run saved plunks and plunk previews as web citizens
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [cosh/Jint](https://github.com/cosh/Jint) - http://jint.codeplex.com/
