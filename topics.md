@@ -233,6 +233,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [web](#web)
+- [web-assembly](#web-assembly)
 - [web-components](#web-components)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -1705,7 +1706,7 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [xxczaki/fastic](https://github.com/xxczaki/fastic) - 🚀 Fast & Lightweight CLI HTTP server
 - [transitive-bullshit/create-react-library](https://github.com/transitive-bullshit/create-react-library) - ⚡CLI for creating reusable react libraries.
-- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -1719,7 +1720,7 @@
 - [DrakeW/corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [codeaholicguy/wowcup](https://github.com/codeaholicguy/wowcup) - ⚽ 💻 The finest Worldcup 2018 CLI.
 - [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
-- [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [pengux/feeda](https://github.com/pengux/feeda) - Feeds (RSS2/Atom) aggregator as a CLI tool
 - [louisdh/openterm](https://github.com/louisdh/openterm) - OpenTerm, a sandboxed command line interface for iOS
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -4916,6 +4917,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
+- [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [euclidity/vscode-cucumber](https://github.com/euclidity/vscode-cucumber) - Code snippets to write scenarios faster + Syntax highlight for .feature files
 - [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
 - [HabitRPG/habitica-ios](https://github.com/HabitRPG/habitica-ios) - Native iOS app for Habitica
@@ -6936,7 +6938,7 @@
 - [guillermomuntaner/Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers (formerly "Property Delegates")
 - [mobile-roadmap/android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
-- [klaussinani/moviebox](https://github.com/klaussinani/moviebox) - Machine learning movie recommending system
+- [klaudiosinani/moviebox](https://github.com/klaudiosinani/moviebox) - Machine learning movie recommending system
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -8118,7 +8120,7 @@
 - [marblejs/marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
 - [Tencent/TSW](https://github.com/Tencent/TSW) - Tencent Server Web
 - [deepsweet/start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
-- [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [cezerin/cezerin](https://github.com/cezerin/cezerin) - Cezerin is React and Node.js based eCommerce platform.
 - [redacademy/ethereum-graphql](https://github.com/redacademy/ethereum-graphql) - Node, Express, GraphQL server with a Solidity Smart Contract backend!
 - [azat-co/practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress] 📓
@@ -9186,7 +9188,7 @@
 - [phynet/iOS-URL-Schemes](https://github.com/phynet/iOS-URL-Schemes) - iOS URL list schemes: This is a github solution from my gist of iOS list for urls schemes https://gist.github.com/phynet/471089a51b8f940f0fb4 a list of different URL Schemes for iOS (Swift 3 and Objc)
 - [WeTransfer/WeTransfer-iOS-CI](https://github.com/WeTransfer/WeTransfer-iOS-CI) - Containing all the shared CI logic for WeTransfer repositories
 - [Atyantik/pawjs](https://github.com/Atyantik/pawjs) - A highly scalable & plugable, Progressive Web Application Framework with the best Developer Experience. This framework utilizes the power of React with Webpack and is build on top of webpack/tapable f
-- [klaussinani/ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app
+- [klaudiosinani/ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app
 - [supermedium/aframe-super-shooter-kit](https://github.com/supermedium/aframe-super-shooter-kit) - 🔫 A-Frame kit of components for making a simple WebVR shooter minigame.
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [soorajb/loc2country](https://github.com/soorajb/loc2country) - Lat/lon to country
@@ -15834,6 +15836,11 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
 - [mahmudahsan/New-JavaScript-SDK---OAuth-2.0-based-FBConnect-Tutorial](https://github.com/mahmudahsan/New-JavaScript-SDK---OAuth-2.0-based-FBConnect-Tutorial) - Javascript SDK oAuth 2.0 based FBConnect
+
+## web-assembly 
+
+- [torch2424/wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️
+- [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 
 ## web-components 
 
