@@ -219,7 +219,7 @@
 - [iamoldli/NetModular](https://github.com/iamoldli/NetModular) - NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架
 - [dotnetcore/SmartCode](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; Build Everything!!!
 - [davidfowl/Micronetes](https://github.com/davidfowl/Micronetes) - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.
-- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
 - [Daddoon/BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Create full C# driven hybrid-apps for iOS, Android, UWP & Desktop with Blazor!
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 6 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 6 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:
@@ -795,7 +795,6 @@
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [facebookarchive/xcbuild](https://github.com/facebookarchive/xcbuild) - Xcode-compatible build tool.
-- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [phusion/passenger](https://github.com/phusion/passenger) - A fast and robust web server and application server for Ruby, Python and Node.js
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
@@ -947,7 +946,7 @@
 - [CircleCI-Archived/frontend](https://github.com/CircleCI-Archived/frontend) - CircleCI's frontend
 - [casidiablo/tako](https://github.com/casidiablo/tako) - Github notifications on Slack
 - [dvcrn/markright](https://github.com/dvcrn/markright) - ➡ Electron powered markdown editor with live preview
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [owainlewis/falkor](https://github.com/owainlewis/falkor) - Open Source web scraping API. Falkor turns web pages into queryable JSON
 - [bcambel/oss.io](https://github.com/bcambel/oss.io) - Developers gathering up
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
@@ -1136,7 +1135,7 @@
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code backend and automation builder.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open-source APM tool with support for distributed tracing, metrics, and logs
@@ -1937,7 +1936,7 @@
 - [bannzai/SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 - [plainflow/plainflow-digested-week](https://github.com/plainflow/plainflow-digested-week) - The PlainFlow Digested Week is a crowdsourced email newsletter that goes to all the PlainFlow subscribers.
 - [AmmyUI/AmmyUI](https://github.com/AmmyUI/AmmyUI) - Ammy language repository
-- [github-serendipity/github-serendipity.github.io](https://github.com/github-serendipity/github-serendipity.github.io) - 快速找到流行开源项目 browse and find high quality repo quickly and elegantly, with trending, rank, awesome, topics, similar dimensions
+- [sivagao/github-serendipity.github.io](https://github.com/sivagao/github-serendipity.github.io) - 快速找到流行开源项目 browse and find high quality repo quickly and elegantly, with trending, rank, awesome, topics, similar dimensions
 - [ireade/alix](https://github.com/ireade/alix) - Alix, a browser extension for a11y.css
 - [bdargan/techradar](https://github.com/bdargan/techradar) - Build your own Technology Radar. Inspired by ThoughtWorks Technology Radar.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
@@ -4160,7 +4159,7 @@
 - [sqren/fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
-- [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [bustle/mobiledoc-kit](https://github.com/bustle/mobiledoc-kit) - A toolkit for building WYSIWYG editors with Mobiledoc
 - [ArnaudValensi/docker-parse-server-git-deploy](https://github.com/ArnaudValensi/docker-parse-server-git-deploy) - Quickly and easily install a Parse server and deploy code using git push.
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
@@ -6740,7 +6739,7 @@
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [gagginaspinnata/tutsplus-downloader](https://github.com/gagginaspinnata/tutsplus-downloader) - Script for bulk downloading premium course (paid users only) from tutsplus
 - [OmniSharp/Kulture](https://github.com/OmniSharp/Kulture) - Sublime extension for ASP.NET vNext
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [GetStream/stream-django](https://github.com/GetStream/stream-django) - Django Client - Build Activity Feeds & Streams with GetStream.io
@@ -7853,14 +7852,14 @@
 - [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products.
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.j
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
-- [bluesky-social/adx](https://github.com/bluesky-social/adx) - Experiment in self-authenticating data structures for a federated social network
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - A social networking technology created by Bluesky
 - [Permify/react-role](https://github.com/Permify/react-role) - Lightweight role based access management solution for React applications
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -8542,6 +8541,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [MicrosoftEdge/hwa-cli](https://github.com/MicrosoftEdge/hwa-cli) - Command-Line Interface for converting Windows Hosted Web Apps locally and remotely
+- [realm/realm-js](https://github.com/realm/realm-js) - Realm is a mobile database: an alternative to SQLite & key-value stores
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [xinthink/react-native-material-kit](https://github.com/xinthink/react-native-material-kit) - Bringing Material Design to React Native
