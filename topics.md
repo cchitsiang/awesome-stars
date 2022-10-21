@@ -4846,6 +4846,7 @@
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
+- [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [victorlap/laravel-approvable](https://github.com/victorlap/laravel-approvable) - Easily add an approval process to any laravel model.
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
@@ -4957,7 +4958,6 @@
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [teamcapybara/capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [Excel-DNA/ExcelDna](https://github.com/Excel-DNA/ExcelDna) - Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library.
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -8546,7 +8546,7 @@
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [salto-io/salto](https://github.com/salto-io/salto) - Salto enables you to manage your business applications' configuration in code
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 - [danielboven/ordered-uuid-v4](https://github.com/danielboven/ordered-uuid-v4) - Generate ordered UUIDs aka COMBs (combined time-GUIDs) in JavaScript
 - [supabase/supa_audit](https://github.com/supabase/supa_audit) - Generic Table Auditing
 - [Tencent/vap](https://github.com/Tencent/vap) - VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。
@@ -9285,7 +9285,6 @@
 - [GoodCryptoApp/market-data-feed](https://github.com/GoodCryptoApp/market-data-feed) - Deprecated // Free Real-time Crypto Market Data Feed
 - [alextanhongpin/reason-github-leaderboard](https://github.com/alextanhongpin/reason-github-leaderboard) - Sample Github Leaderboard written with Reason React
 - [lenve/VBlog](https://github.com/lenve/VBlog) - V部落，Vue+SpringBoot实现的多用户博客管理平台!
-- [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [tower-rs/tower-grpc](https://github.com/tower-rs/tower-grpc) - A gRPC client & server implementation.
 - [pekingduck/pogo-game-master](https://github.com/pekingduck/pogo-game-master) - A repo of GAME Master files of Pokemon GO
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
