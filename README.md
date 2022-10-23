@@ -3497,7 +3497,7 @@
 - [Devisjs/devis](https://github.com/Devisjs/devis) - A microservices framework for Node.js
 - [DivanteLtd/microservices-book](https://github.com/DivanteLtd/microservices-book) - "Microservices Architecture for eCommerce" is an Open Source Book on Microservices and Headless eCommerce. Feel invited to contribute! Read online or download a PDF
 - [Madmous/madClones](https://github.com/Madmous/madClones) - A collection of frameworks that I love with a strong focus on clean code, testing, software architecture/design and devops.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [gios/hashline](https://github.com/gios/hashline) - Realtime discussions
 - [antonybudianto/cra-universal](https://github.com/antonybudianto/cra-universal) - 🌏 Create React App companion for universal app. No eject, zero config, Streaming SSR with Suspense. React 18 ready
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
