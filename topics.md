@@ -3703,7 +3703,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [sargsyan/github-notifier](https://github.com/sargsyan/github-notifier) - Get Github and Github Enterprise notifications in your Mac  OS  https://githubnotifier.net
 - [GitHawkApp/GitHawk](https://github.com/GitHawkApp/GitHawk) - The (second) best iOS app for GitHub.
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "locked and limited conversation to collaborators"
+- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked as resolved and limited to collaborators."
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [masterlittle/Prinder](https://github.com/masterlittle/Prinder) - Free Pull Request reminder for Github. Has configurations to post reminders to Slack and email along with jinja templating
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
@@ -4300,6 +4300,7 @@
 - [1backend/1backend](https://github.com/1backend/1backend) - Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas.
 - [Henry-Sarabia/igdb](https://github.com/Henry-Sarabia/igdb) - Go client for the Internet Game Database API
 - [asticode/go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
+- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [js-ojus/flow](https://github.com/js-ojus/flow) - A tiny open source workflow engine written in Go (golang)
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -5043,6 +5044,7 @@
 - [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [SpecFlowOSS/SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - #1 .NET BDD Framework. SpecFlow automates your testing & works with your existing code. Find Bugs before they happen. Behavior Driven Development helps developers, testers, and business representative
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [djangopackages/djangopackages](https://github.com/djangopackages/djangopackages) - Django Packages is a directory of reusable apps, sites, tools, and more for your Django projects.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
@@ -5892,7 +5894,7 @@
 - [sergey-telpuk/nestjs-rbac](https://github.com/sergey-telpuk/nestjs-rbac) - Awesome RBAC for NestJs
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [canaanites/await-catcher](https://github.com/canaanites/await-catcher) - Promise wrapper for easy error handling without try-catch 💯🔥
 - [tolgee/tolgee-platform](https://github.com/tolgee/tolgee-platform) - Tolgee is translation management cloud platform made for translating modern web applications. It works great with JS frameworks like React, Angular, Vue and others.
@@ -8532,7 +8534,7 @@
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 - [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
-- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
+- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detect JavaScript bots, browser spoofing, virtual machines and much more. No server required, 100% runs in the browser
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [kelseyhightower/buildinfo](https://github.com/kelseyhightower/buildinfo) - 
 - [nickfiggins/elasticspot](https://github.com/nickfiggins/elasticspot) - Easily reassign Elastic IPs to new Spot instances with AWS Lambda and CloudWatch Events.
@@ -8763,7 +8765,7 @@
 - [sorrycc/roadhog](https://github.com/sorrycc/roadhog) - 🐷 Cli tool for creating react apps, configurable version of create-react-app.
 - [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://a
 - [Kononnable/typeorm-model-generator](https://github.com/Kononnable/typeorm-model-generator) - Generates models for TypeORM from existing database.
-- [gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ+快手)、APP、多仓库、多商户、多门店、IM客服，遵循MIT开源协议发布、基于ThinkPHP6框架研发
+- [gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo) - ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ+快手)、APP、多仓库、多商户、多门店、IM客服，进销存遵循MIT开源协议发布、基于ThinkPHP6框架研发
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
 - [agileobjects/AgileMapper](https://github.com/agileobjects/AgileMapper) - A zero-configuration, highly-configurable, unopinionated object mapper with viewable execution plans. Flattens, unflattens, deep clones, merges, updates and projects queries. .NET 3.5+ and .NET Standa
@@ -9602,7 +9604,7 @@
 - [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
 - [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql) - Serverless GraphQL Examples for AWS AppSync and Apollo
 - [ForbesLindesay/taxi-rank](https://github.com/ForbesLindesay/taxi-rank) - A JSDom based Selenium Webdriver API
-- [RoyalIcing/Blik](https://github.com/RoyalIcing/Blik) - Easy file organisation, free from the Mac App Store
+- [BurntCaramel/Blik](https://github.com/BurntCaramel/Blik) - Easy file organisation, free from the Mac App Store
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [meliorence/react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
@@ -15280,7 +15282,7 @@
 - [vegardit/prisma-generator-nestjs-dto](https://github.com/vegardit/prisma-generator-nestjs-dto) - Generates NestJS DTO classes from Prisma Schema
 - [webeetle/react-headless-hooks](https://github.com/webeetle/react-headless-hooks) - Build and design powerful components while retaining 100% control over markup and styles.
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app) - A tool to make interacting with Firestore less painful
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
