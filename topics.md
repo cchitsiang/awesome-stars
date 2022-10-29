@@ -2231,7 +2231,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系
-- [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 
 ## data-visualization 
 
@@ -2429,7 +2429,7 @@
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
@@ -2654,7 +2654,7 @@
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
@@ -3174,7 +3174,7 @@
 - [mjavascript/practical-modern-javascript](https://github.com/mjavascript/practical-modern-javascript) - 🏊 Dive into ES6 and the future of JavaScript
 - [rapidjs/rapid.js](https://github.com/rapidjs/rapid.js) - An ORM-like Interface and a Router For Your API Requests
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [typesoft/container-ioc](https://github.com/typesoft/container-ioc) - Inversion of Control  container & Dependency Injection for Javascript and Node.js apps powered by Typescript.
 - [nobrainr/typescript-webpack-starter](https://github.com/nobrainr/typescript-webpack-starter) - ⚡ create-ts-lib: A Starter Kit and a CLI to create your TypeScript / ES6 module bundled by Webpack without thinking about build or unit tests configurations. 🏠
@@ -3199,7 +3199,7 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [totorototo/strava](https://github.com/totorototo/strava) - "Lybitos-Strava" is a React Native application consuming Strava RESTFul web services.
 - [Gigacore/React-Redux-Sass-Starter](https://github.com/Gigacore/React-Redux-Sass-Starter) - Everything you need to get started with a basic React application
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [EQuimper/nodejs-api-boilerplate](https://github.com/EQuimper/nodejs-api-boilerplate) - A boilerplate for kickstart your nodejs api project with JWT Auth and some new Techs :)
 - [bartonhammond/snowflake](https://github.com/bartonhammond/snowflake) - :snowflake: A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router,  & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Par
 - [sindresorhus/eslint-formatter-pretty](https://github.com/sindresorhus/eslint-formatter-pretty) - Pretty ESLint formatter
@@ -3253,7 +3253,7 @@
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of
 - [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 - [travist/resourcejs](https://github.com/travist/resourcejs) - An minimalistic Express.js library that will reflect a Mongoose model onto a RESTful interface with a splash of Swagger.io love.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [OmarElgabry/chat.io](https://github.com/OmarElgabry/chat.io) - A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
@@ -3796,7 +3796,7 @@
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
@@ -3937,7 +3937,7 @@
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
+- [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
@@ -4095,7 +4095,7 @@
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
@@ -4272,7 +4272,7 @@
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - high performance JSON encoder/decoder with stream API for Golang
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
+- [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 - [lastbackend/lastbackend](https://github.com/lastbackend/lastbackend) - System for containerized apps management. From build to scaling.
 - [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 - [ua-nick/Data-Structures-and-Algorithms](https://github.com/ua-nick/Data-Structures-and-Algorithms) - Data Structures and Algorithms implementation in Go
@@ -4802,6 +4802,7 @@
 - [ankythshukla/underexpress](https://github.com/ankythshukla/underexpress) - A free, responsive, ready to use website ui kit, built with bootstrap 4.
 - [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
+- [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [ans-4175/peta-indonesia-geojson](https://github.com/ans-4175/peta-indonesia-geojson) - Peta GeoJSON Indonesia dengan Kode Provinsi
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -4989,7 +4990,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
@@ -5722,7 +5723,7 @@
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [hummatli/AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater) - :sunny::package::racehorse: An Android library to check new versions(update) of your Android applications on the PlayStore (free, open source, third party).
-- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性
+- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Vuex 4+Vant 3) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [zuihou/lamp-cloud](https://github.com/zuihou/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot的微服务快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框
@@ -6189,7 +6190,7 @@
 - [matthieu-beteille/redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) - Declarative Side Effects for Redux
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -6359,7 +6360,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [javascript-society/javascript-path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development :rocket:
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
@@ -7470,7 +7471,7 @@
 - [arimorty/floatingsearchview](https://github.com/arimorty/floatingsearchview) - A search view that implements a floating search bar also known as persistent search
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [Ramotion/animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) - :octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material Design ProgressBar with consistent appearance
 - [IvBaranov/MaterialFavoriteButton](https://github.com/IvBaranov/MaterialFavoriteButton) - Animated favorite/star/like button
 - [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) - Smooth version of Google Support Design AppBarLayout
@@ -7537,7 +7538,7 @@
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) - 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
 - [electrode-io/electrode-native](https://github.com/electrode-io/electrode-native) - A platform to ease integration&delivery of React Native apps in existing mobile applications
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
 - [MarnoDev/react-native-open-project](https://github.com/MarnoDev/react-native-open-project) - 可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
@@ -7752,7 +7753,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
-- [donet5/SqlSugar](https://github.com/donet5/SqlSugar) - Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
+- [donet5/SqlSugar](https://github.com/donet5/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [spacecloud-io/space-cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -7828,7 +7829,7 @@
 - [facebookresearch/ELF](https://github.com/facebookresearch/ELF) - An End-To-End, Lightweight and Flexible Platform for Game Research
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [ssusnic/Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) - Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm
-- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）
+- [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 - [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI Kubeflow Distribution
@@ -8174,7 +8175,7 @@
 - [hemerajs/modern-node-package](https://github.com/hemerajs/modern-node-package) - Modern Stack to build server-side Node.js packages.
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [benjamincanac/imperium](https://github.com/benjamincanac/imperium) - Role-based Authorizations library for Node.js
@@ -8338,7 +8339,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [jxnblk/ram](https://github.com/jxnblk/ram) - :atom_symbol: React Application Manager: create and run React (and other) applications – no command line or build setup required
 - [reactopt/reactopt](https://github.com/reactopt/reactopt) - A CLI React performance optimization tool that identifies potential unnecessary re-rendering
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [nobrainr/typescript-webpack-starter](https://github.com/nobrainr/typescript-webpack-starter) - ⚡ create-ts-lib: A Starter Kit and a CLI to create your TypeScript / ES6 module bundled by Webpack without thinking about build or unit tests configurations. 🏠
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -11743,7 +11744,7 @@
 - [yapstudios/YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDB is a collection/key/value store with a plugin architecture. It's built atop sqlite, for Swift & objective-c developers.
 - [morizotter/SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - Lightweight dropdown message bar in Swift. It's simple and beautiful.
 - [Beniamiiin/BSErrorMessageView](https://github.com/Beniamiiin/BSErrorMessageView) - Error message view for text field
-- [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide) - The official Swift style guide for raywenderlich.com.
+- [kodecocodes/swift-style-guide](https://github.com/kodecocodes/swift-style-guide) - The official Swift style guide for raywenderlich.com.
 - [zmeyc/UITestUtils](https://github.com/zmeyc/UITestUtils) - Take screenshots in Xcode UI Tests (Swift)
 - [rcmstark/whatsapp-ios](https://github.com/rcmstark/whatsapp-ios) - A simple message UI library similar to WhatsApp app
 - [syrusakbary/react-native-refresher](https://github.com/syrusakbary/react-native-refresher) - A pull to refresh ListView for React Native completely written in js.
@@ -12769,7 +12770,7 @@
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
-- [donet5/SqlSugar](https://github.com/donet5/SqlSugar) - Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
+- [donet5/SqlSugar](https://github.com/donet5/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
 - [ramesaliyev/mom](https://github.com/ramesaliyev/mom) - Proof of concept for Message-Oriented-Middleware based architecture.
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [flexxnn/sequelize-auto-migrations](https://github.com/flexxnn/sequelize-auto-migrations) - Migration generator && runner for sequelize
@@ -13256,7 +13257,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [webeetle/react-headless-hooks](https://github.com/webeetle/react-headless-hooks) - Build and design powerful components while retaining 100% control over markup and styles.
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
@@ -13646,7 +13647,7 @@
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
 - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
@@ -14505,7 +14506,7 @@
 
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性
+- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵
 - [zuihou/lamp-cloud](https://github.com/zuihou/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot的微服务快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
@@ -14520,7 +14521,7 @@
 ## spring-boot 
 
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性
+- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Vuex 4+Vant 3) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
@@ -14895,7 +14896,7 @@
 - [gaowanli/PinGo](https://github.com/gaowanli/PinGo) - 纯Swift编写的仿“随遇”App
 - [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion
 - [Finb/V2ex-Swift](https://github.com/Finb/V2ex-Swift) - An iOS client written in Swift for V2EX
-- [raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [FolioReader/FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - 📚 A Swift ePub reader and parser framework for iOS.
 - [marmelroy/Zip](https://github.com/marmelroy/Zip) - Swift framework for zipping and unzipping files.
@@ -15181,7 +15182,7 @@
 - [txthinking/frank](https://github.com/txthinking/frank) - Frank is a REST API automated testing tool like Postman but in command line. Auto generate markdown API document.
 - [hemerajs/modern-node-package](https://github.com/hemerajs/modern-node-package) - Modern Stack to build server-side Node.js packages.
 - [bleenco/abstruse](https://github.com/bleenco/abstruse) - Abstruse is a free and open-source CI/CD platform that tests your models and code.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [gcapizzi/moka](https://github.com/gcapizzi/moka) - A Go mocking framework.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [grug/data-mocks](https://github.com/grug/data-mocks) - Library to mock local data requests using Fetch or XHR
@@ -15537,7 +15538,7 @@
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
@@ -15640,7 +15641,7 @@
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性
+- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵
 - [ncform/ncform](https://github.com/ncform/ncform) - 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
 - [vue-generators/vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
