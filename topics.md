@@ -7398,7 +7398,7 @@
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
-- [onblogs/JustWrite](https://github.com/onblogs/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器（欢迎Star，🚫禁止Fork）
+- [onblog/JustWrite](https://github.com/onblog/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器（欢迎Star，🚫禁止Fork）
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
