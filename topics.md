@@ -887,7 +887,7 @@
 
 ## automation 
 
-- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detect automation tools. No server required, runs 100% on the client.
+- [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client.
 - [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code backend and automation builder.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated service health dashboard
@@ -4999,7 +4999,6 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
 - [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
 - [parse-community/Parse-SDK-Android](https://github.com/parse-community/Parse-SDK-Android) - The Android SDK for Parse Platform
@@ -8704,7 +8703,7 @@
 - [RobertBroersma/bigheads](https://github.com/RobertBroersma/bigheads) - Easily create characters for your projects
 - [diego3g/electron-typescript-react](https://github.com/diego3g/electron-typescript-react) - :electron: An Electron boilerplate including TypeScript, React, Jest and ESLint.
 - [yuanqing/figma-plugins](https://github.com/yuanqing/figma-plugins) - :fire: Monorepo for my Figma plugins
-- [trading-point/reactiveswift-composable-architecture](https://github.com/trading-point/reactiveswift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+- [ReactiveCocoa/reactiveswift-composable-architecture](https://github.com/ReactiveCocoa/reactiveswift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper) - A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [RepairShopr/react-native-signature-capture](https://github.com/RepairShopr/react-native-signature-capture) - A simple modular component for react native (iOS) to capture a signature as an image
@@ -11208,7 +11207,7 @@
 - [DeonHeyns/Exploring-Akka-Dot-NET](https://github.com/DeonHeyns/Exploring-Akka-Dot-NET) - Me trying to figure out what how Akka.NET works
 - [DeonHeyns/ScriptBot](https://github.com/DeonHeyns/ScriptBot) - A Bot built on top of .NET, ScriptCs and MEF.
 - [hharnisc/react-native-meteor](https://github.com/hharnisc/react-native-meteor) - An example that brings Meteor and React Native together (via Objective-DDP and the React Native Bridge)
-- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+- [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [rahulrj/YahooNewsOnboarding](https://github.com/rahulrj/YahooNewsOnboarding) - Demo of the onboarding animations of Yahoo News App
 - [b12io/orchestra](https://github.com/b12io/orchestra) - Orchestra is a Robotic Process Automation system for orchestrating project teams of experts and machines.
 - [hongyangAndroid/ChangeSkin](https://github.com/hongyangAndroid/ChangeSkin) - 基于插件式的Android换肤框架，支持app内和或者外部插件式提供资源的换肤方案，无需重启Activity。[仅供参考原理，暂不维护]
@@ -11408,6 +11407,7 @@
 - [TheFinestArtist/YouTubePlayerActivity](https://github.com/TheFinestArtist/YouTubePlayerActivity) - Android Youtube Player Activity. Simply pass a url to play youtube video in new activity. It supports screen orientation, media volume control and etc.
 - [kiwi-bdd/Kiwi](https://github.com/kiwi-bdd/Kiwi) - Simple BDD for iOS
 - [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
+- [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking) - A curated list of awesome networking libraries, resources and shiny things
 - [wulfland/SPEmulators](https://github.com/wulfland/SPEmulators) - A nuget package that easily allows you to write unit test against SharePoint in farm solutions.
 - [huiyan-fe/mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
