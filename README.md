@@ -967,7 +967,6 @@
 - [hiddentao/squel](https://github.com/hiddentao/squel) - :office: SQL query string builder for Javascript
 - [LoyaltyNZ/alchemy-ether](https://github.com/LoyaltyNZ/alchemy-ether) - alchemy-ether is the base layer to the alchemy framework implemented in Node.js
 - [xdissent/iectrl](https://github.com/xdissent/iectrl) - Command line interface and Node module for managing ievms virtual machines
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [HospitalRun/hospitalbot](https://github.com/HospitalRun/hospitalbot) - Hubot for use in our HospitalRun Slack workspace
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation
@@ -4137,6 +4136,7 @@
 - [yongjhih/docker-parse-server](https://github.com/yongjhih/docker-parse-server) - Provide docker images and docker stack for parse-server npm versions and latest commit
 - [kontena/examples](https://github.com/kontena/examples) - 
 - [instainer/parse-server-docker](https://github.com/instainer/parse-server-docker) - Simple docker image for parse-server
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [Kilian/fromscratch](https://github.com/Kilian/fromscratch) - Autosaving Scratchpad. A simple but smart note-taking app
 - [arisAlexis/microchatter](https://github.com/arisAlexis/microchatter) - A persistent and real-time chat backend that integrates with your existing website ⛺
 - [orizens/echoes](https://github.com/orizens/echoes) - Echoes is a media player based on youtube which provides a great user experience (no ads!). Overall, it's a web application that is based on angular.js & bootstrap.
@@ -6551,7 +6551,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation and testing with Selenium, Python, and pytest. Advanced features include: a dashboard, a recorder for generating tests, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation and testing. Includes a dashboard, a test-generating recorder, and more.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
