@@ -13671,7 +13671,7 @@
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [VulcanJS/Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications over the latest technologies: .Net Core, C# 8 (not-nullable), ASP.NET Web API, Typescript 3.7 (strict), React, D3 and Sql Server or Postgree
+- [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications using the latest versions of .Net Core, C#  (not-nullable), ASP.NET Web API, Typescript (strict), React, D3 and Sql Server or PostgreeSQL
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## react-native 
@@ -15542,7 +15542,7 @@
 - [serenity-is/Serene](https://github.com/serenity-is/Serene) - Serenity Application Template
 - [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 - [signumsoftware/extensions](https://github.com/signumsoftware/extensions) - Set of modules that complements Signum Framework: Authorization, Charting, ControlPanels, Mailing, Processes, Scheduled Tasks, Disconnected, User Queries...
-- [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications over the latest technologies: .Net Core, C# 8 (not-nullable), ASP.NET Web API, Typescript 3.7 (strict), React, D3 and Sql Server or Postgree
+- [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications using the latest versions of .Net Core, C#  (not-nullable), ASP.NET Web API, Typescript (strict), React, D3 and Sql Server or PostgreeSQL
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## ubuntu 
