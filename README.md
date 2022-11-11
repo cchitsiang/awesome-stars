@@ -177,7 +177,6 @@
 - [HunterHillegas/iOS-BetaBuilder](https://github.com/HunterHillegas/iOS-BetaBuilder) - MacOS X tool designed to simplify creating and distributing beta releases of iOS apps.
 - [heardrwt/RevealLoader](https://github.com/heardrwt/RevealLoader) - Reveal Loader dynamically loads libReveal.dylib (Reveal.app support) into iOS apps on jailbroken devices.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for informa
 - [keenlabs/KeenClient-iOS](https://github.com/keenlabs/KeenClient-iOS) - Official iOS client for the Keen IO API. Build analytics features directly into your iOS apps.
@@ -581,7 +580,7 @@
 - [signumsoftware/southwind](https://github.com/signumsoftware/southwind) - Signum Framework solution example (versioning MS Northwind)
 - [signumsoftware/extensions](https://github.com/signumsoftware/extensions) - Set of modules that complements Signum Framework: Authorization, Charting, ControlPanels, Mailing, Processes, Scheduled Tasks, Disconnected, User Queries...
 - [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-- [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications over the latest technologies: .Net Core, C# 8 (not-nullable), ASP.NET Web API, Typescript 3.7 (strict), React, D3 and Sql Server or Postgree
+- [signumsoftware/framework](https://github.com/signumsoftware/framework) - Open Source framework for writing data-centric applications using the latest versions of .Net Core, C#  (not-nullable), ASP.NET Web API, Typescript (strict), React, D3 and Sql Server or PostgreeSQL
 - [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 - [pact-foundation/pact-net](https://github.com/pact-foundation/pact-net) - .NET version of Pact. Enables consumer driven contract testing, providing a mock service and DSL for the consumer project, and interaction playback and verification for the service provider project.
 - [hanssens/aspnetmvc-for-osx](https://github.com/hanssens/aspnetmvc-for-osx) - Fully working, runnable and clean ASP.NET MVC 5 project for Xamarin Studio and MONO on Mac OSX.
@@ -2961,7 +2960,6 @@
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Open-Federation/json-schema-editor-visual](https://github.com/Open-Federation/json-schema-editor-visual) - A json-schema editor of high efficient and easy-to-use, base on React.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
-- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [ashinzekene/vscode-nestjs-snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - 💥 Vscode NestJS Code Snippets
 - [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate) - Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
@@ -3153,7 +3151,7 @@
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [shystruk/create-react-redux-app-structure](https://github.com/shystruk/create-react-redux-app-structure) - Create React + Redux app structure with build configurations ✨
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [vivatoviva/crm](https://github.com/vivatoviva/crm) - 客户关系管理系统
 - [marmelab/sedy](https://github.com/marmelab/sedy) - A GitHub bot bringing the sed command to code reviews
@@ -3581,7 +3579,7 @@
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
-- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
+- [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
 - [FormidableLabs/electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
 - [ayojs/ayo](https://github.com/ayojs/ayo) - A fork of Node.js. Humans before technology.
 - [rsms/js-lru](https://github.com/rsms/js-lru) - A fast, simple & universal Least Recently Used (LRU) map for JavaScript
@@ -4229,7 +4227,7 @@
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example server using Express and the parse-server module.
 - [mpociot/whiteboard](https://github.com/mpociot/whiteboard) - Simply write beautiful API documentation.
 - [sgaurav/understanding-es6](https://github.com/sgaurav/understanding-es6) - Simple examples to help you understand ES6
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [mxstbr/login-flow](https://github.com/mxstbr/login-flow) - :key: A login/register flow built with React&Redux
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -4423,7 +4421,7 @@
 - [ajlkn/skel](https://github.com/ajlkn/skel) - A lightweight responsive framework for the www
 - [arunoda/meteor-up-legacy](https://github.com/arunoda/meteor-up-legacy) - Production Quality Meteor Deployments
 - [ozantunca/locally](https://github.com/ozantunca/locally) - Locally is a localStorage manager that supports expirable items with timeout values and saves space by compressing them using LZW algorithm.
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [tudou527/marketch](https://github.com/tudou527/marketch) - Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.
 - [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
@@ -5013,7 +5011,7 @@
 - [quiph/RecyclerView-FastScroller](https://github.com/quiph/RecyclerView-FastScroller) - A fully customizable Fast Scroller for the RecyclerView in Android, written in Kotlin
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [Tinder/Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client for Kotlin, Java, and Android
-- [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
+- [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 - [levibostian/Shutter-Android](https://github.com/levibostian/Shutter-Android) - It's finally easy to take photos/videos via camera or get photos/videos from gallery on Android.
 - [aritraroy/Flashbar](https://github.com/aritraroy/Flashbar) - ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
 - [kevalpatel2106/green-build](https://github.com/kevalpatel2106/green-build) - An android app for managing your CI builds.
@@ -5102,6 +5100,7 @@
 - [jake-low/hadoop.docker](https://github.com/jake-low/hadoop.docker) - Run a highly configurable, fully distributed Hadoop cluster with Docker!
 - [ritazh/s3proxydocker](https://github.com/ritazh/s3proxydocker) - :ship: Dockerize your s3proxy instance - run s3proxy in a docker container anywhere!
 - [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [git-game/git-game-v2](https://github.com/git-game/git-game-v2) - Second version of the terminal based game that teaches users git commands
 
 ## Markdown 
@@ -5323,7 +5322,7 @@
 - [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [Dejal/DejalActivityView](https://github.com/Dejal/DejalActivityView) - Conveniently displays a horizontal, bezel-style, or keyboard-covering view with a spinning activity indicator and adjustable text.
 - [chiahsien/CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) - The waterfall (i.e., Pinterest-like) layout for UICollectionView.
-- [yuantiku/YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore) - A simple Key-Value storage tool, using Sqlite as backend.
+- [kanyun-inc/YTKKeyValueStore](https://github.com/kanyun-inc/YTKKeyValueStore) - A simple Key-Value storage tool, using Sqlite as backend.
 - [Aufree/Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
 - [ChenYilong/CYLTableViewPlaceHolder](https://github.com/ChenYilong/CYLTableViewPlaceHolder) - 一行代码完成“空TableView占位视图”管理
 - [square/PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
@@ -7151,7 +7150,6 @@
 - [snowdream/awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [princebot/pythonize](https://github.com/princebot/pythonize) - download, install, and configure Python in one line
 - [cortexmedia/Beluga](https://github.com/cortexmedia/Beluga) - Beluga a CLI to deploy docker containers on a single server or low amount of servers.
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store.
 - [EivindArvesen/prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
 - [tutumcloud/mongodb](https://github.com/tutumcloud/mongodb) - [Deprecated] Docker image to run an out-of-the-box MongoDB server
@@ -8019,7 +8017,7 @@
 - [amir9480/vscode-laravel-extra-intellisense](https://github.com/amir9480/vscode-laravel-extra-intellisense) - This extension adds extra autocompletion for laravel projects to VSCode.
 - [remorses/genql](https://github.com/remorses/genql) - Type safe Graphql query builder
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
-- [radix-ui/primitives](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
@@ -8109,6 +8107,7 @@
 - [rucken/core-nestjs](https://github.com/rucken/core-nestjs) - A simple application demonstrating the basic usage of permissions with NestJS (JWT, Passport, Facebook, Google+, User, Group, Permission)
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [topfullstack/nestjs-mongoose-crud](https://github.com/topfullstack/nestjs-mongoose-crud) - Nest.js crud module for mongoose models without `nestjsx/crud`
 - [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [DivanteLtd/next](https://github.com/DivanteLtd/next) - Vue Storefront Next is R&D branch of Vue Storefront.
@@ -8589,6 +8588,7 @@
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
