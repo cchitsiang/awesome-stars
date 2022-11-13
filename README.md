@@ -626,7 +626,7 @@
 - [elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 - [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
-- [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
+- [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [restsharp/RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
@@ -1102,7 +1102,7 @@
 
 ## Go 
 
-- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
+- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
@@ -1872,6 +1872,7 @@
 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资源库。
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -4972,7 +4973,6 @@
 - [h2oai/h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Me
 - [Honlan/fullstack-data-engineer](https://github.com/Honlan/fullstack-data-engineer) - 全栈数据工程师养成攻略
 - [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark) - Distributed deep learning on Hadoop and Spark clusters.
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [pkmital/tensorflow_tutorials](https://github.com/pkmital/tensorflow_tutorials) - From the basics to slightly more interesting applications of Tensorflow
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
@@ -5100,7 +5100,6 @@
 - [jake-low/hadoop.docker](https://github.com/jake-low/hadoop.docker) - Run a highly configurable, fully distributed Hadoop cluster with Docker!
 - [ritazh/s3proxydocker](https://github.com/ritazh/s3proxydocker) - :ship: Dockerize your s3proxy instance - run s3proxy in a docker container anywhere!
 - [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [git-game/git-game-v2](https://github.com/git-game/git-game-v2) - Second version of the terminal based game that teaches users git commands
 
 ## Markdown 
@@ -5159,7 +5158,7 @@
 - [mrustaa/ContainerView](https://github.com/mrustaa/ContainerView) - ContainerView is designed to add a cool swim from the bottom to the animation with the effect of scale, controlled by the help of a gesture, scrollView also takes control. The idea is taken from the a
 - [ivpusic/react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping
 - [caixindong/XDCaptureService](https://github.com/caixindong/XDCaptureService) - 
-- [lufinkey/react-native-spotify](https://github.com/lufinkey/react-native-spotify) - A react native module for the Spotify SDK. Works on both iOS and Android.
+- [lufinkey/react-native-spotify](https://github.com/lufinkey/react-native-spotify) - A react native module for the Spotify SDK. [Deprecated]
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
 - [AliSoftware/OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 - [NJHu/iOSProject](https://github.com/NJHu/iOSProject) - iOS project of collected some demos for iOS App, use Objective-C
@@ -6328,7 +6327,6 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Team-TAU/tau](https://github.com/Team-TAU/tau) - TAU- Twitch API Unifier, a containerized relay/proxy to unify the WebHook- and WebSocket-based real-time Twitch APIs under a single (local) WebSocket connection.
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -6616,6 +6614,7 @@
 - [0xadada/dockdj](https://github.com/0xadada/dockdj) - :ship: A recipe for building 12-factor Python / Django web apps with multi-container Docker and deploying to Amazon AWS using Elastic Beanstalk.
 - [buckyroberts/Spider](https://github.com/buckyroberts/Spider) - Python website crawler.
 - [hfaran/slack-export-viewer](https://github.com/hfaran/slack-export-viewer) - A Slack Export archive viewer that allows you to easily view and share your Slack team's export
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [agateblue/lifter](https://github.com/agateblue/lifter) - A generic query engine, inspired by Django ORM
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
 - [dt1/itemhut](https://github.com/dt1/itemhut) - Item Hut: Inventory, Warehouse, Product Management, Channels Manager, CRM, etc.
@@ -6946,7 +6945,7 @@
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [mobilecoinfoundation/mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) - Private payments for mobile devices.
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A powerful cloud data warehouse. Built for elasticity and efficiency. Free and open. Also available in the cloud: https://app.databend.com
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
@@ -7150,6 +7149,7 @@
 - [snowdream/awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [princebot/pythonize](https://github.com/princebot/pythonize) - download, install, and configure Python in one line
 - [cortexmedia/Beluga](https://github.com/cortexmedia/Beluga) - Beluga a CLI to deploy docker containers on a single server or low amount of servers.
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store.
 - [EivindArvesen/prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
 - [tutumcloud/mongodb](https://github.com/tutumcloud/mongodb) - [Deprecated] Docker image to run an out-of-the-box MongoDB server
