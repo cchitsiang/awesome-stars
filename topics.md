@@ -9492,7 +9492,6 @@
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [TextureGroup/Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
 - [AshleyScirra/defend.js](https://github.com/AshleyScirra/defend.js) - Statically-typed JavaScript classes.
-- [tucaz/agile-development-cheat-sheet](https://github.com/tucaz/agile-development-cheat-sheet) - 2017 Agile Development Cheat Sheet
 - [aviabird/angular-seed](https://github.com/aviabird/angular-seed) - Angular Seed App with Angular 5.0, ngrx/store 4, bootstrap 4, ngrx/effects, immutable.js
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [256cats/fullstack-koa-react-redux-typescript](https://github.com/256cats/fullstack-koa-react-redux-typescript) - Minimal fullstack Koa 2 + React + Redux + Webpack HMR + TypeScript + SASS starter project
