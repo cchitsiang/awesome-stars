@@ -8205,7 +8205,7 @@
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [acro5piano/typed-graphqlify](https://github.com/acro5piano/typed-graphqlify) - Build Typed GraphQL Queries in TypeScript without the code generation
-- [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [frontarm/navi](https://github.com/frontarm/navi) - 🧭 Declarative, asynchronous routing for React.
 - [jackrobertscott/forge](https://github.com/jackrobertscott/forge) - 🏹 Free and open source developer tool.
 - [microsoft/clarity-js](https://github.com/microsoft/clarity-js) - This library has moved and is now available at
