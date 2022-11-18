@@ -1108,7 +1108,7 @@
 - [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
+- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -1365,7 +1365,7 @@
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [tinrab/spidey](https://github.com/tinrab/spidey) - A Microservices and GraphQL based online store
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [alibaba/pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
@@ -2120,7 +2120,7 @@
 - [remychantenay/Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase.
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [2227324689/gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
-- [MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
+- [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 - [iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw) - 🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切
@@ -2223,7 +2223,7 @@
 - [yanchummar/FlipTable](https://github.com/yanchummar/FlipTable) - A Restaurant Table Reservation App
 - [team-supercharge/ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - DEPRECATED - Memory efficient shimmering effect for Android applications by Supercharge.
 - [facebook/shimmer-android](https://github.com/facebook/shimmer-android) - An easy, flexible way to add a shimmering effect to any view in an Android app.
-- [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi
 - [edinc/java-selenium-framework](https://github.com/edinc/java-selenium-framework) - Java based UI testing framework using Selenium and Zalenium
 - [MaksTuev/ferro](https://github.com/MaksTuev/ferro) - Simple and powerful MVP library for Android
@@ -2231,7 +2231,7 @@
 - [BryantPang/ReadHub](https://github.com/BryantPang/ReadHub) - ReadHub 第三方安卓客户端
 - [DuanJiaNing/Musicoco](https://github.com/DuanJiaNing/Musicoco) - 【我的音乐-Musicoco】 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 - [yangchong211/YCVideoPlayer](https://github.com/yangchong211/YCVideoPlayer) - 基础封装视频播放器player，可以在ExoPlayer、MediaPlayer原生MediaPlayer可以自由切换内核；该播放器整体架构：播放器内核(自由切换) + 视频播放器 + 边播边缓存 + 高度定制播放器UI视图层。支持视频简单播放，列表播放，仿抖音滑动播放，自动切换播放，使用案例丰富，拓展性强。
-- [MindorksOpenSource/android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvp-architecture](https://github.com/janishar/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 - [NotFound9/interviewGuide](https://github.com/NotFound9/interviewGuide) - 推荐刷题网站: https://www.lintcode.com/?utm_source=tf-github-NotFound2022  点此领取7天VIP会员：https://www.lintcode.com/vip/activity/z1qgMH           《大厂面试指北》——包括Java基础、JVM、数据库、mysql、redis、计算机网络、算法、数据结构、操作系统、设计模式、系
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [huangyanbin/smartTable](https://github.com/huangyanbin/smartTable) - 一款android自动生成表格框架---An Android automatically generated table framework
@@ -2241,7 +2241,7 @@
 - [spotify/docker-client](https://github.com/spotify/docker-client) - INACTIVE: A simple docker client for the JVM
 - [pinterest/soundwave](https://github.com/pinterest/soundwave) - A searchable EC2 Inventory store
 - [xuxueli/xxl-crawler](https://github.com/xuxueli/xxl-crawler) - A distributed web crawler framework.（分布式爬虫框架XXL-CRAWLER）
-- [MindorksOpenSource/android-mvvm-architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [camunda/zeebe](https://github.com/camunda/zeebe) - Distributed Workflow Engine for Microservices Orchestration
 - [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
 - [onmyway133/awesome-android-animation](https://github.com/onmyway133/awesome-android-animation) - :sweat_drops: A collection of Android animation repos
@@ -3577,7 +3577,6 @@
 - [onmyway133/IconGenerator](https://github.com/onmyway133/IconGenerator) - 🍱 A macOS app to generate app icons
 - [notifme/notifme-sdk](https://github.com/notifme/notifme-sdk) - A Node.js library to send all kinds of transactional notifications.
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts
-- [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Data Mining
 - [FormidableLabs/electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
@@ -5563,7 +5562,7 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
-- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+- [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [raylene/eng-handbook](https://github.com/raylene/eng-handbook) - A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
@@ -8108,7 +8107,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [topfullstack/nestjs-mongoose-crud](https://github.com/topfullstack/nestjs-mongoose-crud) - Nest.js crud module for mongoose models without `nestjsx/crud`
-- [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
+- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [DivanteLtd/next](https://github.com/DivanteLtd/next) - Vue Storefront Next is R&D branch of Vue Storefront.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [coddx-hq/coddx-alpha](https://github.com/coddx-hq/coddx-alpha) - Todo Kanban Board manages tasks and save them as TODO.md - a simple plain text file.
@@ -8278,7 +8277,7 @@
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
 - [developer239/localized-graphql-koa-typescript](https://github.com/developer239/localized-graphql-koa-typescript) - JavaScript meets server. Objection and GraphQL with support for 🌍  multiple languages.   🐳  and 100 % test coverage included.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
@@ -8438,6 +8437,7 @@
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
+- [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [alex3165/react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [brookshi/Hitchhiker](https://github.com/brookshi/Hitchhiker) - a Restful Api test tool
@@ -8634,7 +8634,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev) - ⚡ A portfolio for developers with a blog powered by Notion
-- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [Idered/iridium](https://github.com/Idered/iridium) - 💎 VS Code extensions
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
