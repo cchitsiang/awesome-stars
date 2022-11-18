@@ -339,7 +339,7 @@
 - [alipay/SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [remychantenay/Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase.
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
-- [MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
+- [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [mobile-roadmap/android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw) - 🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base
@@ -414,7 +414,7 @@
 - [team-supercharge/ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - DEPRECATED - Memory efficient shimmering effect for Android applications by Supercharge.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+- [amitshekhariitbhu/android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 - [ddwhan0123/Useful-Open-Source-Android](https://github.com/ddwhan0123/Useful-Open-Source-Android) - 造福大家，0广告，收集归纳
 - [esafirm/android-conductor-boilerplate](https://github.com/esafirm/android-conductor-boilerplate) - Boilerplate code for ➡️  https://github.com/esafirm/generator-android-conductor
 - [MaksTuev/ferro](https://github.com/MaksTuev/ferro) - Simple and powerful MVP library for Android
@@ -433,7 +433,7 @@
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [deadcoder0904/react-native-redux-calculator](https://github.com/deadcoder0904/react-native-redux-calculator) - Sexy Calculator made using React Native & Redux :heart_eyes:
 - [TakuSemba/Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
-- [MindorksOpenSource/android-mvvm-architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [electrode-io/electrode-native](https://github.com/electrode-io/electrode-native) - A platform to ease integration&delivery of React Native apps in existing mobile applications
@@ -1006,7 +1006,7 @@
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [run-x/awesome-kubernetes](https://github.com/run-x/awesome-kubernetes) - A curated list for awesome kubernetes projects, tools and resources.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
-- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+- [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
 - [jxom/bumbag-ui](https://github.com/jxom/bumbag-ui) - Build themeable React & React Native applications with your Bumbag 👝
@@ -1160,7 +1160,7 @@
 - [bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [run-x/awesome-kubernetes](https://github.com/run-x/awesome-kubernetes) - A curated list for awesome kubernetes projects, tools and resources.
 - [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
-- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+- [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -2353,7 +2353,7 @@
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
-- [MindorksOpenSource/android-mvvm-architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [jamesplease/redux-resource](https://github.com/jamesplease/redux-resource) - 3kb resource management for Redux
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
@@ -2585,7 +2585,7 @@
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
@@ -2718,7 +2718,7 @@
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-- [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
+- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -2754,7 +2754,7 @@
 - [binci/binci](https://github.com/binci/binci) - :whale: Containerize your development workflow.
 - [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [loft-sh/devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
@@ -3471,7 +3471,7 @@
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
 - [nataliemarleny/Casing](https://github.com/nataliemarleny/Casing) - The UI Framework for Framer Classic. Manages data, components and views
 - [thesyncim/exposed](https://github.com/thesyncim/exposed) - High performance  RPC framework
@@ -3922,7 +3922,7 @@
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [alibaba/pouch](https://github.com/alibaba/pouch) - An Efficient Enterprise-class Container Engine
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
@@ -4248,7 +4248,7 @@
 - [tinrab/spidey](https://github.com/tinrab/spidey) - A Microservices and GraphQL based online store
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [TarsCloud/TarsGo](https://github.com/TarsCloud/TarsGo) - A  high performance microservice  framework  in golang. A linux foundation project.
 - [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [GetStream/rockets-go-tutorial](https://github.com/GetStream/rockets-go-tutorial) - A tutorial in Go focused around resizing pictures of rockets. Learn about Go's syntax, HTTP Handlers, API calls, JSON parsing, Channels and more.
@@ -4860,7 +4860,6 @@
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [akshay2211/PixImagePicker](https://github.com/akshay2211/PixImagePicker) - Pix is a Whatsapp image picker replica. with this, you can integrate an image picker just like WhatsApp.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight) - Visualization tool for React, with support for Fiber, Router (v4), and Redux
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
@@ -5747,7 +5746,7 @@
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) - To Be Top Javaer - Java工程师成神之路
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [2227324689/gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
-- [MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
+- [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw) - 🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -6663,7 +6662,7 @@
 - [gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/
 - [mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
-- [MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
+- [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin
 - [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) - ⚠️ This project moved to a new repository. It is now developed and maintained at: https://github.com/mozilla-mobile/firefox-android
 - [getActivity/AndroidProject](https://github.com/getActivity/AndroidProject) - Android 技术中台，但愿人长久，搬砖不再有
@@ -6962,7 +6961,7 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
-- [MindorksOpenSource/android-developer-roadmap](https://github.com/MindorksOpenSource/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
+- [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
 - [guillermomuntaner/Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers (formerly "Property Delegates")
 - [mobile-roadmap/android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) - Android Developer Roadmap 2020
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -7082,7 +7081,7 @@
 - [lxdock/lxdock](https://github.com/lxdock/lxdock) - Build and orchestrate your development environments with LXD - a.k.a. Vagrant is Too Heavy™
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.7.45745, 3.3.5 = 3.3.5a.12340)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
@@ -7593,7 +7592,7 @@
 - [simagix/keyhole](https://github.com/simagix/keyhole) - Survey Your Mongo Land - MongoDB Performance Analytics
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
-- [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
+- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds 🚀
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Sp
@@ -7643,7 +7642,7 @@
 
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [topfullstack/nestjs-mongoose-crud](https://github.com/topfullstack/nestjs-mongoose-crud) - Nest.js crud module for mongoose models without `nestjsx/crud`
-- [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
+- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [szokodiakos/typegoose](https://github.com/szokodiakos/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [danielfsousa/express-rest-boilerplate](https://github.com/danielfsousa/express-rest-boilerplate) - ⌛️ Express starter for building RESTful APIs
 - [ngduc/node-rem](https://github.com/ngduc/node-rem) - Node REM - NodeJS Rest Express MongoDB and more: typescript, passport, JWT, socket.io, HTTPS, HTTP2, async/await, nodemailer, templates, pagination, docker, etc. Live Demo: https://node-rem-ngduc.verc
@@ -8041,7 +8040,7 @@
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [ablestack/nestjs-bff](https://github.com/ablestack/nestjs-bff) - A full-stack TypeScript solution, and starter project. Includes an API, CLI, and example client webapp. Features include production grade logging, authorization, authentication, MongoDB migrations, an
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
+- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -8114,7 +8113,7 @@
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
 - [NickNaso/hertzy](https://github.com/NickNaso/hertzy) - Event bus channel
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 - [primus/eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.
 - [xxczaki/fastic](https://github.com/xxczaki/fastic) - 🚀 Fast & Lightweight CLI HTTP server
@@ -8606,7 +8605,7 @@
 - [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful plugins
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your Web with WebCrate, a modern and beautiful bookmarking tool
+- [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build money-moving apps
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [rlingineni/serverless-rest-api-template](https://github.com/rlingineni/serverless-rest-api-template) - Template to use with serverless framework for Typescript + Koa API with Local Testing
@@ -9431,7 +9430,7 @@
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [PersistX/PersistDB](https://github.com/PersistX/PersistDB) - Projection-based Database Persistence in Swift
 - [browniefed/react-native-ticker](https://github.com/browniefed/react-native-ticker) - React Native Number Ticker
-- [MindorksOpenSource/android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvp-architecture](https://github.com/janishar/android-mvp-architecture) - This repository contains a detailed sample app that implements MVP architecture using Dagger2,  GreenDao, RxJava2, FastAndroidNetworking and PlaceholderView
 - [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 - [jkpang/PPNumberButtonSwift](https://github.com/jkpang/PPNumberButtonSwift) - 仿京东淘宝商品计数 Swift 版,可定制程度高,使用简单!
 - [jinht/NewsChannel](https://github.com/jinht/NewsChannel) - 新闻频道栏/滚动栏（网易新闻，新浪新闻，搜狐新闻，今日头条，聚划算，腾讯视频，优酷等类的频道栏），支持小红点标识 && 懒加载 && 缓存 && 排序 && 增删等
@@ -12873,7 +12872,7 @@
 
 ## project-management 
 
-- [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+- [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [a54552239/pearProject](https://github.com/a54552239/pearProject) - pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作
@@ -13440,7 +13439,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
@@ -14402,7 +14401,7 @@
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [SqueezerIO/squeezer](https://github.com/SqueezerIO/squeezer) - Squeezer Framework - Build serverless dApps
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [adnanrahic/lambda-mailer](https://github.com/adnanrahic/lambda-mailer) - Simple module for receiving an email from a contact form on your website.
 - [ewilde/faas-fargate](https://github.com/ewilde/faas-fargate) - OpenFaaS on AWS Fargate. Open source Functions as a Service without any infrastructure to manage
@@ -15128,7 +15127,7 @@
 
 ## terraform 
 
-- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
+- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [nsriram/lambda-the-terraform-way](https://github.com/nsriram/lambda-the-terraform-way) - AWS Lambda using Terraform., an Introductory Cookbook
 - [antonbabenko/terraform-cost-estimation](https://github.com/antonbabenko/terraform-cost-estimation) - Anonymized, secure, and free Terraform cost estimation based on Terraform plan (0.12+) or Terraform state (any version)
@@ -15182,7 +15181,7 @@
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library) - 🦉 Simple and complete React Native testing utilities that encourage good testing practices.
 - [mongomock/mongomock](https://github.com/mongomock/mongomock) - Small library for mocking pymongo collection objects for testing purposes
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [vfaronov/httpolice](https://github.com/vfaronov/httpolice) - Validator for HTTP
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
@@ -15379,7 +15378,7 @@
 - [rucken/core-nestjs](https://github.com/rucken/core-nestjs) - A simple application demonstrating the basic usage of permissions with NestJS (JWT, Passport, Facebook, Google+, User, Group, Permission)
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [ashinzekene/vscode-nestjs-snippets](https://github.com/ashinzekene/vscode-nestjs-snippets) - 💥 Vscode NestJS Code Snippets
-- [afteracademy/nodejs-backend-architecture-typescript](https://github.com/afteracademy/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
+- [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for Blogging platform like Medium, FreeCodeCamp, MindOrks, AfterAcademy - Learn to write unit and integration tests - Learn to
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
@@ -15455,7 +15454,7 @@
 - [unional/typescript-guidelines](https://github.com/unional/typescript-guidelines) - The TypeScript Guidebook
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [lapanti/ts-react-boilerplate](https://github.com/lapanti/ts-react-boilerplate) - A very opinionated (React/TypeScript/Redux/etc) frontend boilerplate
 - [wexond/browser-base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron
@@ -15910,7 +15909,7 @@
 - [Yoshino-UI/Yoshino](https://github.com/Yoshino-UI/Yoshino) - A themable React component library！Flexible Lightweight PC UI Components built on React! Anyone can generate easily all kinds of themes by it!
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
-- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+- [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
