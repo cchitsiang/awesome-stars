@@ -127,7 +127,6 @@
 
 ## C 
 
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [chronotruck/FlagPhoneNumber](https://github.com/chronotruck/FlagPhoneNumber) - A formatted phone number UITextField with country flag picker.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
@@ -1147,6 +1146,7 @@
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [odpf/raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -2076,6 +2076,7 @@
 
 ## Java 
 
+- [zalando/problem](https://github.com/zalando/problem) - A Java library that implements application/problem+json
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [ebarlas/microhttp](https://github.com/ebarlas/microhttp) - Fast, scalable, self-contained, single-threaded Java web server
@@ -2104,7 +2105,7 @@
 - [apache/inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop integration framework for massive data
 - [fossasia/susi_server](https://github.com/fossasia/susi_server) - SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
-- [zuihou/lamp-cloud](https://github.com/zuihou/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot的微服务快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框
+- [dromara/lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot的微服务快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [flowable/flowable-engine](https://github.com/flowable/flowable-engine) - A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.
 - [xuexiangjys/XUpdate](https://github.com/xuexiangjys/XUpdate) - 🚀A lightweight, high availability Android version update framework.(一个轻量级、高可用性的Android版本更新框架)
@@ -2568,7 +2569,7 @@
 - [linkedin/PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store written in Java
 - [LarsWerkman/Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker) - A great material designed colorpicker by Marie Schweiz
 - [HarlonWang/AVLoadingIndicatorView](https://github.com/HarlonWang/AVLoadingIndicatorView) - DEPRECATED
-- [plusCubed/recycler-fast-scroll](https://github.com/plusCubed/recycler-fast-scroll) - Widget for RecyclerView fast scrolling
+- [pluxoid/recycler-fast-scroll](https://github.com/pluxoid/recycler-fast-scroll) - Widget for RecyclerView fast scrolling
 - [xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector) - View Inspection Toolbar for Android Development
 - [kymjs/EmojiChat](https://github.com/kymjs/EmojiChat) - Android聊天界面+emoji表情+大表情实现
 - [liaohuqiu/android-UCToast](https://github.com/liaohuqiu/android-UCToast) - Demonstrate how UC browser display a system overlay view in any platform above API level 9.
