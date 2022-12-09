@@ -2443,6 +2443,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra
 - [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [matehat/Objective-LevelDB](https://github.com/matehat/Objective-LevelDB) - An Objective-C database library built over Google's LevelDB
@@ -11804,7 +11805,6 @@
 - [timschlechter/SpecResults](https://github.com/timschlechter/SpecResults) - Get better feedback from your SpecFlow testsuite
 - [JerryLead/SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
 - [vesln/todo](https://github.com/vesln/todo) - Todos in the CLI like what.
-- [wearehanno/oskar](https://github.com/wearehanno/oskar) - Oskar was a Slackbot that helped track happiness in remote teams. He has now been retired.
 - [manavgabhawala/CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer) - This repository is a peer to peer framework for OS X, iOS and watchOS 2 that presents a similar interface to the MultipeerConnectivity framework (which is iOS only) that lets you connect any 2 devices
 - [bubudrc/MPCoachMarks](https://github.com/bubudrc/MPCoachMarks) - MPCoachMarks is an iOS class that displays user coach marks with a couple of shapescutout over an existing UI. This approach leverages your actual UI as part of the onboarding process for your user.
 - [jariz/MaterialUp](https://github.com/jariz/MaterialUp) - MaterialUp Android App
@@ -14241,7 +14241,7 @@
 
 ## rust 
 
-- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - 🚀 Event sourcing suite for Rust 🦀
+- [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing runtime for wasm
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
