@@ -276,7 +276,7 @@
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [canperk/NorthindDomainDrivenDesignSample](https://github.com/canperk/NorthindDomainDrivenDesignSample) - DDD with Northwind Sample Database
 - [kwaazaar/Resonance](https://github.com/kwaazaar/Resonance) - Messaging library, supporting pub-sub, using MS SQL Server or MySql Server for storage. Ideal for implementing a (business) event driven architecture, pub-sub, microservices, etc.
-- [seven1986/oauthapp](https://github.com/seven1986/oauthapp) - H5应用、模板共享平台。
+- [seven1986/oauthapp](https://github.com/seven1986/oauthapp) - 前端发布工具
 - [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector
 - [microsoft/ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
@@ -7845,6 +7845,7 @@
 
 ## TypeScript 
 
+- [ridafkih/schemix](https://github.com/ridafkih/schemix) - Schemix allows you to programmatically create Prisma schemas using TypeScript ⌨️
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
