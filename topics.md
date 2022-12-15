@@ -1809,7 +1809,7 @@
 - [diegohaz/singel](https://github.com/diegohaz/singel) - Single Element Pattern
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [grantmcconnaughey/Lintly](https://github.com/grantmcconnaughey/Lintly) - Automated GitHub PR code reviewer for Python, JavaScript, CSS, and more.
-- [DrakeW/corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+- [junyu-w/corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [codeaholicguy/wowcup](https://github.com/codeaholicguy/wowcup) - ⚽ 💻 The finest Worldcup 2018 CLI.
 - [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
@@ -2344,7 +2344,7 @@
 - [Live-Charts/Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [DKirwan/calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - A d3 heatmap for representing time series data similar to github's contribution chart
-- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -4358,7 +4358,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [khlieng/dispatch](https://github.com/khlieng/dispatch) - Web-based IRC client in Go.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [DrakeW/corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+- [junyu-w/corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [crawshaw/littleboss](https://github.com/crawshaw/littleboss) - littleboss: supervisor construction kit
 - [esimov/pigo](https://github.com/esimov/pigo) - Fast face detection, pupil/eyes localization and facial landmark points detection library in pure Go.
@@ -5105,7 +5105,6 @@
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
@@ -6386,7 +6385,7 @@
 - [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
-- [socketio/engine.io](https://github.com/socketio/engine.io) - 
+- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [kennymkchan/interview-questions-in-javascript](https://github.com/kennymkchan/interview-questions-in-javascript) - A mostly reasonable collection of technical software development interview questions solved in Javascript
 - [senecajs/seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js.
@@ -8366,7 +8365,7 @@
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [actionhero/node-resque](https://github.com/actionhero/node-resque) - Node.js Background jobs backed by redis.
-- [socketio/engine.io](https://github.com/socketio/engine.io) - 
+- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
@@ -11404,7 +11403,7 @@
 - [KevinHM/FunctionalReactiveProgrammingOniOS](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS) - Functional reactive programming introduction using ReactiveCocoa 中文译本
 - [KevinHM/XCode_Snippets_iOS](https://github.com/KevinHM/XCode_Snippets_iOS) - Just a few code snippets I have in my Xcode arsenal. I thought it'd be cool to put these out in the ether.
 - [ChenYilong/iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9适配系列教程（iOS开发学习交流群： https://github.com/ChenYilong/iOSBlog/issues/21）
-- [heysupratim/MaterialDateRangePicker](https://github.com/heysupratim/MaterialDateRangePicker) - A material Date Range Picker based on wdullaers MaterialDateTimePicker
+- [heysupratim/material-daterange-picker](https://github.com/heysupratim/material-daterange-picker) - A material Date Range Picker based on wdullaers MaterialDateTimePicker
 - [icanzilb/UIEffectDesignerView](https://github.com/icanzilb/UIEffectDesignerView) - A native Particle Systems effect view for iOS and OSX powered by QuartzCore
 - [owenthereal/hacker-menu](https://github.com/owenthereal/hacker-menu) - Hacker News Delivered to Desktop :dancers:
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
@@ -13734,7 +13733,7 @@
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [jxnblk/static-react](https://github.com/jxnblk/static-react) - Zero-configuration CLI React static renderer
 - [d4rkr00t/aik](https://github.com/d4rkr00t/aik) - Frontend Playground
-- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [brakmic/OpenLok](https://github.com/brakmic/OpenLok) - :light_rail: React.js app to access the Deutsche Bahn API (German Railway Corporation)
@@ -14267,7 +14266,7 @@
 
 ## rust 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 A simple way to make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing runtime for wasm
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -14476,7 +14475,7 @@
 ## serverless 
 
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
-- [linkall-labs/vanus](https://github.com/linkall-labs/vanus) - Vanus is a Serverless message queue for building EDA applications with Ease.
+- [linkall-labs/vanus](https://github.com/linkall-labs/vanus) - Vanus is an open-source, cloud-native, Serverless message queue for building EDA applications with Ease.
 - [inngest/inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform which makes it easy for developers to build, test, and deploy serverless functions without worrying about infrastructure, queues, or stateful services.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
