@@ -1105,7 +1105,7 @@
 
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
-- [linkall-labs/vanus](https://github.com/linkall-labs/vanus) - Vanus is a Serverless message queue for building EDA applications with Ease.
+- [linkall-labs/vanus](https://github.com/linkall-labs/vanus) - Vanus is an open-source, cloud-native, Serverless message queue for building EDA applications with Ease.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [inngest/inngest](https://github.com/inngest/inngest) - Inngest is an open-source, event-driven platform which makes it easy for developers to build, test, and deploy serverless functions without worrying about infrastructure, queues, or stateful services.
 - [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
@@ -1369,6 +1369,7 @@
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [istio/community](https://github.com/istio/community) - Istio governance material.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
@@ -1443,7 +1444,7 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
-- [DrakeW/corgi](https://github.com/DrakeW/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
+- [junyu-w/corgi](https://github.com/junyu-w/corgi) - Corgi is a command-line workflow manager that helps with your repetitive command usages by organizing them into reusable snippet
 - [usefathom/fathom](https://github.com/usefathom/fathom) - Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.
 - [crawshaw/littleboss](https://github.com/crawshaw/littleboss) - littleboss: supervisor construction kit
 - [fluxcd/flux](https://github.com/fluxcd/flux) - Successor: https://github.com/fluxcd/flux2
@@ -2639,7 +2640,7 @@
 - [turing-tech/MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar) - An Android library that brings the Material Design 5.1 sidebar to pre-5.1 devices.
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [pyricau/frenchtoast](https://github.com/pyricau/frenchtoast) - Stale Android Toasts made tasty.
-- [heysupratim/MaterialDateRangePicker](https://github.com/heysupratim/MaterialDateRangePicker) - A material Date Range Picker based on wdullaers MaterialDateTimePicker
+- [heysupratim/material-daterange-picker](https://github.com/heysupratim/material-daterange-picker) - A material Date Range Picker based on wdullaers MaterialDateTimePicker
 - [android-cjj/SnailBar](https://github.com/android-cjj/SnailBar) - A lovely snail,You can use it as a seekbar or progressbar.
 - [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout) - This is a drop-down control, it is more beautiful and powerful than SwipeRefreshLayout
 - [tangqi92/Android-Tips](https://github.com/tangqi92/Android-Tips) - An awesome list of tips for Android.
@@ -4007,7 +4008,7 @@
 - [keithwhor/cmnd](https://github.com/keithwhor/cmnd) - Command Line Interface Utility for Node.js using ES6 idioms
 - [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
 - [oddnetworks/push-notifications-service](https://github.com/oddnetworks/push-notifications-service) - Node app to manage iOS and Android device tokens, coordinate with Amazon SNS, and send push notifications
-- [socketio/engine.io](https://github.com/socketio/engine.io) - 
+- [socketio/engine.io](https://github.com/socketio/engine.io) - The engine used in the Socket.IO JavaScript server, which manages the low-level transports such as HTTP long-polling and WebSocket.
 - [Chris911/mocha-http-detect](https://github.com/Chris911/mocha-http-detect) - Detect HTTP requests in your mocha test suites
 - [BafS/Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Material Colors - A React Native App to Select Material Colors for macOS.
 - [jamiebuilds/spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - :metal: Present code with style
@@ -4111,7 +4112,7 @@
 - [asamiller/den](https://github.com/asamiller/den) - iPhone app built with React Native for viewing houses for sale in the Northwest
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [localtunnel/server](https://github.com/localtunnel/server) - server for localtunnel.me
-- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
 - [alexjv89/mindless](https://github.com/alexjv89/mindless) - Work like a javascript engine and get things done.
 - [kurai021/MDWriter](https://github.com/kurai021/MDWriter) - A markdown desktop editor with steroids powered by the web
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -6945,7 +6946,7 @@
 
 ## Rust 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 A simple way to make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing runtime for wasm
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -7081,7 +7082,6 @@
 - [kingkool68/generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac
 - [aliceatlas/buildstatic](https://github.com/aliceatlas/buildstatic) - build Swift modules as static libraries, include them about as easily as normal frameworks. [• STATUS: still working last time I checked but possibly a bit outdated – should hopefully be fully obsolet
 - [shawnsw/kubernetes-tools](https://github.com/shawnsw/kubernetes-tools) - Kubernetes Tools is a set of scripts that simplifies daily Kubernetes operations.
-- [istio/community](https://github.com/istio/community) - Istio governance material.
 - [sargsyan/github-notifier](https://github.com/sargsyan/github-notifier) - Get Github and Github Enterprise notifications in your Mac  OS  https://githubnotifier.net
 - [boyney123/garie](https://github.com/boyney123/garie) - Open source web performance
 - [aviaryan/utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - 🤓 Useful bash scripts to do automatable tasks with a single command
