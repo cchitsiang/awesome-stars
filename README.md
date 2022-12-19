@@ -3409,7 +3409,7 @@
 - [ajb413/chat-engine-vue](https://github.com/ajb413/chat-engine-vue) - A demo application of PubNub ChatEngine, Vue.js, and AWS Cognitive.
 - [yasintoy/Vecihi](https://github.com/yasintoy/Vecihi) - Build Your Own Photo Sharing App in 5 minutes
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
-- [dntzhang/qone](https://github.com/dntzhang/qone) - Next-generation web query language, extend .NET LINQ for javascript.
+- [dntzhang/qone](https://github.com/dntzhang/qone) - .NET LINQ in javascript
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [ElemeFE/element-react](https://github.com/ElemeFE/element-react) - Element UI
@@ -3732,7 +3732,6 @@
 - [aaaristo/dyngodb](https://github.com/aaaristo/dyngodb) - An experiment to get a MongoDB like interface in front of DynamoDB
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [abynim/UserFlows](https://github.com/abynim/UserFlows) - A plugin for generating user walkthroughs from Artboards in Sketch.
-- [MachineAcuity/rebar](https://github.com/MachineAcuity/rebar) - Multi-tenant SaaS boilerplate + examples for universal web application with React, Material-UI, Relay, GraphQL, JWT, Node.js, C* DB - Cassandra/Elassandra/Scylla.
 - [kayomarz/dynamodb-data-types](https://github.com/kayomarz/dynamodb-data-types) - A convenience utility for Amazon DynamoDB Data Types.
 - [dynamoose/dynamoose](https://github.com/dynamoose/dynamoose) - Dynamoose is a modeling tool for Amazon's DynamoDB
 - [roastlechon/generator-koa2-rest](https://github.com/roastlechon/generator-koa2-rest) - RESTful API endpoint generator using koa@next and ES2015 features
