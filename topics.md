@@ -2068,7 +2068,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [kaxap/arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [dncto/dnc](https://github.com/dncto/dnc) - dnc 去中心化 开源社区 轻联盟 dncto.com QQ群 779699538
-- [dntzhang/qone](https://github.com/dntzhang/qone) - Next-generation web query language, extend .NET LINQ for javascript.
+- [dntzhang/qone](https://github.com/dntzhang/qone) - .NET LINQ in javascript
 - [optimajet/DWKit](https://github.com/optimajet/DWKit) - DWKit is a Business Process Management System based on .NET Core and React
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [bolorundurowb/dotenv.net](https://github.com/bolorundurowb/dotenv.net) - A library to read .env files in a .NET Core environment
@@ -5995,6 +5995,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
@@ -13367,6 +13368,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
 - [Permify/react-role](https://github.com/Permify/react-role) - Lightweight role based access management solution for React applications
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
 - [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
@@ -13701,7 +13703,6 @@
 - [olahol/react-ab](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
 - [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
-- [MachineAcuity/rebar](https://github.com/MachineAcuity/rebar) - Multi-tenant SaaS boilerplate + examples for universal web application with React, Material-UI, Relay, GraphQL, JWT, Node.js, C* DB - Cassandra/Elassandra/Scylla.
 - [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - :japanese_castle: Better ways to structure iOS apps
 - [Syncano/syncano-dashboard](https://github.com/Syncano/syncano-dashboard) - The Syncano Dashboard built with React.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -13958,6 +13959,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Permify/react-role](https://github.com/Permify/react-role) - Lightweight role based access management solution for React applications
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [webeetle/react-headless-hooks](https://github.com/webeetle/react-headless-hooks) - Build and design powerful components while retaining 100% control over markup and styles.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -14721,7 +14723,7 @@
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
-- [dntzhang/qone](https://github.com/dntzhang/qone) - Next-generation web query language, extend .NET LINQ for javascript.
+- [dntzhang/qone](https://github.com/dntzhang/qone) - .NET LINQ in javascript
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) - SQL-based streaming analytics platform at scale
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
