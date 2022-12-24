@@ -4112,7 +4112,7 @@
 - [asamiller/den](https://github.com/asamiller/den) - iPhone app built with React Native for viewing houses for sale in the Northwest
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [localtunnel/server](https://github.com/localtunnel/server) - server for localtunnel.me
-- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [alexjv89/mindless](https://github.com/alexjv89/mindless) - Work like a javascript engine and get things done.
 - [kurai021/MDWriter](https://github.com/kurai021/MDWriter) - A markdown desktop editor with steroids powered by the web
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
