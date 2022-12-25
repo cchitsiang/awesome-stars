@@ -2012,6 +2012,7 @@
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
 - [romannurik/LayerVisualizer](https://github.com/romannurik/LayerVisualizer) - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)
+- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [hyponet/PasteBin](https://github.com/hyponet/PasteBin) - A webapp for code share like paste.ubuntu.com
 - [sandstorm-io/sandstorm-app-market](https://github.com/sandstorm-io/sandstorm-app-market) - Sandstorm app market
 - [AlloyTeam/CodeGuide](https://github.com/AlloyTeam/CodeGuide) - Alloyteam代码规范
@@ -6566,7 +6567,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation and testing that extends Selenium.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation and testing.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -6700,7 +6701,6 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [Ivaylo-Popov/Theano-Lights](https://github.com/Ivaylo-Popov/Theano-Lights) - Deep learning research framework based on Theano
-- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [sogisha/fyuneru](https://github.com/sogisha/fyuneru) - 
 - [getsentry/sentry-teamwork](https://github.com/getsentry/sentry-teamwork) - A Sentry plugin that integrates with Teamwork
