@@ -4333,7 +4333,7 @@
 - [heroku/react-refetch](https://github.com/heroku/react-refetch) - A simple, declarative, and composable way to fetch data for React components
 - [YahooArchive/kobold](https://github.com/YahooArchive/kobold) - Visual regression testing framework, comparing screenshots from multiple builds
 - [Rejectedus/rejected.us](https://github.com/Rejectedus/rejected.us) - :cry: The codebase for rejected.us
-- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
 - [angular-ui/ui-select](https://github.com/angular-ui/ui-select) - AngularJS-native version of Select2 and Selectize
 - [angular/material](https://github.com/angular/material) - Material design for AngularJS
 - [ericjang/tdb](https://github.com/ericjang/tdb) - Interactive, node-by-node debugging and visualization for TensorFlow
