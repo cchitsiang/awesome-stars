@@ -2745,7 +2745,7 @@
 - [Q42/AndroidScrollingImageView](https://github.com/Q42/AndroidScrollingImageView) - An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.
 - [tom91136/Akatsuki](https://github.com/tom91136/Akatsuki) - Android states and arguments made easy with annotations
 - [dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView) - Android Bubble View
-- [TakeoffAndroid/AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation) - AppIntroAnimation is a set of code snippets to make cool intro screen for your app with special Image Translation and Transformation animation effects. It is very easy to use and customize without add
+- [chandrudotxyz/AppIntroAnimation](https://github.com/chandrudotxyz/AppIntroAnimation) - AppIntroAnimation is a set of code snippets to make cool intro screen for your app with special Image Translation and Transformation animation effects. It is very easy to use and customize without add
 - [arcadefire/nice-spinner](https://github.com/arcadefire/nice-spinner) - A nice spinner for Android
 - [tosslife/FoldingTabBar.Android](https://github.com/tosslife/FoldingTabBar.Android) - [DEPRECATED]  Folding Tabbar menu for Android. This is a menu library.You can easily add a nice animated tab menu to your app.
 - [recruit-lifestyle/BeerSwipeRefresh](https://github.com/recruit-lifestyle/BeerSwipeRefresh) - 
@@ -6563,7 +6563,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠 💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
