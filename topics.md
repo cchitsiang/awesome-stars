@@ -1705,7 +1705,7 @@
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠 💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -3418,7 +3418,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠 💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -11725,7 +11725,7 @@
 - [fe9lix/PennyPincher](https://github.com/fe9lix/PennyPincher) - A fast gesture recognizer based on the PennyPincher algorithm, written in Swift.
 - [cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay) - ImagePlay is a rapid prototyping application for image processing
 - [dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView) - Android Bubble View
-- [TakeoffAndroid/AppIntroAnimation](https://github.com/TakeoffAndroid/AppIntroAnimation) - AppIntroAnimation is a set of code snippets to make cool intro screen for your app with special Image Translation and Transformation animation effects. It is very easy to use and customize without add
+- [chandrudotxyz/AppIntroAnimation](https://github.com/chandrudotxyz/AppIntroAnimation) - AppIntroAnimation is a set of code snippets to make cool intro screen for your app with special Image Translation and Transformation animation effects. It is very easy to use and customize without add
 - [recruit-lifestyle/BeerSwipeRefresh](https://github.com/recruit-lifestyle/BeerSwipeRefresh) - 
 - [facebookarchive/sparts](https://github.com/facebookarchive/sparts) - Prototype python services with as little code as possible
 - [honghaoz/Ji](https://github.com/honghaoz/Ji) - Ji (戟) is an XML/HTML parser for Swift
@@ -13177,7 +13177,7 @@
 - [graphql-python/graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠 💡
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
