@@ -9,6 +9,7 @@
 - [ASP](#asp)
 - [AppleScript](#applescript)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
@@ -109,6 +110,10 @@
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
 
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ## AutoIt 
 
 - [fediaFedia/Omnimo](https://github.com/fediaFedia/Omnimo) - Omnimo UI Official Repository
@@ -189,10 +194,10 @@
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-- [jynew/jynew](https://github.com/jynew/jynew) - 开源武侠RPG游戏开发框架
+- [jynew/jynew](https://github.com/jynew/jynew) - An open source RPG Game Framework with full Modding support, base on Unity
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 - [mrtaikandi/MapTo](https://github.com/mrtaikandi/MapTo) - A convention based object to object mapper using Roslyn source generator.
 - [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
@@ -5798,7 +5803,6 @@
 - [sajithdilshan/ReactJSBestPractices](https://github.com/sajithdilshan/ReactJSBestPractices) - 
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
-- [vercel/create-next-app](https://github.com/vercel/create-next-app) - Create Next.js apps in one command
 - [nathanpeck/awesome-ecs](https://github.com/nathanpeck/awesome-ecs) - A curated list of awesome ECS guides, development tools, and resources
 - [MikeMcQuaid/GitInPractice](https://github.com/MikeMcQuaid/GitInPractice) - 📖 An opinionated intermediate/advanced Git book
 - [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) - A curated list of Chaos Engineering resources.
@@ -6563,7 +6567,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -6605,7 +6609,7 @@
 - [Netflix-Skunkworks/zerotodocker](https://github.com/Netflix-Skunkworks/zerotodocker) - Dockerfiles to be used to create Dockerhub trusted builds of NetflixOSS
 - [dsys/match](https://github.com/dsys/match) - :crystal_ball: Scalable reverse image search built on Kubernetes and Elasticsearch
 - [timofurrer/minion-ci](https://github.com/timofurrer/minion-ci) - minimalist, decentralized, flexible Continuous Integration Server for hackers.
-- [excerebrose/image-match](https://github.com/excerebrose/image-match) - 🎇 Quickly search over billions of images
+- [rhsimplex/image-match](https://github.com/rhsimplex/image-match) - 🎇 Quickly search over billions of images
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
 - [alex/letsencrypt-aws](https://github.com/alex/letsencrypt-aws) - 
 - [jhorey/ferry](https://github.com/jhorey/ferry) - Ferry lets you define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker
@@ -7093,7 +7097,7 @@
 - [Cleafy/sxkdvm](https://github.com/Cleafy/sxkdvm) - SXKDVM - OSX Docker KVM / Run an OSX KVM virtual machine inside a Docker container.
 - [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [phikai/htpc-docker-standup](https://github.com/phikai/htpc-docker-standup) - A simple docker-compose based configuration to stand up a new HTPC w/ Plex, Deluge, Sonarr, Radarr and more!
+- [thinkonezero/htpc-docker-standup](https://github.com/thinkonezero/htpc-docker-standup) - A simple docker-compose based configuration to stand up a new HTPC w/ Plex, Deluge, Sonarr, Radarr and more!
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -8033,7 +8037,7 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [AlariCode/nestjs-rmq](https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
-- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 2.0.
+- [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [phodal/clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
@@ -8511,7 +8515,6 @@
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [IvanGoncharov/graphql-faker](https://github.com/IvanGoncharov/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [dsifford/confzen](https://github.com/dsifford/confzen) - A command line utility for creating and maintaining configuration files for javascript and typescript projects
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [transistorsoft/rn-background-geolocation-demo](https://github.com/transistorsoft/rn-background-geolocation-demo) - Demo app for react-native-background-geolocation plugin
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
