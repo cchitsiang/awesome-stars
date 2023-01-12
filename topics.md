@@ -1713,7 +1713,6 @@
 
 ## chrome-extension 
 
-- [twoabd/superdev](https://github.com/twoabd/superdev) - An open-source browser toolbox for web designers, developers, techies and founders that minimises the development/designing time and provides various tools to debug the web without any hassle.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [DeploySentinel/Recorder](https://github.com/DeploySentinel/Recorder) - A browser extension that generates Cypress, Playwright and Puppeteer test scripts from your interactions 🖱 ⌨
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -3014,7 +3013,7 @@
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
-- [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
+- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
 - [aspnetcorehero/Boilerplate](https://github.com/aspnetcorehero/Boilerplate) - Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and W
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
@@ -4575,7 +4574,7 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
-- [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
+- [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 - [nksaraf/magiql](https://github.com/nksaraf/magiql) - 🌐 💫 Simple and powerful GraphQL Client, love child of react-query ❤️ relay
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
@@ -4857,7 +4856,6 @@
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
