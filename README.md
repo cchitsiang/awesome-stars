@@ -4026,7 +4026,6 @@
 - [i5ting/nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack) - 高可用架构专用《全栈工程师之路-Node.js》
 - [nof1000/colovely](https://github.com/nof1000/colovely) - Simple colorful HEX, RGB & HSL generator.
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-- [azer/hek](https://github.com/azer/hek) - Start your next projects with one-command easily
 - [FredKSchott/fflip](https://github.com/FredKSchott/fflip) - Flexible Feature Flipping/Flagging for Node.js
 - [romannurik/MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - A handy little Mac app that gives you quick access to the standard material design color palette.
 - [developersdo/empleo-dot-net](https://github.com/developersdo/empleo-dot-net) - ASP.NET MVC5 - Iniciativa de aprendizaje mediante ejemplos
@@ -7892,7 +7891,7 @@
 - [0xb4lamx/nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice) - Nestjs Microservice boilerplate: apply DDD, CQRS, and Event Sourcing within an event driven architecture
 - [ever-co/ever-demand](https://github.com/ever-co/ever-demand) - Ever® Demand™ - Open-Source Commerce Platform for On-Demand Economy and Digital Marketplaces
 - [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL ecommerce framework for the modern web
-- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.j
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Editor for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - A social networking technology created by Bluesky
