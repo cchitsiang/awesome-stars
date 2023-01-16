@@ -2628,7 +2628,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
@@ -3900,7 +3900,7 @@
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [keploy/keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -4208,7 +4208,7 @@
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
@@ -6828,7 +6828,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [run-x/awesome-kubernetes](https://github.com/run-x/awesome-kubernetes) - A curated list for awesome kubernetes projects, tools and resources.
