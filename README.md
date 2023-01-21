@@ -4134,7 +4134,7 @@
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
 - [elierotenberg/react-armor](https://github.com/elierotenberg/react-armor) - Protect your DOM from third-party tampering.
 - [leanote/desktop-app](https://github.com/leanote/desktop-app) - Leanote Desktop App, based on  Electron(atom-shell) http://leanote.org
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
@@ -6949,7 +6949,7 @@
 ## Rust 
 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [thalo-rs/thalo](https://github.com/thalo-rs/thalo) - Event sourcing runtime for wasm
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -8593,7 +8593,7 @@
 - [microsoft/azure-devops-node-api](https://github.com/microsoft/azure-devops-node-api) - Azure DevOps Client for Node.js
 - [microsoft/vsts-extension-samples](https://github.com/microsoft/vsts-extension-samples) - Sample extensions for Visual Studio Team Services
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Node.js & Browser SDK & React UI components for Elasticsearch.
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
 - [dalamgir/angular-next-starter-kit](https://github.com/dalamgir/angular-next-starter-kit) - Seed project for developing angular 1.x applications in preparation for migrating on to Angular 2.0
 - [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
