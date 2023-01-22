@@ -1286,7 +1286,7 @@
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for iris-go framwork
+- [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for iris-go framework
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [kjk/notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
