@@ -777,7 +777,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [mgechev/angular2-style-guide](https://github.com/mgechev/angular2-style-guide) - [Deprecated] Community-driven set of best practices and style guidelines for Angular 2 application development
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js, the Browser and the command line / Demo: https://www.docxtemplater.com/demo. #docx #office #generator
@@ -3588,7 +3588,7 @@
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [trailsjs/trails](https://github.com/trailsjs/trails) - :evergreen_tree: Modern Web Application Framework for Node.js.
@@ -3885,6 +3885,7 @@
 - [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical microservices sample, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
@@ -4188,6 +4189,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker) - Next-Generation Real-Time Data Processing Platform
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [kevwan/depu](https://github.com/kevwan/depu) - A tool to check  available updates of packages in go.mod.
@@ -5808,7 +5810,6 @@
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [zalando/problem](https://github.com/zalando/problem) - A Java library that implements application/problem+json
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -5987,6 +5988,7 @@
 
 ## javascript 
 
+- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is.
@@ -6153,6 +6155,7 @@
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
 - [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo) - 一步一步介绍如何给项目添加单元测试
@@ -6446,7 +6449,7 @@
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [kessler/tempus-fugit](https://github.com/kessler/tempus-fugit) - A scheduling and time utilities module that doesn't waste your time
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [egoist/tooling](https://github.com/egoist/tooling) - Modular JavaScript Tooling.
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
@@ -6823,7 +6826,6 @@
 - [furiko-io/furiko](https://github.com/furiko-io/furiko) - Kubernetes cron and batch job platform
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired data platform with additional data mesh capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a React front end
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning peersonalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
@@ -7774,6 +7776,7 @@
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [zalando/zmon](https://github.com/zalando/zmon) - Real-time monitoring of critical metrics & KPIs via elegant dashboards, Grafana3 visualizations & more
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -8222,6 +8225,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [JayZang/twitter-clone](https://github.com/JayZang/twitter-clone) - Twitter clone.   The target is learning Vue framework and technique of backend to implement a SPA website.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [vapid/vapid](https://github.com/vapid/vapid) - Vapid is an intentionally simple content management system built on the idea that you can create a custom dashboard without ever leaving the HTML.
 - [StarpTech/profiling-nodejs](https://github.com/StarpTech/profiling-nodejs) - 🌌 Collection of articles and tools to efficiently profile Node.js
@@ -8410,7 +8414,7 @@
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [kessler/tempus-fugit](https://github.com/kessler/tempus-fugit) - A scheduling and time utilities module that doesn't waste your time
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [egoist/tooling](https://github.com/egoist/tooling) - Modular JavaScript Tooling.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
@@ -10712,7 +10716,7 @@
 - [StackExchange/NetGain](https://github.com/StackExchange/NetGain) - A high performance websocket server library powering Stack Overflow.
 - [instainer/instainer](https://github.com/instainer/instainer) - Run any Docker container on the cloud instantly
 - [wix/react-native-controllers](https://github.com/wix/react-native-controllers) - Native IOS Navigation for React Native (navbar, tabs, drawer)
-- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP&gt;=7.0.
+- [walkor/workerman](https://github.com/walkor/workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.
 - [thoughtbot/gitsh](https://github.com/thoughtbot/gitsh) - An interactive shell for git
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [elierotenberg/react-armor](https://github.com/elierotenberg/react-armor) - Protect your DOM from third-party tampering.
@@ -13440,6 +13444,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [oslabs-beta/Examin](https://github.com/oslabs-beta/Examin) - Examin is a developer tool that generates React unit tests for your application. Ensure your application renders as expected before adding new features. Examin writes the baseline unit tests and allow
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -13783,7 +13788,7 @@
 - [taofed/react-web](https://github.com/taofed/react-web) - A framework for building web apps with React Native compatible API.
 - [roman01la/html-to-react-components](https://github.com/roman01la/html-to-react-components) - Converts HTML pages into React components
 - [coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot) - React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [Lucifier129/react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React v15.x that optimizes for small script size
 - [TrueCar/gluestick](https://github.com/TrueCar/gluestick) - GlueStick is a command line interface for quickly developing universal web applications using React and Redux.
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
@@ -15617,6 +15622,7 @@
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [forsigner/stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [Yoshino-UI/Yoshino](https://github.com/Yoshino-UI/Yoshino) - A themable React component library！Flexible Lightweight PC UI Components built on React! Anyone can generate easily all kinds of themes by it!
 - [vrudikov/typescript-rest-boilerplate](https://github.com/vrudikov/typescript-rest-boilerplate) - Boilerplate project for awesome typescript-rest(https://github.com/thiagobustamante/typescript-rest) library
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -15723,7 +15729,7 @@
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
@@ -15930,7 +15936,7 @@
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
@@ -16017,7 +16023,7 @@
 - [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
