@@ -759,7 +759,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.47871, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.47884, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1136,7 +1136,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 - [num30/config](https://github.com/num30/config) - Declarative configuration for Go
 - [dropbox/godropbox](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications.
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
@@ -3956,8 +3956,8 @@
 - [sdtsui/react-rxjs-webpack-es6-barebones-starter](https://github.com/sdtsui/react-rxjs-webpack-es6-barebones-starter) - Barebones starter kit for React and RxJS, using Webpack and ES6.
 - [uber-archive/hyperbahn](https://github.com/uber-archive/hyperbahn) - Service discovery and routing for large scale microservice operations
 - [teambition/then.js](https://github.com/teambition/then.js) - [快照]史上最快，与 node callback 完美结合的异步流程控制库!
-- [teambition/gta](https://github.com/teambition/gta) - This is the analysis tool used by teambition, aiming to simplify the use of multiple analysis services.
-- [teambition/node-push](https://github.com/teambition/node-push) - Pushfication written in Nodejs
+- [alibaba-archive/gta](https://github.com/alibaba-archive/gta) - This is the analysis tool used by teambition, aiming to simplify the use of multiple analysis services.
+- [alibaba-archive/node-push](https://github.com/alibaba-archive/node-push) - Pushfication written in Nodejs
 - [tabalt/ReactNativeNews](https://github.com/tabalt/ReactNativeNews) - a news app code by react native
 - [w4lle/JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native) - Jiandan App client implemented using React Native for Android.
 - [zalando/zappr](https://github.com/zalando/zappr) - An agent that enforces guidelines for your GitHub repositories
@@ -5369,7 +5369,7 @@
 - [alibaba/wax](https://github.com/alibaba/wax) - Wax is a framework that lets you write native iPhone apps in Lua.
 - [jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD) - MBProgressHUD + Customizations
 - [haolloyin/MrCode](https://github.com/haolloyin/MrCode) - A simple GitHub iPhone App that can cache Markdown content (include images in HTML) for read it later. 简单的 GitHub iOS 应用，缓存项目中的 Markdown 渲染之后的 HTML 及其图片方便稍后阅读
-- [teambition/TBCache](https://github.com/teambition/TBCache) - A Simple Cache For Teambition(Inspired By TMCache)
+- [alibaba-archive/TBCache](https://github.com/alibaba-archive/TBCache) - A Simple Cache For Teambition(Inspired By TMCache)
 - [molon/MLInputDodger](https://github.com/molon/MLInputDodger) - The best view dodger for inputting.
 - [shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories) - JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.
 - [facebookarchive/FBFetchedResultsController](https://github.com/facebookarchive/FBFetchedResultsController) - A drop-in replacement for NSFetchedResultsController built to work around the fact that NSFetchedResultsController does not work with parent/child contexts.
@@ -5687,7 +5687,7 @@
 - [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource) - 开源项目挣钱实用手册
 - [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 - [SaeedMalikx/React-Fiber-Architecture](https://github.com/SaeedMalikx/React-Fiber-Architecture) - Understanding the structure of React Fiber( walk through and pseudo-code)
-- [alibaba/opstools](https://github.com/alibaba/opstools) - devops opensource tools
+- [alibaba-archive/opstools](https://github.com/alibaba-archive/opstools) - devops opensource tools
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook) - Thoughts on Go performance optimization
 - [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
@@ -8086,7 +8086,7 @@
 - [Clever/components](https://github.com/Clever/components) - Frontend components
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
 - [allianz/ng-aquila](https://github.com/allianz/ng-aquila) - Angular UI Component library for the Open Insurance Platform
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushi 2.0 🍣
 - [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework) - Library for building distributed, real-time collaborative web  applications
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
