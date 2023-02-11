@@ -255,6 +255,7 @@
 
 ## ai 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
@@ -1371,7 +1372,7 @@
 - [dabit3/graphql-recipes](https://github.com/dabit3/graphql-recipes) - A list of GraphQL recipes that, when used with the Amplify CLI, will deploy an entire AWS AppSync GraphQL backend.
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [nathanpeck/socket.io-chat-fargate](https://github.com/nathanpeck/socket.io-chat-fargate) - A demo application showing how to deploy a scalable realtime chat application powered by Socket.io, Node.js, Docker, and AWS Fargate, and deployed using a CI/CD pipeline powered by AWS CodePipeline
+- [nathanpeck/socket.io-chat-fargate](https://github.com/nathanpeck/socket.io-chat-fargate) - A demo application showing how to deploy a scalable realtime chat application powered by Socket.io, Node.js, Docker, and AWS Fargate. Includes full text search powered by OpenSearch Serverless
 - [99x/serverless-dynamodb-local](https://github.com/99x/serverless-dynamodb-local) - Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless
 - [luisfarzati/chromda](https://github.com/luisfarzati/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
 - [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
@@ -1574,6 +1575,7 @@
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
 - [SqueezerIO/squeezer](https://github.com/SqueezerIO/squeezer) - Squeezer Framework - Build serverless dApps
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
@@ -2149,7 +2151,7 @@
 - [Esri/esri.github.io](https://github.com/Esri/esri.github.io) - Esri GitHub landing page
 - [ElemeFE/element-react](https://github.com/ElemeFE/element-react) - Element UI
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -4183,6 +4185,7 @@
 
 ## golang 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [tierrun/tier](https://github.com/tierrun/tier) - Pricing As Code. One tool to manage your entire pricing and billing workflow. By @bmizerany @isaacs and @jevon
 - [eleven-sh/cli](https://github.com/eleven-sh/cli) - A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -7268,6 +7271,7 @@
 
 ## machine-learning 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [ServiceNow/azimuth](https://github.com/ServiceNow/azimuth) - Helping AI practitioners better understand their datasets and models in text classification. From ServiceNow.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
@@ -8084,7 +8088,7 @@
 - [nswbmw/node-in-debugging](https://github.com/nswbmw/node-in-debugging) - 《Node.js 调试指南》
 - [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ClusterWS/ClusterWS](https://github.com/ClusterWS/ClusterWS) - :boom: Lightweight, fast and powerful framework for building scalable WebSocket applications in Node.js
@@ -8184,7 +8188,7 @@
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React or Vue in seconds 🎲
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [nathanpeck/socket.io-chat-fargate](https://github.com/nathanpeck/socket.io-chat-fargate) - A demo application showing how to deploy a scalable realtime chat application powered by Socket.io, Node.js, Docker, and AWS Fargate, and deployed using a CI/CD pipeline powered by AWS CodePipeline
+- [nathanpeck/socket.io-chat-fargate](https://github.com/nathanpeck/socket.io-chat-fargate) - A demo application showing how to deploy a scalable realtime chat application powered by Socket.io, Node.js, Docker, and AWS Fargate. Includes full text search powered by OpenSearch Serverless
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -8310,7 +8314,7 @@
 - [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [denysdovhan/inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [sindresorhus/on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
@@ -8622,6 +8626,7 @@
 - [frappe/books](https://github.com/frappe/books) - Modern desktop accounting for freelancers and small-businesses.
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
 - [khoren93/SwiftHub](https://github.com/khoren93/SwiftHub) - GitHub iOS client in RxSwift and MVVM-C clean architecture
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -8736,6 +8741,7 @@
 - [mobilecoinfoundation/mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) - Private payments for mobile devices.
 - [lolPants/hwid](https://github.com/lolPants/hwid) - Grab the system's unique hardware ID
 - [yanirs/established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev) - ⚡ A portfolio for developers with a blog powered by Notion
 - [Team-TAU/tau](https://github.com/Team-TAU/tau) - TAU- Twitch API Unifier, a containerized relay/proxy to unify the WebHook- and WebSocket-based real-time Twitch APIs under a single (local) WebSocket connection.
 - [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) - A web-based simulator for the Kubernetes scheduler
@@ -10749,7 +10755,7 @@
 - [uber/signals-ios](https://github.com/uber/signals-ios) - Typeful eventing
 - [uber-archive/express-statsd](https://github.com/uber-archive/express-statsd) - Statsd route monitoring middleware for connect/express
 - [Netflix/atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
-- [goktugyil/EZTextSpace](https://github.com/goktugyil/EZTextSpace) - :speech_balloon: Create walkthroughs and speech bubbles with human assistants
+- [Esqarrouth/EZTextSpace](https://github.com/Esqarrouth/EZTextSpace) - :speech_balloon: Create walkthroughs and speech bubbles with human assistants
 - [spotify/SPTDataLoader](https://github.com/spotify/SPTDataLoader) - The HTTP library used by the Spotify iOS client
 - [indutny/sticky-session](https://github.com/indutny/sticky-session) - Sticky session balancer based on a `cluster` module
 - [billjohnston/inboox](https://github.com/billjohnston/inboox) - Multi-account Google Inbox desktop app
@@ -11412,7 +11418,7 @@
 - [jviotti/queryl](https://github.com/jviotti/queryl) - :mag_right: Query language to perform complex object searches
 - [ivacf/archi](https://github.com/ivacf/archi) - Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
 - [tapglue/snaasSdk-iOS](https://github.com/tapglue/snaasSdk-iOS) - Tapglue iOS SDK
-- [goktugyil/QorumLogs](https://github.com/goktugyil/QorumLogs) - :closed_book: Swift Logging Utility for Xcode & Google Docs
+- [Esqarrouth/QorumLogs](https://github.com/Esqarrouth/QorumLogs) - :closed_book: Swift Logging Utility for Xcode & Google Docs
 - [kishikawakatsumi/ScreenRecorder](https://github.com/kishikawakatsumi/ScreenRecorder) - Capturing a screen as videos on iOS devices for user testing.
 - [ifitdoesntwork/DAExpandAnimation](https://github.com/ifitdoesntwork/DAExpandAnimation) - A custom modal transition that presents a controller with an expanding effect while sliding out the presenter remnants.
 - [36Kr-Mobile/StatusBarNotificationCenter](https://github.com/36Kr-Mobile/StatusBarNotificationCenter) - A customisable status bar notification UI element with concurrency support
@@ -14536,7 +14542,6 @@
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [aws-samples/designing-cloud-native-microservices-on-aws](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws) - Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the 
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
 - [hyperform-dev/hyperform](https://github.com/hyperform-dev/hyperform) - ⚡ Lightweight serverless framework for NodeJS
 - [milliHQ/terraform-aws-next-js](https://github.com/milliHQ/terraform-aws-next-js) - Terraform module for building and deploying Next.js apps to AWS. Supports SSR (Lambda), Static (S3) and API (Lambda) pages.
@@ -15246,6 +15251,7 @@
 
 ## tensorflow 
 
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
