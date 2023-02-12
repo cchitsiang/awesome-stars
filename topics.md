@@ -968,6 +968,7 @@
 
 ## automation 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [ayakashi-io/ayakashi](https://github.com/ayakashi-io/ayakashi) - :zap: Ayakashi.io - The next generation web scraping framework
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client.
@@ -2389,7 +2390,7 @@
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -14336,7 +14337,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
@@ -14542,7 +14543,7 @@
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - RisingWave: A Distributed SQL Database for Stream Processing
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [aws-samples/designing-cloud-native-microservices-on-aws](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws) - Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the 
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [hyperform-dev/hyperform](https://github.com/hyperform-dev/hyperform) - ⚡ Lightweight serverless framework for NodeJS
 - [milliHQ/terraform-aws-next-js](https://github.com/milliHQ/terraform-aws-next-js) - Terraform module for building and deploying Next.js apps to AWS. Supports SSR (Lambda), Static (S3) and API (Lambda) pages.
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
@@ -14742,7 +14743,7 @@
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on Low-Cost and Low-Complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.co
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
