@@ -395,7 +395,7 @@
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw) - 🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切
-- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
+- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [didi/booster](https://github.com/didi/booster) - 🚀Optimizer for mobile applications
@@ -769,7 +769,7 @@
 - [naologic/angular5-starter](https://github.com/naologic/angular5-starter) - :star: An Angular5 Starter Kit :: Router, HttpClient, Forms, Services, Dev/Prod, HMR, Async/Lazy Routes and a very good structure for large applications by @naologic
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [aviabird/angularspree](https://github.com/aviabird/angularspree) - angular e-commerce framework for online store
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [joaoflf/remote-config-dashboard](https://github.com/joaoflf/remote-config-dashboard) - A web based dashboard to manage feature toggles and config properties
 - [PatrickJS/MFE-starter](https://github.com/PatrickJS/MFE-starter) - MFE Starter
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
@@ -2438,7 +2438,7 @@
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - REST, GraphQL and WebSocket APIs for MongoDB.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [OmniDB/OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
@@ -3185,7 +3185,7 @@
 - [FormidableLabs/electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [amitmerchant1990/pomolectron](https://github.com/amitmerchant1990/pomolectron) - :tomato: A pomodoro app for your menubar/tray.
@@ -3404,7 +3404,7 @@
 - [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - [kriasoft/react-firebase-starter](https://github.com/kriasoft/react-firebase-starter) - Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay
 - [naologic/angular5-starter](https://github.com/naologic/angular5-starter) - :star: An Angular5 Starter Kit :: Router, HttpClient, Forms, Services, Dev/Prod, HMR, Async/Lazy Routes and a very good structure for large applications by @naologic
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [novoda/bonfire-firebase-sample](https://github.com/novoda/bonfire-firebase-sample) - An app to discuss your favourite emojis. This is a sample app built with Firebase.
 - [firebase/quickstart-ios](https://github.com/firebase/quickstart-ios) - Firebase Quickstart Samples for iOS
 - [neelkadia-zz/WhereAreYou](https://github.com/neelkadia-zz/WhereAreYou) - Real time location tracker using Android App & Firebase with Mapbox
@@ -3421,7 +3421,7 @@
 - [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
 - [karakanb/devo](https://github.com/karakanb/devo) - A Chrome and Firefox extension that displays GitHub Trending, Hacker News, Product Hunt and Designer News on every new tab.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - Firefox for Android
+- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -3486,7 +3486,7 @@
 - [CarGuo/gsy_flutter_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
 - [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps) - :iphone: List of open source Flutter applications :octocat:
 - [trentpiercy/trace](https://github.com/trentpiercy/trace) - Modern crypto portfolio & market explorer. Built with @Flutter
-- [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》电子书
+- [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) - A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -3494,7 +3494,7 @@
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [iampawan/Flutter-UI-Kit](https://github.com/iampawan/Flutter-UI-Kit) - Flutter app for collection of UI in a UIKit
 - [bailicangdu/native-xdm](https://github.com/bailicangdu/native-xdm) - 基于 Flutter 构建一个跨平台的原生APP
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -3915,7 +3915,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -4158,6 +4158,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
+- [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
@@ -4224,7 +4225,7 @@
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
@@ -4506,6 +4507,7 @@
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [alexflint/go-restructure](https://github.com/alexflint/go-restructure) - Match regular expressions into struct fields
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+- [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [freshcn/go-id-builder](https://github.com/freshcn/go-id-builder) - 这是一个ID生成器，它可以提供通过高效的方式产生连续的唯一的ID值。在分库分表时可以提供非常有用的帮助。
 - [vuvuzela/vuvuzela](https://github.com/vuvuzela/vuvuzela) - Private messaging system that hides metadata
 - [nanobox-io/nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
@@ -4670,7 +4672,7 @@
 - [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS
 - [graphql-boilerplates/react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) - Starter projects for fullstack applications based on React & GraphQL.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [w3tecch/express-graphql-typescript-boilerplate](https://github.com/w3tecch/express-graphql-typescript-boilerplate) - A starter kit for building amazing GraphQL API's with TypeScript and express by @w3tecch
@@ -4941,7 +4943,7 @@
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.48001, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.48069, 3.3.5 = 3.3.5a.12340)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -5997,7 +5999,7 @@
 ## javascript 
 
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
+- [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is.
@@ -6035,7 +6037,7 @@
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
@@ -6371,6 +6373,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [hueitan/javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design) - JavaScript SDK Design Guide extracted from work and personal experience
@@ -6991,6 +6994,7 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+- [micro/micro](https://github.com/micro/micro) - API first cloud platform
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
 - [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -7195,7 +7199,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.48001, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.48069, 3.3.5 = 3.3.5a.12340)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
@@ -7521,7 +7525,7 @@
 - [crisp-oss/chappe](https://github.com/crisp-oss/chappe) - 🧑‍💻 Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Editor for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
@@ -8361,7 +8365,7 @@
 - [miquelbeltran/kotlin-node.js](https://github.com/miquelbeltran/kotlin-node.js) - Simple REST API with Node and Kotlin
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [line/line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs) - LINE Messaging API SDK for Node.js
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [pmq20/node-packer](https://github.com/pmq20/node-packer) - Packing your Node.js application into a single executable.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [w3tecch/aurelia-typescript-boilerplate](https://github.com/w3tecch/aurelia-typescript-boilerplate) - A starter kit for building a standard navigation-style app with Aurelia, typescript and webpack by @w3tecch
@@ -8477,7 +8481,7 @@
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [bitnine-oss/agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
 - [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - REST, GraphQL and WebSocket APIs for MongoDB.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [torodb/server](https://github.com/torodb/server) - ToroDB Server is an open source NoSQL database that runs on top of a RDBMS. Compatible with MongoDB protocol and APIs, but with support for native SQL, atomic operations and reliable and durable backe
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java Database for Mobile & IoT - fast and lightweight
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -11079,7 +11083,6 @@
 - [Aufree/Hodor](https://github.com/Aufree/Hodor) - Simple solution to localize your iOS App.
 - [mattdesl/budo](https://github.com/mattdesl/budo) - :clapper: a dev server for rapid prototyping
 - [liuling07/SimpleNews](https://github.com/liuling07/SimpleNews) - 基于Material Design和MVP的新闻客户端
-- [Azure/deco](https://github.com/Azure/deco) - Project Deco - Azure Storage Explorer for OS X, Windows, and Linux
 - [JakeGinnivan/WebApi.Hal](https://github.com/JakeGinnivan/WebApi.Hal) - Adds support for the Hal Media Type (and Hypermedia) to Asp.net Web Api
 - [domaindrivendev/Swashbuckle.WebApi](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a swagger to WebApi projects!
 - [facebook/pyre2](https://github.com/facebook/pyre2) - Python wrapper for RE2
@@ -13729,7 +13732,7 @@
 - [graphql-boilerplates/react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) - Starter projects for fullstack applications based on React & GraphQL.
 - [meliorence/react-native-image-gallery](https://github.com/meliorence/react-native-image-gallery) - Pure JavaScript image gallery component for iOS and Android with high-performance and native feeling in mind
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [williamtran29/react-native-fingerprint-identify](https://github.com/williamtran29/react-native-fingerprint-identify) - Awesome Fingerprint Identify for react-native (android only)
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
@@ -13940,7 +13943,7 @@
 - [meliorence/react-native-image-gallery](https://github.com/meliorence/react-native-image-gallery) - Pure JavaScript image gallery component for iOS and Android with high-performance and native feeling in mind
 - [a7ul/react-native-appstore-version-checker](https://github.com/a7ul/react-native-appstore-version-checker) - [Deprecated] A react native module to fetch the version of latest app from android playstore or apple app store
 - [wwdc-family/app](https://github.com/wwdc-family/app) - An easy way to connect with fellow developers during WWDC
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [jpush/aurora-imui](https://github.com/jpush/aurora-imui) - General IM UI components. Android/iOS/RectNative ready.  通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
@@ -14281,7 +14284,7 @@
 - [goby-lang/goby](https://github.com/goby-lang/goby) - Goby - Yet another programming language written in Go
 - [fetlife/rollout](https://github.com/fetlife/rollout) - Feature flippers.
 - [postalserver/postal](https://github.com/postalserver/postal) - ✉️ A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [mperham/sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby
+- [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [victorb/autochecker](https://github.com/victorb/autochecker) - ♻️ Test your libraries in many different versions of NodeJS, Ruby, Java and many other languages
 - [AnalogJ/capsulecd](https://github.com/AnalogJ/capsulecd) - Continuous Delivery for automating package releases (npm, cookbooks, gems, pip, jars, etc)
 - [hibiken/stories](https://github.com/hibiken/stories) - Medium clone built with Ruby on Rails
@@ -15530,7 +15533,7 @@
 - [Urigo/graphql-modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
 - [ivanhofer/typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
-- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [vechai/vechaiui](https://github.com/vechai/vechaiui) - A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [plexinc/papr](https://github.com/plexinc/papr) - MongoDB TypeScript-aware Models
@@ -15665,7 +15668,7 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
-- [unional/typescript-guidelines](https://github.com/unional/typescript-guidelines) - The TypeScript Guidebook
+- [unional/typescript-blackbook](https://github.com/unional/typescript-blackbook) - The TypeScript Guidebook
 - [ERS-HCL/nxplorerjs-microservice-starter](https://github.com/ERS-HCL/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
@@ -15746,6 +15749,7 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [alm-tools/alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
 - [barbar/vortigern](https://github.com/barbar/vortigern) - A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
