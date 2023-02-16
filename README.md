@@ -860,7 +860,7 @@
 - [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [aschmelyun/larametrics](https://github.com/aschmelyun/larametrics) - A self-hosted metrics and notifications platform for Laravel apps
-- [unional/typescript-blackbook](https://github.com/unional/typescript-blackbook) - The TypeScript Guidebook
+- [unional/typescript-blackbook](https://github.com/unional/typescript-blackbook) - The TypeScript Blackbook
 - [jenmcquade/aspnetcore-react-redux](https://github.com/jenmcquade/aspnetcore-react-redux) - Boilerplate for C# ASP .NET Core MVC SPA with TypeScript, React and Redux
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
 - [adobe/adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
@@ -1164,7 +1164,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing real-time, protocol-aware visibility into Kubernetes’ internal network, capturing, dissecting and monitoring all traffic and payloads going in, out and 
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch (Classic). A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
@@ -3238,7 +3238,6 @@
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [sofastack/sofa-rpc-node](https://github.com/sofastack/sofa-rpc-node) - SOFARPC Node is a high-performance, high-extensibility, production-level Nodejs RPC framework.
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
-- [flatlogic/react-native-starter](https://github.com/flatlogic/react-native-starter) - 🚀A powerful react native starter template that bootstraps development of your mobile application
 - [dubzzz/ava-fast-check](https://github.com/dubzzz/ava-fast-check) - Property based testing for AVA based on fast-check
 - [marpple/FxSQL](https://github.com/marpple/FxSQL) - Node.js Functional SQL Query Builder & ORM
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
@@ -8413,7 +8412,7 @@
 - [brookshi/awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) - awesome typescript open source projects, includes IDE, Framework, Library, Tool
 - [sequelize/umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - The open-source cloud resource manager
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [TotomInc/loaderz](https://github.com/TotomInc/loaderz) - :zap: A very easy-to-use, blazing fast asset-loader using promises. Support older-browsers and preload images, audios and videos.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
@@ -8603,7 +8602,7 @@
 - [microsoft/azure-devops-node-api](https://github.com/microsoft/azure-devops-node-api) - Azure DevOps Client for Node.js
 - [microsoft/vsts-extension-samples](https://github.com/microsoft/vsts-extension-samples) - Sample extensions for Visual Studio Team Services
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
 - [dalamgir/angular-next-starter-kit](https://github.com/dalamgir/angular-next-starter-kit) - Seed project for developing angular 1.x applications in preparation for migrating on to Angular 2.0
 - [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
