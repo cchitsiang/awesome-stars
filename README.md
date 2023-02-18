@@ -109,7 +109,7 @@
 
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🥤 Git/AWS/Google 镜像 ,行业研究报告的知识储备库
 
 ## Astro 
 
@@ -3239,6 +3239,7 @@
 - [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 - [sofastack/sofa-rpc-node](https://github.com/sofastack/sofa-rpc-node) - SOFARPC Node is a high-performance, high-extensibility, production-level Nodejs RPC framework.
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+- [flatlogic/react-native-starter](https://github.com/flatlogic/react-native-starter) - 🚀A powerful react native starter template that bootstraps development of your mobile application
 - [dubzzz/ava-fast-check](https://github.com/dubzzz/ava-fast-check) - Property based testing for AVA based on fast-check
 - [marpple/FxSQL](https://github.com/marpple/FxSQL) - Node.js Functional SQL Query Builder & ORM
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
