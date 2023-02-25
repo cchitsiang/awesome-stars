@@ -230,7 +230,6 @@
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
 - [Daddoon/BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Create full C# driven hybrid-apps for iOS, Android, UWP & Desktop with Blazor!
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
-- [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 6 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 6 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:
 - [bUnit-dev/bUnit](https://github.com/bUnit-dev/bUnit) - bUnit is a testing library for Blazor components that make tests look, feel, and runs like regular unit tests. bUnit makes it easy to render and control a component under test’s life-cycle, pass param
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
@@ -7831,6 +7830,7 @@
 
 ## TSQL 
 
+- [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
 
 ## TeX 
@@ -7850,6 +7850,7 @@
 
 ## TypeScript 
 
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
