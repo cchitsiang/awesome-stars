@@ -230,6 +230,7 @@
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
 - [Daddoon/BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Create full C# driven hybrid-apps for iOS, Android, UWP & Desktop with Blazor!
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
+- [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.
 - [bUnit-dev/bUnit](https://github.com/bUnit-dev/bUnit) - bUnit is a testing library for Blazor components that make tests look, feel, and runs like regular unit tests. bUnit makes it easy to render and control a component under test’s life-cycle, pass param
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [DotNetNext/SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
@@ -2092,7 +2093,7 @@
 
 ## Java 
 
-- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [zalando/problem](https://github.com/zalando/problem) - A Java library that implements application/problem+json
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -6290,6 +6291,7 @@
 ## PowerShell 
 
 - [SharePoint/sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - SharePoint & Viva Connections Developer Documentation
+- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
 - [MicrosoftDocs/OfficeDocs-SharePoint](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint) - SharePoint Server, SharePoint Online, and OneDrive for Business documentation
 - [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open Source documentation for the Azure Architecture Center on Microsoft Docs
 - [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
@@ -6438,7 +6440,6 @@
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [klaudiosinani/moviebox](https://github.com/klaudiosinani/moviebox) - Machine learning movie recommending system
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 💾 Git/AWS/Google镜像与S/V/C网络链，行业研究报告的知识储备库
 - [zalando-stups/stups-gotthard](https://github.com/zalando-stups/stups-gotthard) - Gotthard provides tunneling for PostgreSQL in a STUPS environment
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
@@ -7830,7 +7831,6 @@
 
 ## TSQL 
 
-- [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
 
 ## TeX 
@@ -7850,6 +7850,7 @@
 
 ## TypeScript 
 
+- [GetStream/mml-react](https://github.com/GetStream/mml-react) - Message Markup Language (MML) support for React
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
