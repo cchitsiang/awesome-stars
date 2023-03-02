@@ -13081,6 +13081,7 @@
 
 ## python 
 
+- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -13307,6 +13308,7 @@
 
 ## python3 
 
+- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源
 - [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate) - Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
@@ -13733,7 +13735,6 @@
 - [graphql-boilerplates/react-fullstack-graphql](https://github.com/graphql-boilerplates/react-fullstack-graphql) - Starter projects for fullstack applications based on React & GraphQL.
 - [meliorence/react-native-image-gallery](https://github.com/meliorence/react-native-image-gallery) - Pure JavaScript image gallery component for iOS and Android with high-performance and native feeling in mind
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [williamtran29/react-native-fingerprint-identify](https://github.com/williamtran29/react-native-fingerprint-identify) - Awesome Fingerprint Identify for react-native (android only)
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [FiberJW/react-native-bet](https://github.com/FiberJW/react-native-bet) - A growing list of organizations that are betting on React Native 💪🏿
