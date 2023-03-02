@@ -22,6 +22,7 @@
 - [ColdFusion](#coldfusion)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
@@ -1073,6 +1074,10 @@
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [teonite/docker-nginx-dynamic-sites](https://github.com/teonite/docker-nginx-dynamic-sites) - Serve static sites based on their domain using Docker & NGINX
 
+## EJS 
+
+- [aws-samples/eb-node-express-sample](https://github.com/aws-samples/eb-node-express-sample) - Sample Express application for AWS Elastic Beanstalk
+
 ## Elixir 
 
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -1954,7 +1959,6 @@
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [wiredjs/designer](https://github.com/wiredjs/designer) - Mockups and wire-framing tool built using web components. Uses hand-drawn sketchy controls.
 - [wx-chevalier/Solutions-Series](https://github.com/wx-chevalier/Solutions-Series) - :books: 服务端开发实践与工程架构，服务端基础篇 | 微服务与云原生篇 | Spring 篇 | Node.js 篇 | DevOps 篇 | 信息安全与渗透测试篇
-- [aws-samples/eb-node-express-sample](https://github.com/aws-samples/eb-node-express-sample) - Sample Express application for AWS Elastic Beanstalk
 - [bannzai/SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.
 - [plainflow/plainflow-digested-week](https://github.com/plainflow/plainflow-digested-week) - The PlainFlow Digested Week is a crowdsourced email newsletter that goes to all the PlainFlow subscribers.
 - [AmmyUI/AmmyUI](https://github.com/AmmyUI/AmmyUI) - Ammy language repository
@@ -6329,6 +6333,7 @@
 
 ## Python 
 
+- [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [jiggy-ai/hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
 - [ServiceNow/azimuth](https://github.com/ServiceNow/azimuth) - Helping AI practitioners better understand their datasets and models in text classification. From ServiceNow.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
