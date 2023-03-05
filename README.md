@@ -6295,7 +6295,7 @@
 ## PowerShell 
 
 - [SharePoint/sp-dev-docs](https://github.com/SharePoint/sp-dev-docs) - SharePoint & Viva Connections Developer Documentation
-- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 ChatGPT、Google产品等各类镜像与S/V/C/QuanX网络链，行业研究报告的知识储备库
+- [hoochanlon/Anita](https://github.com/hoochanlon/Anita) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [MicrosoftDocs/OfficeDocs-SharePoint](https://github.com/MicrosoftDocs/OfficeDocs-SharePoint) - SharePoint Server, SharePoint Online, and OneDrive for Business documentation
 - [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open Source documentation for the Azure Architecture Center on Microsoft Docs
 - [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
