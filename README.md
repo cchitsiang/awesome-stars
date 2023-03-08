@@ -215,7 +215,7 @@
 - [mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) - Prescriptive Architecture Guidance for Cloud Applications
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices) - An example of building .NET Core microservices with Dapr and Tye
+- [kimcuhoang/dapr-tye-simple-microservices](https://github.com/kimcuhoang/dapr-tye-simple-microservices) - An example of building .NET Core microservices with Dapr and Tye
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper) - A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.
 - [JonPSmith/EfCore.GenericServices](https://github.com/JonPSmith/EfCore.GenericServices) - A library to help you quickly code CRUD accesses for a web/mobile/desktop application using EF Core.
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
@@ -5669,6 +5669,7 @@
 - [myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) - All that you need to create a great mobile web experience
 - [engineersmy/developer-meet-kl](https://github.com/engineersmy/developer-meet-kl) - Just a list of place to meet software developer in KL
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [vasilakisfil/Introspected-REST](https://github.com/vasilakisfil/Introspected-REST) - An alternative to REST and GraphQL
@@ -8250,7 +8251,6 @@
 - [mmazzarolo/chrome-another-tab](https://github.com/mmazzarolo/chrome-another-tab) - Just building a Chrome Extension with Create React App and TypeScript.
 - [fabiospampinato/bump](https://github.com/fabiospampinato/bump) - Bump updates the project's version, updates/creates the changelog, makes the bump commit, tags the bump commit and makes the release to GitHub. Opinionated but configurable.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [acro5piano/typed-graphqlify](https://github.com/acro5piano/typed-graphqlify) - Build Typed GraphQL Queries in TypeScript without the code generation
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [frontarm/navi](https://github.com/frontarm/navi) - 🧭 Declarative, asynchronous routing for React.
