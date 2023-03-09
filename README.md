@@ -759,7 +759,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.48317, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.48397, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1128,7 +1128,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Real-Time Data Processing Platform
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication system for the passkey era.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1417,7 +1417,6 @@
 - [sipt/shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [buzzfeed/sso](https://github.com/buzzfeed/sso) - sso, aka S.S.Octopus, aka octoboi, is a single sign-on solution for securing internal services
 - [Parquery/gocontracts](https://github.com/Parquery/gocontracts) - A tool for design-by-contract in Go
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
@@ -3561,7 +3560,7 @@
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [deadcoder0904/react-native-redux-calculator](https://github.com/deadcoder0904/react-native-redux-calculator) - Sexy Calculator made using React Native & Redux :heart_eyes:
 - [Trixieapp/react-virgin](https://github.com/Trixieapp/react-virgin) - The react-native UI Kit you've been looking for.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [google/bottery](https://github.com/google/bottery) - 
 - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -7918,7 +7917,7 @@
 - [jscheiny/safe-units](https://github.com/jscheiny/safe-units) - Type-safe TypeScript units of measure 👷📏
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
 - [triggerdotdev/json-infer-types](https://github.com/triggerdotdev/json-infer-types) - Infers the type and format of JSON values
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
 - [heapland/heapland](https://github.com/heapland/heapland) - Universal interface for data services
@@ -8338,6 +8337,7 @@
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [lapanti/ts-react-boilerplate](https://github.com/lapanti/ts-react-boilerplate) - A very opinionated (React/TypeScript/Redux/etc) frontend boilerplate
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [pedronauck/reworm](https://github.com/pedronauck/reworm) - 🍫 the simplest way to manage state
 - [exlinc/prerender](https://github.com/exlinc/prerender) - Prerender your ReactJS, AngularJS, and VueJS apps for SEO with Puppeteer
 - [TYPECASTINGSG/rpscript](https://github.com/TYPECASTINGSG/rpscript) - A scripting language for process automation
@@ -8575,7 +8575,7 @@
 - [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [giacomocerquone/angular4-mean-starter](https://github.com/giacomocerquone/angular4-mean-starter) - A very neat and simple starter kit for an angular2/4/5 MEAN app.
-- [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine written in JavaScript.
+- [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
