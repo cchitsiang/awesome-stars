@@ -4837,7 +4837,6 @@
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [danielearwicker/carota](https://github.com/danielearwicker/carota) - Simple, flexible rich text rendering/editing on HTML Canvas
 - [uacaps/BootstrapNotifications](https://github.com/uacaps/BootstrapNotifications) - Notifications extension built with bootstrap for ASP.NET MVC projects
-- [vc3/TodoApp](https://github.com/vc3/TodoApp) - A to-do list web app built using ASP.NET MVC 3, Entity Framework 4, jQuery, jQuery UI, OpenID-selector, ExoModel, ExoRule, and ExoWeb.  Hosted at http://todoapp.exosuite.com.  See the walk-through at 
 - [qianlifeng/QuickNavigator](https://github.com/qianlifeng/QuickNavigator) - a chrome extension for quick navigation
 - [Fundoo-Solutions/angularjs-modal-service](https://github.com/Fundoo-Solutions/angularjs-modal-service) - An AngularJS service that creates a Modal Popup with a given HTML template and controller
 - [DanWahlin/CustomerManager](https://github.com/DanWahlin/CustomerManager) - CustomerManager AngularJS/BreezeJS Application with a custom route provider.
@@ -6331,6 +6330,7 @@
 
 ## Python 
 
+- [lawxls/HackerNews-Alerts-Bot](https://github.com/lawxls/HackerNews-Alerts-Bot) - Telegram bot for all kinds of notifications from Hacker News
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [jiggy-ai/hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
 - [ServiceNow/azimuth](https://github.com/ServiceNow/azimuth) - Helping AI practitioners better understand their datasets and models in text classification. From ServiceNow.
