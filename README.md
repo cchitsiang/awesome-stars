@@ -4825,7 +4825,7 @@
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [mcasimir/mobile-angular-ui](https://github.com/mcasimir/mobile-angular-ui) - Angular.js Mobile UI Framework with Bootstrap 3
 - [xbreaker/plusstrap](https://github.com/xbreaker/plusstrap) - Sleek, intuitive, and powerful front-end framework for faster and easier web development.
-- [DaoDeCyrus/CSV.js](https://github.com/DaoDeCyrus/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance.
+- [CyrusOfEden/CSV.js](https://github.com/CyrusOfEden/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance.
 - [madebysource/pho-devstack](https://github.com/madebysource/pho-devstack) - Automated workflow for front-end developers in one tasty bowl of code.
 - [YuriyGuts/azure-cloud-ocr](https://github.com/YuriyGuts/azure-cloud-ocr) - A simple cloud OCR application that employs Windows Azure Web and Worker Roles, Blobs, Tables, Queues, and uses Google Tesseract for text recognition.
 - [aspnet/BugTracker](https://github.com/aspnet/BugTracker) - OBSOLETE - see readme
@@ -6330,6 +6330,7 @@
 
 ## Python 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - VisualChatGPT
 - [lawxls/HackerNews-Alerts-Bot](https://github.com/lawxls/HackerNews-Alerts-Bot) - Telegram bot for all kinds of notifications from Hacker News
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [jiggy-ai/hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
@@ -7853,6 +7854,7 @@
 
 ## TypeScript 
 
+- [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [GetStream/mml-react](https://github.com/GetStream/mml-react) - Message Markup Language (MML) support for React
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
