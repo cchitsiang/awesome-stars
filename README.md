@@ -1293,7 +1293,7 @@
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
 - [kyma-project/kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-- [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for iris-go framework
+- [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for go framework [gin/iris]
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [kjk/notionapi](https://github.com/kjk/notionapi) - Unofficial Go API for Notion.so
@@ -3703,7 +3703,7 @@
 - [grindjs/grindjs](https://github.com/grindjs/grindjs) - An opinionated Node web framework built on Express
 - [dhruv-kumar-jha/productivity-frontend](https://github.com/dhruv-kumar-jha/productivity-frontend) - Productivity Application - Kanban Style Productivity Management Application with Customizable Boards, Lists and Cards to Make You More Productive.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [wix/react-native-interactable](https://github.com/wix/react-native-interactable) - Experimental implementation of high performance interactable views in React Native
+- [wix-incubator/react-native-interactable](https://github.com/wix-incubator/react-native-interactable) - Experimental implementation of high performance interactable views in React Native
 - [pascalduez/react-module-boilerplate](https://github.com/pascalduez/react-module-boilerplate) - Sample React presentational components package.
 - [tolmasky/demokit](https://github.com/tolmasky/demokit) - DemoKit is a Library and Electron app for building product demos and tutorials using web technologies
 - [angular/quickstart](https://github.com/angular/quickstart) - Angular QuickStart - source from the documentation
@@ -4470,7 +4470,7 @@
 - [olegakbarov/react-redux-starter-kit](https://github.com/olegakbarov/react-redux-starter-kit) - My best-practices-included universal frontend starter kit
 - [cshum/levi](https://github.com/cshum/levi) - Stream based full-text search for Node.js and browsers. Built on LevelDB.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [wix/react-templates](https://github.com/wix/react-templates) - Light weight templates for react
+- [wix-incubator/react-templates](https://github.com/wix-incubator/react-templates) - Light weight templates for react
 - [nicolas-t/Chocolat](https://github.com/nicolas-t/Chocolat) - Chocolat : the lightbox so cool horses use it  :horse:
 - [worktile/request](https://github.com/worktile/request) - 记录HTTP请求，并把结果展现出来 - https://request.worktile.com
 - [hengkiardo/blocked-sites](https://github.com/hengkiardo/blocked-sites) - List of Blocked sites with the IP, so you can block the sites when user post url/link to your site
@@ -5306,7 +5306,7 @@
 - [kailuo99/toutiao](https://github.com/kailuo99/toutiao) - 一款基于react-native 的ios android版 资讯头条 APP
 - [lookingstars/nuomi](https://github.com/lookingstars/nuomi) - 高仿百度糯米iOS版，版本号5.13.0。
 - [xhzengAIB/TagView](https://github.com/xhzengAIB/TagView) - High efficiency Tag components.
-- [wix/react-native-controllers](https://github.com/wix/react-native-controllers) - Native IOS Navigation for React Native (navbar, tabs, drawer)
+- [wix-incubator/react-native-controllers](https://github.com/wix-incubator/react-native-controllers) - Native IOS Navigation for React Native (navbar, tabs, drawer)
 - [nnhubbard/ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) - A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view
 - [leanote/leanote-ios](https://github.com/leanote/leanote-ios) - Leanote iOS App http://leanote.org
 - [uber/signals-ios](https://github.com/uber/signals-ios) - Typeful eventing
