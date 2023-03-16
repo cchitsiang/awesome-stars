@@ -1128,7 +1128,6 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Real-Time Data Processing Platform
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication system for the passkey era.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -2589,7 +2588,7 @@
 - [hongyangAndroid/Highlight](https://github.com/hongyangAndroid/Highlight) - 一个用于app指向性功能高亮的库
 - [danielemaddaluno/Android-Update-Checker](https://github.com/danielemaddaluno/Android-Update-Checker) - 
 - [alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews) - ImageView and FrameLayout with gestures control and position animation
-- [evernote/android-job](https://github.com/evernote/android-job) - Android library to handle jobs in the background.
+- [Evernote/android-job](https://github.com/Evernote/android-job) - Android library to handle jobs in the background.
 - [pengjianbo/FloatViewFinal](https://github.com/pengjianbo/FloatViewFinal) - 一个漂亮的悬浮窗控件(FloatView)
 - [techery/ProperRatingBar](https://github.com/techery/ProperRatingBar) - Inspired by stock android RatingBar. Simpler, has features that original lacks.
 - [linkedin/PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store written in Java
@@ -7894,6 +7893,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
