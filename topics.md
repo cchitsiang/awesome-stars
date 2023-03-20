@@ -258,6 +258,7 @@
 
 ## ai 
 
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
@@ -808,7 +809,6 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
 ## api 
@@ -1689,6 +1689,7 @@
 
 ## chatgpt 
 
+- [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
@@ -2970,7 +2971,7 @@
 - [lelylan/lelylan](https://github.com/lelylan/lelylan) - Open Source Lightweight Microservices Architecture for the Internet of Things. For developers.
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
+- [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [nanobox-io/nanobox](https://github.com/nanobox-io/nanobox) - The ideal platform for developers
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
@@ -3690,7 +3691,7 @@
 - [wmonk/create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) - DEPRECATED: Create React apps using typescript with no build configuration.
 - [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [CircleCI-Archived/frontend](https://github.com/CircleCI-Archived/frontend) - CircleCI's frontend
 - [mxstbr/login-flow](https://github.com/mxstbr/login-flow) - :key: A login/register flow built with React&Redux
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -4176,7 +4177,7 @@
 - [micro/micro](https://github.com/micro/micro) - API first development platform
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
+- [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -6220,7 +6221,7 @@
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [imbrn/v8n](https://github.com/imbrn/v8n) - ☑️ JavaScript fluent validation library
 - [alterior-mvc/alterior](https://github.com/alterior-mvc/alterior) - Build HTTP services with this; a Typescript REST framework based on Express using decorators and Angular style dependency injection
-- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
+- [n0ruSh/n0ruSh.run](https://github.com/n0ruSh/n0ruSh.run) - My personal blog
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [yazz/yazz](https://github.com/yazz/yazz) - Self Service Apps Without the IT Department
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -6430,7 +6431,7 @@
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [typings/typings](https://github.com/typings/typings) - *DEPRECATED* The TypeScript Definition Manager
 - [hainproject/hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [victorb/trymodule](https://github.com/victorb/trymodule) - ➰ It's never been easier to try nodejs modules!
 - [Canop/miaou](https://github.com/Canop/miaou) - A chat server with OAuth2 authentication, persistent and searchable history, video and audio, markdown formatting, private and public rooms, stars, votes, embedded games, and many other features
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
@@ -7012,7 +7013,7 @@
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
+- [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -7103,6 +7104,7 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [klaudiosinani/moviebox](https://github.com/klaudiosinani/moviebox) - Machine learning movie recommending system
 - [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+- [n0ruSh/n0ruSh.run](https://github.com/n0ruSh/n0ruSh.run) - My personal blog
 - [kay-is/react-from-zero](https://github.com/kay-is/react-from-zero) - A simple (99% ES2015 less) tutorial for React
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018) - 2018 edition of our front-end development handbook
@@ -7166,7 +7168,7 @@
 - [Ramotion/paper-onboarding](https://github.com/Ramotion/paper-onboarding) - :octocat: PaperOnboarding is a material design UI slider. Swift UI library by @Ramotion
 - [Ramotion/folding-cell-android](https://github.com/Ramotion/folding-cell-android) - :octocat: 📃  FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion
 - [telekits/teleapi](https://github.com/telekits/teleapi) - 🚀 The useful library to simplify your work with Telegram Bot API
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [roughike/BottomBar](https://github.com/roughike/BottomBar) - (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
 - [Ramotion/navigation-stack](https://github.com/Ramotion/navigation-stack) - :octocat: NavigationStack is a stack-modeled UI navigation controller. Swift UI library made by @Ramotion
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
@@ -7532,7 +7534,7 @@
 - [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) - Asynchronous image downloader with cache support as a UIImageView category
 - [djyde/WebShell](https://github.com/djyde/WebShell) - Bundle web apps to native OS X app
 - [Swift-AI/Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
+- [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
@@ -8313,7 +8315,7 @@
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [stripe-archive/stripe-stdlib-demo](https://github.com/stripe-archive/stripe-stdlib-demo) - Sample store accepting universal payments built with @Stripe and @StdLib.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
-- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
+- [n0ruSh/n0ruSh.run](https://github.com/n0ruSh/n0ruSh.run) - My personal blog
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [yazz/yazz](https://github.com/yazz/yazz) - Self Service Apps Without the IT Department
 - [yjhjstz/deep-into-node](https://github.com/yjhjstz/deep-into-node) - 深入理解Node.js：核心思想与源码分析
@@ -8475,7 +8477,7 @@
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [egoist/tooling](https://github.com/egoist/tooling) - Modular JavaScript Tooling.
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
+- [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
@@ -8738,6 +8740,7 @@
 
 ## others 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [GetStream/mml-react](https://github.com/GetStream/mml-react) - Message Markup Language (MML) support for React
@@ -13297,7 +13300,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - 校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED]
-- [vinta/HAL-9000](https://github.com/vinta/HAL-9000) - Automatically setup a productive development environment with Ansible on macOS
+- [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
@@ -13827,7 +13830,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins) - React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [jxnblk/static-react](https://github.com/jxnblk/static-react) - Zero-configuration CLI React static renderer
 - [d4rkr00t/aik](https://github.com/d4rkr00t/aik) - Frontend Playground
@@ -16131,7 +16134,7 @@
 - [xxczaki/fastic](https://github.com/xxczaki/fastic) - 🚀 Fast & Lightweight CLI HTTP server
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [n0ruSh/n0ruSh.me](https://github.com/n0ruSh/n0ruSh.me) - books that i have read and worth sharing
+- [n0ruSh/n0ruSh.run](https://github.com/n0ruSh/n0ruSh.run) - My personal blog
 - [yazz/yazz](https://github.com/yazz/yazz) - Self Service Apps Without the IT Department
 - [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces.
 - [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
