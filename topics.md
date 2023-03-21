@@ -3201,7 +3201,6 @@
 - [FormidableLabs/electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [amitmerchant1990/pomolectron](https://github.com/amitmerchant1990/pomolectron) - :tomato: A pomodoro app for your menubar/tray.
@@ -4268,7 +4267,7 @@
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
 - [go-awesome/shortlink](https://github.com/go-awesome/shortlink) - High-Performance Shortlink ( Short URL ) app creator in Golang. For privacy reasons, you may prefer to host your own short URL app and this is the one to use.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
 - [batchcorp/plumber](https://github.com/batchcorp/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
@@ -6060,7 +6059,7 @@
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -7495,7 +7494,7 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [flowkey/UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - Cross-platform Swift implementation of UIKit, mostly for Android
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
-- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a settings window to your macOS app in minutes
+- [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -12956,7 +12955,7 @@
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -13138,7 +13137,7 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and 
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
@@ -13502,7 +13501,7 @@
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [oslabs-beta/Examin](https://github.com/oslabs-beta/Examin) - Examin is a developer tool that generates React unit tests for your application. Ensure your application renders as expected before adding new features. Examin writes the baseline unit tests and allow
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
@@ -15264,7 +15263,7 @@
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
 - [rechsteiner/Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu ✨
-- [sindresorhus/Preferences](https://github.com/sindresorhus/Preferences) - ⚙ Add a settings window to your macOS app in minutes
+- [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [alexdrone/Store](https://github.com/alexdrone/Store) - Unidirectional, transactional, operation-based Store implementation.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [yannickl/DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift and SwiftUI
