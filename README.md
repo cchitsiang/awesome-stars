@@ -849,6 +849,7 @@
 
 - [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 - [fusion-hq/fusion](https://github.com/fusion-hq/fusion) - 🚀 Open-source alternative for Mixpanel - Amplitude - Hotjar - Fullstory✨
+- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [aspnetcorehero/Boilerplate](https://github.com/aspnetcorehero/Boilerplate) - Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and W
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [froala/wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
@@ -2050,6 +2051,7 @@
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [facebookarchive/f8DeveloperConferenceApp](https://github.com/facebookarchive/f8DeveloperConferenceApp) - [Archive] f8 2014 Conference App
 - [2359media/EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) - 
 - [toptal/webdevchecklist.com](https://github.com/toptal/webdevchecklist.com) - Web Developer Checklist
@@ -2927,7 +2929,6 @@
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
-- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) - Lightweight full-featured WhatsApp Web + Multi-Device API
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
@@ -4786,7 +4787,6 @@
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [tungtouch/HubTaxi-Server](https://github.com/tungtouch/HubTaxi-Server) - [Deprecated] HubTaxi - The platform similar Uber, GrabTaxi, EasyTaxi....Willing to help people make dream comes true through building meaningful app mike@botbanhang.vn
 - [rogeralsing/Precio.Infrastructure](https://github.com/rogeralsing/Precio.Infrastructure) - DDD enabling Infrastructure framework for .NET 4.0
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [BioDesignRealWorld/LaravelDatabaseDesigner](https://github.com/BioDesignRealWorld/LaravelDatabaseDesigner) - Graphical Drag and Drop interface database designer authored by Budi Prakosa
 - [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code
 - [daxnet/ByteartRetail_Apworks](https://github.com/daxnet/ByteartRetail_Apworks) - 集成了Apworks框架的Byteart Retail案例，所有核心组件都由Apworks框架提供。是展示Apworks框架的一个很好的案例。
@@ -7885,7 +7885,7 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - Serverless API Gateway for GraphQL, REST, gRPC, Kafka and more with a focus on API Composition & Integration.
 - [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [slicknode/stylemapper](https://github.com/slicknode/stylemapper) - Flexible utility to create styled and type-safe React components
@@ -8179,7 +8179,7 @@
 - [elninotech/uppload](https://github.com/elninotech/uppload) - 📁 JavaScript image uploader and editor, no backend required
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [Kononnable/typeorm-model-generator](https://github.com/Kononnable/typeorm-model-generator) - Generates models for TypeORM from existing database.
-- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+- [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) - Legacy version of the Mattermost web app (now located as part of https://github.com/mattermost/mattermost-server)
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Robinyo/serendipity](https://github.com/Robinyo/serendipity) - Serendipity is an open-source Customer Engagement Platform.
