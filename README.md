@@ -13,6 +13,7 @@
 - [AutoIt](#autoit)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -129,6 +130,10 @@
 ## Bicep 
 
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+
+## Bikeshed 
+
+- [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 
 ## C 
 
@@ -857,7 +862,6 @@
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [kodilan-com/frontend](https://github.com/kodilan-com/frontend) - Frontend codebase of kodilan.com
-- [forgefed/forgefed](https://github.com/forgefed/forgefed) - ForgeFed - Federation Protocol for Forge Services
 - [iann0036/AWSConsoleRecorder](https://github.com/iann0036/AWSConsoleRecorder) - Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 - [aschmelyun/larametrics](https://github.com/aschmelyun/larametrics) - A self-hosted metrics and notifications platform for Laravel apps
 - [mausba/rssheap](https://github.com/mausba/rssheap) - An advanced web and mobile based RSS reader for software developers built on the .NET platform
@@ -2098,7 +2102,7 @@
 
 ## Java 
 
-- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [zalando/problem](https://github.com/zalando/problem) - A Java library that implements application/problem+json
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -7916,7 +7920,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [Grassper/OpenGrph](https://github.com/Grassper/OpenGrph) - Super fast open graph & cover image creator 🚀
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [jscheiny/safe-units](https://github.com/jscheiny/safe-units) - Type-safe TypeScript units of measure 👷📏
 - [taowen/vite-howto](https://github.com/taowen/vite-howto) - Modularization best practice to common web development scenarios, applies to vue/react/... any framework
 - [triggerdotdev/json-infer-types](https://github.com/triggerdotdev/json-infer-types) - Infers the type and format of JSON values
