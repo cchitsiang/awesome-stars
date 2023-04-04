@@ -137,7 +137,7 @@
 
 ## C 
 
-- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - OLAP Postgres. A modern, open source replacement for enterprise data warehouses
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - A modern, open source replacement for enterprise data warehouses
 - [chronotruck/FlagPhoneNumber](https://github.com/chronotruck/FlagPhoneNumber) - A formatted phone number UITextField with country flag picker.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca) - Jessibuca是一款开源的纯H5直播流播放器
@@ -153,6 +153,7 @@
 - [github/glb-director](https://github.com/github/glb-director) - GitHub Load Balancer Director and supporting tooling.
 - [RedisLabsModules/redisml](https://github.com/RedisLabsModules/redisml) - Machine Learning Model Server
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [ReversingID/Crackmes-Repository](https://github.com/ReversingID/Crackmes-Repository) - Initiative to collect and preserve crackmes for learning and practice in reverse engineering
@@ -2230,7 +2231,6 @@
 - [shehuan/CombineBitmap](https://github.com/shehuan/CombineBitmap) - Android 仿钉钉、微信 群聊组合头像
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [PrototypeZ/SaveState](https://github.com/PrototypeZ/SaveState) - :icecream: Generate 'onSaveInstanceState' and 'onRestoreInstanceState' methods for your application automatically
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [xuuhaoo/OkSocket](https://github.com/xuuhaoo/OkSocket) - An blocking socket client for Android applications.
 - [klinker24/talon-for-twitter-android](https://github.com/klinker24/talon-for-twitter-android) - The most powerful and beautiful Twitter client available.
