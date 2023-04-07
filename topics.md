@@ -2415,7 +2415,6 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -4959,7 +4958,7 @@
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.7.48892, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.7.48966, 3.3.5 = 3.3.5a.12340)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -7219,7 +7218,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.7.48892, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.7.48966, 3.3.5 = 3.3.5a.12340)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
