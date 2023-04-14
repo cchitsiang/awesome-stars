@@ -757,7 +757,7 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for .NET 7
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
@@ -3707,7 +3707,7 @@
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
@@ -4919,7 +4919,6 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation
-- [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [rubiin/nestjs-easyconfig](https://github.com/rubiin/nestjs-easyconfig) - Manage nestjs configs on the go 🔥
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
@@ -5026,7 +5025,6 @@
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -11509,7 +11507,6 @@
 - [adad184/MMPopupView](https://github.com/adad184/MMPopupView) - Pop-up based view(e.g. alert sheet), can be easily customized.
 - [hanks-zyh/500px-guideview](https://github.com/hanks-zyh/500px-guideview) - 500px guideview demo
 - [ChenSiLiang/RotatePhotoView](https://github.com/ChenSiLiang/RotatePhotoView) - PhotoView with Rotation Function
-- [jviotti/queryl](https://github.com/jviotti/queryl) - :mag_right: Query language to perform complex object searches
 - [ivacf/archi](https://github.com/ivacf/archi) - Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
 - [tapglue/snaasSdk-iOS](https://github.com/tapglue/snaasSdk-iOS) - Tapglue iOS SDK
 - [Esqarrouth/QorumLogs](https://github.com/Esqarrouth/QorumLogs) - :closed_book: Swift Logging Utility for Xcode & Google Docs
@@ -13140,7 +13137,7 @@
 - [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
 - [dahnielson/pwa-svelte-rollup-template](https://github.com/dahnielson/pwa-svelte-rollup-template) - Template for Svelte PWA
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [narendrashetty/uber-mobile-web](https://github.com/narendrashetty/uber-mobile-web) - This is an attempt to mock the new uber app into mobile web to learn how react can be used to optimize for mobile web.
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
 - [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -13618,7 +13615,7 @@
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [hypertrack/placeline-nextjs](https://github.com/hypertrack/placeline-nextjs) - HyperTrack Placeline web application sample using NextJS, Ant-Design, Styled-Components, and Heroku
 - [remaxjs/remax](https://github.com/remaxjs/remax) - 使用真正的 React 构建跨平台小程序
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [ramesaliyev/mom](https://github.com/ramesaliyev/mom) - Proof of concept for Message-Oriented-Middleware based architecture.
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
@@ -13958,7 +13955,7 @@
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [Flaque/quirk](https://github.com/Flaque/quirk) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
 - [filipemerker/flatlist-performance-tips](https://github.com/filipemerker/flatlist-performance-tips) - 📱 Tips and tricks to improve your React Native FlatList performance and memory consumption
 - [unform/unform](https://github.com/unform/unform) - Performance-focused API for React forms 🚀
@@ -15999,7 +15996,7 @@
 - [cteamx/Thief](https://github.com/cteamx/Thief) - 一款创新跨平台摸鱼神器，支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式，为上班族打造的上班必备神器，使用此软件可以让上班倍感轻松，远离 ICU。
 - [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [DXY-F2E/api-mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker.
 - [easy-mock/easy-mock](https://github.com/easy-mock/easy-mock) - A persistent service that generates mock data quickly and provids visualization view.
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
