@@ -320,7 +320,7 @@
 - [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
 - [SenseNet/sensenet](https://github.com/SenseNet/sensenet) - Open Source Content Services Platform written in .NET
 - [Elders/Cronus](https://github.com/Elders/Cronus) - Cronus is a lightweight framework for building event driven systems with DDD/CQRS in mind
-- [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+- [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) - dotnet 7.0 API Gateway
 - [bolorundurowb/Open-Exam-Suite](https://github.com/bolorundurowb/Open-Exam-Suite) - This project seeks to create an open source exam designer and simulator that will be solace for those wanting to take any simulated examinations.
 - [bolorundurowb/dotenv.net](https://github.com/bolorundurowb/dotenv.net) - A library to read .env files in a .NET Core environment
 - [NeutroniumCore/Neutronium](https://github.com/NeutroniumCore/Neutronium) - 🚀 Build .NET desktop applications using HTML, CSS and javascript.
@@ -3124,7 +3124,6 @@
 - [franciscop/react-text](https://github.com/franciscop/react-text) - 📙 React translation library with plain objects as dictionaries
 - [xShteff/Node-w-docker](https://github.com/xShteff/Node-w-docker) - 
 - [lucagez/tattica](https://github.com/lucagez/tattica) - Tactical and adaptive asset loading library
-- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [zhang8043/abp-react-antd](https://github.com/zhang8043/abp-react-antd) - 一个基于 ABP + React + Ant Design Pro 的快速开发框架
 - [didi/chameleon](https://github.com/didi/chameleon) - 🦎 一套代码运行多端，一端所见即多端所见
 - [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao) - 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
@@ -5471,7 +5470,6 @@
 - [DianQK/DQKFreezeWindowView](https://github.com/DianQK/DQKFreezeWindowView) - A freeze window effect view for iOS
 - [appsocially/AppSocially-iOS-SDK](https://github.com/appsocially/AppSocially-iOS-SDK) - Optimized User Aqusition funnel for iOS
 - [bubudrc/MPCoachMarks](https://github.com/bubudrc/MPCoachMarks) - MPCoachMarks is an iOS class that displays user coach marks with a couple of shapescutout over an existing UI. This approach leverages your actual UI as part of the onboarding process for your user.
-- [AlexeyBelezeko/TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - TBIconTransitionKit is an easy to use icon transition kit that allows to smoothly change from one shape to another.
 - [robovm/apple-ios-samples](https://github.com/robovm/apple-ios-samples) - 
 - [onevcat/VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.
 - [yapstudios/YapDatabase](https://github.com/yapstudios/YapDatabase) - YapDB is a collection/key/value store with a plugin architecture. It's built atop sqlite, for Swift & objective-c developers.
@@ -7795,6 +7793,7 @@
 - [MartinRGB/MTSwift-Learning](https://github.com/MartinRGB/MTSwift-Learning) - Begin to learn swift,try to make some simple project here(DEPRECATED)
 - [GabrielAlva/Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from.
 - [manavgabhawala/CocoaMultipeer](https://github.com/manavgabhawala/CocoaMultipeer) - This repository is a peer to peer framework for OS X, iOS and watchOS 2 that presents a similar interface to the MultipeerConnectivity framework (which is iOS only) that lets you connect any 2 devices
+- [AlexeyBelezeko/TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit) - TBIconTransitionKit is an easy to use icon transition kit that allows to smoothly change from one shape to another.
 - [okmr-d/DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button written in Swift.
 - [jathu/UIImageColors](https://github.com/jathu/UIImageColors) - Fetches the most dominant and prominent colors from an image.
 - [kostiakoval/Mirror](https://github.com/kostiakoval/Mirror) - Swift objects Reflection
@@ -7860,6 +7859,10 @@
 
 ## TypeScript 
 
+- [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+- [inngest/inngest-js](https://github.com/inngest/inngest-js) - Serverless event-driven systems, background jobs, and scheduled jobs for TypeScript & JavaScript
+- [crufters/actio](https://github.com/crufters/actio) - The Node.js framework for monoliths and microservices.
+- [ahuangege/mydog](https://github.com/ahuangege/mydog) - typescript编写的分布式游戏服务器框架（a distributed game server framework coded by typescript）
 - [SocketSomeone/nestjs-resilience](https://github.com/SocketSomeone/nestjs-resilience) - 🛡️ A module for improving the reliability and fault-tolerance of your NestJS applications
 - [berstend/straightforward](https://github.com/berstend/straightforward) - 🏴 A straightforward forward-proxy written in Node.js.
 - [morintd/prismock](https://github.com/morintd/prismock) - A mock for PrismaClient, dedicated to unit testing.
@@ -8261,6 +8264,7 @@
 - [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 - [Gqlify/gqlify](https://github.com/Gqlify/gqlify) - An API integration framework using GraphQL
 - [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 🛍️ Simple ecommerce cart application built with Typescript and React
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
@@ -8626,7 +8630,7 @@
 - [microsoft/azure-devops-node-api](https://github.com/microsoft/azure-devops-node-api) - Azure DevOps Client for Node.js
 - [microsoft/vsts-extension-samples](https://github.com/microsoft/vsts-extension-samples) - Sample extensions for Visual Studio Team Services
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components. React & Vue support
 - [dalamgir/angular-next-starter-kit](https://github.com/dalamgir/angular-next-starter-kit) - Seed project for developing angular 1.x applications in preparation for migrating on to Angular 2.0
 - [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
