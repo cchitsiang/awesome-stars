@@ -1067,7 +1067,7 @@
 - [zenOSmosis/docker-dev-ssl-proxy](https://github.com/zenOSmosis/docker-dev-ssl-proxy) - A simple nginx proxy behind a self-generated & self-signed SSL certificate (local HTTPS).  Also utilized in development of https://speaker.app / https://github.com/zenOSmosis/speaker.app.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [johackim/docker-hacklab](https://github.com/johackim/docker-hacklab) - My personal hacklab, create your own.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [zealic/dockerfiles](https://github.com/zealic/dockerfiles) - Dockerfile repository for maintaining Docker images
 - [nginx-boilerplate/nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate) - Awesome Nginx configuration template
@@ -3358,7 +3358,7 @@
 - [nccgroup/house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [antsmartian/lets-build-express](https://github.com/antsmartian/lets-build-express) - This repo contains chapters which explains how one can build a minimal express library.
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
-- [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces.
+- [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces
 - [elbywan/yett](https://github.com/elbywan/yett) - 🔐A small webpage library to control the execution of (third party) scripts
 - [sonnylazuardi/bibleify-desktop](https://github.com/sonnylazuardi/bibleify-desktop) - 🖥️Simple & fast bible app with dramatized audio built with Electron, React, Rematch & Realm
 - [travelgateX/documentation-site](https://github.com/travelgateX/documentation-site) - This repository contains source for TravelgateX documentation. TravelgateX is a collection of GraphQL APIs for the travel trade.
@@ -7137,7 +7137,7 @@
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [jontsai/github-streak](https://github.com/jontsai/github-streak) - Artificially keep your GitHub streak going, and going, and going...
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [grigio/docker-meteor](https://github.com/grigio/docker-meteor) - A small Docker image to run you Meteor apps without surprises
 - [testfairy/command-line-uploader](https://github.com/testfairy/command-line-uploader) - Upload builds to TestFairy via command line
@@ -8518,7 +8518,7 @@
 - [brookshi/Hitchhiker](https://github.com/brookshi/Hitchhiker) - a Restful Api test tool
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [react-native-community/directory](https://github.com/react-native-community/directory) - A searchable and filterable directory of React Native libraries.
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
