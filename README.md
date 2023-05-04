@@ -263,7 +263,7 @@
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [bolorundurowb/logly](https://github.com/bolorundurowb/logly) - A HTTP Request and Response logger for ASP.NET Core
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 preview 3 projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 preview 4 projects you can use. Readme contains explanations on all projects.
 - [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql
 - [juunas11/aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 - [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
@@ -392,7 +392,7 @@
 - [Azure/azure-stream-analytics](https://github.com/Azure/azure-stream-analytics) - Azure Stream Analytics
 - [OneGet/oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows
 - [mbdavid/LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [conceptdev/xamarin-forms-samples](https://github.com/conceptdev/xamarin-forms-samples) - Samples that use Xamarin.Forms (http://xamarin.com/forms)
 - [sjdirect/abot](https://github.com/sjdirect/abot) - Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.
 - [ratishphilip/DiligentWindows](https://github.com/ratishphilip/DiligentWindows) - A collection of working mockups showing my concept of various features of Windows 10 and Windows 10 Mobile.
@@ -1178,7 +1178,7 @@
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -6847,7 +6847,7 @@
 - [calabash/calabash-android](https://github.com/calabash/calabash-android) - Automated Functional testing for Android using cucumber
 - [rajdeepv/parallel_calabash](https://github.com/rajdeepv/parallel_calabash) - Helps running calabash ios/android tests in parallel
 - [crashlytics/crashlytics-services](https://github.com/crashlytics/crashlytics-services) - Simple, powerful, declarative integrations for popular third-party services.
-- [nomad/cupertino](https://github.com/nomad/cupertino) - CLI for the Apple Dev Center
+- [nomad-cli/cupertino](https://github.com/nomad-cli/cupertino) - CLI for the Apple Dev Center
 - [jaipandya/SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [codegram/vim-codereview](https://github.com/codegram/vim-codereview) - GItHub Pull Request-based Code Reviews
@@ -6861,9 +6861,9 @@
 - [forward3d/uphold](https://github.com/forward3d/uphold) - A tool for programmatically verifying database backups
 - [active-elastic-job/active-elastic-job](https://github.com/active-elastic-job/active-elastic-job) - Run Rails background jobs or periodic tasks (cron jobs) in Amazon Elastic Beanstalk worker environments. No need for customised container commands.
 - [fastlane/boarding](https://github.com/fastlane/boarding) - Instantly create a simple signup page for TestFlight beta testers
-- [nomad/venice](https://github.com/nomad/venice) - Ruby Gem for In-App Purchase Receipt Verification
+- [nomad-cli/venice](https://github.com/nomad-cli/venice) - Ruby Gem for In-App Purchase Receipt Verification
 - [hibiken/stories](https://github.com/hibiken/stories) - Medium clone built with Ruby on Rails
-- [nomad/houston](https://github.com/nomad/houston) - Apple Push Notifications; No Dirigible Required
+- [nomad-cli/houston](https://github.com/nomad-cli/houston) - Apple Push Notifications; No Dirigible Required
 - [acquia/moonshot](https://github.com/acquia/moonshot) - Moonshot: Because releasing services shouldn't be a moonshot!
 - [unhappychoice/circleci-cli](https://github.com/unhappychoice/circleci-cli) - :cyclone: CLI client / command line tool for CircleCI
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
@@ -6915,7 +6915,7 @@
 - [joshdholtz/jenkins-slack-command](https://github.com/joshdholtz/jenkins-slack-command) - Start a build in Jenkins using a Slack Command
 - [fdietz/team_dashboard](https://github.com/fdietz/team_dashboard) - Visualize your team's metrics all in one place.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [nomad/shenzhen](https://github.com/nomad/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
+- [nomad-cli/shenzhen](https://github.com/nomad-cli/shenzhen) - CLI for Building & Distributing iOS Apps (.ipa Files)
 - [patgannon/asanban](https://github.com/patgannon/asanban) - Track Kanban metrics using Asana as a data source
 - [coderwall/coderwall-legacy](https://github.com/coderwall/coderwall-legacy) - Professional network for software engineers
 - [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure.
