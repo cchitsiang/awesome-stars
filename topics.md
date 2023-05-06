@@ -839,7 +839,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 - [amplication/amplication](https://github.com/amplication/amplication) - Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development 🚀
 - [acode/FunctionScript](https://github.com/acode/FunctionScript) - An API gateway and framework for turning functions into web services
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [freshOS/Networking](https://github.com/freshOS/Networking) - ⚡️ Concise networking code leveraging async-await, Decodable & Generics.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
@@ -1923,7 +1923,7 @@
 
 ## code 
 
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
@@ -2051,7 +2051,7 @@
 
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
@@ -3064,6 +3064,7 @@
 
 ## dotnet 
 
+- [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
@@ -4886,7 +4887,7 @@
 - [jogendra/BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.
 - [getoutreach/localizer](https://github.com/getoutreach/localizer) - ⛵ A no-frills local development tool for service developers working in Kubernetes
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -6131,7 +6132,7 @@
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
@@ -8284,7 +8285,7 @@
 - [algoan/nestjs-components](https://github.com/algoan/nestjs-components) - A list of useful components for NestJS applications
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - [toonvanstrijp/nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n) - The i18n module for nestjs.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
 - [zaaack/foy](https://github.com/zaaack/foy) - A simple, light-weight, type-friendly and modern task runner for general purpose.
@@ -9242,7 +9243,7 @@
 - [bolorundurowb/logly](https://github.com/bolorundurowb/logly) - A HTTP Request and Response logger for ASP.NET Core
 - [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [banchichen/TZImagePickerController](https://github.com/banchichen/TZImagePickerController) - 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+
-- [TwoLivesLeft/Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu
+- [simsaens/Menu](https://github.com/simsaens/Menu) - The iOS Menu
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [malcommac/Repeat](https://github.com/malcommac/Repeat) - 🕦 Modern Timer in Swift, Debouncer and Throttler (alternative to NSTimer) made with GCD
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
@@ -13036,7 +13037,7 @@
 - [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
 - [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go) - Prisma Client Go is an auto-generated and fully type-safe database client
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [brainless/dwata](https://github.com/brainless/dwata) - Manage Databases without knowing SQL. Track User growth, find Sales insights or bottlenecks, share KPIs without engineering.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -13605,7 +13606,7 @@
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [FallenMax/a18n](https://github.com/FallenMax/a18n) - Automated I18n solution for JavaScript/TypeScript/React
@@ -14800,7 +14801,7 @@
 ## sketch 
 
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [AnimaApp/sketch-web-viewer](https://github.com/AnimaApp/sketch-web-viewer) - View and inspect Sketch 43 files in browser
 - [mathieudutour/git-sketch-plugin](https://github.com/mathieudutour/git-sketch-plugin) - :gem::octocat: A Git client generating pretty diffs built right into Sketch.
@@ -15722,7 +15723,7 @@
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [toonvanstrijp/nestjs-i18n](https://github.com/toonvanstrijp/nestjs-i18n) - The i18n module for nestjs.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [stephenh/ts-proto](https://github.com/stephenh/ts-proto) - An idiomatic protobuf generator for TypeScript
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) - 🦘 The Grouparoo Monorepo - open source customer data sync framework
@@ -16154,7 +16155,7 @@
 - [ly525/luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
