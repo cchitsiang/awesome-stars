@@ -2129,7 +2129,7 @@
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
 - [hazelcast/hazelcast-jet](https://github.com/hazelcast/hazelcast-jet) - Distributed Stream and Batch Processing
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
@@ -5957,6 +5957,7 @@
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [joanbruna/stat212b](https://github.com/joanbruna/stat212b) - Topics Course on Deep Learning UC Berkeley
 - [island205/Single-Page-App-Break](https://github.com/island205/Single-Page-App-Break) - 单页应用开发权威指南
+- [relatedcode/awesome-mojo](https://github.com/relatedcode/awesome-mojo) - Awesome Mojo Programming Language
 - [rabbitmq/internals](https://github.com/rabbitmq/internals) - High level architecture overview
 - [ouvens/frontend-system-map](https://github.com/ouvens/frontend-system-map) - init
 - [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
@@ -6507,6 +6508,7 @@
 - [skynyrd/cikilop](https://github.com/skynyrd/cikilop) - Easy data migration for MongoDB using Python.
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [henryruhs/chroma-feedback](https://github.com/henryruhs/chroma-feedback) - Turn your RGB powered hardware into a status indicator for continuous integration, continuous deployment and infrastructure monitoring
+- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game) - 微信《跳一跳》Python 辅助
@@ -6577,7 +6579,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python browser automation framework for creating reliable end-to-end tests.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -7111,7 +7113,6 @@
 - [thinkonezero/htpc-docker-standup](https://github.com/thinkonezero/htpc-docker-standup) - A simple docker-compose based configuration to stand up a new HTPC w/ Plex, Deluge, Sonarr, Radarr and more!
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [iridakos/goto](https://github.com/iridakos/goto) - Alias and navigate to directories with tab completion in Linux
-- [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [DegreyG/fakeapp](https://github.com/DegreyG/fakeapp) - A tool for create iOS Fake App project.
 - [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 - [Freemius/server-monitoring](https://github.com/Freemius/server-monitoring) - NewRelic email alerts alternative by Freemius
@@ -7666,7 +7667,6 @@
 - [bignerdranch/Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
 - [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [CatchChat/Yep](https://github.com/CatchChat/Yep) - Meet Genius
-- [relatedcode/awesome-mojo](https://github.com/relatedcode/awesome-mojo) - Awesome Mojo Programming Language
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [bannzai/Gecco](https://github.com/bannzai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift
 - [FolioReader/FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - 📚 A Swift ePub reader and parser framework for iOS.
@@ -7915,7 +7915,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Drop-in auth and user management for the passkey era.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
@@ -8234,7 +8234,7 @@
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 - [ng-alain/ng-alain](https://github.com/ng-alain/ng-alain) - NG-ZORRO admin panel front-end framework (surge mirror https://ng-alain-doc.surge.sh)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [opticdev/optic](https://github.com/opticdev/optic) - Optic makes it easy to document your APIs, prevent breaking changes, and follow an API style-guide
+- [opticdev/optic](https://github.com/opticdev/optic) - Version Control for APIs. Optic makes it easy to document your APIs, prevent breaking changes, and follow an API style-guide
 - [NativeScript/nativescript-dev-appium](https://github.com/NativeScript/nativescript-dev-appium) - A package to help with writing and executing e2e Appium tests in NativeScript apps
 - [oslabs-beta/seeql](https://github.com/oslabs-beta/seeql) - see your database in a new way
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the proces
