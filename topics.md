@@ -271,7 +271,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
@@ -325,6 +325,7 @@
 
 ## analytics 
 
+- [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -394,7 +395,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [feelschaotic/AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem) - The most complete Android advanced route knowledge map ⭐️你想要的最全 Android 进阶路线知识图谱+干货资料收集🚀
 - [mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation
@@ -986,6 +987,7 @@
 
 ## automation 
 
+- [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [ayakashi-io/ayakashi](https://github.com/ayakashi-io/ayakashi) - :zap: Ayakashi.io - The next generation web scraping framework
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -1712,7 +1714,7 @@
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [feramhq/FastLint-Issues](https://github.com/feramhq/FastLint-Issues) - FastLint automatically finds bugs in your code with cutting-edge AI-powered code analysis
 - [hoochanlon/NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 
@@ -2084,6 +2086,7 @@
 
 ## csharp 
 
+- [vb-consulting/Norm.net](https://github.com/vb-consulting/Norm.net) - High-performance micro-ORM modern Dapper replacement for .NET Standard 2.1 and higher
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 7 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -2813,7 +2816,7 @@
 - [Tony133/nestjs-api-boilerplate-jwt](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS v9.x + TypeORM and JWT Auth 😻
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -2855,7 +2858,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [snowlyg/iris-admin](https://github.com/snowlyg/iris-admin) - Web admin  for go framework [gin/iris]
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
@@ -3228,7 +3231,7 @@
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
 - [jasperapp/jasper](https://github.com/jasperapp/jasper) - Jasper - A flexible and powerful issue reader for GitHub
 - [Aaronong/SQLitmus](https://github.com/Aaronong/SQLitmus) - A simple and practical tool for SQL data generation and performance testing
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [electron-elements/send-feedback](https://github.com/electron-elements/send-feedback) - send-feedback electron element - that could be used to get user feedback from electron app
 - [sonnylazuardi/bibleify-desktop](https://github.com/sonnylazuardi/bibleify-desktop) - 🖥️Simple & fast bible app with dramatized audio built with Electron, React, Rematch & Realm
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
@@ -3459,7 +3462,7 @@
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [remychantenay/Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase.
 - [dvmjoshi/stuff](https://github.com/dvmjoshi/stuff) - Crud operation with Firebase
 - [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -3546,7 +3549,7 @@
 - [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
 - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [iampawan/GDG-DevFest-App](https://github.com/iampawan/GDG-DevFest-App) - An App Template For GDG DevFest
 - [phoenixsky/fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter) - 👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画
@@ -3990,7 +3993,7 @@
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 - [name5566/leaf](https://github.com/name5566/leaf) - A game server framework in Go (golang)
@@ -4259,6 +4262,7 @@
 
 ## golang 
 
+- [odpf/optimus](https://github.com/odpf/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [micro/services](https://github.com/micro/services) - Real World Micro Services
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
@@ -4937,7 +4941,7 @@
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [mrcsxsiq/Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - :cyclone: A Pokedex app using ViewModel, ViewBinding, LiveData, Room and Navigation
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -5494,7 +5498,7 @@
 - [microsoft/FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit) - A library for backporting Dark Mode in iOS
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [shaps80/Peek](https://github.com/shaps80/Peek) - All new design. Inspect your iOS application at runtime.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [vaib25vicky/awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
@@ -6165,7 +6169,7 @@
 - [elninotech/uppload](https://github.com/elninotech/uppload) - 📁 JavaScript image uploader and editor, no backend required
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - Apostrophe is a full-featured, open-source CMS built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
@@ -7278,7 +7282,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [Manjaro-WebDad/jde](https://github.com/Manjaro-WebDad/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
@@ -7553,7 +7557,7 @@
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [flowkey/UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - Cross-platform Swift implementation of UIKit, mostly for Android
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [sindresorhus/Settings](https://github.com/sindresorhus/Settings) - ⚙ Add a settings window to your macOS app in minutes
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -13564,7 +13568,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [webeetle/react-headless-hooks](https://github.com/webeetle/react-headless-hooks) - Build and design powerful components while retaining 100% control over markup and styles.
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
@@ -14696,7 +14700,7 @@
 - [jamstack-cms/jamstack-ecommerce](https://github.com/jamstack-cms/jamstack-ecommerce) - A starter project for building performant ECommerce applications with Next.js and React
 - [99x/serverless-dynamodb-local](https://github.com/99x/serverless-dynamodb-local) - Serverless Dynamodb Local Plugin - Allows to run dynamodb locally for serverless
 - [luisfarzati/chromda](https://github.com/luisfarzati/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [postlight/serverless-typescript-starter](https://github.com/postlight/serverless-typescript-starter) - 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
@@ -15061,7 +15065,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [michaeleisel/barber](https://github.com/michaeleisel/barber) - Fast build times for big Swift projects
 - [shaps80/Peek](https://github.com/shaps80/Peek) - All new design. Inspect your iOS application at runtime.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [steve228uk/YouTube-Music](https://github.com/steve228uk/YouTube-Music) - :musical_note: A Mac app wrapper for music.youtube.com
@@ -15959,7 +15963,7 @@
 ## ubuntu 
 
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [DragonComputer/Dragonfire](https://github.com/DragonComputer/Dragonfire) - the open-source virtual assistant for Ubuntu based Linux distributions
 - [FabrizioBrancati/SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - How to create a Telegram, Facebook Messenger, and Google Assistant bot with Swift using Vapor on Linux and macOS.
 - [sachinchoolur/lightgallery-desktop](https://github.com/sachinchoolur/lightgallery-desktop) - A modern, electron and nodejs based image viewer for Mac, Windows and Linux.
@@ -16108,7 +16112,7 @@
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [myvin/quietweather](https://github.com/myvin/quietweather) - :sunny: Develop a weather wechat mini program application in two days - 两天撸一个天气应用微信小程序
 - [learn-vuejs/vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
 - [artemsky/vue-snotify](https://github.com/artemsky/vue-snotify) - Vuejs 2 Notification Center
@@ -16198,7 +16202,7 @@
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 - [myvin/quietweather](https://github.com/myvin/quietweather) - :sunny: Develop a weather wechat mini program application in two days - 两天撸一个天气应用微信小程序
 - [learn-vuejs/vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [artemsky/vue-snotify](https://github.com/artemsky/vue-snotify) - Vuejs 2 Notification Center
 - [jxnblk/ram](https://github.com/jxnblk/ram) - :atom_symbol: React Application Manager: create and run React (and other) applications – no command line or build setup required
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
@@ -16232,7 +16236,7 @@
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -16441,7 +16445,7 @@
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [denysdovhan/inboxer](https://github.com/denysdovhan/inboxer) - Unofficial, free and open-source Inbox by Gmail Desktop App
