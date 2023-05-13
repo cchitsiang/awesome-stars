@@ -198,6 +198,7 @@
 
 ## C# # 
 
+- [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
 - [vb-consulting/Norm.net](https://github.com/vb-consulting/Norm.net) - High-performance micro-ORM modern Dapper replacement for .NET Standard 2.1 and higher
 - [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - [bflattened/bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
@@ -1163,7 +1164,6 @@
 - [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-- [dotenx/dotenx](https://github.com/dotenx/dotenx) - Low-code all-in-one platform to build web applications, websites, APIs, forms, automations. An alternative for wordpress, bubble, webflow, Zapier, and much more
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
@@ -3791,7 +3791,7 @@
 - [att/rcloud](https://github.com/att/rcloud) - Collaborative data analysis and visualization
 - [pascalw/pragma-rest-client](https://github.com/pascalw/pragma-rest-client) - Pragma, the pragmatic visual HTTP/REST client
 - [FormidableLabs/react-game-kit](https://github.com/FormidableLabs/react-game-kit) - Component library for making games with React  & React Native
-- [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver) - Appium iOS driver, backed by Apple XCUITest
+- [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver) - Appium iOS driver, backed by Apple XCTest
 - [doowb/github-traffic](https://github.com/doowb/github-traffic) - Get the Github traffic for the specified repository
 - [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 - [delight-im/Javadoc-to-Markdown](https://github.com/delight-im/Javadoc-to-Markdown) - [UNMAINTAINED] Generate Markdown from your Javadoc, PHPDoc or JSDoc comments
@@ -4334,7 +4334,6 @@
 - [rodrigogs/nodejs-web-jade-scaffold](https://github.com/rodrigogs/nodejs-web-jade-scaffold) - Web application featuring Node.js, Express, Jade, Passport, MongoDB and Bootstrap
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [officert/mongotron](https://github.com/officert/mongotron) - Cross platform Mongo DB management
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [timschlechter/http-with-fallback](https://github.com/timschlechter/http-with-fallback) - AngularJS $http compatible factory which can provide a fallback for failing GET requests
 - [exis-io/Exis](https://github.com/exis-io/Exis) - Exis client libraries, sample projects, and demos.
 - [liferay/alloy-editor](https://github.com/liferay/alloy-editor) - WYSIWYG editor based on CKEditor with completely rewritten UI
@@ -4400,7 +4399,6 @@
 - [johnstonbl01/clementinejs](https://github.com/johnstonbl01/clementinejs) - The elegant and lightweight full stack JavaScript boilerplate.
 - [FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [dleitee/valid.js](https://github.com/dleitee/valid.js) - 📝 A library for data validation.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [timruffles/d3.angularize](https://github.com/timruffles/d3.angularize) - Want a bit of data-binding within a D3 context?
@@ -4660,7 +4658,7 @@
 - [bevacqua/woofmark](https://github.com/bevacqua/woofmark) - :dog2: Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor
 - [Polymer/polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [huytd/agar.io-clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
+- [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
 - [d0minikk/materialize-meteor](https://github.com/d0minikk/materialize-meteor) - Materialize meteor package - a modern responsive front-end framework based on Material Design.
 - [npvn/meteor-material-design](https://github.com/npvn/meteor-material-design) - Material Design for Meteor
 - [fians/Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design
@@ -5731,7 +5729,7 @@
 - [KimberlyMunoz/empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - A curated list of resources for building and promoting more compassionate engineering cultures
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [shekhargulati/nosql-to-rdbms-stories](https://github.com/shekhargulati/nosql-to-rdbms-stories) - This repository contains stories of people moving back to RDBMS from NoSQL datastores
-- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by http://sdclabs.com
+- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech
 - [BestDingSheng/resources](https://github.com/BestDingSheng/resources) - 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services) - A curated list of the best in class SaaS services for developers and business owners.
@@ -6576,7 +6574,6 @@
 - [huacnlee/PokemonGoMove](https://github.com/huacnlee/PokemonGoMove) - Pokemon GO iOS GPS Emulator - NO Jailbreak needed, lets you play the game on your Mac :)
 - [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
 - [graphql-python/graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [dveselov/docsbox](https://github.com/dveselov/docsbox) - Self-hosted document converting service with HTTP API
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [ctripcloud/docker-make](https://github.com/ctripcloud/docker-make) - build,tag,and push a bunch of related docker images via a single command
@@ -7962,6 +7959,7 @@
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+- [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code and Low-code all-in-one platform to build landing pages, websites, web applications, APIs, automations. An alternative for Wix, Webflow, Zapier, and more
 - [typedorm/typedorm](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
 - [swan-io/react-ux-form](https://github.com/swan-io/react-ux-form) - A simple, fast, and opinionated form library for React & React Native focusing on UX.
 - [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
@@ -8651,6 +8649,7 @@
 - [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim) - Web-enhanced Extensible Neovim Frontend
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
 - [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
@@ -8661,6 +8660,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [furnishup/blueprint3d](https://github.com/furnishup/blueprint3d) - Build interior spaces in 3D
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
