@@ -3743,6 +3743,7 @@
 - [olahol/react-ab](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
 - [adeekshith/netflix-categories](https://github.com/adeekshith/netflix-categories) - Unlock Netflix Hidden Categories With This Browser Extension
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
+- [dtnewman/zappa_boilerplate](https://github.com/dtnewman/zappa_boilerplate) - A template for serverless web apps using Flask + Zappa
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [aaaristo/dyngodb](https://github.com/aaaristo/dyngodb) - An experiment to get a MongoDB like interface in front of DynamoDB
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
@@ -6160,7 +6161,7 @@
 - [bschmitt/laravel-amqp](https://github.com/bschmitt/laravel-amqp) - AMQP wrapper for Laravel and Lumen to publish and consume messages
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
 - [slimkit/plus](https://github.com/slimkit/plus) - 💝The Plus (ThinkSNS+) is a powerful, easy-to-develop social system built with Laravel.
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - An easy to use, free and open source laravel eCommerce platform to build your online shop in no time.
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [area17/twill](https://github.com/area17/twill) - Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us on Discord at https://discord.gg/cnWk
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 - [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
@@ -6561,7 +6562,6 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [madflojo/automatron](https://github.com/madflojo/automatron) - Infrastructure monitoring framework turning DevOps runbooks into automated actions
 - [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
-- [dtnewman/zappa_boilerplate](https://github.com/dtnewman/zappa_boilerplate) - A template for serverless web apps using Flask + Zappa
 - [Yelp/elastalert](https://github.com/Yelp/elastalert) - Easy & Flexible Alerting With ElasticSearch
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
@@ -7046,7 +7046,7 @@
 
 ## Scala 
 
-- [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning peersonalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
+- [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
 - [ing-bank/baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows
 - [salesforce/TransmogrifAI](https://github.com/salesforce/TransmogrifAI) - TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
