@@ -114,7 +114,6 @@
 ## Astro 
 
 - [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## AutoIt 
 
@@ -1201,7 +1200,7 @@
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Self-hosted media server and community youtube-dl/yt-dlp archival manager
+- [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
@@ -2912,6 +2911,7 @@
 
 ## JavaScript 
 
+- [ahmed3520/lam-store](https://github.com/ahmed3520/lam-store) - Lam-store App is a desktop app that allows users to perform tasks through a centralized chat interface. It supports apps developed in any language and uses Node child processes to communicate with the
 - [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open source platform that helps develop and deploy integrations and data pipelines quickly and easily.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
@@ -4977,6 +4977,7 @@
 - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🧠 ChatGPT、Windows/Mac/Linux各类运行环境镜像站，cnki/core.ac.uk、国立台湾大学、国立新加坡大学、内陆院校等机构行业研究报告智库收集
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [udacity/deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning) - Repo for the Deep Reinforcement Learning Nanodegree program
 - [Murgio/Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - food image to recipe with deep convolutional neural networks.
@@ -5606,7 +5607,7 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [redpanda-data/awesome-distributed-transactions](https://github.com/redpanda-data/awesome-distributed-transactions) - Awesome list of distributed transactions
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
-- [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
+- [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [yjose/awesome-new](https://github.com/yjose/awesome-new) - A list of `.new` domains to perform online actions in one quick action.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [teenyicons/teenyicons](https://github.com/teenyicons/teenyicons) - Tiny minimal 1px icons designed to fit in the smallest places.
@@ -6462,7 +6463,6 @@
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [klaudiosinani/moviebox](https://github.com/klaudiosinani/moviebox) - Machine learning movie recommending system
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [hoochanlon/seikaii](https://github.com/hoochanlon/seikaii) - 💾 ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 - [zalando-stups/stups-gotthard](https://github.com/zalando-stups/stups-gotthard) - Gotthard provides tunneling for PostgreSQL in a STUPS environment
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
@@ -6980,7 +6980,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. You can use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only S
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -7875,13 +7875,15 @@
 
 ## TypeScript 
 
+- [nestjs-shopify/nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Build Shopify apps on NestJS
+- [tobq/loadable](https://github.com/tobq/loadable) - A library for simplifying asynchronous operations in React
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [necordjs/toolkit](https://github.com/necordjs/toolkit) - 🤖 Source code of Toolkit bot
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
-- [AkashRajpurohit/ts-npm-template](https://github.com/AkashRajpurohit/ts-npm-template) - 
+- [AkashRajpurohit/ts-npm-template](https://github.com/AkashRajpurohit/ts-npm-template) - 📦 A project template to bootstrap NPM package with Typescript
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
@@ -8579,6 +8581,7 @@
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [dsifford/confzen](https://github.com/dsifford/confzen) - A command line utility for creating and maintaining configuration files for javascript and typescript projects
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [transistorsoft/rn-background-geolocation-demo](https://github.com/transistorsoft/rn-background-geolocation-demo) - Demo app for react-native-background-geolocation plugin
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
