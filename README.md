@@ -1991,7 +1991,6 @@
 - [valentindotxyz/fwrdtome-app](https://github.com/valentindotxyz/fwrdtome-app) - fwrdto.me – Send links to your inbox in just one click!
 - [Ramotion/iOS-design-tips](https://github.com/Ramotion/iOS-design-tips) - Simple iOS design guidelines that will assist you in selecting the dimensions for your AppStore assets:
 - [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
-- [cloudnative/lambda-chat](https://github.com/cloudnative/lambda-chat) - A chat application without servers - using only AWS Lambda, S3, DynamoDB and SNS
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [prakhar21/spark-streaming](https://github.com/prakhar21/spark-streaming) - Twitter Spark Streaming using PySpark
 - [aviaryan/resume](https://github.com/aviaryan/resume) - :bowtie: Simple and clean resume in Jekyll
