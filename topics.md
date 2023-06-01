@@ -10442,7 +10442,6 @@
 - [marclaval/angular-react-native-seed](https://github.com/marclaval/angular-react-native-seed) - A seed project to create a native mobile application with Angular and React Native
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [sinha-abhishek/NetworkManagedUI](https://github.com/sinha-abhishek/NetworkManagedUI) - Android library which makes it easier to disable and enable UI elements whose action require presence of network connection
-- [cloudnative/lambda-chat](https://github.com/cloudnative/lambda-chat) - A chat application without servers - using only AWS Lambda, S3, DynamoDB and SNS
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [florian/HNClient](https://github.com/florian/HNClient) - An awesome desktop client for Hacker News
 - [rehacktive/waspdb](https://github.com/rehacktive/waspdb) - key/value data storage library for Android, pure java and encrypted
