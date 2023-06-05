@@ -265,7 +265,7 @@
 ## ai 
 
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
@@ -1720,7 +1720,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
@@ -2550,7 +2550,7 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -2722,7 +2722,7 @@
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [getgort/gort](https://github.com/getgort/gort) - Gort is a chatbot framework designed from the ground up for chatops.
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
@@ -3917,7 +3917,7 @@
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
@@ -7427,7 +7427,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [ServiceNow/azimuth](https://github.com/ServiceNow/azimuth) - Helping AI practitioners better understand their datasets and models in text classification. From ServiceNow.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -7862,7 +7862,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [plexinc/papr](https://github.com/plexinc/papr) - MongoDB TypeScript-aware Models
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -8036,7 +8036,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -8123,7 +8123,7 @@
 
 ## neural-network 
 
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 - [Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow) - OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.
@@ -8690,7 +8690,7 @@
 
 ## numpy 
 
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [ryfeus/lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
@@ -13109,7 +13109,7 @@
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -13287,7 +13287,7 @@
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -13537,7 +13537,7 @@
 ## pytorch 
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -15037,7 +15037,7 @@
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
@@ -15553,7 +15553,7 @@
 ## tensorflow 
 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
