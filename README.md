@@ -1012,6 +1012,7 @@
 
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [ente-io/photos-app](https://github.com/ente-io/photos-app) - Mobile apps for ente Photos
 - [dengyin2000/dynamic_widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
@@ -2603,7 +2604,7 @@
 - [linkedin/PalDB](https://github.com/linkedin/PalDB) - An embeddable write-once key-value store written in Java
 - [LarsWerkman/Lobsterpicker](https://github.com/LarsWerkman/Lobsterpicker) - A great material designed colorpicker by Marie Schweiz
 - [HarlonWang/AVLoadingIndicatorView](https://github.com/HarlonWang/AVLoadingIndicatorView) - DEPRECATED
-- [pluxoid/recycler-fast-scroll](https://github.com/pluxoid/recycler-fast-scroll) - Widget for RecyclerView fast scrolling
+- [pluscubed/recycler-fast-scroll](https://github.com/pluscubed/recycler-fast-scroll) - Widget for RecyclerView fast scrolling
 - [xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector) - View Inspection Toolbar for Android Development
 - [kymjs/EmojiChat](https://github.com/kymjs/EmojiChat) - Android聊天界面+emoji表情+大表情实现
 - [liaohuqiu/android-UCToast](https://github.com/liaohuqiu/android-UCToast) - Demonstrate how UC browser display a system overlay view in any platform above API level 9.
@@ -2720,7 +2721,7 @@
 - [flyfei/CustomMenu](https://github.com/flyfei/CustomMenu) - CustomMenu quickly realize about the menu
 - [wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid) - 可展开，可拖动，可排序，可删除，固定更多的GridView
 - [klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity) - Android library which allows you to swipe down from an activity to close it.
-- [tianzhijiexian/JsonAnnotation](https://github.com/tianzhijiexian/JsonAnnotation) - 利用注解自动生成Gson‘s Model的库
+- [kaleai/JsonAnnotation](https://github.com/kaleai/JsonAnnotation) - 利用注解自动生成Gson‘s Model的库
 - [vlonjatg/progress-activity](https://github.com/vlonjatg/progress-activity) - Easily add loading, empty and error states in your app.
 - [florent37/HollyViewPager](https://github.com/florent37/HollyViewPager) - A different beautiful ViewPager, with quick swipe controls
 - [dawsonice/ProMosaic](https://github.com/dawsonice/ProMosaic) - Make mosaic effect on android
@@ -4701,7 +4702,6 @@
 - [crcn/mesh.js](https://github.com/crcn/mesh.js) - utility library for async iterable iterators
 - [ecomfe/saber-promise](https://github.com/ecomfe/saber-promise) - 适合移动端的 Promise/A+ 实现
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [quantumui/quantumui](https://github.com/quantumui/quantumui) - The most powerful NATIVE AngularJS and Bootstrap CSS based UI components make developer life easy.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
 - [Azure/azure-sdk-for-node](https://github.com/Azure/azure-sdk-for-node) - Azure SDK for Node.js - Documentation
@@ -6031,7 +6031,7 @@
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 - [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
-- [tianzhijiexian/Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices) - Android最佳实践示例
+- [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
 - [ReScience/ReScience](https://github.com/ReScience/ReScience) - The ReScience journal. Reproducible Science is Good. Replicated Science is better.
 - [tvvocold/free-for-dev-zh](https://github.com/tvvocold/free-for-dev-zh) - 国内免费开发工具/服务清单
 - [a327ex/blog](https://github.com/a327ex/blog) - gamedev blog
@@ -6335,6 +6335,7 @@
 
 ## Python 
 
+- [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
@@ -6999,7 +7000,6 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [mobilecoinfoundation/mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin) - Private payments for mobile devices.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - Materialize is a fast, distributed SQL database built on streaming internals.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
@@ -7224,6 +7224,7 @@
 - [cinemapub/AnglerBerry](https://github.com/cinemapub/AnglerBerry) - Raspberry Pi - 3G/LAN Captive Portal
 - [celloudiallo/vagrant-meteor-dev](https://github.com/celloudiallo/vagrant-meteor-dev) - Vagrant box for meteor development
 - [Kong/docker-kong](https://github.com/Kong/docker-kong) - :monkey: Docker distribution for Kong
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [spotify/docker-cassandra](https://github.com/spotify/docker-cassandra) - Cassandra in Docker with fast startup
 - [jonathanpenn/ui-screen-shooter](https://github.com/jonathanpenn/ui-screen-shooter) - Using UI Automation to automatically generate all screenshots of your iOS app, on different device types, in different locales by running a single command. Hands free.
@@ -7884,6 +7885,7 @@
 
 ## TypeScript 
 
+- [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [blocknative/web3-onboard](https://github.com/blocknative/web3-onboard) - Client library to onboard users to web3 apps
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [getezy/ezy](https://github.com/getezy/ezy) - 🔥 GUI client for gRPC/gRPC-Web
