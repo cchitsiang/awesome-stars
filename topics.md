@@ -264,6 +264,7 @@
 
 ## ai 
 
+- [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a v
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
@@ -376,7 +377,7 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 
 ## android 
 
@@ -2545,7 +2546,7 @@
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
@@ -3410,6 +3411,7 @@
 
 ## eslint 
 
+- [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [dahnielson/pwa-svelte-rollup-template](https://github.com/dahnielson/pwa-svelte-rollup-template) - Template for Svelte PWA
@@ -5924,7 +5926,7 @@
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 
 ## ipfs 
 
@@ -8878,6 +8880,7 @@
 
 ## others 
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [prisma/ecosystem-tests](https://github.com/prisma/ecosystem-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -11458,7 +11461,7 @@
 - [jgrahamc/webwatch](https://github.com/jgrahamc/webwatch) - Small program to download a web page, see if a string appears in it and send email if it does
 - [s16h/py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
 - [Roxasora/RxWebViewController](https://github.com/Roxasora/RxWebViewController) - 实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController
-- [pluxoid/recycler-fast-scroll](https://github.com/pluxoid/recycler-fast-scroll) - Widget for RecyclerView fast scrolling
+- [pluscubed/recycler-fast-scroll](https://github.com/pluscubed/recycler-fast-scroll) - Widget for RecyclerView fast scrolling
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
@@ -11738,7 +11741,7 @@
 - [workshirt/WSCoachMarksView](https://github.com/workshirt/WSCoachMarksView) - iOS drop-in class for interactive coach marks with cutouts to spotlight the app's existing UI.
 - [chrismiles/CMPopTipView](https://github.com/chrismiles/CMPopTipView) - Custom UIView for iOS that pops up an animated "bubble" pointing at a button or other view. Useful for popup tips.
 - [lusfold/SpinnerLoading](https://github.com/lusfold/SpinnerLoading) - A Loading View for Android
-- [tianzhijiexian/Android-Best-Practices](https://github.com/tianzhijiexian/Android-Best-Practices) - Android最佳实践示例
+- [kaleai/Android-Best-Practices](https://github.com/kaleai/Android-Best-Practices) - Android最佳实践示例
 - [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
 - [tlhr/anderson.vim](https://github.com/tlhr/anderson.vim) - Dark vim colorscheme based on colors from Wes Anderson films
 - [matthewpalmer/Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift.
@@ -11814,7 +11817,7 @@
 - [getsentry/sentry-teamwork](https://github.com/getsentry/sentry-teamwork) - A Sentry plugin that integrates with Teamwork
 - [wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid) - 可展开，可拖动，可排序，可删除，固定更多的GridView
 - [klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity) - Android library which allows you to swipe down from an activity to close it.
-- [tianzhijiexian/JsonAnnotation](https://github.com/tianzhijiexian/JsonAnnotation) - 利用注解自动生成Gson‘s Model的库
+- [kaleai/JsonAnnotation](https://github.com/kaleai/JsonAnnotation) - 利用注解自动生成Gson‘s Model的库
 - [sandstorm-io/sandstorm-app-market](https://github.com/sandstorm-io/sandstorm-app-market) - Sandstorm app market
 - [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 - [KevinHM/ios-good-practices-the-lastest-version](https://github.com/KevinHM/ios-good-practices-the-lastest-version) - iOS 开发最佳实践：OC 与 Swift 最佳实践
@@ -13187,7 +13190,7 @@
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 - [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -15097,7 +15100,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
