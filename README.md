@@ -3154,7 +3154,7 @@
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
-- [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+- [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server) - A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 - [cagataygurturk/global-load-test](https://github.com/cagataygurturk/global-load-test) - A CLI tool that leverages AWS Route53 Health Checks to globally test HTTP(S) endpoints up to 300 RPS
@@ -6336,6 +6336,7 @@
 
 ## Python 
 
+- [meltano/meltano](https://github.com/meltano/meltano) - Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow.
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
