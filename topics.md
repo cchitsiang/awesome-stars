@@ -377,7 +377,7 @@
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 
 ## android 
 
@@ -1723,7 +1723,7 @@
 
 ## chatgpt 
 
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
@@ -1740,7 +1740,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 - [feramhq/FastLint-Issues](https://github.com/feramhq/FastLint-Issues) - FastLint automatically finds bugs in your code with cutting-edge AI-powered code analysis
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立中央大学、新加坡国立大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、国立政治大学、新加坡国立大学、早稻田大学、东京大学，以及中国重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。
 
 ## chatgpt-api 
 
@@ -2556,7 +2556,7 @@
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
@@ -3870,6 +3870,7 @@
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
@@ -5937,7 +5938,7 @@
 - [kuzzleio/kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source Back-end, self-hostable & ready to use - Real-time, storage, advanced search - Web, Apps, Mobile, IoT -
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 
 ## ipfs 
 
@@ -8173,7 +8174,7 @@
 ## nextjs 
 
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -9027,7 +9028,7 @@
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [rlingineni/serverless-rest-api-template](https://github.com/rlingineni/serverless-rest-api-template) - Template to use with serverless framework for Typescript + Koa API with Local Testing
 - [bryntum/siesta](https://github.com/bryntum/siesta) - Stress-free JavaScript/TypeScript testing and benchmarking tool
-- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资源库。
+- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100:2023年系统架构设计师（软考高级）备考资料。
 - [datarevenue-berlin/OpenMLOps](https://github.com/datarevenue-berlin/OpenMLOps) - 
 - [oslabs-beta/GraphQuill](https://github.com/oslabs-beta/GraphQuill) - Real-time GraphQL API Exploration in VS Code
 - [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
@@ -13225,7 +13226,7 @@
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [ServiceStack/ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Fast, Simple, Typed ORM for .NET
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
@@ -14696,7 +14697,7 @@
 
 ## security 
 
-- [IridiumIdentity/iridium](https://github.com/IridiumIdentity/iridium) - A low-code, customer identity management (CIAM) system for social provider integration
+- [IridiumIdentity/iridium](https://github.com/IridiumIdentity/iridium) - A low-code, customer identity and access management (CIAM) system for social provider integration
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
@@ -15141,7 +15142,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
