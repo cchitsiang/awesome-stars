@@ -108,7 +108,6 @@
 
 ## Assembly 
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [blackbird71SR/Hello-World](https://github.com/blackbird71SR/Hello-World) - Hello World in all possible programmnig languages
 
 ## Astro 
@@ -1225,6 +1224,7 @@
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
@@ -2144,7 +2144,7 @@
 - [dwmkerr/app-icon](https://github.com/dwmkerr/app-icon) - Icon management for Mobile Apps. Create icons, generate all required sizes, label and annotate. Supports Native, Cordova, React Native, Xamarin and more. Inspired by cordova-icon.
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+
 - [gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/
-- [apache/inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop integration framework for massive data
+- [apache/inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop, full-scenario integration framework for massive data
 - [fossasia/susi_server](https://github.com/fossasia/susi_server) - SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [dromara/lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
@@ -2938,6 +2938,7 @@
 - [danielboven/ordered-uuid-v4](https://github.com/danielboven/ordered-uuid-v4) - Generate ordered UUIDs aka COMBs (combined time-GUIDs) in JavaScript
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
 - [HaikuTeam/animator](https://github.com/HaikuTeam/animator) - Design tool for creating Lottie animations and interactive web components
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
@@ -4824,7 +4825,6 @@
 - [borismus/sonicnet.js](https://github.com/borismus/sonicnet.js) - Ultrasonic Networking with the Web Audio API
 - [chintanbanugaria/92five](https://github.com/chintanbanugaria/92five) - Self hosted project management application
 - [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller
-- [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - | Public |  A repository of step templates and other community-contributed extensions to Octopus Deploy
 - [filearts/plunker_run](https://github.com/filearts/plunker_run) - Run saved plunks and plunk previews as web citizens
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
 - [cosh/Jint](https://github.com/cosh/Jint) - http://jint.codeplex.com/
@@ -6170,7 +6170,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [DevlessTeam/DV-PHP-CORE](https://github.com/DevlessTeam/DV-PHP-CORE) - Devless is a ready-made back-end for development of web or mobile applications. It is fully open source under the permissive Apache v2 license. This means that you can develop your front end without w
 - [ivanvorobei/awesome-ios](https://github.com/ivanvorobei/awesome-ios) - A collaborative list of awesome for iOS developers. Include quick preview.
-- [uvhamxyz/WebStack-Laravel](https://github.com/uvhamxyz/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
+- [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task
 - [bschmitt/laravel-amqp](https://github.com/bschmitt/laravel-amqp) - AMQP wrapper for Laravel and Lumen to publish and consume messages
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
@@ -6333,6 +6333,7 @@
 - [MaxMelcher/ChocolateySharePointPackages](https://github.com/MaxMelcher/ChocolateySharePointPackages) - Chocolatey
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
+- [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - | Public |  A repository of step templates and other community-contributed extensions to Octopus Deploy
 - [jole78/TeamCity.SpecFlow.Reporting](https://github.com/jole78/TeamCity.SpecFlow.Reporting) - Automates, via PowerShell, the process of executing SpecFlow features via specflow.exe to produce a html report that can be shown in TeamCity.
 
 ## Protocol Buffer 
@@ -6351,6 +6352,7 @@
 
 ## Python 
 
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [alexbei/telegram-groups](https://github.com/alexbei/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
@@ -6616,7 +6618,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation and testing with Selenium, Python, and pytest. Advanced features include: dashboards, reports, a recorder for generating tests, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -7932,7 +7934,7 @@
 - [temporalio/sdk-typescript](https://github.com/temporalio/sdk-typescript) - Temporal TypeScript SDK
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Chat with your files, audio, video, csv with your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [nestjs-shopify/nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Build Shopify apps on NestJS
 - [tobq/loadable](https://github.com/tobq/loadable) - A library for simplifying asynchronous operations in React
@@ -8071,7 +8073,6 @@
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [cloudflare/production-saas](https://github.com/cloudflare/production-saas) - (WIP) Example SaaS application built in public on the Cloudflare stack!
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
