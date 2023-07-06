@@ -2938,7 +2938,6 @@
 - [danielboven/ordered-uuid-v4](https://github.com/danielboven/ordered-uuid-v4) - Generate ordered UUIDs aka COMBs (combined time-GUIDs) in JavaScript
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
 - [HaikuTeam/animator](https://github.com/HaikuTeam/animator) - Design tool for creating Lottie animations and interactive web components
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
@@ -7906,6 +7905,7 @@
 
 ## TypeScript 
 
+- [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [prisma/prisma-client-extensions](https://github.com/prisma/prisma-client-extensions) - 
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -8073,6 +8073,7 @@
 - [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [cloudflare/production-saas](https://github.com/cloudflare/production-saas) - (WIP) Example SaaS application built in public on the Cloudflare stack!
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De
@@ -8680,7 +8681,7 @@
 - [rangle/augury](https://github.com/rangle/augury) - Angular Debugging and Visualization Tools
 - [barbar/vortigern](https://github.com/barbar/vortigern) - A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
-- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [mgcrea/redux-rest-resource](https://github.com/mgcrea/redux-rest-resource) - Seamless REST interaction for Redux
 - [dcos/dcos-ui](https://github.com/dcos/dcos-ui) - The UI for The Datacenter Operating System
 - [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
