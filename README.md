@@ -6354,8 +6354,9 @@
 
 ## Python 
 
+- [moshekarmel1/plop](https://github.com/moshekarmel1/plop) - Python, Langchain, OpenAI, & Pinecone stack
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [alexbei/telegram-groups](https://github.com/alexbei/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！
