@@ -277,7 +277,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1676,7 +1676,7 @@
 
 ## bot 
 
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
@@ -1788,7 +1788,7 @@
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [segmentio/nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
@@ -1830,7 +1830,7 @@
 - [ca1c/envcli](https://github.com/ca1c/envcli) - Populate .env file from javascript variables
 - [eleven-sh/cli](https://github.com/eleven-sh/cli) - A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 7 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
-- [inngest/inngest](https://github.com/inngest/inngest) - Run reliable serverless background functions, triggered by events or cron, on any platform.
+- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -3561,7 +3561,7 @@
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [raindropio/extensions](https://github.com/raindropio/extensions) - Source code of Raindrop.io browser extension (Chrome, Firefox, Opera)
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) - Firefox for iOS
 - [janraasch/tab-ahead](https://github.com/janraasch/tab-ahead) - Web Browser Extension that helps you to quickly find open tabs by title and URL.
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -4037,6 +4037,7 @@
 
 ## go 
 
+- [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator pattern and simplified CQRS pattern within an event driven architecture. inspired by csharp MediatR library.
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -4185,7 +4186,7 @@
 - [BisratYalew/logger](https://github.com/BisratYalew/logger) - HTTPLogger for Go Lang. It helps to log metadata about HTTP API logs and responses.
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [spy16/radium](https://github.com/spy16/radium) - radium is a platform (client and optional server) for viewing reference articles, cheat sheets, snippets etc.
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
+- [markrcote/sarama](https://github.com/markrcote/sarama) - Sarama is a Go library for Apache Kafka.
 - [bcicen/jstream](https://github.com/bcicen/jstream) - Streaming JSON parser for Go
 - [jaswdr/faker](https://github.com/jaswdr/faker) - :rocket: Ultimate fake data generator for Go with zero dependencies
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
@@ -8946,7 +8947,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 - [lesser-app/tankman](https://github.com/lesser-app/tankman) - Authorization Server
 - [JonPSmith/AuthPermissions.AspNetCore](https://github.com/JonPSmith/AuthPermissions.AspNetCore) - This library provides extra authorization and multi-tenant features to an ASP.NET Core application.
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - ⭐ The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [prisma/prisma-client-extensions](https://github.com/prisma/prisma-client-extensions) - 
 - [authgear/authgear-server](https://github.com/authgear/authgear-server) - OpenID Connect (OIDC) compatible authentication service for web and mobile apps
@@ -9039,7 +9040,6 @@
 - [typescript-rtti/typescript-rtti](https://github.com/typescript-rtti/typescript-rtti) - Emits Typescript metadata for use at runtime
 - [ebarlas/microhttp](https://github.com/ebarlas/microhttp) - Fast, scalable, self-contained, single-threaded Java web server
 - [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
-- [prisma/lens](https://github.com/prisma/lens) - 🔬 Prisma design system
 - [raystack/raccoon](https://github.com/raystack/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols.
 - [vedantroy/typecheck.macro](https://github.com/vedantroy/typecheck.macro) - A easy (and fast) typescript validation library/macro. Automatically generate validation functions for Typescript types.
 - [squareboat/nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready  🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V9!!
@@ -11199,7 +11199,6 @@
 - [snellingio/self-hosted-status-page](https://github.com/snellingio/self-hosted-status-page) - This project is no longer maintained.
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [google/ion](https://github.com/google/ion) - Ion
-- [sublimehq/Packages](https://github.com/sublimehq/Packages) - 
 - [hashrocket/hr-til](https://github.com/hashrocket/hr-til) - Today I Learned in Ruby
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
@@ -13382,7 +13381,7 @@
 - [astronomer/astro-sdk](https://github.com/astronomer/astro-sdk) - Astro SDK allows rapid and clean development of {Extract, Load, Transform} workflows using Python and SQL, powered by Apache Airflow.
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
@@ -13515,7 +13514,7 @@
 - [graphql-python/graphene-gae](https://github.com/graphql-python/graphene-gae) - GraphQL Support for Google AppEngine [DEPRECATED - Looking for maintainers]
 - [luminousmen/djfiles](https://github.com/luminousmen/djfiles) - DJFiles is a simple Django app for manage static files of your project via admin panel.
 - [Rhizome-Conifer/conifer](https://github.com/Rhizome-Conifer/conifer) - Collect and revisit web pages.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -13623,7 +13622,7 @@
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [9b/chirp](https://github.com/9b/chirp) - Interface to manage and centralize Google Alert information
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
@@ -14916,7 +14915,7 @@
 - [faultline/faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [vanus-labs/vanus](https://github.com/vanus-labs/vanus) - Vanus is a Serverless, event streaming system with processing capabilities.  It easily connects SaaS, Cloud Services, and Databases to help users build next-gen Event-driven Applications.
-- [inngest/inngest](https://github.com/inngest/inngest) - Run reliable serverless background functions, triggered by events or cron, on any platform.
+- [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
@@ -15233,6 +15232,7 @@
 ## sublime-text 
 
 - [jaipandya/SublimeTutor](https://github.com/jaipandya/SublimeTutor) - An interactive in-editor keyboard shortcuts tutorial for Sublime Text 3
+- [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduc
 - [fuse-open/sublime-plugin](https://github.com/fuse-open/sublime-plugin) - Fuse Open plugin for Sublime Text
 
@@ -15737,6 +15737,7 @@
 
 ## terraform 
 
+- [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
