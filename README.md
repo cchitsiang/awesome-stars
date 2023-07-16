@@ -162,7 +162,7 @@
 - [bloomberg/comdb2](https://github.com/bloomberg/comdb2) - Bloomberg's distributed RDBMS
 - [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [bilibili/ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [freddiev4/dailyprogrammerchallenges](https://github.com/freddiev4/dailyprogrammerchallenges) - Bank of challenges & solutions from r/dailyprogrammer for people learning to program
@@ -465,7 +465,7 @@
 - [DeonHeyns/Heyns.ZumoClient](https://github.com/DeonHeyns/Heyns.ZumoClient) - Wrapper around Azure Mobile Services that can be used in any .NET 4 client
 - [DeonHeyns/ScriptBot](https://github.com/DeonHeyns/ScriptBot) - A Bot built on top of .NET, ScriptCs and MEF.
 - [guryanovev/CrystalQuartz](https://github.com/guryanovev/CrystalQuartz) - pluggable UI for Quartz.NET
-- [poxet/tharga-console](https://github.com/poxet/tharga-console) - Tharga Toolkit Console is used to simplify construction of advanced console applications.
+- [Tharga/Console](https://github.com/Tharga/Console) - Tharga Toolkit Console is used to simplify construction of advanced console applications.
 - [spreadsheetlab/XLParser](https://github.com/spreadsheetlab/XLParser) - A C# parser for Microsoft Excel formulas with a 99.9% compatibility rate
 - [wickyhu/simple-assembly-explorer](https://github.com/wickyhu/simple-assembly-explorer) - Automatically exported from code.google.com/p/simple-assembly-exploror
 - [parse-community/Parse-SDK-dotNET](https://github.com/parse-community/Parse-SDK-dotNET) - Parse SDK for .NET, Xamarin, Unity.
@@ -3632,7 +3632,7 @@
 - [colebemis/tabio](https://github.com/colebemis/tabio) - An open-source tab switcher for Chrome
 - [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 - [mapbox/geobuf](https://github.com/mapbox/geobuf) - A compact binary encoding for geographic data.
-- [kingofthestack/react-chat-window](https://github.com/kingofthestack/react-chat-window) - Intercom-style live chat window written in react
+- [dharness/react-chat-window](https://github.com/dharness/react-chat-window) - Intercom-style live chat window written in react
 - [chriskinsman/DynamoDbExportCsv](https://github.com/chriskinsman/DynamoDbExportCsv) - A utility to export DyanmoDb tables to csv files
 - [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
 - [sergiodxa/grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
@@ -8302,7 +8302,7 @@
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Robinyo/serendipity](https://github.com/Robinyo/serendipity) - Serendipity is an open-source Customer Engagement Platform.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [NarHakobyan/awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate) - Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳
