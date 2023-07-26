@@ -2033,6 +2033,7 @@
 - [SpecFlowOSS/SpecFlow-Examples](https://github.com/SpecFlowOSS/SpecFlow-Examples) - Examples for SpecFlow usage
 - [wentin/ResponsifyJS](https://github.com/wentin/ResponsifyJS) - A jquery plugin that makes images truly responsive, without sacrificing anyone's face. Give it more stars!
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+- [FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
 - [1wheel/graph-scroll](https://github.com/1wheel/graph-scroll) - scrollers &gt; steppers
 - [s16h/py-must-watch](https://github.com/s16h/py-must-watch) - Must-watch videos about Python
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
@@ -3206,7 +3207,7 @@
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [shystruk/create-react-redux-app-structure](https://github.com/shystruk/create-react-redux-app-structure) - Create React + Redux app structure with build configurations ✨
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [vivatoviva/crm](https://github.com/vivatoviva/crm) - 客户关系管理系统
 - [marmelab/sedy](https://github.com/marmelab/sedy) - A GitHub bot bringing the sed command to code reviews
@@ -4406,7 +4407,6 @@
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
 - [nix23/gridifier](https://github.com/nix23/gridifier) - Library for grid layout sort/filter + multitouch drag and drop
 - [johnstonbl01/clementinejs](https://github.com/johnstonbl01/clementinejs) - The elegant and lightweight full stack JavaScript boilerplate.
-- [FrontendMasters/front-end-handbook](https://github.com/FrontendMasters/front-end-handbook) - The resources and tools for learning about the practice of front-end development.
 - [dleitee/valid.js](https://github.com/dleitee/valid.js) - 📝 A library for data validation.
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [timruffles/d3.angularize](https://github.com/timruffles/d3.angularize) - Want a bit of data-binding within a D3 context?
@@ -6404,7 +6404,7 @@
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Retentioneering: product analytics, data-driven customer journey map optimization, marketing analytics, web analytics, transaction analytics, graph visualization, and behavioral segmentation with cust
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
