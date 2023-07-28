@@ -2464,7 +2464,7 @@
 
 ## database 
 
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
@@ -2481,7 +2481,7 @@
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2022)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -3475,7 +3475,7 @@
 ## express 
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2022)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
@@ -4043,7 +4043,7 @@
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
+- [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
@@ -4353,7 +4353,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-- [mehdihadeli/store-golang-microservices](https://github.com/mehdihadeli/store-golang-microservices) - 🧺 A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
+- [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -6201,7 +6201,7 @@
 - [ivanhofer/typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [Pop-Code/nestjs-console](https://github.com/Pop-Code/nestjs-console) - A nestjs module that provide a cli to your application.
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2022)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
@@ -8404,7 +8404,7 @@
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [ivanhofer/typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2022)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
 - [jondot/hygen](https://github.com/jondot/hygen) - The simple, fast, and scalable code generator that lives in your project.
 - [hyperform-dev/hyperform](https://github.com/hyperform-dev/hyperform) - ⚡ Lightweight serverless framework for NodeJS
 - [knockaway/sqsiphon](https://github.com/knockaway/sqsiphon) - 
@@ -8950,6 +8950,7 @@
 
 ## others 
 
+- [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) - LLaMA v2 Chatbot
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -9337,7 +9338,7 @@
 - [dily3825002/wechat-weapp-union](https://github.com/dily3825002/wechat-weapp-union) - 汇聚了原创性小程序源码、精品小程序源码及分析、由浅入深的系列精品教程
 - [oslabs-beta/seeql](https://github.com/oslabs-beta/seeql) - see your database in a new way
 - [gruntwork-io/terraform-kubernetes-helm](https://github.com/gruntwork-io/terraform-kubernetes-helm) - Terraform code and scripts for deploying Helm Server (Helm v2) on a Kubernetes cluster. https://www.gruntwork.io
-- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [journeymidnight/yig](https://github.com/journeymidnight/yig) - An open source object storage server with Amazon S3 compatible API
 - [lorin/resilience-engineering](https://github.com/lorin/resilience-engineering) - Resilience engineering papers
 - [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
@@ -14764,7 +14765,7 @@
 ## security 
 
 - [IridiumIdentity/iridium](https://github.com/IridiumIdentity/iridium) - Low-code customer login management for your application, without storing passwords
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -15788,7 +15789,7 @@
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works!
 - [DeploySentinel/Recorder](https://github.com/DeploySentinel/Recorder) - A browser extension that generates Cypress, Playwright and Puppeteer test scripts from your interactions 🖱 ⌨
 - [next-page-tester/next-page-tester](https://github.com/next-page-tester/next-page-tester) - DEPRECATED - DOM integration testing for Next.js
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2022)
+- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
 - [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀
 - [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
