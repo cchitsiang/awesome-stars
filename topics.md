@@ -9872,7 +9872,7 @@
 - [rcherny/Front-End-Architecture-Checklist](https://github.com/rcherny/Front-End-Architecture-Checklist) - Checklist of front end development centric technology structure considerations on a Web site or Web application project.
 - [paunin/soa-checklist](https://github.com/paunin/soa-checklist) - Microservice Oriented Architecture checklist
 - [BohdanOrlov/architecture-checklist](https://github.com/BohdanOrlov/architecture-checklist) - Designing iOS architecture: The checklist
-- [facebook/shimmer-android](https://github.com/facebook/shimmer-android) - An easy, flexible way to add a shimmering effect to any view in an Android app.
+- [facebookarchive/shimmer-android](https://github.com/facebookarchive/shimmer-android) - An easy, flexible way to add a shimmering effect to any view in an Android app.
 - [ideawu/ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis
 - [aerospike/aerospike-server](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
 - [gocn/knowledge](https://github.com/gocn/knowledge) - Go社区的知识图谱，Knowledge Graph
@@ -14355,7 +14355,6 @@
 ## reactjs 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce ⚡️
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
