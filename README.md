@@ -113,6 +113,7 @@
 ## Astro 
 
 - [roadmapsh/next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## AutoIt 
 
@@ -3616,7 +3617,7 @@
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [Meituan-Dianping/koa-restql](https://github.com/Meituan-Dianping/koa-restql) - Build real RESTful APIs without writing one line of code.
 - [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
-- [charlieduong94/mocha-puppeteer](https://github.com/charlieduong94/mocha-puppeteer) - Run your mocha tests in headless chrome using puppeteer
+- [ctdio/mocha-puppeteer](https://github.com/ctdio/mocha-puppeteer) - Run your mocha tests in headless chrome using puppeteer
 - [pemrouz/fero](https://github.com/pemrouz/fero) - light, fast, scalable, streaming microservices made easy
 - [marlonbernardes/awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
 - [malijs/mali](https://github.com/malijs/mali) - A minimalistic gRPC microservice framework for Node.js
@@ -3745,6 +3746,7 @@
 - [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 - [amitmerchant1990/pomolectron](https://github.com/amitmerchant1990/pomolectron) - :tomato: A pomodoro app for your menubar/tray.
 - [ziishaned/opus](https://github.com/ziishaned/opus) - Open source knowledge base application for Teams
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [zendesk/radar](https://github.com/zendesk/radar) - High level API and backend for writing web apps that use push messaging
 - [timfpark/react-native-location](https://github.com/timfpark/react-native-location) - React Native plug-in that provides GPS location information
@@ -4229,7 +4231,7 @@
 - [scup/atellier](https://github.com/scup/atellier) - The smartest way to share interactive components with your team.
 - [rbiggs/TruckJS](https://github.com/rbiggs/TruckJS) - A JavaScript framework for making mobile web apps.
 - [rnpm/rnpm](https://github.com/rnpm/rnpm) - :iphone: React Native Package Manager
-- [charlieduong94/React-Native-Manga-App](https://github.com/charlieduong94/React-Native-Manga-App) - Manga reader app remade with React-Native.
+- [ctdio/React-Native-Manga-App](https://github.com/ctdio/React-Native-Manga-App) - Manga reader app remade with React-Native.
 - [invertase/react-native-material-design-demo](https://github.com/invertase/react-native-material-design-demo) - An Android app to demonstrate react-native-material-design
 - [binggg/MaterialReactNative](https://github.com/binggg/MaterialReactNative) - MRN Example APP
 - [invertase/react-native-material-design](https://github.com/invertase/react-native-material-design) - React Native UI Components for Material Design
@@ -4797,7 +4799,6 @@
 - [flowjs/ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on angular.js framework
 - [johnpapa/ng-demos](https://github.com/johnpapa/ng-demos) - variety of angular demos
 - [endorama/generator-langular](https://github.com/endorama/generator-langular) - Yeoman generator for AngularJS + Laravel
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [tungtouch/HubTaxi-Server](https://github.com/tungtouch/HubTaxi-Server) - [Deprecated]
 - [rogeralsing/Precio.Infrastructure](https://github.com/rogeralsing/Precio.Infrastructure) - DDD enabling Infrastructure framework for .NET 4.0
 - [BioDesignRealWorld/LaravelDatabaseDesigner](https://github.com/BioDesignRealWorld/LaravelDatabaseDesigner) - Graphical Drag and Drop interface database designer authored by Budi Prakosa
@@ -5983,7 +5984,6 @@
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [joanbruna/stat212b](https://github.com/joanbruna/stat212b) - Topics Course on Deep Learning UC Berkeley
 - [island205/Single-Page-App-Break](https://github.com/island205/Single-Page-App-Break) - 单页应用开发权威指南
-- [relatedcode/awesome-mojo](https://github.com/relatedcode/awesome-mojo) - Awesome Mojo Programming Language
 - [rabbitmq/internals](https://github.com/rabbitmq/internals) - High level architecture overview
 - [ouvens/frontend-system-map](https://github.com/ouvens/frontend-system-map) - init
 - [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
@@ -7733,6 +7733,7 @@
 - [bignerdranch/Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift.
 - [kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
 - [CatchChat/Yep](https://github.com/CatchChat/Yep) - Meet Genius
+- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [bannzai/Gecco](https://github.com/bannzai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift
 - [FolioReader/FolioReaderKit](https://github.com/FolioReader/FolioReaderKit) - 📚 A Swift ePub reader and parser framework for iOS.
@@ -8675,7 +8676,6 @@
 - [graphql-kit/graphql-faker](https://github.com/graphql-kit/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 - [dsifford/confzen](https://github.com/dsifford/confzen) - A command line utility for creating and maintaining configuration files for javascript and typescript projects
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [transistorsoft/rn-background-geolocation-demo](https://github.com/transistorsoft/rn-background-geolocation-demo) - Demo app for react-native-background-geolocation plugin
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
