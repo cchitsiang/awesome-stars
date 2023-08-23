@@ -2913,7 +2913,6 @@
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank
 - [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [stevendreamer/openerp_mobile](https://github.com/stevendreamer/openerp_mobile) - 这是 OpenERP 的 android 手机 app. 该项目计划构建一个android本地app，在手机上面完成OpenERP的ERP主要模块的简单查询操作，希望能够对OpenERP在国内的推广有所帮助。
-- [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [xamarin/XobotOS](https://github.com/xamarin/XobotOS) - XobotOS - Android ported to C#
 - [sensepost/reDuh](https://github.com/sensepost/reDuh) - Create a TCP circuit through validly formed HTTP requests
 - [kiegroup/jbpm](https://github.com/kiegroup/jbpm) - a Business Process Management (BPM) Suite
@@ -4691,7 +4690,6 @@
 - [anthonyshort/deku](https://github.com/anthonyshort/deku) - Render interfaces using pure functions and virtual DOM
 - [zhy0216/OhMyPocket](https://github.com/zhy0216/OhMyPocket) - bookmark your favorit article
 - [aldonline/syncify](https://github.com/aldonline/syncify) - A radically simpler way to deal with asynchronous functions in js ( deprecated. see: www.radioactivejs.org )
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [ermouth/jQuery.my](https://github.com/ermouth/jQuery.my) - jQuery.my is a plugin that binds form controls with js data structures.
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [fat/zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
@@ -5146,7 +5144,6 @@
 - [jake-low/hadoop.docker](https://github.com/jake-low/hadoop.docker) - Run a highly configurable, fully distributed Hadoop cluster with Docker!
 - [ritazh/s3proxydocker](https://github.com/ritazh/s3proxydocker) - :ship: Dockerize your s3proxy instance - run s3proxy in a docker container anywhere!
 - [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [git-game/git-game-v2](https://github.com/git-game/git-game-v2) - Second version of the terminal based game that teaches users git commands
 
 ## Markdown 
@@ -6080,6 +6077,7 @@
 - [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库
 - [osnr/Screenotate](https://github.com/osnr/Screenotate) - :camera: Automatically recognize text in your screenshots.
 - [Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog) - 翻译、开发心得或学习笔记
 - [D-clock/Doc](https://github.com/D-clock/Doc) - 开发过程中，自己的一些记录，喜欢请拿走。（Deprecated）
 - [PaicHyperionDev/MobileDevWeekly](https://github.com/PaicHyperionDev/MobileDevWeekly) - 平安金融科技移动开发周报
@@ -6166,6 +6164,7 @@
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
 - [lukechesser/Popular-UIs](https://github.com/lukechesser/Popular-UIs) - 🎨 PSDs of Popular Web UIs reproduced for educational purposes.
 - [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
+- [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [SamSaffron/MiniProfiler](https://github.com/SamSaffron/MiniProfiler) - A simple but effective mini-profiler for ASP.NET MVC, ASP.NET and Ruby.
 - [currencybot/open-exchange-rates](https://github.com/currencybot/open-exchange-rates) - Open Exchange Rates API - free / open source hourly-updated currency data for everybody
 - [jsfiddle/jsfiddle-chrome-app](https://github.com/jsfiddle/jsfiddle-chrome-app) - 
@@ -6366,6 +6365,7 @@
 
 ## Python 
 
+- [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -7941,6 +7941,7 @@
 
 ## TypeScript 
 
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [tomoyanakano/shopify-app-template-node-typescript](https://github.com/tomoyanakano/shopify-app-template-node-typescript) - 🧩 Shopify App Template with Typescript
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
