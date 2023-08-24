@@ -1071,7 +1071,7 @@
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [jakubroztocil/cointrol](https://github.com/jakubroztocil/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
+- [jkbrzt/cointrol](https://github.com/jkbrzt/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
 - [pgilad/leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1394,7 +1394,7 @@
 - [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 - [FurlanLuka/microservice-stack](https://github.com/FurlanLuka/microservice-stack) - A suite of tools that aim to help developers create microservice architectures
 - [eleven-sh/cli](https://github.com/eleven-sh/cli) - A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
 - [grucloud/grucloud](https://github.com/grucloud/grucloud) - Generate diagrams and code from cloud infrastructures: AWS, Azure,GCP, Kubernetes
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
@@ -1510,7 +1510,7 @@
 ## azure 
 
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [grucloud/grucloud](https://github.com/grucloud/grucloud) - Generate diagrams and code from cloud infrastructures: AWS, Azure,GCP, Kubernetes
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture
@@ -1615,7 +1615,7 @@
 - [askmike/gekko](https://github.com/askmike/gekko) - A bitcoin trading bot written in node - https://gekko.wizb.it/
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-- [jakubroztocil/cointrol](https://github.com/jakubroztocil/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
+- [jkbrzt/cointrol](https://github.com/jkbrzt/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
 
 ## blockchain 
 
@@ -1703,7 +1703,7 @@
 - [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
-- [jakubroztocil/cointrol](https://github.com/jakubroztocil/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
+- [jkbrzt/cointrol](https://github.com/jkbrzt/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
 
 ## c 
 
@@ -3858,6 +3858,7 @@
 
 ## game-development 
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support
@@ -4056,7 +4057,7 @@
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator pattern and simplified CQRS pattern within an event driven architecture. inspired by csharp MediatR library.
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - [answerdev/answer](https://github.com/answerdev/answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -4367,7 +4368,7 @@
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
 - [eleven-sh/cli](https://github.com/eleven-sh/cli) - A CLI to create code sandboxes with automatic HTTPS and long running processes in your cloud provider account
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical store microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - [answerdev/answer](https://github.com/answerdev/answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
@@ -5217,7 +5218,6 @@
 - [shankybnl/MobileAutomationFramework](https://github.com/shankybnl/MobileAutomationFramework) - Single code base framework to test android and iOS app using appium (v6.1.0), maven, testng,java. Option to start appium server programmatically.
 - [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
-- [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
@@ -6180,7 +6180,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - 🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -7178,7 +7178,7 @@
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [eclipse/che](https://github.com/eclipse/che) - The Kubernetes-Native IDE for Developer Teams
+- [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -8297,7 +8297,7 @@
 ## node 
 
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
@@ -8961,6 +8961,7 @@
 
 ## others 
 
+- [systeminit/si](https://github.com/systeminit/si) - The System Initiative software
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
@@ -9576,7 +9577,7 @@
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
 - [golang/mock](https://github.com/golang/mock) - GoMock is a mocking framework for the Go programming language.
 - [google/deepdream](https://github.com/google/deepdream) - 
-- [Qsnh/meedu](https://github.com/Qsnh/meedu) - 教培系统、线上培训、知识付费解决方案。
+- [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 - [Tencent/FAutoTest](https://github.com/Tencent/FAutoTest) - A UI automated testing framework for H5 and applets
 - [tvaneerd/stuff](https://github.com/tvaneerd/stuff) - stuff that doesn't really go anywhere else (yet...?)
 - [lionheart/Notchy](https://github.com/lionheart/Notchy) - Notchy is an iOS app that makes pretty, shareable screenshots for the iPhone X and the iPhone XS.
@@ -13620,7 +13621,7 @@
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [jabbalaci/screenshot.py](https://github.com/jabbalaci/screenshot.py) - Taking a screenshot of a webpage.
-- [jakubroztocil/cointrol](https://github.com/jakubroztocil/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
+- [jkbrzt/cointrol](https://github.com/jkbrzt/cointrol) - ฿ Bitcoin trading bot with a real-time dashboard for Bitstamp.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
@@ -14630,6 +14631,7 @@
 
 ## ruby 
 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
@@ -14689,6 +14691,7 @@
 
 ## rust 
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
@@ -14914,6 +14917,7 @@
 
 ## server 
 
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 - [ahuangege/mydog](https://github.com/ahuangege/mydog) - typescript编写的分布式游戏服务器框架（a distributed game server framework coded by typescript）
 - [dimatill/graphql-shield](https://github.com/dimatill/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
@@ -14959,7 +14963,7 @@
 - [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.
 - [faultline/faultline](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [vanus-labs/vanus](https://github.com/vanus-labs/vanus) - Vanus is a Serverless, event streaming system with processing capabilities.  It easily connects SaaS, Cloud Services, and Databases to help users build next-gen Event-driven Applications.
 - [inngest/inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
