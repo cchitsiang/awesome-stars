@@ -4052,6 +4052,7 @@
 
 ## go 
 
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
 - [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - A library for handling mediator pattern and simplified CQRS pattern within an event driven architecture. inspired by csharp MediatR library.
@@ -12713,7 +12714,7 @@
 - [johnpapa/ng-demos](https://github.com/johnpapa/ng-demos) - variety of angular demos
 - [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-- [jdxcode/json-api-rails](https://github.com/jdxcode/json-api-rails) - 
+- [jdx/json-api-rails](https://github.com/jdx/json-api-rails) - 
 - [endorama/generator-langular](https://github.com/endorama/generator-langular) - Yeoman generator for AngularJS + Laravel
 - [tungtouch/HubTaxi-Server](https://github.com/tungtouch/HubTaxi-Server) - [Deprecated]
 - [HiddenStage/divide](https://github.com/HiddenStage/divide) - 
@@ -13752,6 +13753,7 @@
 
 ## react 
 
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce ⚡️ You can star to support our work!
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
