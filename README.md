@@ -213,7 +213,7 @@
 - [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 - [mrtaikandi/MapTo](https://github.com/mrtaikandi/MapTo) - A convention based object to object mapper using Roslyn source generator.
 - [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
@@ -1011,7 +1011,7 @@
 
 ## Dart 
 
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -6368,6 +6368,8 @@
 
 ## Python 
 
+- [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [cofactoryai/textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [Picovoice/picovoice](https://github.com/Picovoice/picovoice) - On-device voice assistant platform powered by deep learning
@@ -6376,6 +6378,7 @@
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
@@ -7955,7 +7958,6 @@
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [tomoyanakano/shopify-app-template-node-typescript](https://github.com/tomoyanakano/shopify-app-template-node-typescript) - 🧩 Shopify App Template with Typescript
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama, Falcon, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
