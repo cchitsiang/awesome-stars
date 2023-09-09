@@ -772,7 +772,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -847,7 +847,6 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
 - [dotnet/llilc](https://github.com/dotnet/llilc) - This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 - [ForNeVeR/ManagedSpy](https://github.com/ForNeVeR/ManagedSpy) - Runtime introspect Windows Forms applications.
@@ -2889,6 +2888,7 @@
 - [Yalantis/Phoenix](https://github.com/Yalantis/Phoenix) - Phoenix Pull-to-Refresh
 - [Yalantis/FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) - This project aims to provide a working page flip implementation for usage in ListView.
 - [google/santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
 - [winsontan520/Android-WVersionManager](https://github.com/winsontan520/Android-WVersionManager) - [Deprecated] Library to check new update available in background by using own content
 - [Wizcorp/phonegap-facebook-plugin](https://github.com/Wizcorp/phonegap-facebook-plugin) - The official plugin for Facebook in Apache Cordova/PhoneGap
@@ -3589,7 +3589,7 @@
 - [Trixieapp/react-virgin](https://github.com/Trixieapp/react-virgin) - The react-native UI Kit you've been looking for.
 - [google/bottery](https://github.com/google/bottery) - 
 - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [madskristensen/Miniblog.Core](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine
 - [njpatel/grpcc](https://github.com/njpatel/grpcc) - A gRPC cli interface for easy testing against gRPC servers
 - [benjamincanac/imperium](https://github.com/benjamincanac/imperium) - Role-based Authorizations library for Node.js
@@ -4159,7 +4159,7 @@
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [elierotenberg/react-armor](https://github.com/elierotenberg/react-armor) - Protect your DOM from third-party tampering.
 - [leanote/desktop-app](https://github.com/leanote/desktop-app) - Leanote Desktop App, based on  Electron(atom-shell) http://leanote.org
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
@@ -7997,7 +7997,7 @@
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [nestjs-shopify/nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Build Shopify apps on NestJS
 - [tobq/loadable](https://github.com/tobq/loadable) - A library for simplifying asynchronous operations in React
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [necordjs/toolkit](https://github.com/necordjs/toolkit) - 🤖 Source code of Toolkit bot
 - [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
@@ -8238,6 +8238,7 @@
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [jxom/bumbag-ui](https://github.com/jxom/bumbag-ui) - Build themeable React & React Native applications with your Bumbag 👝
 - [rafgraph/rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [scastiel/showhn-projects](https://github.com/scastiel/showhn-projects) - A webapp to browse projects posted on Show HN.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -8868,7 +8869,6 @@
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [Idered/iridium](https://github.com/Idered/iridium) - 💎 VS Code extensions
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 - [vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   (vue2)
