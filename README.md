@@ -197,6 +197,7 @@
 
 ## C# # 
 
+- [nuyonu/N-Tier-Architecture](https://github.com/nuyonu/N-Tier-Architecture) - This is a n-layer architecture based on Common web application architectures.
 - [yanpitangui/dotnet-api-boilerplate](https://github.com/yanpitangui/dotnet-api-boilerplate) - A Dotnet 7.0 WebApi boilerplate / template project. MediatR, Swagger, Mapper, Serilog and more implemented.
 - [lesser-app/tankman](https://github.com/lesser-app/tankman) - Authorization Server
 - [JonPSmith/AuthPermissions.AspNetCore](https://github.com/JonPSmith/AuthPermissions.AspNetCore) - This library provides extra authorization and multi-tenant features to an ASP.NET Core application.
@@ -772,7 +773,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51313, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1011,7 +1012,6 @@
 ## Dart 
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [ente-io/photos-app](https://github.com/ente-io/photos-app) - Mobile apps for ente Photos
@@ -1636,7 +1636,7 @@
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [nytimes/gziphandler](https://github.com/nytimes/gziphandler) - Go middleware to gzip HTTP responses
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [jirfag/go-queryset](https://github.com/jirfag/go-queryset) - 100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood.
@@ -2921,6 +2921,7 @@
 
 ## JavaScript 
 
+- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
@@ -4159,7 +4160,7 @@
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 - [bipio-server/bipio](https://github.com/bipio-server/bipio) - The bip.io API Server
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
 - [elierotenberg/react-armor](https://github.com/elierotenberg/react-armor) - Protect your DOM from third-party tampering.
 - [leanote/desktop-app](https://github.com/leanote/desktop-app) - Leanote Desktop App, based on  Electron(atom-shell) http://leanote.org
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
@@ -4967,7 +4968,7 @@
 
 ## Jsonnet 
 
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI Kubeflow Distribution
+- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 
 ## Julia 
 
@@ -6176,7 +6177,7 @@
 ## PHP 
 
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [tighten/takeout](https://github.com/tighten/takeout) - Docker-based development-only dependency manager. macOS, Linux, and WSL2-only and installs via PHP's Composer... for now.
 - [z-song/laravel-admin](https://github.com/z-song/laravel-admin) - Build a full-featured administrative interface in ten minutes
@@ -7044,7 +7045,6 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -7950,6 +7950,8 @@
 
 ## TypeScript 
 
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
+- [nestjs-shopify/example-nx-app](https://github.com/nestjs-shopify/example-nx-app) - Example monorepo app with @nest-shopify/nest-shopify using NestJS backend and NextJS frontend
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🖌 Webstudio Visual Builder
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
@@ -7977,7 +7979,7 @@
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [implerhq/impler.io](https://github.com/implerhq/impler.io) - Open source file import infrastructure. Build file import functionality faster than flash ⚡️
+- [implerhq/impler.io](https://github.com/implerhq/impler.io) - Open source data import experience. Integrate and live spreadsheet import experience faster than flash ⚡️
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 The toolkit for building collaborative editors.
@@ -8006,6 +8008,7 @@
 - [AkashRajpurohit/ts-npm-template](https://github.com/AkashRajpurohit/ts-npm-template) - 📦 A project template to bootstrap NPM package with Typescript
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
 - [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
 - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript
@@ -8018,6 +8021,7 @@
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [GetStream/mml-react](https://github.com/GetStream/mml-react) - Message Markup Language (MML) support for React
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -8200,7 +8204,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [formstjs/formst](https://github.com/formstjs/formst) - Model-driven Form library for React
 - [nksaraf/magiql](https://github.com/nksaraf/magiql) - 🌐 💫 Simple and powerful GraphQL Client, love child of react-query ❤️ relay
 - [estevanmaito/windmill-react-ui](https://github.com/estevanmaito/windmill-react-ui) - 🧩 The component library for fast and accessible development of gorgeous interfaces.
@@ -8547,7 +8551,7 @@
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [codeaholicguy/wowcup](https://github.com/codeaholicguy/wowcup) - ⚽ 💻 The finest Worldcup 2018 CLI.
-- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
