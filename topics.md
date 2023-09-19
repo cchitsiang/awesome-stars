@@ -4945,6 +4945,7 @@
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - AuroraEditor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [dimatill/graphql-shield](https://github.com/dimatill/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
+- [answerdev/answer](https://github.com/answerdev/answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [alura/techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech career!
@@ -4965,6 +4966,7 @@
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [triggerdotdev/json-infer-types](https://github.com/triggerdotdev/json-infer-types) - Infers the type and format of JSON values
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work!
@@ -5233,6 +5235,7 @@
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [euclidity/vscode-cucumber](https://github.com/euclidity/vscode-cucumber) - Code snippets to write scenarios faster + Syntax highlight for .feature files
 - [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
@@ -5639,7 +5642,6 @@
 - [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) - 30 mini Swift Apps for self-study
 - [uber/UberSignature](https://github.com/uber/UberSignature) - Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
-- [relatedcode/Messenger](https://github.com/relatedcode/Messenger) - Open source alternative communication platform.
 - [guillermomuntaner/Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers (formerly "Property Delegates")
 - [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架
 - [igravitystudios/matchimals.fun](https://github.com/igravitystudios/matchimals.fun) - 🦁 🃏 📱 An animal matching puzzle card game– built with turn-based game engine boardgame.io and React-Native + React-Native-Web
@@ -5720,7 +5722,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [remirobert/Dotzu](https://github.com/remirobert/Dotzu) - :iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
 - [danielsaidi/Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Sheeeeeeeeet is a Swift library for creating menus, custom action sheets, context menus etc.
-- [pia-foss/vpn-ios](https://github.com/pia-foss/vpn-ios) - Private Internet Access - PIA VPN for iOS
+- [pia-foss/mobile-ios](https://github.com/pia-foss/mobile-ios) - Private Internet Access - PIA VPN for iOS
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [whihail/AutoArchive](https://github.com/whihail/AutoArchive) - 一个基于Jenkins的iOS/Android自动构建系统，它实现了最大程度的自动化，让你的iOS自动打包，Android自动打包流程变得更加高效。此项目包含了各种实现细节的讲解说明，你能够使用它解决大多数跟客户端构建/分发相关的问题，并将这种能力进行开放，提高研发效率。
 - [uber/swift-concurrency](https://github.com/uber/swift-concurrency) - Concurrency utilities for Swift
@@ -6202,7 +6204,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification Platform, has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -9827,6 +9829,7 @@
 - [necolas/issue-guidelines](https://github.com/necolas/issue-guidelines) - A set of guidelines for submitting issues and pull requests on projects
 - [pkaq/Eva-Pro](https://github.com/pkaq/Eva-Pro) - 基于Ant design pro的变种， AntD 后台管理模板
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
 - [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10
 - [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
@@ -15418,7 +15421,6 @@
 - [brave/brave-ios](https://github.com/brave/brave-ios) - Brave iOS Browser
 - [soapyigu/Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) - 30 mini Swift Apps for self-study
 - [dingwilson/MultiPeer](https://github.com/dingwilson/MultiPeer) - 📱📲 A wrapper for the MultipeerConnectivity framework for automatic offline data transmission between devices
-- [relatedcode/Messenger](https://github.com/relatedcode/Messenger) - Open source alternative communication platform.
 - [guillermomuntaner/Burritos](https://github.com/guillermomuntaner/Burritos) - A collection of Swift Property Wrappers (formerly "Property Delegates")
 - [CombineCommunity/RxCombine](https://github.com/CombineCommunity/RxCombine) - Bi-directional type bridging between RxSwift and Apple's Combine framework
 - [tmspzz/Rome](https://github.com/tmspzz/Rome) - Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others
@@ -15500,7 +15502,7 @@
 - [remirobert/Dotzu](https://github.com/remirobert/Dotzu) - :iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.
 - [danielsaidi/Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Sheeeeeeeeet is a Swift library for creating menus, custom action sheets, context menus etc.
 - [m8labs/WidgetKit](https://github.com/m8labs/WidgetKit) - Compose native apps without a code using JSON and load them as NSBundle into another app dynamicly from local or remote locations.
-- [pia-foss/vpn-ios](https://github.com/pia-foss/vpn-ios) - Private Internet Access - PIA VPN for iOS
+- [pia-foss/mobile-ios](https://github.com/pia-foss/mobile-ios) - Private Internet Access - PIA VPN for iOS
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [spicyShrimp/U17](https://github.com/spicyShrimp/U17) - 精仿有妖气漫画(Swift5)
 - [uber/swift-concurrency](https://github.com/uber/swift-concurrency) - Concurrency utilities for Swift
@@ -16500,7 +16502,6 @@
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
 - [bxm0927/vue-meituan](https://github.com/bxm0927/vue-meituan) - :hamburger: :meat_on_bone: :fork_and_knife:  基于Vue 全家桶 (2.x)制作的美团外卖APP
-- [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
 - [xiaomuzhu/vue-ts-daily](https://github.com/xiaomuzhu/vue-ts-daily) - 基于vue、Typescript、pwa的一款习惯养成app
 - [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
@@ -16738,7 +16739,6 @@
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-- [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of
 - [artofcodelabs/front-end-boilerplate](https://github.com/artofcodelabs/front-end-boilerplate) - a multi-static-page boilerplate
 - [optimajet/DWKit](https://github.com/optimajet/DWKit) - DWKit is a Business Process Management System based on .NET Core and React
