@@ -1151,6 +1151,7 @@
 - [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 - [answerdev/answer](https://github.com/answerdev/answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is an intelligent, frictionless message broker. Made to enable developers to build real-time and streaming features fast.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -5137,7 +5138,6 @@
 
 ## MDX 
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [leerob/leerob.io](https://github.com/leerob/leerob.io) - ✨  My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [unional/typescript-blackbook](https://github.com/unional/typescript-blackbook) - The TypeScript Blackbook
@@ -5425,7 +5425,6 @@
 - [kevin-lyn/STPopup](https://github.com/kevin-lyn/STPopup) - STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 - [fergusding/iOS-Custom-ActionSheet](https://github.com/fergusding/iOS-Custom-ActionSheet) - A custom  ActionSheet used in iOS.
 - [coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING iOS 客户端源代码
-- [tdginternet/TGCameraViewController](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
 - [tapthaker/DebugView](https://github.com/tapthaker/DebugView) - A simple way to debug your view hierarchy
 - [IFTTT/FastttCamera](https://github.com/IFTTT/FastttCamera) - Fasttt and easy camera framework for iOS with customizable filters
 - [lookingstars/meituan](https://github.com/lookingstars/meituan) - 高仿美团iOS版，版本号5.7。
@@ -6183,6 +6182,7 @@
 
 ## PHP 
 
+- [openfintechio/openfintech](https://github.com/openfintechio/openfintech) - Opensource FinTech standards & payment provider data
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -6299,7 +6299,7 @@
 - [rahmonzoda/angular-blog](https://github.com/rahmonzoda/angular-blog) - Angular simple app
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [cartalyst/sentry](https://github.com/cartalyst/sentry) - [DEPRECATED] A framework agnostic authentication & authorization system.
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [isohuntto/openbay](https://github.com/isohuntto/openbay) - 
 - [outbrain/propagator](https://github.com/outbrain/propagator) - Centralized schema & data deployment on a multi-everything topology
@@ -6311,7 +6311,7 @@
 - [yiisoft/yii](https://github.com/yiisoft/yii) - Yii PHP Framework 1.1.x
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
 - [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) - ARCHIVED
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [offiria/offiria](https://github.com/offiria/offiria) - Enterprise social network software based on Joomla!
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
@@ -8199,7 +8199,7 @@
 - [id6/id6](https://github.com/id6/id6) - Open source authentication and authorization service, container-native, PassportJS-native, built with React and Node.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [oslabs-beta/Examin](https://github.com/oslabs-beta/Examin) - Examin is a developer tool that generates React unit tests for your application. Ensure your application renders as expected before adding new features. Examin writes the baseline unit tests and allow
