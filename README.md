@@ -1771,7 +1771,7 @@
 - [valyala/quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template
 - [whyrusleeping/gx](https://github.com/whyrusleeping/gx) - A package management tool
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [julienschmidt/go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP request router and web framework benchmark
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
@@ -1920,7 +1920,6 @@
 ## HTML 
 
 - [app-generator/free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 - [justdataplease/medium-sky](https://github.com/justdataplease/medium-sky) - Analyze medium.com articles using Knowledge Graphs and NLP.
@@ -2928,7 +2927,6 @@
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ca1c/envcli](https://github.com/ca1c/envcli) - Populate .env file from javascript variables
@@ -6396,6 +6394,7 @@
 - [moshekarmel1/plop](https://github.com/moshekarmel1/plop) - Python, Langchain, OpenAI, & Pinecone stack
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [jackhawks/telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！
@@ -7975,6 +7974,7 @@
 - [FuelLabs/fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama, Falcon, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. ⭐️ You can star to support our work!
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -8071,7 +8071,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open authentication and user management for the passkey era
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
