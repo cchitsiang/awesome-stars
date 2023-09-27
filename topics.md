@@ -906,7 +906,7 @@
 - [Henry-Sarabia/igdb](https://github.com/Henry-Sarabia/igdb) - Go client for the Internet Game Database API
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [hootsuite/healthchecks](https://github.com/hootsuite/healthchecks) - A go implementation of the Health Checks API used for microservice exploration, documentation and monitoring.
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [rapidjs/rapid.js](https://github.com/rapidjs/rapid.js) - An ORM-like Interface and a Router For Your API Requests
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [trumail/trumail](https://github.com/trumail/trumail) - :email: :white_check_mark: A Fast and Free Email Verification API written in Go
@@ -3602,7 +3602,7 @@
 - [saasforge/open-source-saas-boilerpate](https://github.com/saasforge/open-source-saas-boilerpate) - Free SaaS boilerplate (Python/PostgreSQL/ReactJS/Webpack)
 - [thenetcircle/dino](https://github.com/thenetcircle/dino) - Distributed notifications using websockets
 - [prabhakar267/WA-Reader](https://github.com/prabhakar267/WA-Reader) - :speech_balloon: WA Reader is a platform to read WhatsApp conversations from email text backups in a easy-to-read UI.
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
@@ -5430,7 +5430,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [thedevsaddam/renderer](https://github.com/thedevsaddam/renderer) - Simple, lightweight and faster response (JSON, JSONP, XML, YAML, HTML, File) rendering package for Go
 - [NeutroniumCore/Neutronium](https://github.com/NeutroniumCore/Neutronium) - 🚀 Build .NET desktop applications using HTML, CSS and javascript.
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
@@ -6935,7 +6935,7 @@
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [Devisjs/devis](https://github.com/Devisjs/devis) - A microservices framework for Node.js
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [thedevsaddam/renderer](https://github.com/thedevsaddam/renderer) - Simple, lightweight and faster response (JSON, JSONP, XML, YAML, HTML, File) rendering package for Go
 - [iZettle/Lift](https://github.com/iZettle/Lift) - Lift is a Swift library for generating and extracting values into and out of JSON-like data structures.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
@@ -9019,6 +9019,7 @@
 
 ## others 
 
+- [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications
 - [Codecademy/EventHub](https://github.com/Codecademy/EventHub) - An open source event analytics platform
 - [massalabs/massa](https://github.com/massalabs/massa) - The Decentralized and Scaled Blockchain
@@ -13595,7 +13596,7 @@
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [tryolabs/requestium](https://github.com/tryolabs/requestium) - Integration layer between Requests and Selenium for automation of web actions.
 - [ryfeus/lambda-packs](https://github.com/ryfeus/lambda-packs) - Precompiled packages for AWS Lambda
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -15330,6 +15331,7 @@
 
 ## sql-server 
 
+- [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi) - ASP.NET Core 8.0 - Minimal API Example - Todo API implementation using ASP.NET Core Minimal API, Entity Framework Core, Token authentication, Versioning, Unit Testing, Integration Testing and Open API
 - [nuyonu/N-Tier-Architecture](https://github.com/nuyonu/N-Tier-Architecture) - This is a n-layer architecture based on Common web application architectures.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
@@ -16670,7 +16672,7 @@
 - [MasoniteFramework/masonite](https://github.com/MasoniteFramework/masonite) - The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ
 - [benrady/makeaws](https://github.com/benrady/makeaws) - Makefiles to create and manage AWS services; Not because we should, but because we can.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [zalando/tailor](https://github.com/zalando/tailor) - A streaming layout service for front-end microservices
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
