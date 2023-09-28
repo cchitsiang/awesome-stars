@@ -6374,7 +6374,9 @@
 
 ## Python 
 
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [zhudotexe/kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool usage/function calling.
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
 - [TrainGRC/textweaver](https://github.com/TrainGRC/textweaver) - 
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [cofactoryai/textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
@@ -7040,6 +7042,7 @@
 
 ## Rust 
 
+- [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [massalabs/massa](https://github.com/massalabs/massa) - The Decentralized and Scaled Blockchain
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
@@ -7294,7 +7297,7 @@
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [meteorhacks/meteord](https://github.com/meteorhacks/meteord) - MeteorD - Docker Runtime for Meteor Apps for Production Deployments
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation
 - [awatson1978/clinical-nightwatch](https://github.com/awatson1978/clinical-nightwatch) - Ultra-easy acceptance testing for your Meteor app with Selenium and Nightwatch.
 - [cinemapub/AnglerBerry](https://github.com/cinemapub/AnglerBerry) - Raspberry Pi - 3G/LAN Captive Portal
 - [celloudiallo/vagrant-meteor-dev](https://github.com/celloudiallo/vagrant-meteor-dev) - Vagrant box for meteor development
@@ -7962,7 +7965,6 @@
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
