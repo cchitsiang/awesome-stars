@@ -1551,7 +1551,6 @@
 - [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [franela/goblin](https://github.com/franela/goblin) - Minimal and Beautiful Go testing framework
 - [thomasdao/goal](https://github.com/thomasdao/goal) - Golang Restful API inspired by https://parse.com
@@ -4794,7 +4793,7 @@
 - [stirno/livefluent](https://github.com/stirno/livefluent) - Live Fluent Automation
 - [sbarski/dashing.net](https://github.com/sbarski/dashing.net) - dashing.net is a direct .NET port of the dashing framework originally created by Shopify
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
-- [fullstackio/choc](https://github.com/fullstackio/choc) - Learnable Programming in Javascript
+- [newlinedotco/choc](https://github.com/newlinedotco/choc) - Learnable Programming in Javascript
 - [wtayyeb/draw.io](https://github.com/wtayyeb/draw.io) - obsolete jgraph/draw.io open source repo, become live again!
 - [goinstant/goangular](https://github.com/goinstant/goangular) - AngularJS bindings for GoInstant. Build realtime, multi-user apps with AngularJS and GoInstant easily. https://developers.goinstant.com/v1/GoAngular/index.html
 - [drewblaisdell/monitor.io](https://github.com/drewblaisdell/monitor.io) - remote monitoring and debugging for socket.io
@@ -7071,7 +7070,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
@@ -7945,7 +7944,7 @@
 - [lexrus/VPNOn](https://github.com/lexrus/VPNOn) - Turn On your VPN like a hero.
 - [mzeeshanid/MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) - This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can download large files if app is in background. It can resume downloads if app was quit.
 - [kevinzhow/PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - A simple and beautiful chart lib used in Piner and CoinsMan for iOS(https://github.com/kevinzhow/PNChart) Swift Implementation
-- [fullstackio/FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
+- [newlinedotco/FlappySwift](https://github.com/newlinedotco/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
 - [bennyguitar/News-YC---iPhone](https://github.com/bennyguitar/News-YC---iPhone) - The iPhone version of News/YC, a Hacker News reader and interactive iOS application.
 
 ## TSQL 
@@ -8159,7 +8158,7 @@
 - [invertase/docs.page](https://github.com/invertase/docs.page) - Instant Open Source docs with zero configuration.
 - [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app) - A tool to make interacting with Firestore less painful
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
-- [soketi/soketi](https://github.com/soketi/soketi) - Just another simple, fast, and resilient open-source WebSockets server. 📣
+- [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [cloudflare/production-saas](https://github.com/cloudflare/production-saas) - (WIP) Example SaaS application built in public on the Cloudflare stack!
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
@@ -8353,7 +8352,7 @@
 - [topfullstack/nestjs-mongoose-crud](https://github.com/topfullstack/nestjs-mongoose-crud) - Nest.js crud module for mongoose models without `nestjsx/crud`
 - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, M
 - [DivanteLtd/next](https://github.com/DivanteLtd/next) - Vue Storefront Next is R&D branch of Vue Storefront.
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
+- [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
 - [coddx-hq/coddx-alpha](https://github.com/coddx-hq/coddx-alpha) - Todo Kanban Board manages tasks and save them as TODO.md - a simple plain text file.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) - a super simple, no-nonsense diagramming library written in react that just works
@@ -8615,6 +8614,7 @@
 - [sequelize/umzug](https://github.com/sequelize/umzug) - Framework agnostic migration tool for Node.js
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [TotomInc/loaderz](https://github.com/TotomInc/loaderz) - :zap: A very easy-to-use, blazing fast asset-loader using promises. Support older-browsers and preload images, audios and videos.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
