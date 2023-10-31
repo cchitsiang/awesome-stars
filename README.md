@@ -652,7 +652,6 @@
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [restsharp/RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
@@ -1207,7 +1206,7 @@
 - [mosuka/phalanx](https://github.com/mosuka/phalanx) - Phalanx is a cloud-native distributed search engine that provides endpoints through gRPC and traditional RESTful API.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1899,6 +1898,7 @@
 - [karan/joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
+- [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 
 ## Groff 
@@ -3252,6 +3252,7 @@
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) - Configuration and documentation powering the React Native website.
 - [lukeed/fromnow](https://github.com/lukeed/fromnow) - A tiny (339B) utility for human-readable time differences between now and past or future dates.
 - [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker.
+- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo) - 一步一步介绍如何给项目添加单元测试
 - [kumarabhirup/iconic-input](https://github.com/kumarabhirup/iconic-input) - Beautiful Input components for React Native... &lt;IconicTextbox/&gt; and much more!
 - [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) - ApacheCN 数据结构与算法译文集
@@ -4943,7 +4944,7 @@
 - [i-e-b/jQueryFileUpload.Net](https://github.com/i-e-b/jQueryFileUpload.Net) - [Out of Date] .Net handler for http://aquantum-demo.appspot.com/file-upload
 - [jquery-boilerplate/jquery-boilerplate](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development
 - [coreframework/Core-Framework](https://github.com/coreframework/Core-Framework) - 
-- [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
+- [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector
 - [TaoK/PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's
 - [matthewaprice/Javascript-Countdown-Timer](https://github.com/matthewaprice/Javascript-Countdown-Timer) - simple javascript countdown timer
 - [ocombe/jQuery-keepAlive](https://github.com/ocombe/jQuery-keepAlive) - A jQuery plugin to keep a php session alive
@@ -7085,7 +7086,7 @@
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: SQL stream processing with Postgres-like experience 🪄. 10X more cost-efficient than Apache Flink 🚀.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing redefined 🌊: your scalable, reliable, and PostgreSQL-compatible streaming database in the cloud. ☁️
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -8515,7 +8516,6 @@
 - [seanpmaxwell/overnight](https://github.com/seanpmaxwell/overnight) - TypeScript decorators for the ExpressJS Server.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [Yoshino-UI/Yoshino](https://github.com/Yoshino-UI/Yoshino) - A themable React component library！Flexible Lightweight PC UI Components built on React! Anyone can generate easily all kinds of themes by it!
 - [zenato/puppeteer-renderer](https://github.com/zenato/puppeteer-renderer) - Puppeteer(Chrome headless node API) based web page renderer
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
