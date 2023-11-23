@@ -2343,7 +2343,7 @@
 - [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [olton/Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - Impressive component library for expressive web development! Build responsive projects on the web with the first front-end component library in Metro Style. And now there are even more opportunities e
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
@@ -6360,6 +6360,7 @@
 
 ## javascript 
 
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
@@ -7530,7 +7531,7 @@
 - [Devlight/InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) - Infinite cycle ViewPager with two-way orientation and interactive effect.
 - [Ramotion/expanding-collection](https://github.com/Ramotion/expanding-collection) - :octocat: ExpandingCollection is an animated material design UI card peek/pop controller. iOS library made by @Ramotion
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [nisrulz/easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) - :iphone: [Android Library] Get device information in a super easy way.
 - [Ramotion/adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) - :octocat: AdaptiveController is a 'Progressive Reduction' Swift UI module for adding custom states to Native or Custom iOS UI elements. Swift UI component by @Ramotion
 - [Ramotion/paper-onboarding](https://github.com/Ramotion/paper-onboarding) - :octocat: PaperOnboarding is a material design UI slider. Swift UI library by @Ramotion
@@ -12241,7 +12242,7 @@
 - [shyam-habarakada/js-virtual-list-view](https://github.com/shyam-habarakada/js-virtual-list-view) - A HTML component (modeled after UITableView) for rendering very large scrolling lists with high performance.
 - [shama/view-list](https://github.com/shama/view-list) - :scroll: An infinite scrolling list view element built on a virtual DOM.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [maxogden/electron-microscope](https://github.com/maxogden/electron-microscope) - use electron-microscope to inspect websites and extract data
+- [max-mapper/electron-microscope](https://github.com/max-mapper/electron-microscope) - use electron-microscope to inspect websites and extract data
 - [mehdime/DbContextScope](https://github.com/mehdime/DbContextScope) - A simple and flexible way to manage your Entity Framework DbContext instances
 - [dtorres/OLImageView](https://github.com/dtorres/OLImageView) - Animated GIFs implemented the right way
 - [liushuaikobe/beauties](https://github.com/liushuaikobe/beauties) - :yum: Fetch and display images.
@@ -14015,6 +14016,7 @@
 
 ## react 
 
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - Universal Themed & Unstyled Components For React Native, Next.js, Expo & React
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
@@ -16277,6 +16279,7 @@
 
 ## typescript 
 
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
