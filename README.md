@@ -277,7 +277,7 @@
 - [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 - [bolorundurowb/logly](https://github.com/bolorundurowb/logly) - A HTTP Request and Response logger for ASP.NET Core
 - [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 RC 2 projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
 - [juunas11/aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 - [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
@@ -563,7 +563,7 @@
 - [pjvds/ncqrs](https://github.com/pjvds/ncqrs) - Ncqrs Framework - The CQRS Framework for .NET
 - [pvandervelde/Sherlock](https://github.com/pvandervelde/Sherlock) - Sherlock provides a means to schedule and automatically execute tests in an controlled virtual machine environment.
 - [continuoustests/ContinuousTests](https://github.com/continuoustests/ContinuousTests) - Continuous testing tool for .Net running only affected tests.
-- [SimpleBrowserDotNet/SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - A flexible and intuitive web browser engine designed for automation tasks. Built on .NET Standard 2.0.
+- [SimpleBrowserDotNet/SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) - A flexible and intuitive web browser engine designed for automation tasks. Built on .NET Standard 2.1.
 - [Topshelf/Topshelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 - [EasyNetQ/EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 - [madskristensen/ShortcutExporter](https://github.com/madskristensen/ShortcutExporter) - Visual Studio extension
@@ -1146,7 +1146,7 @@
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [mylxsw/aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform state migration tool for GitOps
@@ -1312,7 +1312,6 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [Kong/kubernetes-ingress-controller](https://github.com/Kong/kubernetes-ingress-controller) - :gorilla: Kong for Kubernetes: The official Ingress Controller for Kubernetes.
-- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [simagix/keyhole](https://github.com/simagix/keyhole) - Survey Your Mongo Land - MongoDB Performance Analytics
 - [talariadb/talaria](https://github.com/talariadb/talaria) - TalariaDB is a distributed, highly available, and low latency time-series database for Presto
@@ -1543,7 +1542,6 @@
 - [francoispqt/gojay](https://github.com/francoispqt/gojay) - high performance JSON encoder/decoder with stream API for Golang
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [mjl-/duit](https://github.com/mjl-/duit) - pure go, cross-platform, MIT-licensed ui toolkit for developers
 - [openfaas/openfaas-cloud](https://github.com/openfaas/openfaas-cloud) - The Multi-user OpenFaaS Platform
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
@@ -2136,6 +2134,7 @@
 
 ## Java 
 
+- [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [Codecademy/EventHub](https://github.com/Codecademy/EventHub) - An open source event analytics platform
 - [IridiumIdentity/iridium](https://github.com/IridiumIdentity/iridium) - An OIDC provider integrator.  Choose your social providers without needing to write code.
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
@@ -2169,7 +2168,7 @@
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+
 - [gyf-dev/ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/
 - [apache/inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop, full-scenario integration framework for massive data
-- [fossasia/susi_server](https://github.com/fossasia/susi_server) - SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai
+- [fossasia/susi_server](https://github.com/fossasia/susi_server) - SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://susi.ai
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [dromara/lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
@@ -2212,6 +2211,7 @@
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
 - [wuxudong/react-native-charts-wrapper](https://github.com/wuxudong/react-native-charts-wrapper) - a react native charts wrapper (support android & iOS)
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+- [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 - [real-logic/aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 - [qunarcorp/qmq](https://github.com/qunarcorp/qmq) - QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
 - [mercyblitz/tech-weekly](https://github.com/mercyblitz/tech-weekly) - 「小马哥技术周报」
@@ -2939,6 +2939,8 @@
 
 ## JavaScript 
 
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
@@ -2953,7 +2955,7 @@
 - [ahmed3520/lam-store](https://github.com/ahmed3520/lam-store) - Lam-store App is a desktop app that allows users to perform tasks through a centralized chat interface. It supports apps developed in any language and uses Node child processes to communicate with the
 - [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [node-pinus/pinus](https://github.com/node-pinus/pinus) - A fast,scalable,distributed game server framework for Node.js, Powered by TypeScript.  一个TypeScript写的node.js分布式游戏/应用服务器框架（原型基于pomelo）。
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -3272,7 +3274,6 @@
 - [cliqz-oss/re-consent](https://github.com/cliqz-oss/re-consent) - Consent-management browser extension
 - [floatinghotpot/casino-server](https://github.com/floatinghotpot/casino-server) - :fire: An online poker game server powered by Redis, node.js and socket.io
 - [alessandrobologna/dynamodb-event-store](https://github.com/alessandrobologna/dynamodb-event-store) - Simple Event Store for DynamoDB
-- [softonic/axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城，微信小程序微店
 - [tvkhoa/react-tippy](https://github.com/tvkhoa/react-tippy) - A lightweight tooltip for React. Based on tippy.js and powered by Popper.js
@@ -4562,7 +4563,7 @@
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js, the Browser and the command line / Demo: https://www.docxtemplater.com/demo. #docx #office #generator
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [maxogden/electron-microscope](https://github.com/maxogden/electron-microscope) - use electron-microscope to inspect websites and extract data
+- [max-mapper/electron-microscope](https://github.com/max-mapper/electron-microscope) - use electron-microscope to inspect websites and extract data
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [cmpolis/smart-table-scroll](https://github.com/cmpolis/smart-table-scroll) - Build 1MM row tables with native scroll bars by reusing and yielding nodes.
 - [postaljs/postal.js](https://github.com/postaljs/postal.js) - JavaScript pub/sub library supporting advanced subscription features, and several helpful add-ons.
@@ -5596,6 +5597,7 @@
 
 ## Others 
 
+- [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -6397,7 +6399,6 @@
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [CaptainIRS/programmer-lyf-bot](https://github.com/CaptainIRS/programmer-lyf-bot) - Your Daily Dose of Programming Content via IM (ft. GitHub Actions)
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
@@ -7995,6 +7996,9 @@
 
 ## TypeScript 
 
+- [thewh1teagle/mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
@@ -8038,7 +8042,7 @@
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [implerhq/impler.io](https://github.com/implerhq/impler.io) - Open source CSV & Excel file import experience. Integrate and release data import experience in few minutes.
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
@@ -8125,7 +8129,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
@@ -8343,6 +8347,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
+- [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [cds-snc/covid-alert-app](https://github.com/cds-snc/covid-alert-app) - Exposure notification client application / Application client de notification d'exposition
 - [CovidShield/mobile](https://github.com/CovidShield/mobile) - React Native client application for COVID Shield on iOS and Android
 - [fernandohenriques/nestjs-graphql-boilerplate](https://github.com/fernandohenriques/nestjs-graphql-boilerplate) - Dockerized API boilerplate with NestJS and GraphQL.
@@ -8548,6 +8553,7 @@
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [xojs/vscode-linter-xo](https://github.com/xojs/vscode-linter-xo) - Linter for XO
+- [softonic/axios-retry](https://github.com/softonic/axios-retry) - Axios plugin that intercepts failed requests and retries them whenever possible
 - [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter) - Nest framework TypeScript starter :coffee:
 - [xobotyi/await-of](https://github.com/xobotyi/await-of) - await wrapper for easier errors handling without try-catch
 - [cdimascio/generator-express-no-stress-typescript](https://github.com/cdimascio/generator-express-no-stress-typescript) - 🚄 A Yeoman generator for Express.js based 12-factor apps and apis using Typescript
@@ -8643,6 +8649,7 @@
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [deptno/dynamon](https://github.com/deptno/dynamon) - :smiling_imp: Dynamon is GUI client for DynamoDB, can connect local dynamodb.
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
@@ -8798,7 +8805,7 @@
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [AndrewBarba/apns2](https://github.com/AndrewBarba/apns2) - Node client for connecting to Apple's Push Notification Service using the new HTTP/2 protocol with JSON web tokens
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [alm-tools/alm](https://github.com/alm-tools/alm) - :rose: A :cloud: ready IDE just for TypeScript :heart:
