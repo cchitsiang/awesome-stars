@@ -9280,7 +9280,7 @@
 - [necordjs/toolkit](https://github.com/necordjs/toolkit) - 🤖 Source code of Toolkit bot
 - [AkashRajpurohit/ts-npm-template](https://github.com/AkashRajpurohit/ts-npm-template) - 📦 A project template to bootstrap NPM package with Typescript
 - [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [thecookingsenpai/autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
