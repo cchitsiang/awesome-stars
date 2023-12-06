@@ -210,7 +210,7 @@
 - [thomasgalliker/PushNotifications.Server](https://github.com/thomasgalliker/PushNotifications.Server) - Server-side .NET SDK for Apple APNS and and Google FCM
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
-- [vb-consulting/Norm.net](https://github.com/vb-consulting/Norm.net) - High-performance micro-ORM modern Dapper replacement for .NET Standard 2.1 and higher
+- [vb-consulting/Norm.net](https://github.com/vb-consulting/Norm.net) - Norm.net is innovative and high-performance Database Access for .NET
 - [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - [bflattened/bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 7 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
@@ -776,7 +776,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52301, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52393, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -4684,7 +4684,6 @@
 - [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.
 - [javallone/regexper-static](https://github.com/javallone/regexper-static) - Regular Expression Visualization Site (static site version) -- migrated to https://gitlab.com/javallone/regexper-static
 - [dapetcu21/ARGOTabs](https://github.com/dapetcu21/ARGOTabs) - Tabbing software for debate competitions
-- [astoilkov/console.message](https://github.com/astoilkov/console.message) - Console messages for cool kids
 - [benhmoore/Knwl](https://github.com/benhmoore/Knwl) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
 - [bevacqua/woofmark](https://github.com/bevacqua/woofmark) - :dog2: Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor
 - [Polymer/polymer-starter-kit](https://github.com/Polymer/polymer-starter-kit) - A starting point for Polymer apps
@@ -8065,7 +8064,7 @@
 - [temporalio/sdk-typescript](https://github.com/temporalio/sdk-typescript) - Temporal TypeScript SDK
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant ⚡️🤖 Chat with your files (PDF, CSV, ...)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share wi
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [nestjs-shopify/nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Build Shopify apps on NestJS
 - [tobq/loadable](https://github.com/tobq/loadable) - A library for simplifying asynchronous operations in React
@@ -8269,7 +8268,7 @@
 - [oslabs-beta/Examin](https://github.com/oslabs-beta/Examin) - Examin is a developer tool that generates React unit tests for your application. Ensure your application renders as expected before adding new features. Examin writes the baseline unit tests and allow
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performan
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
@@ -8545,7 +8544,6 @@
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schema using SDL
 - [rangle/redux-beacon](https://github.com/rangle/redux-beacon) - Analytics integration for Redux and ngrx/store
-- [forsigner/stamen](https://github.com/forsigner/stamen) - A React state management library based on Hooks
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
@@ -8902,6 +8900,7 @@
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
+- [astoilkov/console.message](https://github.com/astoilkov/console.message) - Console messages for cool kids
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [pgilad/leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
