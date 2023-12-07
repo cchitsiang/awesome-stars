@@ -3953,7 +3953,6 @@
 - [christophercliff/flatmarket](https://github.com/christophercliff/flatmarket) - A free, open source e-commerce platform for static websites.
 - [plaid/npmserve-server](https://github.com/plaid/npmserve-server) - fast npm installs for slow clients
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
-- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [tangbc/sugar](https://github.com/tangbc/sugar) - A lightweight and powerful JavaScript MVVM library. Used for production or learning how to make a full MVVM.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [TailorDev/monod](https://github.com/TailorDev/monod) - :notebook: Our cool, secure, and offline-first Markdown editor.
@@ -6162,7 +6161,7 @@
 - [benvium/libimobiledevice-macosx](https://github.com/benvium/libimobiledevice-macosx) - Binary distribution of the libimobiledevice library for Mac OS X
 - [Templarian/WindowsIcons](https://github.com/Templarian/WindowsIcons) - Windows Phone and Windows RT CC Icons
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
+- [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [Valien/awesome-dotnet](https://github.com/Valien/awesome-dotnet) - Awesome .NET resources for developers
 - [mesos/myriad](https://github.com/mesos/myriad) - https://github.com/apache/incubator-myriad is our new home. See
 - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint
@@ -8819,6 +8818,7 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
 - [mgcrea/redux-rest-resource](https://github.com/mgcrea/redux-rest-resource) - Seamless REST interaction for Redux
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [dcos/dcos-ui](https://github.com/dcos/dcos-ui) - The UI for The Datacenter Operating System
 - [obipawan/react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink) - A &lt;Hyperlink /&gt; component for react-native that makes urls, fuzzy links, emails etc clickable
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
