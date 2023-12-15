@@ -301,6 +301,7 @@
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
@@ -1102,6 +1103,7 @@
 
 ## awesome 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -1271,6 +1273,7 @@
 
 ## awesome-list 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [Cyanhall/awesome-react](https://github.com/Cyanhall/awesome-react) - Better Awesome React List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
@@ -1504,7 +1507,7 @@
 - [datacol-io/datacol](https://github.com/datacol-io/datacol) - Datacol provides Heroku-like workflow for deploying apps in your cloud account (AWS/GCP)
 - [monicagangwar/aws_docker_swarm](https://github.com/monicagangwar/aws_docker_swarm) - setup to bootstrap docker swarm cluster and a controller on AWS using terraform
 - [kubernetes-sigs/aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller) - A Kubernetes controller for Elastic Load Balancers
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [widdix/aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation
 - [convox/rack](https://github.com/convox/rack) - Private PaaS built on native AWS services for maximum privacy and minimum upkeep
@@ -1804,7 +1807,7 @@
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Data platform for LLMs - Load, index, retrieve and sync any unstructured data
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [webwhiz-ai/webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
@@ -2031,7 +2034,6 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [CircleCI-Archived/frontend](https://github.com/CircleCI-Archived/frontend) - CircleCI's frontend
 - [casidiablo/tako](https://github.com/casidiablo/tako) - Github notifications on Slack
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
@@ -2195,7 +2197,6 @@
 
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
@@ -2524,7 +2525,6 @@
 
 ## data-structures 
 
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
@@ -2537,6 +2537,7 @@
 
 ## data-visualization 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
 - [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Retentioneering: product analytics, data-driven CJM optimization, marketing analytics, web analytics, transaction analytics, graph visualization, process mining, and behavioral segmentation in Python.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2884,7 +2885,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [eko/monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
@@ -3205,6 +3206,7 @@
 
 ## documentation 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [crisp-oss/chappe](https://github.com/crisp-oss/chappe) - 🧑‍💻 Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
@@ -3256,7 +3258,7 @@
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
 - [mehdihadeli/ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices) - 🛍️ A practical e-commerce microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
-- [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
+- [fullstackhero/dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
@@ -3633,7 +3635,7 @@
 - [EQuimper/nodejs-api-boilerplate](https://github.com/EQuimper/nodejs-api-boilerplate) - A boilerplate for kickstart your nodejs api project with JWT Auth and some new Techs :)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [grindjs/grindjs](https://github.com/grindjs/grindjs) - An opinionated Node web framework built on Express
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
@@ -3952,7 +3954,6 @@
 - [phodal/growth-ebook](https://github.com/phodal/growth-ebook) - Growth Engineering: The Definitive Guide。全栈增长工程师指南
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [CircleCI-Archived/frontend](https://github.com/CircleCI-Archived/frontend) - CircleCI's frontend
 - [mxstbr/login-flow](https://github.com/mxstbr/login-flow) - :key: A login/register flow built with React&Redux
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
@@ -4109,7 +4110,6 @@
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
-- [surfcodes/surf](https://github.com/surfcodes/surf) - 🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
@@ -4191,6 +4191,7 @@
 
 ## go 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -4300,7 +4301,7 @@
 - [milkbobo/gopay](https://github.com/milkbobo/gopay) - golang支付:微信公众号，微信app，微信小程序，微信企业支付，支付宝网页版，支付宝app，支付宝企业支付
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go
 - [bet365/jingo](https://github.com/bet365/jingo) - This package provides the ability to encode golang structs to a buffer as JSON very quickly.
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
@@ -4497,6 +4498,7 @@
 
 ## golang 
 
+- [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -4635,7 +4637,7 @@
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 - [tommy351/pullup](https://github.com/tommy351/pullup) - Update Kubernetes resources by webhooks.
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [bet365/jingo](https://github.com/bet365/jingo) - This package provides the ability to encode golang structs to a buffer as JSON very quickly.
 - [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
@@ -5247,7 +5249,7 @@
 - [unform/unform](https://github.com/unform/unform) - Performance-focused API for React forms 🚀
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [mddanishyusuf/json-apis-with-github](https://github.com/mddanishyusuf/json-apis-with-github) - 🔨 Tool to make Simple and Quick JSON APIs with GitHub.
-- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -5301,7 +5303,7 @@
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52393, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52545, 3.3.5 = 3.3.5a.12340)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -5394,7 +5396,7 @@
 - [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 - [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 - [euclidity/vscode-cucumber](https://github.com/euclidity/vscode-cucumber) - Code snippets to write scenarios faster + Syntax highlight for .feature files
@@ -7600,7 +7602,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52393, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52545, 3.3.5 = 3.3.5a.12340)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
@@ -7699,7 +7701,6 @@
 
 ## machine-learning 
 
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
@@ -8328,7 +8329,7 @@
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -8458,7 +8459,7 @@
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -8470,7 +8471,7 @@
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -8588,7 +8589,7 @@
 - [grindjs/grindjs](https://github.com/grindjs/grindjs) - An opinionated Node web framework built on Express
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
@@ -8866,7 +8867,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [thanhson1085/bean-seed](https://github.com/thanhson1085/bean-seed) - DevOps Microservices NodeJS Starter Project
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
@@ -9127,7 +9128,7 @@
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [Permify/react-role](https://github.com/Permify/react-role) - Lightweight role based access management solution for React applications
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -9274,7 +9275,7 @@
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite is the toolkit for composing collaborative editing applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite provides the toolkit for composing collaborative editing applications.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [prisma/ecosystem-tests](https://github.com/prisma/ecosystem-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
@@ -9423,6 +9424,8 @@
 - [hotwired/turbo-android](https://github.com/hotwired/turbo-android) - Android framework for making Turbo native apps
 - [hotwired/turbo-ios](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [gridaco/grida](https://github.com/gridaco/grida) - 🎥 An opensource design tool. WebGPU based performant live design collaboration & workspace app - redesigned for both designers and developers
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery) - TypeScript AST query library
 - [pickledish/cardi](https://github.com/pickledish/cardi) - A full-featured, static-generated PWA for notes stored in privately owned DynamoDB tables
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -12648,7 +12651,7 @@
 - [AFNetworking/AFNetworkActivityLogger](https://github.com/AFNetworking/AFNetworkActivityLogger) - AFNetworking 3.0 Extension for Network Request Logging
 - [fpillet/NSLogger](https://github.com/fpillet/NSLogger) - A modern, flexible logging tool
 - [wangjiegulu/WaveCompat](https://github.com/wangjiegulu/WaveCompat) - Wave effect of activity animation
-- [astoilkov/console.message](https://github.com/astoilkov/console.message) - Console messages for cool kids
+- [astoilkov/console-powers](https://github.com/astoilkov/console-powers) - Craft beautiful browser console messages. Debug & inspect data with elegant outputs. Small & tree-shakable.
 - [lawloretienne/Trestle](https://github.com/lawloretienne/Trestle) - A framework used to bridge one or more spans for use with a TextView
 - [MaxMelcher/ChocolateySharePointPackages](https://github.com/MaxMelcher/ChocolateySharePointPackages) - Chocolatey
 - [celloudiallo/vagrant-meteor-dev](https://github.com/celloudiallo/vagrant-meteor-dev) - Vagrant box for meteor development
@@ -14081,7 +14084,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -14228,7 +14231,7 @@
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [unform/unform](https://github.com/unform/unform) - Performance-focused API for React forms 🚀
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 - [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) - 我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。
@@ -15117,7 +15120,6 @@
 
 ## scikit-learn 
 
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
@@ -15386,7 +15388,7 @@
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [Syncano/syncano-dashboard](https://github.com/Syncano/syncano-dashboard) - The Syncano Dashboard built with React.
 - [Azure/azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
@@ -16375,7 +16377,7 @@
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [module-federation/universe](https://github.com/module-federation/universe) - A collection of tools, plugins, and utilities for Module Federation
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
-- [steven-tey/dub](https://github.com/steven-tey/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - 🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -16514,7 +16516,7 @@
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [szokodiakos/typegoose](https://github.com/szokodiakos/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [zenghongtu/Mob](https://github.com/zenghongtu/Mob) - Mob - 一个有颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An enterprise-ready, GRPC powered, GitOps enabled, feature management solution
 - [fabrix-app/fabrix](https://github.com/fabrix-app/fabrix) - Strongly Typed Modern Web Application Framework for Node.js and Browsers
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [nest-cloud/nestcloud](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution, writing by Typescript language and NestJS framework.
