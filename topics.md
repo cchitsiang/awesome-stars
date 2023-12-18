@@ -9404,7 +9404,7 @@
 - [AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project](https://github.com/AlicanAkkus/Modular-Architecture-Hexagonal-Demo-Project) - Hexagonal Architecture Demo Project about Ticketing and Payment
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [hyperjumptech/retter](https://github.com/hyperjumptech/retter) - RETTER is a simple server that provides circuit breaking for Web Applications. By using a CircuitBreaker in your web solution, you make your solution tobe more fault-tolerant, reliable and resilient t
-- [fullstackhero/blazorhero](https://github.com/fullstackhero/blazorhero) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+- [fullstackhero/blazor-starter-kit](https://github.com/fullstackhero/blazor-starter-kit) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 - [vadimdemedes/tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - 🦎 Use Tailwind CSS in React Native projects
 - [ciceksepetitech/sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
 - [dreymonde/NiceNotifications](https://github.com/dreymonde/NiceNotifications) - 🔔 Create rich local notifications experiences on iOS with incredible ease
@@ -14070,6 +14070,7 @@
 
 ## react 
 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
