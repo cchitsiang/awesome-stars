@@ -222,7 +222,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 - [mrtaikandi/MapTo](https://github.com/mrtaikandi/MapTo) - A convention based object to object mapper using Roslyn source generator.
-- [fullstackhero/blazorhero](https://github.com/fullstackhero/blazorhero) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+- [fullstackhero/blazor-starter-kit](https://github.com/fullstackhero/blazor-starter-kit) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 - [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 - [UiPath/CoreWF](https://github.com/UiPath/CoreWF) - WF runtime ported to work on .NET 6
 - [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
@@ -7997,6 +7997,7 @@
 
 ## TypeScript 
 
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [atomicals/atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
 - [wladpaiva/aibitat](https://github.com/wladpaiva/aibitat) - Multi-Agent Conversation Framework in TypeScript
