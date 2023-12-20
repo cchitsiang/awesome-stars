@@ -776,7 +776,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52545, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.0.52607, 3.3.5 = 3.3.5a.12340)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1235,7 +1235,7 @@
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab for database DevOps
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
@@ -2161,7 +2161,7 @@
 - [hazelcast/hazelcast-jet](https://github.com/hazelcast/hazelcast-jet) - Distributed Stream and Batch Processing
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活
+- [jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&gt;代码生成-&gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [Tencent/VasSonic](https://github.com/Tencent/VasSonic) - VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.
 - [dwmkerr/app-icon](https://github.com/dwmkerr/app-icon) - Icon management for Mobile Apps. Create icons, generate all required sizes, label and annotate. Supports Native, Cordova, React Native, Xamarin and more. Inspired by cordova-icon.
@@ -2203,7 +2203,7 @@
 - [android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) - android ui调试工具
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [seata/seata](https://github.com/seata/seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+- [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 - [bevy/photo-editor-android](https://github.com/bevy/photo-editor-android) - Photo Editor SDK contains a lot of features like edit, scale, rotate and draw on images like Instagram stories.
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [update4j/update4j](https://github.com/update4j/update4j) - Create your own auto-update framework
@@ -2753,7 +2753,7 @@
 - [wedcel/DragExpandGrid](https://github.com/wedcel/DragExpandGrid) - 可展开，可拖动，可排序，可删除，固定更多的GridView
 - [klinker41/android-slidingactivity](https://github.com/klinker41/android-slidingactivity) - Android library which allows you to swipe down from an activity to close it.
 - [kaleai/JsonAnnotation](https://github.com/kaleai/JsonAnnotation) - 利用注解自动生成Gson‘s Model的库
-- [vlonjatg/progress-activity](https://github.com/vlonjatg/progress-activity) - Easily add loading, empty and error states in your app.
+- [vlonjat-gashi/progress-activity](https://github.com/vlonjat-gashi/progress-activity) - Easily add loading, empty and error states in your app.
 - [florent37/HollyViewPager](https://github.com/florent37/HollyViewPager) - A different beautiful ViewPager, with quick swipe controls
 - [dawsonice/ProMosaic](https://github.com/dawsonice/ProMosaic) - Make mosaic effect on android
 - [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
@@ -5594,6 +5594,7 @@
 
 ## Others 
 
+- [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
 - [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
@@ -6128,7 +6129,7 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [futurice/android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers
 - [SwiftEducation/teaching-app-dev-swift](https://github.com/SwiftEducation/teaching-app-dev-swift) - DEPRECATED. Instructor lesson plans that accompany Xcode projects, for guiding in-class experiential learning.
-- [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
+- [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
 - [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 - [philipamour/ios9-uikit](https://github.com/philipamour/ios9-uikit) - iOS 9 UIKit for Sketch
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -6394,6 +6395,7 @@
 
 ## Python 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
@@ -6401,7 +6403,6 @@
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [CaptainIRS/programmer-lyf-bot](https://github.com/CaptainIRS/programmer-lyf-bot) - Your Daily Dose of Programming Content via IM (ft. GitHub Actions)
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
@@ -6431,7 +6432,7 @@
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [jackhawks/rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Production ready RAG framework - Load, index, retrieve and sync any unstructured data
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
 - [fvaleye/delta-buddy](https://github.com/fvaleye/delta-buddy) - Introducing Delta-Buddy: Your ultimate Delta Lake companion! 🚀 Streamline your data journey with an AI-powered chatbot. Ask Delta-Buddy anything about your Delta Lake.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
@@ -7201,6 +7202,7 @@
 
 ## Shell 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
@@ -7997,6 +7999,7 @@
 
 ## TypeScript 
 
+- [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [atomicals/atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
@@ -8053,7 +8056,7 @@
 - [implerhq/impler.io](https://github.com/implerhq/impler.io) - Open source CSV & Excel file import experience. Integrate and release data import experience in few minutes.
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🎨 BlockSuite provides the toolkit for composing collaborative editing applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite provides the toolkit for composing collaborative editing applications.
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [blocknative/web3-onboard](https://github.com/blocknative/web3-onboard) - Client library to onboard users to web3 apps
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
