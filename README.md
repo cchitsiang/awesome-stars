@@ -3402,7 +3402,7 @@
 - [nccgroup/house](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [antsmartian/lets-build-express](https://github.com/antsmartian/lets-build-express) - This repo contains chapters which explains how one can build a minimal express library.
 - [davidmerfield/Blot](https://github.com/davidmerfield/Blot) - Turns a folder into a blog
-- [foldmap/superfine](https://github.com/foldmap/superfine) - Absolutely minimal view layer for building web interfaces
+- [joxji/superfine](https://github.com/joxji/superfine) - Absolutely minimal view layer for building web interfaces
 - [elbywan/yett](https://github.com/elbywan/yett) - 🔐A small webpage library to control the execution of (third party) scripts
 - [sonnylazuardi/bibleify-desktop](https://github.com/sonnylazuardi/bibleify-desktop) - 🖥️Simple & fast bible app with dramatized audio built with Electron, React, Rematch & Realm
 - [travelgateX/documentation-site](https://github.com/travelgateX/documentation-site) - This repository contains source for TravelgateX documentation. TravelgateX is a collection of GraphQL APIs for the travel trade.
@@ -5733,7 +5733,6 @@
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [vasilakisfil/Introspected-REST](https://github.com/vasilakisfil/Introspected-REST) - An alternative to REST and GraphQL
-- [basecamp/policies](https://github.com/basecamp/policies) - 37signals policies, terms, and legal. Share them; reuse them; contribute to them.
 - [FAQGURU/FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [react-native-community/discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals) - Discussions and proposal related to the main React Native project
 - [MicrosoftEdge/MSEdge](https://github.com/MicrosoftEdge/MSEdge) - Microsoft Edge
@@ -7276,7 +7275,7 @@
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS.
 - [jontsai/github-streak](https://github.com/jontsai/github-streak) - Artificially keep your GitHub streak going, and going, and going...
-- [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish
+- [joxji/fisher](https://github.com/joxji/fisher) - A plugin manager for Fish
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
 - [grigio/docker-meteor](https://github.com/grigio/docker-meteor) - A small Docker image to run you Meteor apps without surprises
 - [testfairy/command-line-uploader](https://github.com/testfairy/command-line-uploader) - Upload builds to TestFairy via command line
@@ -8105,7 +8104,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [FurlanLuka/microservice-stack](https://github.com/FurlanLuka/microservice-stack) - A suite of tools that aim to help developers create microservice architectures
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [ayakashi-io/ayakashi](https://github.com/ayakashi-io/ayakashi) - :zap: Ayakashi.io - The next generation web scraping framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -8270,6 +8269,7 @@
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc ...
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - OpenReplay is developer-friendly, self-hosted session replay.
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [oslabs-beta/Examin](https://github.com/oslabs-beta/Examin) - Examin is a developer tool that generates React unit tests for your application. Ensure your application renders as expected before adding new features. Examin writes the baseline unit tests and allow
@@ -8955,7 +8955,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [aymaneMx/nuxt-portfolio-dev](https://github.com/aymaneMx/nuxt-portfolio-dev) - ⚡ A portfolio for developers with a blog powered by Notion
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [Idered/iridium](https://github.com/Idered/iridium) - 💎 VS Code extensions
 - [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 - [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
