@@ -11157,7 +11157,6 @@
 - [peakmoney/yodel](https://github.com/peakmoney/yodel) - Lightweight Android and iOS push notification server
 - [tidwall/SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - Fast Websockets in Swift for iOS and OSX
 - [bortuzar/PHP-Mysql---Apple-Push-Notification-Server](https://github.com/bortuzar/PHP-Mysql---Apple-Push-Notification-Server) - A set of classes to create and manage the Apple Push Notifications lifecycle.
-- [fiatjaf/trello-exporter](https://github.com/fiatjaf/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [freddiev4/dailyprogrammerchallenges](https://github.com/freddiev4/dailyprogrammerchallenges) - Bank of challenges & solutions from r/dailyprogrammer for people learning to program
 - [acquia/moonshot](https://github.com/acquia/moonshot) - Moonshot: Because releasing services shouldn't be a moonshot!
 - [krig/eventcontrol](https://github.com/krig/eventcontrol) - EventControl, jQuery timeline control
