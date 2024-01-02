@@ -7287,7 +7287,6 @@
 - [docker-archive/migrator](https://github.com/docker-archive/migrator) - Tool to migrate Docker images from Docker Hub or v1 registry to a v2 registry
 - [grayhemp/pgcookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project
 - [Markbnj/cluster-iperf](https://github.com/Markbnj/cluster-iperf) - A docker image for running iperf in client or server mode on kubernetes and ECS
-- [fiatjaf/trello-exporter](https://github.com/fiatjaf/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [cloudavail/aws-missing-tools](https://github.com/cloudavail/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
