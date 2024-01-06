@@ -2790,6 +2790,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [denoflow/denoflow](https://github.com/denoflow/denoflow) - Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
+- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
@@ -5253,7 +5254,6 @@
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-- [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [bUnit-dev/bUnit](https://github.com/bUnit-dev/bUnit) - bUnit is a testing library for Blazor components that make tests look, feel, and runs like regular unit tests. bUnit makes it easy to render and control a component under test’s life-cycle, pass param
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [eko/monday](https://github.com/eko/monday) - ⚡️ A dev tool for microservice developers to run local applications and/or forward others from/to Kubernetes SSH or TCP
@@ -7051,6 +7051,7 @@
 
 - [Cyanhall/awesome-react](https://github.com/Cyanhall/awesome-react) - Better Awesome React List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 - [Tony133/nestjs-api-boilerplate-jwt](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS v10.x + TypeORM and JWT Auth 😻
+- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
@@ -8559,6 +8560,7 @@
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is an Auth0 alternative designed for modern apps and SaaS products.
 - [Tony133/nestjs-api-boilerplate-jwt](https://github.com/Tony133/nestjs-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with NestJS v10.x + TypeORM and JWT Auth 😻
+- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
 - [Aslemammad/vitext](https://github.com/Aslemammad/vitext) - The Next.js like React framework for better User & Developer experience!
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [nodefluent/kafka-streams](https://github.com/nodefluent/kafka-streams) - equivalent to kafka-streams :octopus: for nodejs :sparkles::turtle::rocket::sparkles:
@@ -9301,7 +9303,7 @@
 - [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite provides the toolkit for composing collaborative editing applications.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building editor(s)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [prisma/ecosystem-tests](https://github.com/prisma/ecosystem-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
@@ -16455,6 +16457,7 @@
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app) - A tool to make interacting with Firestore less painful
+- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [canaanites/await-catcher](https://github.com/canaanites/await-catcher) - Promise wrapper for easy error handling without try-catch 💯🔥
 - [open-draft/until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
