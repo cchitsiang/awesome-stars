@@ -7053,7 +7053,7 @@
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
 - [spree/spree](https://github.com/spree/spree) - Open Source multi-language/multi-currency/multi-store eCommerce platform
 - [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) - The administration framework for Ruby on Rails applications.
-- [activeadmin/demo.activeadmin.info](https://github.com/activeadmin/demo.activeadmin.info) - A store application to use in tutorials for Active Admin
+- [activeadmin/demo.activeadmin.info](https://github.com/activeadmin/demo.activeadmin.info) - A demo application for Active Admin
 - [kiwiupover/open-pos](https://github.com/kiwiupover/open-pos) - A Point of Sale using Ember JS, Ember Data, and Rails as the JSON API
 - [tenex/rails-assets](https://github.com/tenex/rails-assets) - The solution to assets management in Rails
 - [morafabio/vagrant-php-development-box](https://github.com/morafabio/vagrant-php-development-box) - A Vagrant project which aims you to get a feature rich PHP development box.
@@ -7108,7 +7108,7 @@
 - [hopinc/pika](https://github.com/hopinc/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The distributed streaming database engineered to offer the simplest and most cost-efficient way for stream processing and management.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -8001,6 +8001,7 @@
 
 ## TypeScript 
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [AntonioErdeljac/next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
@@ -8029,7 +8030,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - Open source LLM engineering platform. Debug, analyze and iterate together.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
@@ -8063,7 +8064,7 @@
 - [implerhq/impler.io](https://github.com/implerhq/impler.io) - Open source CSV & Excel file import experience. Integrate and release data import experience in few minutes.
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building editor(s)
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 BlockSuite is a framework for building collaborative editors and applications.
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - 🦄 ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [blocknative/web3-onboard](https://github.com/blocknative/web3-onboard) - Client library to onboard users to web3 apps
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
@@ -8381,7 +8382,7 @@
 - [jmcdo29/ogma](https://github.com/jmcdo29/ogma) - A monorepo for the ogma logger and related packages
 - [juicycleff/nestjs-event-store](https://github.com/juicycleff/nestjs-event-store) - NestJS CQRS module for EventStore.org. It requires @nestjs/cqrs
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [trungk18/angular-tetris](https://github.com/trungk18/angular-tetris) - Tetris game built with Angular and Akita 🎮
+- [trungvose/angular-tetris](https://github.com/trungvose/angular-tetris) - Tetris game built with Angular and Akita 🎮
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [iendeavor/form-validation.js](https://github.com/iendeavor/form-validation.js) - The most customizable validation framework for JavaScript.
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
