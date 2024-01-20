@@ -233,7 +233,7 @@
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
 - [loresoft/EntityFrameworkCore.Generator](https://github.com/loresoft/EntityFrameworkCore.Generator) - Generate Entity Framework Core model from an existing database
 - [rjperes/SharedFlat](https://github.com/rjperes/SharedFlat) - SharedFlat is a multitenancy library for .NET Core/.NET Standard.
-- [mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) - Prescriptive Architecture Guidance for Cloud Applications
+- [mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) - Sample implementations for cloud design patterns found in the Azure Architecture Center.
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 - [kimcuhoang/dapr-tye-simple-microservices](https://github.com/kimcuhoang/dapr-tye-simple-microservices) - An example of building .NET Core microservices with Dapr and Tye
@@ -885,7 +885,6 @@
 - [adobe/adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 - [Shopify/shopify.github.com](https://github.com/Shopify/shopify.github.com) - A collection of the open source projects by Shopify
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [DavydeVries/PoGO-Awesome](https://github.com/DavydeVries/PoGO-Awesome) - PoGO-Awesome is similar to Font-Awesome. With this CSS library you can easily show Pokémons or Pokémons shadows.
@@ -1729,7 +1728,6 @@
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks
 - [grammarly/rocker](https://github.com/grammarly/rocker) - Rocker breaks the limits of Dockerfile.
 - [google/codesearch](https://github.com/google/codesearch) - Fast, indexed regexp search over large file trees
-- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [spacemonkeygo/monkit](https://github.com/spacemonkeygo/monkit) - A flexible process data collection, metrics, monitoring, instrumentation, and tracing client library for Go
 - [miolini/httplog](https://github.com/miolini/httplog) - HTTP Logger
 - [harbur/captain](https://github.com/harbur/captain) - Captain - Convert your Git workflow to Docker :whale: containers
@@ -2529,7 +2527,6 @@
 - [TomWithJerry/CoolAndroidAnim](https://github.com/TomWithJerry/CoolAndroidAnim) - CoolAndroidAnim - Android 6.0 Marshmallow Boot Animation.
 - [fzakaria/WaterFlow](https://github.com/fzakaria/WaterFlow) - WaterFlow is a non-magical / easy to understand / JDK8 framework for use with SWF
 - [yulu/crop-image-layout](https://github.com/yulu/crop-image-layout) - image cropping layout
-- [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Some Android learning materials, hoping to help you learn Android development.
 - [xcc3641/SeeWeather](https://github.com/xcc3641/SeeWeather) - :partly_sunny: [@Deprecated]RxJava+RxBus+Retrofit+Glide+Material Design Weather App
 - [Diffey/RxZhihuPager](https://github.com/Diffey/RxZhihuPager) - 知乎日报客户端，Rxjava + Retrofit实践
 - [HujiangTechnology/RestVolley](https://github.com/HujiangTechnology/RestVolley) - A Http request framework based on Volley and OkHttp that supports rest api requesting, image loading, downloading, uploading etc.
@@ -3238,7 +3235,7 @@
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [shystruk/create-react-redux-app-structure](https://github.com/shystruk/create-react-redux-app-structure) - Create React + Redux app structure with build configurations ✨
 - [glennreyes/graphpack](https://github.com/glennreyes/graphpack) - ☄️ A minimalistic zero-config GraphQL server.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [vivatoviva/crm](https://github.com/vivatoviva/crm) - 客户关系管理系统
 - [marmelab/sedy](https://github.com/marmelab/sedy) - A GitHub bot bringing the sed command to code reviews
@@ -3835,7 +3832,7 @@
 - [delight-im/Javadoc-to-Markdown](https://github.com/delight-im/Javadoc-to-Markdown) - [UNMAINTAINED] Generate Markdown from your Javadoc, PHPDoc or JSDoc comments
 - [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf) - This repo isn't maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to headless chrome/puppeteer.
 - [huboard/huboard-web](https://github.com/huboard/huboard-web) - GitHub issues made awesome
-- [jw84/messenger-bot-tutorial](https://github.com/jw84/messenger-bot-tutorial) - Facebook Messenger bot 15 minute tutorial
+- [jellyfang/messenger-bot-tutorial](https://github.com/jellyfang/messenger-bot-tutorial) - Facebook Messenger bot 15 minute tutorial
 - [apex/capture](https://github.com/apex/capture) - Lambda function to capture a URL as PNG, JPG, or GIF using PhantomJS
 - [FredWe/How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way) - Any update requests plz redirect to original ---&gt;
 - [VdoCipher/cloudhopper](https://github.com/VdoCipher/cloudhopper) - Framework for deploying your APIs with AWS Lambda by VdoCipher
@@ -5889,6 +5886,7 @@
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [sqreen/awesome-nodejs-projects](https://github.com/sqreen/awesome-nodejs-projects) - Curated list of awesome open-source applications made with Node.js
 - [mtdvio/going-to-production](https://github.com/mtdvio/going-to-production) - A reference checklist for topics which should be covered before going to production.
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [scazzy/facebook-workplace-app](https://github.com/scazzy/facebook-workplace-app) - Facebook Workplace/Workchat desktop app for Mac and Windows
 - [cqcn1991/Tech-Insight](https://github.com/cqcn1991/Tech-Insight) - Awesome blogs on technology, startup and innovation.
@@ -5941,6 +5939,7 @@
 - [NecronomiconCoding/NecroBot](https://github.com/NecronomiconCoding/NecroBot) - The biggest Pokemon Go Bot in history. Good Bye!
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [agilebits/onepassword-app-extension](https://github.com/agilebits/onepassword-app-extension) - 1Password Extension for iOS Apps
+- [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
 - [francistao/LearningNotes](https://github.com/francistao/LearningNotes) - Enjoy Learning.
 - [linkedin/swift-style-guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide
 - [lambda2/rapis](https://github.com/lambda2/rapis) - A specification proposal for API's
@@ -5952,7 +5951,7 @@
 - [kevindeasis/awesome-ui](https://github.com/kevindeasis/awesome-ui) - An "Awesome" curated list but for design (UI & UX) resources. Contains theory, tutorials, books, libraries, and other resources
 - [membership/membership.db](https://github.com/membership/membership.db) - SQL database schema boilerplate for user accounts, roles and authentication tokens for use in web apps (PostgreSQL, Microsoft SQL Server, Azure SQL Database, LocalDb, SQLite)
 - [timgws/handy-nginx-includes](https://github.com/timgws/handy-nginx-includes) - 'best practice' nginx configuration includes.
-- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java.
+- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide
 - [mesosphere-backup/minuteman](https://github.com/mesosphere-backup/minuteman) - [Deprecated] A distributed Load Balancer
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -6421,7 +6420,7 @@
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
-- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
+- [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench) - [ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
@@ -8007,6 +8006,7 @@
 
 ## TypeScript 
 
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
@@ -8065,7 +8065,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [prisma/prisma-client-extensions](https://github.com/prisma/prisma-client-extensions) - Examples of Prisma Client extensions.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
+- [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
 - [figma/plugin-samples](https://github.com/figma/plugin-samples) - 🔌 Sample Figma plugins.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
@@ -8285,7 +8285,7 @@
 - [id6/id6](https://github.com/id6/id6) - Open source authentication and authorization service, container-native, PassportJS-native, built with React and Node.
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
 - [githubocto/flat-ui](https://github.com/githubocto/flat-ui) - 
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can truly self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can "truly" self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -8559,7 +8559,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [aljazerzen/mongodb-typescript](https://github.com/aljazerzen/mongodb-typescript) - Hydrate MongoDB documents into TypeScript-defined objects
-- [erxes/erxes](https://github.com/erxes/erxes) - The open-source Hubspot alternative enables SaaS providers and digital marketing agencies/developers to create unique experiences for their entire business.
+- [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualitics alternative
 - [microsoft/redux-dynamic-modules](https://github.com/microsoft/redux-dynamic-modules) - Modularize Redux by dynamically loading reducers and middlewares.
 - [dbacked/agent](https://github.com/dbacked/agent) - The best way to backup and restore your database
 - [JoshuaRabiu/spresso-search](https://github.com/JoshuaRabiu/spresso-search) - Visual metasearch engine built with TypeScript, React, Redux & Express
@@ -8571,7 +8571,7 @@
 - [rangle/redux-beacon](https://github.com/rangle/redux-beacon) - Analytics integration for Redux and ngrx/store
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [JetBrains/ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [seanpmaxwell/overnight](https://github.com/seanpmaxwell/overnight) - TypeScript decorators for the ExpressJS Server.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
@@ -8922,7 +8922,7 @@
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
-- [tutao/tutanota](https://github.com/tutao/tutanota) - Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
+- [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
