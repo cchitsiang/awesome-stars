@@ -318,7 +318,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
@@ -377,7 +377,7 @@
 - [raystack/optimus](https://github.com/raystack/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.  
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [fusion-hq/fusion](https://github.com/fusion-hq/fusion) - 🚀 Open-source alternative for Mixpanel - Amplitude - Hotjar - Fullstory✨
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
@@ -974,7 +974,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [unicodeveloper/laravel-hackathon-starter](https://github.com/unicodeveloper/laravel-hackathon-starter) - :computer: :octocat: A hackathon/MVP boilerplate for laravel web applications. Start your hackathons without hassle.
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
@@ -1113,7 +1113,7 @@
 - [neelkadia-zz/WhereAreYou](https://github.com/neelkadia-zz/WhereAreYou) - Real time location tracker using Android App & Firebase with Mapbox
 - [alibaba/macaca](https://github.com/alibaba/macaca) - Automation solution for multi-platform. 多端自动化解决方案
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [google/EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
@@ -1547,7 +1547,7 @@
 - [arvados/arvados](https://github.com/arvados/arvados) - An open source platform for managing and analyzing biomedical big data
 - [oliverlloyd/jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2) - Automates running Apache JMeter on Amazon EC2
 - [artilleryio/chaos-lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda) ☁️ 💥
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [Teevity/ice](https://github.com/Teevity/ice) - AWS Usage Tool
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
@@ -2621,7 +2621,7 @@
 - [heapland/heapland](https://github.com/heapland/heapland) - Universal interface for data services
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
@@ -2631,7 +2631,7 @@
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (July 2023)
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
@@ -2908,7 +2908,7 @@
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [getgort/gort](https://github.com/getgort/gort) - Gort is a chatbot framework designed from the ground up for chatops.
@@ -3686,7 +3686,7 @@
 
 ## finance 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [openfintechio/openfintech](https://github.com/openfintechio/openfintech) - Opensource FinTech standards & payment provider data
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
@@ -4101,7 +4101,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -5771,7 +5771,7 @@
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
 - [celrenheit/lion](https://github.com/celrenheit/lion) - Lion is a fast HTTP router for building modern scalable modular REST APIs in Go
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
@@ -6885,7 +6885,7 @@
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) - :point_up::running: Modern Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
@@ -8556,7 +8556,6 @@
 
 ## nextjs 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
@@ -8732,7 +8731,6 @@
 
 ## nodejs 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
@@ -9406,7 +9404,7 @@
 - [ray-project/ray-llm](https://github.com/ray-project/ray-llm) - RayLLM - LLMs on Ray
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [airbytehq/glossary](https://github.com/airbytehq/glossary) - Data Glossary 🧠: An interactive digital garden for deeper data exploration. Learn through a graph and backlinks, enabling layered knowledge discovery.
 - [temporalio/sdk-typescript](https://github.com/temporalio/sdk-typescript) - Temporal TypeScript SDK
 - [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
@@ -12287,7 +12285,6 @@
 - [huiyan-fe/mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
 - [ygweric/EYTagView](https://github.com/ygweric/EYTagView) - EYTagView is a custome view simulate iOS Evernote's tag editing view.
 - [CooperRS/RMStepsController](https://github.com/CooperRS/RMStepsController) - This is an iOS control for guiding users through a process step-by-step
-- [leibnizli/panda](https://github.com/leibnizli/panda) - A font processing App, Support for macOS and Windows. With which you can manipulate fonts as you like.
 - [lgvalle/android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app) - Example of how to implement an Android TODO App using Facebook Flux Architecture
 - [yankai-victor/RingButton](https://github.com/yankai-victor/RingButton) - 
 - [anshulagarwal2k/GooeyMenu](https://github.com/anshulagarwal2k/GooeyMenu) - Android Fab Button with Gooey effect
@@ -13615,7 +13612,7 @@
 
 ## postgresql 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, and managed Postgres services in public alpha.
@@ -13637,7 +13634,7 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [sabinadams/aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
@@ -14189,7 +14186,6 @@
 
 ## react 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -15090,6 +15086,7 @@
 
 ## ruby 
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [rogerluan/arkana](https://github.com/rogerluan/arkana) - Store your keys and secrets away from your source code. Designed for Android and iOS projects.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, and managed Postgres services in public alpha.
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
@@ -15172,11 +15169,11 @@
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
@@ -15362,7 +15359,7 @@
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [fmeringdal/nettu-meet](https://github.com/fmeringdal/nettu-meet) - Open source video conferencing system for tutors.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
@@ -15444,10 +15441,10 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [Serverless-Devs/Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs) - :fire::fire::fire: Serverless Devs developer tool ( Serverless Devs 开发者工具 )
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [aws-samples/designing-cloud-native-microservices-on-aws](https://github.com/aws-samples/designing-cloud-native-microservices-on-aws) - Introduce a fluent way to design cloud native microservices via EventStorming workshop, this is a hands-on workshop. Contains such topics: DDD, Event storming, Specification by example. Including the 
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [hyperform-dev/hyperform](https://github.com/hyperform-dev/hyperform) - ⚡ Lightweight serverless framework for NodeJS
 - [milliHQ/terraform-aws-next-js](https://github.com/milliHQ/terraform-aws-next-js) - Terraform module for building and deploying Next.js apps to AWS. Supports SSR (Lambda), Static (S3) and API (Lambda) pages.
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
@@ -15527,7 +15524,7 @@
 - [nficano/python-lambda](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in AWS Lambda.
 - [danilop/LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient sol
 - [opencomponents/oc](https://github.com/opencomponents/oc) - OpenComponents, serverless in the front-end world for painless micro-frontends delivery
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
@@ -15669,7 +15666,7 @@
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 - [doug-martin/goqu](https://github.com/doug-martin/goqu) - SQL builder and query library for golang
 - [multiprocessio/datastation](https://github.com/multiprocessio/datastation) - App to easily query, script, and visualize data from every database, file, and API.
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
@@ -16432,7 +16429,7 @@
 - [cuppa-framework/cuppa](https://github.com/cuppa-framework/cuppa) - Cuppa - A testing framework for Java 8+
 - [alibaba/macaca](https://github.com/alibaba/macaca) - Automation solution for multi-platform. 多端自动化解决方案
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
@@ -16478,7 +16475,6 @@
 
 ## typescript 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a set of enterprise document and data collaboration solutions.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
@@ -16812,7 +16808,7 @@
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [typings/typings](https://github.com/typings/typings) - *DEPRECATED* The TypeScript Definition Manager
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [actionhero/actionhero](https://github.com/actionhero/actionhero) - Actionhero is a realtime multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
