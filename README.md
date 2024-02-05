@@ -1014,6 +1014,7 @@
 
 ## Dart 
 
+- [VeryGoodOpenSource/dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) - A fast, minimalistic backend framework for Dart 🎯
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Mosc/Glider](https://github.com/Mosc/Glider) - Glider is an opinionated Hacker News client. Ad-free, open-source, no-nonsense.
 - [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
@@ -1923,6 +1924,7 @@
 
 ## HCL 
 
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [datarevenue-berlin/OpenMLOps](https://github.com/datarevenue-berlin/OpenMLOps) - 
 - [ManagedKube/kubernetes-ops](https://github.com/ManagedKube/kubernetes-ops) - Running Kubernetes in production
 - [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment) - Terraform module to provision an AWS Elastic Beanstalk Environment
@@ -7413,7 +7415,7 @@
 - [inaka/EventSource](https://github.com/inaka/EventSource) - A simple Swift client library for the Server Sent Events (SSE)
 - [jogendra/BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.
 - [nielsmouthaan/ejectify-macos](https://github.com/nielsmouthaan/ejectify-macos) - Ejectify automatically unmounts external volumes when your Mac starts sleeping, and mounts them again after it wakes up.
-- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
+- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly) - 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
