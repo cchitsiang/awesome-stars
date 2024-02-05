@@ -1622,6 +1622,7 @@
 
 ## backend 
 
+- [VeryGoodOpenSource/dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) - A fast, minimalistic backend framework for Dart 🎯
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -2442,6 +2443,7 @@
 
 ## dart 
 
+- [VeryGoodOpenSource/dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) - A fast, minimalistic backend framework for Dart 🎯
 - [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
@@ -5491,7 +5493,6 @@
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [parse-community/parse-server-example](https://github.com/parse-community/parse-server-example) - Example of Parse Server using the express framework.
@@ -5840,7 +5841,7 @@
 - [exyte/fan-menu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw
 - [uptechteam/AirBar](https://github.com/uptechteam/AirBar) - iOS library - UIScrollView driven expandable menu.
 - [jogendra/BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.
-- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - A lightweight and powerful iOS framework for intercepting HTTP/HTTPS Traffic.
+- [ProxymanApp/atlantis](https://github.com/ProxymanApp/atlantis) - Capture HTTP/HTTPS, and Websocket from iOS app without proxy.
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly) - 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
@@ -9323,6 +9324,7 @@
 
 ## others 
 
+- [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [pgspider/dynamodb_fdw](https://github.com/pgspider/dynamodb_fdw) - 
@@ -15389,6 +15391,7 @@
 
 ## server 
 
+- [VeryGoodOpenSource/dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) - A fast, minimalistic backend framework for Dart 🎯
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Open-source solution to deploy, scale, and operate your multiplayer game
 - [ahuangege/mydog](https://github.com/ahuangege/mydog) - typescript编写的分布式游戏服务器框架（a distributed game server framework coded by typescript）
 - [dimatill/graphql-shield](https://github.com/dimatill/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
