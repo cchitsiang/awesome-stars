@@ -1137,6 +1137,7 @@
 
 ## Go 
 
+- [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [prebid/prebid-server](https://github.com/prebid/prebid-server) - Open-source solution for running real-time advertising auctions in the cloud.
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
@@ -2950,6 +2951,7 @@
 
 ## JavaScript 
 
+- [EmmanuelOga/simple-ec2-infra](https://github.com/EmmanuelOga/simple-ec2-infra) - simple-infra
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
@@ -3035,7 +3037,7 @@
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [cloudkj/scar](https://github.com/cloudkj/scar) - Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
-- [brainless/dwata](https://github.com/brainless/dwata) - Desktop app; Connect all your data (databases, Stripe/Shopify/Salesforce, CSV/Excel) - ask questions or get insights with AI. No coding needed. *Under active development*
+- [brainless/dwata](https://github.com/brainless/dwata) - An AI enabled app to get insights from all your business data. Just record your queries and notes about your business and Dwata builds dashboards for you. Get reports, analytics and alerts on importan
 - [jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course) - Starter files, final projects, and FAQ for my Complete JavaScript course
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
@@ -6278,7 +6280,7 @@
 - [deepsadhi/presentation2.0](https://github.com/deepsadhi/presentation2.0) - Presentation2.0 is a Web App that helps you quickly prepare and present presentation simply from Markdown file.
 - [summerblue/laravel5-cheatsheet](https://github.com/summerblue/laravel5-cheatsheet) - A quick reference guide (cheat sheet) for Laravel 5.1 LTS, listing artisan, composer, routes and other useful bits of information.
 - [themsaid/laravel-langman](https://github.com/themsaid/laravel-langman) - Language files manager in your artisan console.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [florianv/swap](https://github.com/florianv/swap) - :currency_exchange: Currency exchange rates library
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 - [etsy/Testing101](https://github.com/etsy/Testing101) - Etsy's educational materials on testing and design
@@ -6482,7 +6484,7 @@
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [retentioneering/retentioneering-tools](https://github.com/retentioneering/retentioneering-tools) - Retentioneering: product analytics, data-driven CJM optimization, marketing analytics, web analytics, transaction analytics, graph visualization, process mining, and behavioral segmentation in Python.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -6950,7 +6952,7 @@
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [giginet/xcprofiler](https://github.com/giginet/xcprofiler) - :chart_with_upwards_trend: CLI to profile compilation time of Swift project
 - [michelson/dante-stories](https://github.com/michelson/dante-stories) - A self hosted Medium platform built with Ruby on Rails
-- [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
+- [octobox/octobox](https://github.com/octobox/octobox) - 📮 Untangle your GitHub Notifications
 - [sinclairtarget/um](https://github.com/sinclairtarget/um) - Create and maintain your own man pages so you can remember how to do stuff
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [estiens/world_cup_json](https://github.com/estiens/world_cup_json) - Rails backend for a scraper that outputs World Cup data as JSON
@@ -7643,7 +7645,7 @@
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [Shopify/FunctionalTableData](https://github.com/Shopify/FunctionalTableData) - Declarative UITableViewDataSource implementation
 - [ustwo/videoplayback-ios](https://github.com/ustwo/videoplayback-ios) - Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress
-- [davedelong/time](https://github.com/davedelong/time) - Building a better date/time library for Swift
+- [davedelong/time](https://github.com/davedelong/time) - Robust and type-safe date and time calculations for Swift
 - [Nirma/UIFontComplete](https://github.com/Nirma/UIFontComplete) - Font management (System & Custom) for iOS and tvOS
 - [tomvanzummeren/TZStackView](https://github.com/tomvanzummeren/TZStackView) - UIStackView replica for iOS 7.x and iOS 8.x
 - [Nirma/Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
@@ -8052,7 +8054,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama application.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [chronark/highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native UI Library for Web & Mobile (Universal Themed & Unstyled Components)
@@ -8215,7 +8217,7 @@
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code and Low-code all-in-one platform to build landing pages, websites, web applications, APIs, automations. An alternative for Wix, Webflow, Zapier, and more
 - [typedorm/typedorm](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
-- [swan-io/react-ux-form](https://github.com/swan-io/react-ux-form) - A simple, fast, and opinionated form library for React & React Native focusing on UX.
+- [swan-io/use-form](https://github.com/swan-io/use-form) - A simple, fast, and opinionated form library for React & React Native focusing on UX.
 - [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [typescript-rtti/typescript-rtti](https://github.com/typescript-rtti/typescript-rtti) - Emits Typescript metadata for use at runtime
