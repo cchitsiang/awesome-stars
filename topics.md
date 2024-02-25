@@ -12345,7 +12345,6 @@
 - [huiyan-fe/mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
 - [ygweric/EYTagView](https://github.com/ygweric/EYTagView) - EYTagView is a custome view simulate iOS Evernote's tag editing view.
 - [CooperRS/RMStepsController](https://github.com/CooperRS/RMStepsController) - This is an iOS control for guiding users through a process step-by-step
-- [leibnizli/panda](https://github.com/leibnizli/panda) - A font processing App, Support for macOS and Windows. With which you can manipulate fonts as you like.
 - [lgvalle/android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app) - Example of how to implement an Android TODO App using Facebook Flux Architecture
 - [yankai-victor/RingButton](https://github.com/yankai-victor/RingButton) - 
 - [anshulagarwal2k/GooeyMenu](https://github.com/anshulagarwal2k/GooeyMenu) - Android Fab Button with Gooey effect
