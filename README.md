@@ -4542,7 +4542,6 @@
 - [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [huiyan-fe/mapv](https://github.com/huiyan-fe/mapv) - a library of geography visualization-地理信息可视化库
-- [leibnizli/panda](https://github.com/leibnizli/panda) - A font processing App, Support for macOS and Windows. With which you can manipulate fonts as you like.
 - [MicrosoftEdge/JSBrowser](https://github.com/MicrosoftEdge/JSBrowser) - :evergreen_tree: A web browser built with JavaScript as a Windows app
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
