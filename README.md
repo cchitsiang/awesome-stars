@@ -327,7 +327,7 @@
 - [aljazsim/validation-framework-for-net](https://github.com/aljazsim/validation-framework-for-net) - Validation framework for .NET Framework
 - [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
 - [zavolokas/Inpainting](https://github.com/zavolokas/Inpainting) - Want to remove something(someone) from a photo as it never was there? This is .NET implementation of content-aware fill. It smartly fills in unwanted or missing areas of photographs.
-- [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
+- [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modulith ecommerce system built on .NET
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studi
 - [aspnet/Benchmarks](https://github.com/aspnet/Benchmarks) - Benchmarks for ASP.NET Core
 - [besley/Slickflow](https://github.com/besley/Slickflow) - .NET Open Source Workflow Engine,  .NET 开源工作流
@@ -647,7 +647,7 @@
 - [thedillonb/CodeFramework](https://github.com/thedillonb/CodeFramework) - A collection of framework classes for the Code mobile applications
 - [qianlifeng/BDDD](https://github.com/qianlifeng/BDDD) - 实践领域驱动的框架
 - [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites
-- [MvvmCross/MvvmCross](https://github.com/MvvmCross/MvvmCross) - The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+- [MvvmCross/MvvmCross](https://github.com/MvvmCross/MvvmCross) - The .NET MVVM framework for cross-platform solutions, including Android, iOS, MacCatalyst, macOS, tvOS, WPF, WinUI
 - [elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 - [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
@@ -749,7 +749,7 @@
 
 ## C++ 
 
-- [janhq/nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI.  OpenAI-compatible API
+- [janhq/nitro](https://github.com/janhq/nitro) - A serious server implementation of LlamaCPP. OpenAI-compatible API, queue, & scaling. Embed a production level, local inference engine in your apps.
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
@@ -1022,7 +1022,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [ente-io/photos-app](https://github.com/ente-io/photos-app) - Mobile apps for Ente Photos, end-to-end encrypted, privacy-focused photo storage app. https://ente.io
+- [ente-io/photos-app](https://github.com/ente-io/photos-app) - 3Mobile apps for Ente Photos, end-to-end encrypted, privacy-focused photo storage app. https://ente.io
 - [dengyin2000/dynamic_widget](https://github.com/dengyin2000/dynamic_widget) - A Backend-Driven UI toolkit, build your dynamic UI with json, and the json format is very similar with flutter widget code.
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [olmps/memo](https://github.com/olmps/memo) - Memo is an open-source, programming-oriented spaced repetition software (SRS) written in Flutter.
@@ -1152,7 +1152,7 @@
 - [nearform/initium-platform](https://github.com/nearform/initium-platform) - A set of Kubernetes add-ons with optimal configuration and test coverage to create a day zero platform for your code
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [kapetacom/portpilot](https://github.com/kapetacom/portpilot) - Forward all your ports
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Windows, Chromebooks, AWS, Google Cloud, Azure, data center, containers, IoT)
+- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
@@ -1274,7 +1274,7 @@
 - [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Golang
 - [streamdal/plumber](https://github.com/streamdal/plumber) - A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [ThreeDotsLabs/event-driven-example](https://github.com/ThreeDotsLabs/event-driven-example) - An example Event-Driven application in Go built with Watermill library.
-- [ciceksepetitech/sqlapi](https://github.com/ciceksepetitech/sqlapi) - SQL API is designed to be able to run queries on databases without any configuration by simple HTTP call.
+- [ciceksepetitech/sqlapi](https://github.com/ciceksepetitech/sqlapi) - The SQL API, designed for effortless execution of queries on databases, requires only a straightforward HTTP call, devoid of any additional configuration.
 - [alexisvisco/kcd](https://github.com/alexisvisco/kcd) - KCD lets you focus on what matters: coding.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -2212,7 +2212,7 @@
 - [didi/DDMQ](https://github.com/didi/DDMQ) - DDMQ is a distributed messaging product with low latency, high throughput and high availability.
 - [luckybilly/Gloading](https://github.com/luckybilly/Gloading) - Show global loading status view in a low coupling way for Android App(超轻量级，深度解耦Android App中全局加载中、加载失败及空数据视图)
 - [yangchong211/YCAppTool](https://github.com/yangchong211/YCAppTool) - 组件化综合案例，组件分层为：基础公共组件，功能组件，业务组件，主工程。每一层组件的建设，很详细的工程案例，很全面的一个组件化实践案例。一个超级综合案例！
-- [li-xiaojun/XPopup](https://github.com/li-xiaojun/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for A
+- [junixapp/XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for A
 - [android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) - android ui调试工具
 - [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
@@ -3204,7 +3204,6 @@
 - [eddiejibson/limitrr](https://github.com/eddiejibson/limitrr) - Light NodeJS rate limiting and response delaying using Redis - including Express middleware.
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [dinubs/coolqlcool](https://github.com/dinubs/coolqlcool) - Nextjs server to query websites with GraphQL
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [didi/mpx](https://github.com/didi/mpx) - Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [vladocar/screenshoteer](https://github.com/vladocar/screenshoteer) - Make website screenshots and mobile emulations from the command line.
@@ -4792,7 +4791,6 @@
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [jbillmann/GarageServer.IO](https://github.com/jbillmann/GarageServer.IO) - A simple, lightweight, HTML multiplayer game server (and client) for Node.js
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
-- [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [marcells/node-build-monitor](https://github.com/marcells/node-build-monitor) - A Build Monitor written in Node.js, which supports several build services and can be easily extended.
 - [nrempel/wrapulous](https://github.com/nrempel/wrapulous) - Wrapulous is a simple link shortening and click tracking API.
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
@@ -6179,6 +6177,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [cjbarber/hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives) - HipChat Alternatives
+- [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [anaisbetts/RxUIBlog](https://github.com/anaisbetts/RxUIBlog) - All of the RxUI blog posts and some tooling to create a PDF / ePub version
@@ -6455,7 +6454,7 @@
 - [ray-project/ray-llm](https://github.com/ray-project/ray-llm) - RayLLM - LLMs on Ray
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
@@ -7091,6 +7090,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -8032,7 +8032,7 @@
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plug
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
@@ -8181,7 +8181,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
@@ -8552,6 +8552,7 @@
 - [microsoft/clarity-js](https://github.com/microsoft/clarity-js) - This library has moved and is now available at
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [flood-io/element](https://github.com/flood-io/element) - 💦Load test your app using real web browsers
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
