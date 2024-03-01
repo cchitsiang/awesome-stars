@@ -1439,7 +1439,7 @@
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [istio/community](https://github.com/istio/community) - Istio governance material.
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [micromdm/micromdm](https://github.com/micromdm/micromdm) - Mobile Device Management server
@@ -4570,7 +4570,7 @@
 - [shyam-habarakada/js-virtual-list-view](https://github.com/shyam-habarakada/js-virtual-list-view) - A HTML component (modeled after UITableView) for rendering very large scrolling lists with high performance.
 - [shama/view-list](https://github.com/shama/view-list) - :scroll: An infinite scrolling list view element built on a virtual DOM.
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
-- [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js, the Browser and the command line / Demo: https://www.docxtemplater.com/demo. #docx #office #generator
+- [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [max-mapper/electron-microscope](https://github.com/max-mapper/electron-microscope) - use electron-microscope to inspect websites and extract data
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
@@ -6708,7 +6708,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework for testing with Selenium, Python, and pytest. Includes a Dashboard, a Recorder for generating tests, Undetected Mode, and more.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Over 100 examples.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -7090,6 +7090,7 @@
 
 ## Rust 
 
+- [ceejbot/mcm-meta-helper](https://github.com/ceejbot/mcm-meta-helper) - Cross-check translations requested by MCM Helper config with those provided by translation files.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -7097,7 +7098,7 @@
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) - A lightweight, opinionated CQRS and event sourcing framework.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance GraphQL platform
+- [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance API Platform
 - [stencila/stencila](https://github.com/stencila/stencila) - Programmable, reproducible, interactive documents
 - [massalabs/massa](https://github.com/massalabs/massa) - The Decentralized and Scaled Blockchain
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
@@ -8054,7 +8055,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Chat Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemi
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [chronark/highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
 - [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native UI Library for Web & Mobile (Universal Themed & Unstyled Components)
@@ -8065,7 +8066,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
