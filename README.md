@@ -1137,6 +1137,7 @@
 
 ## Go 
 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [prebid/prebid-server](https://github.com/prebid/prebid-server) - Open-source solution for running real-time advertising auctions in the cloud.
@@ -6724,7 +6725,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [sahildua2305/ping-check](https://github.com/sahildua2305/ping-check) - An app Indicator that keeps pinging a particular server and shows the ping status in menu bar so that you never have to manually check for ping status.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
@@ -7405,6 +7406,7 @@
 
 ## Swift 
 
+- [wkaisertexas/ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Take color-accurate timelapses of your screens and cameras on MacOS
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [rarfell/dimeApp](https://github.com/rarfell/dimeApp) - Dime is a beautiful expense tracker built with iOS design guidelines in mind.
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
@@ -8029,6 +8031,8 @@
 
 ## TypeScript 
 
+- [vinejs/vine](https://github.com/vinejs/vine) - VineJS is a form data validation library for Node.js
+- [vitalics/ajv-ts](https://github.com/vitalics/ajv-ts) - First-class ajv typescript JSON-schema builder inspired from Zod
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [isaacharrisholt/supawright](https://github.com/isaacharrisholt/supawright) - A Playwright test harness for E2E testing with Supabase
@@ -8705,7 +8709,7 @@
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [deepsweet/start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [Incognito/one-time-secret](https://github.com/Incognito/one-time-secret) - Self-Host secrets on a host that you choose. Minimal requirements. Designed for easy setup.
@@ -9005,6 +9009,7 @@
 
 ## Vue 
 
+- [iiAku/Yhtua](https://github.com/iiAku/Yhtua) - 
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
