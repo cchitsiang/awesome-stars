@@ -2452,6 +2452,7 @@
 
 ## cybersecurity 
 
+- [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated security monitoring platform for servers and endpoints.
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 
 ## dart 
@@ -2912,6 +2913,7 @@
 
 ## devops 
 
+- [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated security monitoring platform for servers and endpoints.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -8410,6 +8412,7 @@
 
 ## monitoring 
 
+- [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated security monitoring platform for servers and endpoints.
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -9419,6 +9422,7 @@
 
 ## others 
 
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [thoas/bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
@@ -15380,6 +15384,7 @@
 
 ## security 
 
+- [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated security monitoring platform for servers and endpoints.
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance API Platform
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera
