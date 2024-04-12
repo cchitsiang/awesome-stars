@@ -139,6 +139,7 @@
 
 ## C 
 
+- [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 - [pgspider/dynamodb_fdw](https://github.com/pgspider/dynamodb_fdw) - 
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
@@ -4015,7 +4016,7 @@
 - [drone/drone-wall](https://github.com/drone/drone-wall) - Dashboard for the Drone CI server
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [feathersjs-ecosystem/feathers-logger](https://github.com/feathersjs-ecosystem/feathers-logger) - A little wrapper for convenient logging in feathers
-- [hiloteam/Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution developed by Alibaba Group
+- [hiloteam/Hilo](https://github.com/hiloteam/Hilo) - A Cross-end HTML5 Game development solution
 - [wmbenedetto/turbine.js](https://github.com/wmbenedetto/turbine.js) - JavaScript Workflow Engine
 - [e2ebridge/bpmn](https://github.com/e2ebridge/bpmn) - BPMN 2.0 execution engine
 - [jnardiello/Pilot53](https://github.com/jnardiello/Pilot53) - AWS Lambda function to automatically name EC2 instances on Route53
@@ -8183,7 +8184,7 @@
 - [GetStream/mml-react](https://github.com/GetStream/mml-react) - Message Markup Language (MML) support for React
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [FurlanLuka/microservice-stack](https://github.com/FurlanLuka/microservice-stack) - A suite of tools that aim to help developers create microservice architectures
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -8625,7 +8626,7 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [aljazerzen/mongodb-typescript](https://github.com/aljazerzen/mongodb-typescript) - Hydrate MongoDB documents into TypeScript-defined objects
-- [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualitics alternative
+- [erxes/erxes](https://github.com/erxes/erxes) - Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualtrics alternative
 - [microsoft/redux-dynamic-modules](https://github.com/microsoft/redux-dynamic-modules) - Modularize Redux by dynamically loading reducers and middlewares.
 - [dbacked/agent](https://github.com/dbacked/agent) - The best way to backup and restore your database
 - [JoshuaRabiu/spresso-search](https://github.com/JoshuaRabiu/spresso-search) - Visual metasearch engine built with TypeScript, React, Redux & Express
