@@ -782,7 +782,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54070, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54205, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622, cata classic = 4.4.0.54027)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -2979,7 +2979,7 @@
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ca1c/envcli](https://github.com/ca1c/envcli) - Populate .env file from javascript variables
@@ -3170,7 +3170,6 @@
 - [fabrix-app/fabrix](https://github.com/fabrix-app/fabrix) - Strongly Typed Modern Web Application Framework for Node.js and Browsers
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [mddanishyusuf/json-apis-with-github](https://github.com/mddanishyusuf/json-apis-with-github) - 🔨 Tool to make Simple and Quick JSON APIs with GitHub.
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [kezhenxu94/mini-github](https://github.com/kezhenxu94/mini-github) - GitHub WeChat Mini Program
 - [wingleung/jira-standup](https://github.com/wingleung/jira-standup) - cli tool to quickly show tickets you're assigned to and its impedements
 - [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) - :bento: Full-Stack solution to quickly build PWA applications with Vue.js and Firebase
@@ -3396,7 +3395,7 @@
 - [jeswin/nsoap-express](https://github.com/jeswin/nsoap-express) - NSOAP router for Express
 - [ianstormtaylor/react-values](https://github.com/ianstormtaylor/react-values) - A set of tiny React components for handling state with render props.
 - [phobal/ivideo](https://github.com/phobal/ivideo) - 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-- [headwindz/n0ruSh.run](https://github.com/headwindz/n0ruSh.run) - My personal blog
+- [headwindz/headwindz.run](https://github.com/headwindz/headwindz.run) - My personal blog
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - [ExodusMovement/shakl](https://github.com/ExodusMovement/shakl) - A utility to create styled components in React Native.
@@ -5620,7 +5619,7 @@
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [aliesbelik/load-testing-toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design.
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version 
 - [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
@@ -8104,7 +8103,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing -- 🍊YC W23 🤖 integrate via Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorato
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
@@ -8560,6 +8559,7 @@
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [nest-cloud/nestcloud](https://github.com/nest-cloud/nestcloud) - A NodeJS micro-service solution, writing by Typescript language and NestJS framework.
 - [node-ts/bus](https://github.com/node-ts/bus) - A typescript based enterprise service bus framework based on enterprise integration patterns
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [amazon-archives/aws-full-stack-template](https://github.com/amazon-archives/aws-full-stack-template) - AWS Full-Stack Template is a full-stack sample web application that creates a simple CRUD (create, read, update, delete) app, and provides the foundational services, components, and plumbing needed to
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [seek-oss/playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
