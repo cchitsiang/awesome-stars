@@ -1867,7 +1867,7 @@
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [bcicen/slackcat](https://github.com/bcicen/slackcat) - CLI utility to post files and command output to slack
-- [micro/micro](https://github.com/micro/micro) - API first development platform
+- [micro/micro](https://github.com/micro/micro) - A Go API development platform
 - [rakyll/gom](https://github.com/rakyll/gom) - A visual interface to work with runtime profiling data for Go
 - [SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown) - [No longer maintained] Apple OS X tool to audit for, and remediate, security configuration settings.
 - [freshcn/go-id-builder](https://github.com/freshcn/go-id-builder) - 这是一个ID生成器，它可以提供通过高效的方式产生连续的唯一的ID值。在分库分表时可以提供非常有用的帮助。
@@ -3337,7 +3337,6 @@
 - [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [developit/workerize](https://github.com/developit/workerize) - 🏗️ Run a module in a Web Worker.
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
-- [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [dotnet-architecture/eShopOnContainersAI](https://github.com/dotnet-architecture/eShopOnContainersAI) - eShopOnContainers with AI, ML and Bots features
 - [GoogleChromeLabs/progressive-tooling](https://github.com/GoogleChromeLabs/progressive-tooling) - A list of community-built, third-party tools that can be used to improve page performance
 - [LernaOpenSource/LernaOpenSource](https://github.com/LernaOpenSource/LernaOpenSource) - MIT Open Source fork of the Lerna project
@@ -3381,7 +3380,7 @@
 - [klaudiosinani/ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do desktop app
 - [kozhevnikov/proxymise](https://github.com/kozhevnikov/proxymise) - Chainable Promise Proxy
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
+- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [supermedium/aframe-super-shooter-kit](https://github.com/supermedium/aframe-super-shooter-kit) - 🔫 A-Frame kit of components for making a simple WebVR shooter minigame.
 - [adnanrahic/lambda-mailer](https://github.com/adnanrahic/lambda-mailer) - Simple module for receiving an email from a contact form on your website.
@@ -7432,6 +7431,7 @@
 
 ## Svelte 
 
+- [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 
 ## Swift 
@@ -8267,7 +8267,7 @@
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code and Low-code all-in-one platform to build landing pages, websites, web applications, APIs, automations. An alternative for Wix, Webflow, Zapier, and more
 - [typedorm/typedorm](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
 - [swan-io/use-form](https://github.com/swan-io/use-form) - A simple, fast, and opinionated form library for React & React Native focusing on UX.
-- [swan-io/boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript
+- [swan-io/boxed](https://github.com/swan-io/boxed) - Essential building-blocks for functional & safe TypeScript code
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [typescript-rtti/typescript-rtti](https://github.com/typescript-rtti/typescript-rtti) - Emits Typescript metadata for use at runtime
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
@@ -8674,6 +8674,7 @@
 - [tsukhu/nxplorerjs-microservice-starter](https://github.com/tsukhu/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
 - [developer239/localized-graphql-koa-typescript](https://github.com/developer239/localized-graphql-koa-typescript) - JavaScript meets server. Objection and GraphQL with support for 🌍  multiple languages.   🐳  and 100 % test coverage included.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [NervJS/taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [alibaba/BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
