@@ -1206,7 +1206,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and User Management for the passkey era. An open source alternative to Auth0 and Clerk.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - An open source Authentication and User Management platform for B2B and B2C.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -6428,6 +6428,7 @@
 
 ## Python 
 
+- [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
@@ -6964,7 +6965,7 @@
 
 ## Ruby 
 
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Hightouch, Census, and RudderStack Alternative
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack. Leading Reverse ETL and Customer Data Platform (CDP) for Data Teams.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [rogerluan/arkana](https://github.com/rogerluan/arkana) - Store your keys and secrets away from your source code. Designed for Android and iOS projects.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
@@ -7159,7 +7160,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL stream processing, analytics, and management. PostgreSQL simplicity, unrivaled performance, and seamless elasticity. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -8115,7 +8116,7 @@
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorato
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. 🍊YC W23
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
