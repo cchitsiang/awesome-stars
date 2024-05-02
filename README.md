@@ -381,10 +381,10 @@
 - [aspnet/JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - [Archived] This repository has been archived
 - [michaelmcdaniel/GuidgenConsole](https://github.com/michaelmcdaniel/GuidgenConsole) - C# Guidgen Console app generates, replaces, finds, and reformats GUIDs from the command line.  Supports clipboard, | (pipes), and lots of formats.
 - [usefulwww/FireWorkflow.Net](https://github.com/usefulwww/FireWorkflow.Net) - FireWorkflow.Net工作流套件的一个分支，包含引擎、设计器等等。这里是GIT版本库。大家可以自由建立分支提交代码，上传错误修复代码。Good Luck!  https://github.com/firesoa/FireWorkflow.Net
-- [xamarin/Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms Official Home
+- [xamarin/Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Xamarin.Forms is no longer supported. Migrate your apps to .NET MAUI.
 - [xamarinhq/app-conference](https://github.com/xamarinhq/app-conference) - Pre-build conference application built with Xamarin
 - [xamarin/xamarin-android](https://github.com/xamarin/xamarin-android) - .NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
-- [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios) - Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS.
+- [xamarin/xamarin-macios](https://github.com/xamarin/xamarin-macios) - .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
 - [gmarland/JSONTransformer](https://github.com/gmarland/JSONTransformer) - A DLL that transforms JSON into new data stuctures
 - [maxpavlov/FlexNet](https://github.com/maxpavlov/FlexNet) - FlexNet is a custom implementation of SenseNet ECM solution by RadaCode LLC.
 - [TargetProcess/Tp.HelpDesk](https://github.com/TargetProcess/Tp.HelpDesk) - 
@@ -783,7 +783,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54358, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54499, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -4684,7 +4684,7 @@
 - [adobe-photoshop/spaces-design](https://github.com/adobe-photoshop/spaces-design) - Adobe Photoshop Design Space
 - [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 - [round/enhance.js](https://github.com/round/enhance.js) - Not maintained. Zoom & dynamically crop images. Based on http://github.com/fat/zoom.js by @fat.
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
+- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [jonathantneal/browserstack-app](https://github.com/jonathantneal/browserstack-app) - BrowserStack client for Windows, Mac, and Linux
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
