@@ -1271,7 +1271,7 @@
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [pirsch-analytics/pirsch](https://github.com/pirsch-analytics/pirsch) - Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [MarvinJWendt/testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework for Go! Assertions, fuzzing, input testing, output capturing, and much more! 🍕
@@ -1305,6 +1305,7 @@
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
 - [kkuchta/scarr](https://github.com/kkuchta/scarr) - An end-to-end tool for S3 + cloudfront static sites
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [go-macaron/macaron](https://github.com/go-macaron/macaron) - Package macaron is a high productive and modular web framework in Go.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [tj/robo](https://github.com/tj/robo) - Simple Go / YAML-based task runner for the team.
@@ -5420,7 +5421,7 @@
 - [Aufree/ESTMusicPlayer](https://github.com/Aufree/ESTMusicPlayer) - An elegant and simple iOS music player.
 - [AugustRush/ARAnimation](https://github.com/AugustRush/ARAnimation) - ARAnimation is an Core Animation library to make you animations easily.
 - [xmartlabs/XLForm](https://github.com/xmartlabs/XLForm) - XLForm is the most flexible and powerful iOS library to create dynamic table-view forms. Fully compatible with Swift & Obj-C.
-- [lzwjava/Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - Xcode plugin to let you jump to GitHub History, Blame, PRs, Issues, Notifications of any GitHub repo with one shortcut.
+- [lzwjava/Reveal-In-GitHub](https://github.com/lzwjava/Reveal-In-GitHub) - An Xcode plugin designed for seamless navigation to key GitHub functionalities within your current repository. With just a click, effortlessly access GitHub History, Blame, Pull Requests, Issues, and 
 - [jefferyleo/f.lux](https://github.com/jefferyleo/f.lux) - flux for iOS
 - [SergioChan/SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) - :clipboard: An iOS native implementation of a Trello Animated Navagation. See more at https://dribbble.com/shots/2114816-Trello-Navigation. iOS上类似trello的导航动效框架实现。
 - [ibireme/YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
@@ -7544,7 +7545,7 @@
 - [sindresorhus/touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac
 - [buzzfeed/mattress](https://github.com/buzzfeed/mattress) - iOS Offline Caching for Web Content
 - [vincent-pradeilles/KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
-- [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
+- [tuist/tuist](https://github.com/tuist/tuist) - A Swifty toolchain to build better Apple apps, faster
 - [saoudrizwan/DynamicJSON](https://github.com/saoudrizwan/DynamicJSON) - Access JSON properties dynamically like JavaScript using Swift 4.2's new @dynamicMemberLookup feature
 - [younatics/MotionBook](https://github.com/younatics/MotionBook) - 📖 Awesome iOS UI/UX Application (Open Source)
 - [avito-tech/Paparazzo](https://github.com/avito-tech/Paparazzo) - Custom iOS camera and photo picker with editing capabilities
@@ -8098,7 +8099,6 @@
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
-- [atomicals/atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
 - [wladpaiva/aibitat](https://github.com/wladpaiva/aibitat) - Multi-Agent Conversation Framework in TypeScript
 - [thewh1teagle/mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -8375,7 +8375,6 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [openkraken/kraken](https://github.com/openkraken/kraken) - A web standards-compliant, high-performance rendering engine based on Flutter.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [soywod/react-pin-field](https://github.com/soywod/react-pin-field) - 📟 React component for entering PIN codes.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
