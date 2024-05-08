@@ -2372,7 +2372,7 @@
 ## css 
 
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - 动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
@@ -2512,7 +2512,7 @@
 - [openfintechio/openfintech](https://github.com/openfintechio/openfintech) - Opensource FinTech standards & payment provider data
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 - [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
@@ -4581,7 +4581,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [mustafaakin/gongular](https://github.com/mustafaakin/gongular) - A different approach to Go web frameworks
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [maciekmm/messenger-platform-go-sdk](https://github.com/maciekmm/messenger-platform-go-sdk) - :envelope: A GO SDK for Facebook's messenger-platform: https://developers.facebook.com/docs/messenger-platform
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -4674,7 +4674,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph) - WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -4958,7 +4958,7 @@
 - [radovskyb/go-packages](https://github.com/radovskyb/go-packages) - A large repository of code and documented examples for Go's standard package library.
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
-- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
 - [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
@@ -4998,6 +4998,7 @@
 - [qor/qor](https://github.com/qor/qor) - QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 - [levigross/grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 
@@ -5238,7 +5239,7 @@
 - [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) - A high-performance GraphQL Platform
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [cofactoryai/textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [figma/plugin-samples](https://github.com/figma/plugin-samples) - 🔌 Sample Figma plugins.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -5705,7 +5706,7 @@
 ## html 
 
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
@@ -6545,7 +6546,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
@@ -7294,6 +7295,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 - [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [esskar/Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions
 - [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
@@ -7406,7 +7408,7 @@
 - [FurlanLuka/microservice-stack](https://github.com/FurlanLuka/microservice-stack) - A suite of tools that aim to help developers create microservice architectures
 - [vanus-labs/vanus](https://github.com/vanus-labs/vanus) - Vanus is a Serverless, event streaming system with processing capabilities.  It easily connects SaaS, Cloud Services, and Databases to help users build next-gen Event-driven Applications.
 - [grucloud/grucloud](https://github.com/grucloud/grucloud) - Generate code and diagrams from cloud infrastructures: AWS, Azure, GCP, Kubernetes
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
 - [furiko-io/furiko](https://github.com/furiko-io/furiko) - Kubernetes cron and batch job platform
 - [dataplane-app/dataplane](https://github.com/dataplane-app/dataplane) - Dataplane is an Airflow inspired unified data platform with additional data mesh and RPA capability to automate, schedule and design data pipelines and workflows. Dataplane is written in Golang with a
@@ -8549,7 +8551,7 @@
 - [bosun-monitor/bosun](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -8969,7 +8971,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [vinejs/vine](https://github.com/vinejs/vine) - VineJS is a form data validation library for Node.js
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
@@ -9769,7 +9771,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [ente-io/photos-app](https://github.com/ente-io/photos-app) - ➡️ Moved to https://github.com/ente-io/ente
-- [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
+- [formancehq/ledger](https://github.com/formancehq/ledger) - A Programmable Core Ledger
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [rlingineni/serverless-rest-api-template](https://github.com/rlingineni/serverless-rest-api-template) - Template to use with serverless framework for Typescript + Koa API with Local Testing
 - [bryntum/siesta](https://github.com/bryntum/siesta) - Stress-free JavaScript/TypeScript testing and benchmarking tool
@@ -14471,7 +14473,7 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -15100,7 +15102,7 @@
 
 ## reactjs 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -16809,7 +16811,7 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [tomoyanakano/shopify-app-template-node-typescript](https://github.com/tomoyanakano/shopify-app-template-node-typescript) - 🧩 Shopify App Template with Typescript
