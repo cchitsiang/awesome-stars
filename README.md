@@ -1207,7 +1207,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
+- [superstreamlabs/memphis](https://github.com/superstreamlabs/memphis) - Memphis.dev is a highly scalable and effortless data streaming platform
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - Open Source Authentication and User Management Platform with Passkey Superpowers.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
@@ -1268,7 +1268,7 @@
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Clivern/Peanut](https://github.com/Clivern/Peanut) - 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines.
-- [formancehq/ledger](https://github.com/formancehq/ledger) - 🏛 A programmable financial ledger to build applications that move money
+- [formancehq/ledger](https://github.com/formancehq/ledger) - A Programmable Core Ledger
 - [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
 - [horahoradev/horahora](https://github.com/horahoradev/horahora) - Multi-user video download manager supporting hundreds of sites
 - [DataHenHQ/till](https://github.com/DataHenHQ/till) - DataHen Till is a companion tool to your existing web scraper that instantly makes it scalable, maintainable, and more unblockable, with minimal code changes on your scraper. Integrates with any scrap
@@ -1768,7 +1768,7 @@
 - [vladaionescu/leveros](https://github.com/vladaionescu/leveros) - Serverless + Microservices = ♥
 - [mefellows/golang-worker-example](https://github.com/mefellows/golang-worker-example) - Example buffered channel + worker example
 - [uber-archive/opentracing-go](https://github.com/uber-archive/opentracing-go) - A general-purpose instrumentation API for distributed tracing systems
-- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+- [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go, originally by @nlopes; Maintainers needed, contact @parsley42
 - [abhiyerra/gameasure](https://github.com/abhiyerra/gameasure) - Google Analytics Measurement Protocol and Tool
 - [pagarme/teleport](https://github.com/pagarme/teleport) - 🍆 Trigger-based Postgres replicator in Go that works without superuser permissions
 - [gavv/httpexpect](https://github.com/gavv/httpexpect) - End-to-end HTTP and REST API testing for Go.
@@ -1921,7 +1921,7 @@
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 - [manishrjain/gocrud](https://github.com/manishrjain/gocrud) - Go framework to simplify CRUD of structured data using Graph operations
 - [levigross/grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [remind101/empire](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [facebookarchive/grace](https://github.com/facebookarchive/grace) - Graceful restart & zero downtime deploy for Go servers.
@@ -8124,7 +8124,7 @@
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [nestjs-shopify/example-nx-app](https://github.com/nestjs-shopify/example-nx-app) - Example monorepo app with @nest-shopify/nest-shopify using NestJS backend and NextJS frontend
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🖌 Webstudio Visual Builder
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
