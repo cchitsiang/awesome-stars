@@ -1085,6 +1085,7 @@
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 - [ollyxar/quicker](https://github.com/ollyxar/quicker) - Fastest way to set up dev environment for your project with Docker
+- [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit) - Collect JS Frameworks, Web components library and Admin Template.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
@@ -1153,7 +1154,7 @@
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
 - [thoas/bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
-- [xhd2015/xgo](https://github.com/xhd2015/xgo) - Extending go with advanced debugging, tracing and mocking functionalities out of box.
+- [xhd2015/xgo](https://github.com/xhd2015/xgo) - Extending go with advanced debugging, tracing and mocking functionalities.
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [ionorg/ion-e2e-test](https://github.com/ionorg/ion-e2e-test) - End-to-end test suite container for ion, ion-app-web (and eventually ion-sfu)
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
@@ -1839,7 +1840,6 @@
 - [vfarcic/docker-flow](https://github.com/vfarcic/docker-flow) - Docker Flow: Walkthrough
 - [achiku/kaonashi](https://github.com/achiku/kaonashi) - Headless local note app with just-enough set of RESTful APIs
 - [agrison/harpoon](https://github.com/agrison/harpoon) - GitHub WebHook server written in Go
-- [aitjcize/Overlord](https://github.com/aitjcize/Overlord) - Overlord is a general purpose device monitoring and proxying framework
 - [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 - [arvados/arvados](https://github.com/arvados/arvados) - An open source platform for managing and analyzing biomedical big data
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
@@ -5633,7 +5633,7 @@
 - [ExpLangcn/NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
@@ -6787,6 +6787,7 @@
 - [alex/letsencrypt-aws](https://github.com/alex/letsencrypt-aws) - 
 - [jhorey/ferry](https://github.com/jhorey/ferry) - Ferry lets you define, run, and deploy big data applications on AWS, OpenStack, and your local machine using Docker
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
+- [aitjcize/Overlord](https://github.com/aitjcize/Overlord) - Overlord is a general purpose device monitoring and proxying framework
 - [amplify-education/asiaq](https://github.com/amplify-education/asiaq) - 
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 - [cr0hn/enteletaor](https://github.com/cr0hn/enteletaor) - Message Queue & Broker Injection tool
@@ -6975,7 +6976,7 @@
 - [collabnix/kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [biocross/unlimit](https://github.com/biocross/unlimit) - Test your iOS app on device bypassing apple's 100 device limit, by automatically switching to your personal team 📲
-- [blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A self hosted music streaming server
+- [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [rhardih/pong](https://github.com/rhardih/pong) - Basic uptime monitoring system, with email alerts and/or push notifications
 - [boltops-tools/ufo](https://github.com/boltops-tools/ufo) - AWS ECS Deployment Tool
 - [wincent/git-cipher](https://github.com/wincent/git-cipher) - 🔐 Tools for storing encrypted content in Git
@@ -7283,7 +7284,6 @@
 - [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [GovTechSG/iOneMySgMap](https://github.com/GovTechSG/iOneMySgMap) - A tile server to serve map tiles for Singapore based off the Singapore Metro Extract
-- [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 - [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [TritonDataCenter/triton](https://github.com/TritonDataCenter/triton) - Triton DataCenter: a cloud management platform with first class support for containers.
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
@@ -8067,12 +8067,12 @@
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Build and Deploy modular landing zones with collie on AWS, Azure & GCP
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
-- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - 
+- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle Desktop empowers you to better create, understand, and deploy YAML manifests with a visual UI that also provides policy validation and cluster insights.
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -8238,7 +8238,7 @@
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [cremich/cdk-bill-bot](https://github.com/cremich/cdk-bill-bot) - The serverless cost optimization bot
-- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build Cloud or Desktop IDE products. https://preview.opensumi.com
+- [opensumi/core](https://github.com/opensumi/core) - 🚀  A framework helps you quickly build AI Native IDE products. https://preview.opensumi.com
 - [fingerprintjs/BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client. MIT license, no usage restrictions.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -8474,7 +8474,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [trungvose/angular-tetris](https://github.com/trungvose/angular-tetris) - Tetris game built with Angular and Akita 🎮
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [iendeavor/form-validation.js](https://github.com/iendeavor/form-validation.js) - The most customizable validation framework for JavaScript.
+- [soc221b/form-validation.js](https://github.com/soc221b/form-validation.js) - The most customizable validation framework for JavaScript.
 - [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [RobertBroersma/beanheads](https://github.com/RobertBroersma/beanheads) - Easily create characters for your projects
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
