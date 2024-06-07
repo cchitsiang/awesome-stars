@@ -1169,7 +1169,7 @@
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [prebid/prebid-server](https://github.com/prebid/prebid-server) - Open-source solution for running real-time advertising auctions in the cloud.
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
@@ -1290,7 +1290,7 @@
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
@@ -2978,6 +2978,7 @@
 - [jfeinstein10/SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thank
 - [exoplatform/platform-public-distributions](https://github.com/exoplatform/platform-public-distributions) - eXo Platform Public Distributions
 - [stevendreamer/openerp_mobile](https://github.com/stevendreamer/openerp_mobile) - 这是 OpenERP 的 android 手机 app. 该项目计划构建一个android本地app，在手机上面完成OpenERP的ERP主要模块的简单查询操作，希望能够对OpenERP在国内的推广有所帮助。
+- [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [xamarin/XobotOS](https://github.com/xamarin/XobotOS) - XobotOS - Android ported to C#
 - [sensepost/reDuh](https://github.com/sensepost/reDuh) - Create a TCP circuit through validly formed HTTP requests
 - [kiegroup/jbpm](https://github.com/kiegroup/jbpm) - a Business Process Management (BPM) Suite
@@ -6239,7 +6240,6 @@
 - [huboard/huboard](https://github.com/huboard/huboard) - Kanban board for github issues
 - [lukechesser/Popular-UIs](https://github.com/lukechesser/Popular-UIs) - 🎨 PSDs of Popular Web UIs reproduced for educational purposes.
 - [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
-- [liferay/liferay-portal](https://github.com/liferay/liferay-portal) - 
 - [SamSaffron/MiniProfiler](https://github.com/SamSaffron/MiniProfiler) - A simple but effective mini-profiler for ASP.NET MVC, ASP.NET and Ruby.
 - [currencybot/open-exchange-rates](https://github.com/currencybot/open-exchange-rates) - Open Exchange Rates API - free / open source hourly-updated currency data for everybody
 - [jsfiddle/jsfiddle-chrome-app](https://github.com/jsfiddle/jsfiddle-chrome-app) - 
