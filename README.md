@@ -274,7 +274,7 @@
 - [rid00z/FreshMvvm](https://github.com/rid00z/FreshMvvm) - FreshMvvm is a super light Mvvm Framework designed specifically for Xamarin.Forms. It's designed to be Easy, Simple and Flexible.
 - [dotnet/spark](https://github.com/dotnet/spark) - .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
 - [dotnetcore/WTM](https://github.com/dotnetcore/WTM) - Use WTM to write .netcore app fast !!!
-- [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
+- [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - A REST API library with better functionality, performance, and scalability than refit
 - [dotnetcore/CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an AOP-based cross platform framework for .NET Standard.
 - [dotnetcore/Util](https://github.com/dotnetcore/Util) - Util是一个.Net平台下的应用框架，旨在提升中小团队的开发能力，由工具类、分层架构基类、Ui组件，配套代码生成模板，权限等组成。
@@ -2203,6 +2203,7 @@
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [linkedin/brooklin](https://github.com/linkedin/brooklin) - An extensible distributed system for reliable nearline data streaming at scale
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
@@ -2477,6 +2478,7 @@
 - [Rogero0o/GifLoadingView](https://github.com/Rogero0o/GifLoadingView) - Some loading GIF .
 - [crosg/Albianj2](https://github.com/crosg/Albianj2) - Albianj是我们设计并开发的一套分布式统一框架。他主要是面向海量数据处理、海 量数据访问、并解决互联网开发中经常会碰到的数据海量增长问题，也一并解决 互联网开发团队中，因开发人员的水平参差不齐而导致的代码质量不可控问题。它主要有简单小巧的IoC，ORM，数据路由，缓存集成，分布式唯一id等等功能。
 - [8tory/SimpleWeibo](https://github.com/8tory/SimpleWeibo) - Simple Weibo SDK
+- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
 - [sunfusheng/StickyHeaderListView](https://github.com/sunfusheng/StickyHeaderListView) - 打造炫酷列表之 StickyHeaderListView：标题渐变、吸附悬浮、筛选分类、动态头部等
 - [sinha-abhishek/NetworkManagedUI](https://github.com/sinha-abhishek/NetworkManagedUI) - Android library which makes it easier to disable and enable UI elements whose action require presence of network connection
 - [rehacktive/waspdb](https://github.com/rehacktive/waspdb) - key/value data storage library for Android, pure java and encrypted
@@ -5997,7 +5999,6 @@
 - [kevindeasis/awesome-ui](https://github.com/kevindeasis/awesome-ui) - An "Awesome" curated list but for design (UI & UX) resources. Contains theory, tutorials, books, libraries, and other resources
 - [membership/membership.db](https://github.com/membership/membership.db) - SQL database schema boilerplate for user accounts, roles and authentication tokens for use in web apps (PostgreSQL, Microsoft SQL Server, Azure SQL Database, LocalDb, SQLite)
 - [timgws/handy-nginx-includes](https://github.com/timgws/handy-nginx-includes) - 'best practice' nginx configuration includes.
-- [aws/aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java 1.x. The AWS SDK for Java 2.x is available here: https://github.com/aws/aws-sdk-java-v2/
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide
 - [mesosphere-backup/minuteman](https://github.com/mesosphere-backup/minuteman) - [Deprecated] A distributed Load Balancer
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -6160,7 +6161,6 @@
 - [evilsocket/bettercap](https://github.com/evilsocket/bettercap) - DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap
 - [JerryLead/SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
 - [Damao/Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E) - Intellij IDEA / PHPStorm / WebStorm Front End Engineer Guide (中文)
-- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [kodecocodes/swift-style-guide](https://github.com/kodecocodes/swift-style-guide) - The official Swift style guide for Kodeco.
 - [mattdesl/graphics-resources](https://github.com/mattdesl/graphics-resources) - :memo: a list of graphic programming resources
 - [bevacqua/css](https://github.com/bevacqua/css) - :art: CSS: The Good Parts
@@ -6417,6 +6417,7 @@
 - [SeriousM/WebDriver.ChromeDriver.win32-nuget](https://github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget) - A .net NuGet package that contains the ChromeDriver.exe
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [asksven/sharepoint2013-dev](https://github.com/asksven/sharepoint2013-dev) - sharepoint2013-dev image automation
+- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [MaxMelcher/ChocolateySharePointPackages](https://github.com/MaxMelcher/ChocolateySharePointPackages) - Chocolatey
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
@@ -8451,7 +8452,6 @@
 - [rafgraph/rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [siriwatknp/mui-treasury](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI
 - [scastiel/showhn-projects](https://github.com/scastiel/showhn-projects) - A webapp to browse projects posted on Show HN.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
