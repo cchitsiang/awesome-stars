@@ -6496,7 +6496,7 @@
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [jackhawks/rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
 - [fvaleye/delta-buddy](https://github.com/fvaleye/delta-buddy) - Introducing Delta-Buddy: Your ultimate Delta Lake companion! 🚀 Streamline your data journey with an AI-powered chatbot. Ask Delta-Buddy anything about your Delta Lake.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
@@ -7142,6 +7142,7 @@
 
 ## Rust 
 
+- [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -7194,7 +7195,7 @@
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [brainless/dwata](https://github.com/brainless/dwata) - AI studio for you and your business. Create assistants, connect databases, APIs (like Stripe) or CSV/Excel files. Use AI to create insights, workflows, action items.
+- [brainless/dwata](https://github.com/brainless/dwata) - General purpose AI Studio. Mix AI models, connect to databases, APIs (like Stripe), CSV/Excel files, even email. Solve daily problems and share your workflows :)
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
