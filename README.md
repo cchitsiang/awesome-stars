@@ -519,6 +519,7 @@
 - [nbehave/NBehave](https://github.com/nbehave/NBehave) - NBehave is a framework for Behaviour-Driven Development
 - [k0stya/Specflow.FluentAutomation](https://github.com/k0stya/Specflow.FluentAutomation) - Specflow and FluentAutmation integration
 - [timschlechter/SpecResults](https://github.com/timschlechter/SpecResults) - Get better feedback from your SpecFlow testsuite
+- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [HangfireIO/Hangfire.Dashboard.Authorization](https://github.com/HangfireIO/Hangfire.Dashboard.Authorization) - Some authorization filters for Hangfire's Dashboard
 - [Danielku15/BetterStartPage](https://github.com/Danielku15/BetterStartPage) - A Visual Studio like start page which replaces the news section by a custom project dashboard.
@@ -4748,7 +4749,7 @@
 - [anthonyshort/deku](https://github.com/anthonyshort/deku) - Render interfaces using pure functions and virtual DOM
 - [zhy0216/OhMyPocket](https://github.com/zhy0216/OhMyPocket) - bookmark your favorit article
 - [aldonline/syncify](https://github.com/aldonline/syncify) - A radically simpler way to deal with asynchronous functions in js ( deprecated. see: www.radioactivejs.org )
-- [ermouth/jQuery.my](https://github.com/ermouth/jQuery.my) - jQuery.my is a plugin that binds form controls with js data structures.
+- [ermouth/jQuery.my](https://github.com/ermouth/jQuery.my) - jQuery.my is a plugin that reactively binds form controls with js data structures.
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [fat/zoom.js](https://github.com/fat/zoom.js) - Medium's Image Zoom for jQuery
 - [aroc/side-comments](https://github.com/aroc/side-comments) - [UNMAINTAINED] An interface component to give your site/app Medium.com style commenting.
@@ -6416,7 +6417,6 @@
 - [SeriousM/WebDriver.ChromeDriver.win32-nuget](https://github.com/SeriousM/WebDriver.ChromeDriver.win32-nuget) - A .net NuGet package that contains the ChromeDriver.exe
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [asksven/sharepoint2013-dev](https://github.com/asksven/sharepoint2013-dev) - sharepoint2013-dev image automation
-- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 - [MaxMelcher/ChocolateySharePointPackages](https://github.com/MaxMelcher/ChocolateySharePointPackages) - Chocolatey
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
 - [pester/Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
