@@ -8102,7 +8102,7 @@
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [meshcloud/collie-cli](https://github.com/meshcloud/collie-cli) - Build and Deploy modular landing zones with collie on AWS, Azure & GCP
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - [metoro-io/statusphere](https://github.com/metoro-io/statusphere) - Batteries included open-source api-first status page aggregator
@@ -8166,7 +8166,7 @@
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [tomoyanakano/shopify-app-template-node-typescript](https://github.com/tomoyanakano/shopify-app-template-node-typescript) - 🧩 Shopify App Template with Typescript
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -8435,7 +8435,7 @@
 - [AlariCode/nestjs-rmq](https://github.com/AlariCode/nestjs-rmq) - A custom library for NestJS microservice. It allows you to use RabbitMQ or AMQP.
 - [revolist/revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible  performance 🔋
 - [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit) - Tail-kit is a free and open source components and templates kit fully coded with Tailwind css 3.0.
-- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [phodal/clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
 - [TeamCodeStream/codestream](https://github.com/TeamCodeStream/codestream) - The Code Collaboration Tool Built for Remote Teams
 - [nestjsx/automapper](https://github.com/nestjsx/automapper) - An Object-Object AutoMapper module for NestJS.
