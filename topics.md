@@ -7699,7 +7699,6 @@
 - [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [DevlessTeam/DV-PHP-CORE](https://github.com/DevlessTeam/DV-PHP-CORE) - Devless is a ready-made back-end for development of web or mobile applications. It is fully open source under the permissive Apache v2 license. This means that you can develop your front end without w
-- [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
 - [awes-io/awes-io](https://github.com/awes-io/awes-io) - Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
 - [slimkit/plus](https://github.com/slimkit/plus) - 💝The Plus (ThinkSNS+) is a powerful, easy-to-develop social system built with Laravel.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
@@ -9884,7 +9883,7 @@
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [ridafkih/schemix](https://github.com/ridafkih/schemix) - Schemix allows you to programmatically create Prisma schemas using TypeScript ⌨️
 - [thoughtworks/metrik](https://github.com/thoughtworks/metrik) - An easy-to-use, cross-platform measurement tool that pulls data out of CD pipelines and analysis the four key metrics for you.
-- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - An extensible JavaScript form builder library that generated form JSON schemas behind the scenes. It features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional logic and form branching.
+- [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -17841,7 +17840,6 @@
 - [dotenx/dotenx](https://github.com/dotenx/dotenx) - No-code and Low-code all-in-one platform to build landing pages, websites, web applications, APIs, automations. An alternative for Wix, Webflow, Zapier, and more
 - [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [uvham521/WebStack-Laravel](https://github.com/uvham521/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
 - [ankythshukla/underexpress](https://github.com/ankythshukla/underexpress) - A free, responsive, ready to use website ui kit, built with bootstrap 4.
 - [xxczaki/fastic](https://github.com/xxczaki/fastic) - 🚀 Fast & Lightweight CLI HTTP server
 - [ironmansoftware/universal-dashboard](https://github.com/ironmansoftware/universal-dashboard) - Build beautiful websites with PowerShell.
