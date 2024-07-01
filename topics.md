@@ -5507,7 +5507,7 @@
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [ing-bank/baker](https://github.com/ing-bank/baker) - Orchestrate microservice-based process flows
-- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 preview-5, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -12475,7 +12475,7 @@
 - [IFTTT/SparkleMotion](https://github.com/IFTTT/SparkleMotion) - A ViewPager animator that animates Views within pages as well as views across pages.
 - [facebookarchive/rebound](https://github.com/facebookarchive/rebound) - A Java library that models spring dynamics and adds real world physics to your app.
 - [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog) - SweetAlert for Android, a beautiful and clever alert dialog
-- [JohnPersano/SuperToasts](https://github.com/JohnPersano/SuperToasts) - A library that extends the Android toast framework.
+- [jmp-12/SuperToasts](https://github.com/jmp-12/SuperToasts) - A library that extends the Android toast framework.
 - [square/assertj-android](https://github.com/square/assertj-android) - A set of AssertJ helpers geared toward testing Android.
 - [RobotiumTech/robotium](https://github.com/RobotiumTech/robotium) - Android UI Testing
 - [jsakamoto/nupkg-selenium-webdriver-chromedriver](https://github.com/jsakamoto/nupkg-selenium-webdriver-chromedriver) - The NuGet package include Selenium Google Chrome Driver files for Win32, macOS, and Linux.
@@ -16744,7 +16744,7 @@
 ## telegram 
 
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
-- [jackhawks/rectg](https://github.com/jackhawks/rectg) - After careful selection, we've picked the best from over 5000 Telegram groups, channels, and bots.
+- [jackhawks/rectg](https://github.com/jackhawks/rectg) - We have meticulously selected the best resources from over 5000 Telegram groups, channels, and bots. All content in this project is sourced from the internet and is intended solely for learning and te
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [lawxls/HackerNews-Alerts-Bot](https://github.com/lawxls/HackerNews-Alerts-Bot) - Telegram bot for all kinds of notifications from Hacker News
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
