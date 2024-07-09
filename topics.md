@@ -349,6 +349,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
@@ -472,7 +473,7 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
-- [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - 
+- [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter.
 - [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) - FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -2207,7 +2208,7 @@
 
 ## computer-science 
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It's just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability & reliability. 👨‍💻 Interview Prep. 👨‍💻
@@ -2533,6 +2534,7 @@
 - [fzyzcjy/flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) - Write and debug tests easily, with full action history, time travel, screenshots, rapid re-execution, video records, interactivity, isolation and more
 - [VeryGoodOpenSource/dart_frog](https://github.com/VeryGoodOpenSource/dart_frog) - A fast, minimalistic backend framework for Dart 🎯
 - [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
@@ -2730,6 +2732,7 @@
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -2922,7 +2925,7 @@
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
 - [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -3839,7 +3842,7 @@
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [remychantenay/Firebucket](https://github.com/remychantenay/Firebucket) - Glimpse into Firebase, with a simple TODO list app built around Dagger, RxJava 2, Clean architecture and of course, Firebase.
@@ -3919,7 +3922,7 @@
 - [simolus3/drift](https://github.com/simolus3/drift) - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter.
 - [justkawal/utility](https://github.com/justkawal/utility) - Utility helps developers to migrate to dart use it more efficiently and easily with wide variety of functionalities.
 - [joanpablo/reactive_forms](https://github.com/joanpablo/reactive_forms) - This is a model-driven approach to handling form inputs and validations, heavily inspired in Angular's Reactive Forms
-- [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - 
+- [abuanwar072/E-commerce-Complete-Flutter-UI](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - The FlutterShop template makes it easier to develop an e-commerce app using Flutter. It includes all the necessary pages to build a shopping app for both Android and iOS using flutter.
 - [yohom/foundation_fluttify](https://github.com/yohom/foundation_fluttify) - Foundation of Fluttify.
 - [Sky24n/flutter_wanandroid](https://github.com/Sky24n/flutter_wanandroid) - 🔥🔥🔥  基于Google Flutter的WanAndroid客户端，支持Android和iOS。包括BLoC、RxDart 、国际化、主题色、启动页、引导页！
 - [huangruiLearn/flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) - Flutter仿微博客户端,  包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
@@ -4692,7 +4695,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [nytimes/gizmo](https://github.com/nytimes/gizmo) - A Microservice Toolkit from The New York Times
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 - [vinta/hal-9000](https://github.com/vinta/hal-9000) - Automatically setup a productive development environment with Ansible on macOS
@@ -5167,7 +5170,6 @@
 - [Urigo/graphql-modules](https://github.com/Urigo/graphql-modules) - Enterprise Grade Tooling For Your GraphQL Server
 - [rohinivsenthil/postcode](https://github.com/rohinivsenthil/postcode) - Visual Studio Code extension to create and test simple and complex HTTP/s requests
 - [chaskiq/chaskiq](https://github.com/chaskiq/chaskiq) - A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp, etc from cience.com
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
 - [nksaraf/magiql](https://github.com/nksaraf/magiql) - 🌐 💫 Simple and powerful GraphQL Client, love child of react-query ❤️ relay
@@ -7528,7 +7530,7 @@
 - [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
 - [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
 - [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
+- [hexops-graveyard/dockerfile](https://github.com/hexops-graveyard/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 - [dgruber/wfl](https://github.com/dgruber/wfl) - A Simple Way of Creating Job Workflows in Go running in Processes, Containers, Tasks, Pods, or Jobs
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [getoutreach/localizer](https://github.com/getoutreach/localizer) - ⛵ A no-frills local development tool for service developers working in Kubernetes
@@ -8997,6 +8999,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -9745,6 +9748,8 @@
 
 ## others 
 
+- [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 - [BinNong/meet-libai](https://github.com/BinNong/meet-libai) - ​ 李白 :bust_in_silhouette: 作为唐代杰出诗人，其诗歌作品在中国文学史上具有重要地位。近年来，随着数字技术和人工智能的快速发展，传统文化普及推广的形式也面临着创新与变革。国内外对于李白诗歌的研究虽已相当深入，但在数字化、智能化普及方面仍存在不足。因此，本项目旨在通过构建李白知识图谱，结合大模型训练出专业的AI智能体，以生成式对话应用的形式，推动李白文化的普及与推广。
@@ -10853,6 +10858,7 @@
 - [Uli-Armbruster/katas-SuperMario](https://github.com/Uli-Armbruster/katas-SuperMario) - Eine von mir selbst ausgedachte Kata um den sagenumwobenen Super Mario
 - [jamesej/lyniconanc](https://github.com/jamesej/lyniconanc) - Lynicon CMS for ASP.Net Core for .Net Standard 2.0/2.1 and .Net 4.6.1/4.6
 - [FaridSafi/react-native-gifted-form](https://github.com/FaridSafi/react-native-gifted-form) - 📝 « One React-Native form component to rule them all »
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0
 - [eibrahim/landing-pages-resources](https://github.com/eibrahim/landing-pages-resources) - Awesome List of Landing Pages and Other Marketing Resources
 - [AlgoryL/Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch) - Read and do projects.
@@ -11194,7 +11200,7 @@
 - [andresinaka/SnapTimer](https://github.com/andresinaka/SnapTimer) - Implementation of Snapchat's stories timer.
 - [thoughtbot/Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift
 - [tristanhimmelman/ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - Simple JSON Object mapping written in Swift
-- [jellyfang/messenger-bot-tutorial](https://github.com/jellyfang/messenger-bot-tutorial) - Facebook Messenger bot 15 minute tutorial
+- [jellyfangs/messenger-bot-tutorial](https://github.com/jellyfangs/messenger-bot-tutorial) - Facebook Messenger bot 15 minute tutorial
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [ionic-team/ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
 - [apex/capture](https://github.com/apex/capture) - Lambda function to capture a URL as PNG, JPG, or GIF using PhantomJS
@@ -14090,7 +14096,7 @@
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads.
@@ -14203,7 +14209,7 @@
 
 ## programming 
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you become good at system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
 - [AuroraEditor/AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Aurora Editor is a IDE built by the community, for the community, and written in Swift for the best native performance and feel for macOS.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
@@ -16357,6 +16363,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
@@ -16857,6 +16864,7 @@
 - [minamijoyo/tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
@@ -16944,7 +16952,6 @@
 - [bleenco/abstruse](https://github.com/bleenco/abstruse) - Abstruse is a free and open-source CI/CD platform that tests your models and code.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [gcapizzi/moka](https://github.com/gcapizzi/moka) - A Go mocking framework.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [grug/data-mocks](https://github.com/grug/data-mocks) - Library to mock local data requests using Fetch or XHR
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [pixielabs/cavy](https://github.com/pixielabs/cavy) - An integration test framework for React Native.
@@ -17157,6 +17164,7 @@
 - [nartc/mapper](https://github.com/nartc/mapper) - 🔥 An Object-Object AutoMapper for TypeScript 🔥
 - [saleor/saleor-dashboard](https://github.com/saleor/saleor-dashboard) - A GraphQL-powered, single-page dashboard application for Saleor.
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [prisma-labs/graphqlgen](https://github.com/prisma-labs/graphqlgen) - ⚙️ Generate type-safe resolvers based upon your GraphQL Schema
 - [rafgraph/rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -17476,6 +17484,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [ly525/luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
