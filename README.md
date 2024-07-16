@@ -1149,6 +1149,7 @@
 
 ## Go 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments.
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
@@ -3688,7 +3689,7 @@
 - [pixielabs/cavy](https://github.com/pixielabs/cavy) - An integration test framework for React Native.
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [Meituan-Dianping/koa-restql](https://github.com/Meituan-Dianping/koa-restql) - Build real RESTful APIs without writing one line of code.
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Unmaintained] Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
 - [ctdio/mocha-puppeteer](https://github.com/ctdio/mocha-puppeteer) - Run your mocha tests in headless chrome using puppeteer
 - [pemrouz/fero](https://github.com/pemrouz/fero) - light, fast, scalable, streaming microservices made easy
 - [marlonbernardes/awesome-berlin](https://github.com/marlonbernardes/awesome-berlin) - 🇩🇪 A guide aiming to help newcomers to have a successful start in Berlin!
@@ -6509,7 +6510,7 @@
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [jackhawks/rectg](https://github.com/jackhawks/rectg) - 我们从5000多个Telegram群组、频道和机器人中精心挑选了最优质的资源。本项目中的所有内容均来自互联网，仅用于学习和技术研究目的。
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [fvaleye/delta-buddy](https://github.com/fvaleye/delta-buddy) - Introducing Delta-Buddy: Your ultimate Delta Lake companion! 🚀 Streamline your data journey with an AI-powered chatbot. Ask Delta-Buddy anything about your Delta Lake.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
@@ -8242,7 +8243,7 @@
 - [SocketSomeone/nestjs-resilience](https://github.com/SocketSomeone/nestjs-resilience) - 🛡️ A module for improving the reliability and fault-tolerance of your NestJS applications
 - [berstend/straightforward](https://github.com/berstend/straightforward) - 🏴 A straightforward forward-proxy written in Node.js.
 - [morintd/prismock](https://github.com/morintd/prismock) - A mock for PrismaClient, dedicated to unit testing.
-- [jeremydaly/dynamodb-toolbox](https://github.com/jeremydaly/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
+- [dynamodb-toolbox/dynamodb-toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) - A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
