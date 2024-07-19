@@ -219,7 +219,7 @@
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
 - [vb-consulting/Norm.net](https://github.com/vb-consulting/Norm.net) - Norm.net is an innovative and high-performance Database Access for  .NET Standard 2.1 and higher
-- [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical and imaginary food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies
+- [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical and imaginary food and groceries delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the lates
 - [bflattened/bflat](https://github.com/bflattened/bflat) - C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -1567,7 +1567,7 @@
 - [myntra/golimit](https://github.com/myntra/golimit) - Golimit is Uber ringpop based distributed and decentralized rate limiter
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [ravern/kubo](https://github.com/ravern/kubo) - Lightweight command-line framework for Go
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [coinbase/odin](https://github.com/coinbase/odin) - Archived: Odin deployer to AWS for 12 Factor applications.
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -2199,7 +2199,7 @@
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [Codecademy/EventHub](https://github.com/Codecademy/EventHub) - An open source event analytics platform
 - [IridiumIdentity/iridium](https://github.com/IridiumIdentity/iridium) - An OIDC provider integrator.  Choose your social providers without needing to write code.
-- [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+- [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [zalando/problem](https://github.com/zalando/problem) - A Java library that implements application/problem+json
@@ -2383,7 +2383,7 @@
 - [pqpo/SmartCropper](https://github.com/pqpo/SmartCropper) - 🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
 - [hangum/TadpoleForDBTools](https://github.com/hangum/TadpoleForDBTools) - 
 - [robolectric/robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Open Source Low-code API development framework Featuring ready-to-go Security and MongoDB API
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 - [GCX-HCI/tray](https://github.com/GCX-HCI/tray) - a SharedPreferences replacement for Android with multiprocess support
 - [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
@@ -2447,7 +2447,7 @@
 - [Kaopiz/KProgressHUD](https://github.com/Kaopiz/KProgressHUD) - An implement of ProgressHUD for Android, similar to MBProgressHUD, SVProgressHUD for iOS.
 - [anton46/WhatsApp-ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style
 - [Malinskiy/android-material-icons](https://github.com/Malinskiy/android-material-icons) - Easy to use material icons for Android
-- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [modelmapper/modelmapper](https://github.com/modelmapper/modelmapper) - Intelligent object mapping
 - [line/armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Ret
@@ -2472,7 +2472,6 @@
 - [AppiumTestDistribution/AppiumTestDistribution](https://github.com/AppiumTestDistribution/AppiumTestDistribution) - A tool for running android and iOS appium tests in parallel across devices... U like it STAR it !
 - [koush/AndroidAsync](https://github.com/koush/AndroidAsync) - Asynchronous socket, http(s) (client+server) and websocket library for android. Based on nio, not threads.
 - [heinrichreimer/material-intro](https://github.com/heinrichreimer/material-intro) - A simple material design app intro with cool animations and a fluent API.
-- [baoyachi/StepView](https://github.com/baoyachi/StepView) - Step by step，just use HorizontalStepView，VerticalStepView. step indicator，flow indicator，timeline，order process，express status
 - [leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.
 - [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [gitskarios/Gitskarios](https://github.com/gitskarios/Gitskarios) - GitHub Android application
@@ -8163,7 +8162,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [chronark/highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
-- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (import from library & copy-paste styles all the way to victory)
+- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 - [Engine-Labs/engine-agents](https://github.com/Engine-Labs/engine-agents) - 
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
@@ -8730,7 +8729,7 @@
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [wilk/microjob](https://github.com/wilk/microjob) - A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [tsukhu/nxplorerjs-microservice-starter](https://github.com/tsukhu/nxplorerjs-microservice-starter) - Node JS , Typescript , Express based reactive microservice starter project for REST and GraphQL APIs
 - [developer239/localized-graphql-koa-typescript](https://github.com/developer239/localized-graphql-koa-typescript) - JavaScript meets server. Objection and GraphQL with support for 🌍  multiple languages.   🐳  and 100 % test coverage included.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
