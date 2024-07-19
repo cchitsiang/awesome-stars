@@ -2796,7 +2796,7 @@
 - [HVF/franchise](https://github.com/HVF/franchise) - 🍟 a notebook sql client. what you get when have a lot of sequels.
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
@@ -3305,7 +3305,7 @@
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
 - [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [turnerlabs/compose-to-batch](https://github.com/turnerlabs/compose-to-batch) - A CLI tool to transform a docker-compose.yml into an AWS Batch job definition
 - [datacol-io/datacol](https://github.com/datacol-io/datacol) - Datacol provides Heroku-like workflow for deploying apps in your cloud account (AWS/GCP)
@@ -3447,7 +3447,7 @@
 - [yanpitangui/dotnet-api-boilerplate](https://github.com/yanpitangui/dotnet-api-boilerplate) - A Dotnet 8.0 WebApi template project. MediatR, Swagger, Mapper, Serilog and more implemented.
 - [meysamhadeli/awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
-- [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical and imaginary food delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies
+- [mehdihadeli/food-delivery-microservices](https://github.com/mehdihadeli/food-delivery-microservices) - 🍔 A practical and imaginary food and groceries delivery microservices, built with .Net 7, MassTransit, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the lates
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET scaffolding tool to help you stop worrying about boilerplate and focus on your business logic 🚀
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
@@ -4085,7 +4085,7 @@
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [lileio/lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go ⚡️
 - [sergiodxa/grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Management Platform
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [teambition/gear](https://github.com/teambition/gear) - A lightweight, composable and high performance web service framework for Go.
@@ -5265,7 +5265,7 @@
 - [sergiodxa/grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
 - [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 - [sheerun/graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL Server schema visualizer
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [anhldbk/graphqly](https://github.com/anhldbk/graphqly) - GraphQL made easy
 - [sorintlab/sircles](https://github.com/sorintlab/sircles) - Enable the Evolutionary representation of your organization structure, roles and people.
 - [daptin/daptin](https://github.com/daptin/daptin) - Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS
@@ -5338,7 +5338,6 @@
 
 ## hacktoberfest 
 
-- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [leancodepl/patrol](https://github.com/leancodepl/patrol) - Flutter-first UI testing framework. Ready for action!
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
@@ -6556,7 +6555,7 @@
 - [rakam-io/rakam-api](https://github.com/rakam-io/rakam-api) - 📈 Collect customer event data from your apps. (Note that this project only includes the API collector, not the visualization platform)
 - [shekhargulati/building-java-web-apps-checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) - ✅ A checklist for building Java + Angular/React web applications in the correct way
 - [robolectric/robolectric](https://github.com/robolectric/robolectric) - Android Unit Testing Framework
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [sockeqwe/mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter / Model-View-Intent library for modern Android apps
 - [johncarl81/parceler](https://github.com/johncarl81/parceler) - :package: Android Parcelables made easy through code generation.
@@ -6863,7 +6862,7 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [faressoft/flowa](https://github.com/faressoft/flowa) - 🔥Service level control flow for Node.js
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [React-Proto/react-proto](https://github.com/React-Proto/react-proto) - :art: React application prototyping tool for developers and designers :building_construction:
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -7329,7 +7328,7 @@
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [ethjs/ethjs](https://github.com/ethjs/ethjs) - A highly optimised, light-weight JS utility for Ethereum.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hs
@@ -7374,7 +7373,7 @@
 - [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [lixiang1994/LEETheme](https://github.com/lixiang1994/LEETheme) - 优雅的主题管理库- 一行代码完成多样式切换
 - [bcicen/jstream](https://github.com/bcicen/jstream) - Streaming JSON parser for Go
 - [TylerBrock/saw](https://github.com/TylerBrock/saw) - Fast, multi-purpose tool for AWS CloudWatch Logs
@@ -8647,7 +8646,7 @@
 - [Madmous/madClones](https://github.com/Madmous/madClones) - A collection of frameworks that I love with a strong focus on clean code, testing, software architecture/design and devops.
 - [emadehsan/thal](https://github.com/emadehsan/thal) - Getting started with Puppeteer and Chrome Headless for Web Scraping
 - [hangum/TadpoleForDBTools](https://github.com/hangum/TadpoleForDBTools) - 
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [e-oj/Fawn](https://github.com/e-oj/Fawn) - Transactions for MongoDB (See the README)
 - [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
 - [EQuimper/nodejs-api-boilerplate](https://github.com/EQuimper/nodejs-api-boilerplate) - A boilerplate for kickstart your nodejs api project with JWT Auth and some new Techs :)
@@ -9532,7 +9531,7 @@
 - [jiangwenyuan/nuster](https://github.com/jiangwenyuan/nuster) - A high performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy
 - [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
 - [bitnine-oss/agensgraph](https://github.com/bitnine-oss/agensgraph) - AgensGraph, a transactional graph database based on PostgreSQL
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [torodb/server](https://github.com/torodb/server) - ToroDB Server is an open source NoSQL database that runs on top of a RDBMS. Compatible with MongoDB protocol and APIs, but with support for native SQL, atomic operations and reliable and durable backe
 - [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
@@ -11182,7 +11181,7 @@
 - [sergdort/RxMarvel](https://github.com/sergdort/RxMarvel) - Playing around marvel public API with RxSwift, Argo, Alamofire
 - [anton46/WhatsApp-ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style
 - [Malinskiy/android-material-icons](https://github.com/Malinskiy/android-material-icons) - Easy to use material icons for Android
-- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [k2xl/downtime_monitor](https://github.com/k2xl/downtime_monitor) - Simple monitor for websites. Add URLs to yaml file. On error will send message to slack channel
 - [modelmapper/modelmapper](https://github.com/modelmapper/modelmapper) - Intelligent object mapping
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
@@ -14705,7 +14704,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
-- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (import from library & copy-paste styles all the way to victory)
+- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -15186,7 +15185,7 @@
 ## react-native 
 
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (import from library & copy-paste styles all the way to victory)
+- [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui) - React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))
 - [Cyanhall/awesome-react](https://github.com/Cyanhall/awesome-react) - Better Awesome React List with 🔥 Stars 🌐 Dependent Packages 📝 Last Commit
 - [functionland/fx-fotos](https://github.com/functionland/fx-fotos) - "Fx Fotos" is an opensource gallery app in react native with the same smoothness and features of Google Photos and Apple Photos. It is backend gnostic and connects to decentralized backends like "box"
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
@@ -15559,7 +15558,7 @@
 - [fbeline/rooster](https://github.com/fbeline/rooster) - Erlang REST framework
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [davellanedam/phalcon-micro-rest-api-skeleton](https://github.com/davellanedam/phalcon-micro-rest-api-skeleton) - This is a basic API REST skeleton written on Phalcon PHP. Great For building an MVP for your frontend app (Vue, react, angular, or anything that can consume an API)
-- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - API development framework for MongoDB
+- [SoftInstigate/restheart](https://github.com/SoftInstigate/restheart) - Rapid API Development with MongoDB
 - [letsvalidate/api](https://github.com/letsvalidate/api) - API that uncovers the technologies used on websites and generates thumbnail from screenshot of website
 - [SeunAdelekan/Kanary](https://github.com/SeunAdelekan/Kanary) - A minimalist web framework for building REST APIs in Kotlin/Java.
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
