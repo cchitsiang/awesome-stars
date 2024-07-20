@@ -782,6 +782,7 @@
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) - Experimental plugins for Flutter for Desktop
+- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [AshampooSystems/boden](https://github.com/AshampooSystems/boden) - Purely native C++ cross-platform GUI framework for Android and iOS development. https://www.boden.io
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -5794,7 +5795,6 @@
 - [react-native-community/discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals) - Discussions and proposal related to the main React Native project
 - [MicrosoftEdge/MSEdge](https://github.com/MicrosoftEdge/MSEdge) - Microsoft Edge
 - [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
-- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [sorrycc/awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 🎉 整理我平时关注的前端库。
 - [GitGuardian/APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices) - Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.
@@ -6448,6 +6448,7 @@
 
 ## Python 
 
+- [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
@@ -8195,7 +8196,7 @@
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [fogbender/b2b-saaskit](https://github.com/fogbender/b2b-saaskit) - B2B SaaS Starter Kit - create a B2B web app: quickly and for free
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [prisma/prisma-client-extensions](https://github.com/prisma/prisma-client-extensions) - Examples of Prisma Client extensions.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
