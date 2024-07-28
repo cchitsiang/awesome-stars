@@ -4450,7 +4450,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) - A Terraform / OpenTofu state migration tool for GitOps
-- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - 🚃 A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture. inspired by csharp MediatR library.
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - 🚃 A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
@@ -4779,7 +4779,7 @@
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [swiftcarrot/queryx](https://github.com/swiftcarrot/queryx) - Schema-first and type-safe ORM for Golang and TypeScript
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - Sonne tanken ☀️🚘
-- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - 🚃 A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture. inspired by csharp MediatR library.
+- [mehdihadeli/Go-MediatR](https://github.com/mehdihadeli/Go-MediatR) - 🚃 A library for handling mediator patterns and simplified CQRS patterns within an event-driven architecture, inspired by csharp MediatR library.
 - [raystack/optimus](https://github.com/raystack/optimus) - Optimus is an easy-to-use, reliable, and performant workflow orchestrator for data transformation, data modeling, pipelines, and data quality management.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -9791,6 +9791,9 @@
 
 ## others 
 
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+- [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) - Enforce the output format (JSON Schema, Regex etc) of a language model
@@ -9801,7 +9804,7 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [tokens-studio/figma-plugin](https://github.com/tokens-studio/figma-plugin) - Official repository of the plugin 'Tokens Studio for Figma' (Figma Tokens)
-- [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
+- [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI+AI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 - [Stability-AI/stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
 - [twilio-labs/paste](https://github.com/twilio-labs/paste) - Paste is a design system for designing and building consistent experiences at Twilio.
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework
