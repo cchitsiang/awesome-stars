@@ -17569,7 +17569,7 @@
 - [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [tuandm/laravue](https://github.com/tuandm/laravue) - Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev
-- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 - [Geek-James/ddBuy](https://github.com/Geek-James/ddBuy) - 🎉Vue全家桶+Vant 搭建大型单页面电商项目.http://ddbuy.7-orange.cn
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
