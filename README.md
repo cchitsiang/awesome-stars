@@ -1217,7 +1217,6 @@
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [vanus-labs/vanus](https://github.com/vanus-labs/vanus) - Vanus is a Serverless, event streaming system with processing capabilities.  It easily connects SaaS, Cloud Services, and Databases to help users build next-gen Event-driven Applications.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [mehdihadeli/go-food-delivery-microservices](https://github.com/mehdihadeli/go-food-delivery-microservices) - 🍕 A practical and imaginary food and grocery delivery microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the late
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -3431,7 +3430,7 @@
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - [ExodusMovement/shakl](https://github.com/ExodusMovement/shakl) - A utility to create styled components in React Native.
-- [yazz/yazz](https://github.com/yazz/yazz) - Self Service Apps Without the IT Department
+- [yazz/visualjavascript](https://github.com/yazz/visualjavascript) - Self Service Apps Without the IT Department
 - [yanxi123-com/weixin-js-sdk](https://github.com/yanxi123-com/weixin-js-sdk) - 微信官方 JS-SDK 的 CommonJS 版本，支持 TypeScript
 - [myvin/quietweather](https://github.com/myvin/quietweather) - :sunny: Develop a weather wechat mini program application in two days - 两天撸一个天气应用微信小程序
 - [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆 World Cup 2018 CLI dashboard: watch matches in your terminal.
@@ -5840,7 +5839,7 @@
 - [KimberlyMunoz/empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - A curated list of resources for building and promoting more compassionate engineering cultures
 - [shekhargulati/nosql-to-rdbms-stories](https://github.com/shekhargulati/nosql-to-rdbms-stories) - This repository contains stories of people moving back to RDBMS from NoSQL datastores
 - [hpyhacking/peatio](https://github.com/hpyhacking/peatio) - An open-source assets exchange.
-- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech
+- [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [BestDingSheng/resources](https://github.com/BestDingSheng/resources) - 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护五个微信群接近3000人，欢迎你的加入！
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services) - A curated list of the best in class SaaS services for developers and business owners.
@@ -6225,7 +6224,7 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
 - [cjbarber/hipchat-alternatives](https://github.com/cjbarber/hipchat-alternatives) - HipChat Alternatives
-- [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - OpenNHP: The Open Source Implementation of NHP Protocol
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [fcambus/nginx-resources](https://github.com/fcambus/nginx-resources) - A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
 - [anaisbetts/RxUIBlog](https://github.com/anaisbetts/RxUIBlog) - All of the RxUI blog posts and some tooling to create a PDF / ePub version
@@ -6611,7 +6610,7 @@
 - [thenetcircle/dino](https://github.com/thenetcircle/dino) - Distributed notifications using websockets
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [lyft/cartography](https://github.com/lyft/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
@@ -8277,6 +8276,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - 🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, low-latency, event-driven durable execution platform.  Supports functions deployed to serverless, servers, or the edge.
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [surveyjs/survey-creator](https://github.com/surveyjs/survey-creator) - Scalable open-source survey software to generate dynamic JSON-driven forms within your JavaScript application. The form builder features a drag-and-drop UI, CSS Theme Editor, and GUI for conditional l
