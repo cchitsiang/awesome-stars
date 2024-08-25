@@ -298,6 +298,7 @@
 
 ## ai 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -329,7 +330,7 @@
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / kno
 - [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter) - Build browser agents for real world tasks
@@ -1932,6 +1933,7 @@
 
 ## chatgpt 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
@@ -2578,6 +2580,7 @@
 
 ## cybersecurity 
 
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated host & network intrusion detection platform. Detects malware from behavioural patterns rather than signatures and enables deeper visibility than legacy tools.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
@@ -2617,7 +2620,7 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [openfintechio/openfintech](https://github.com/openfintechio/openfintech) - Opensource FinTech standards & payment provider data
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
@@ -2769,7 +2772,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
@@ -5611,7 +5614,7 @@
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56288, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56311, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -7267,7 +7270,7 @@
 - [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
 - [720kb/highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-- [hnqlv/minigrid](https://github.com/hnqlv/minigrid) - 📏 Minimal 2kb zero dependency cascading grid layout
+- [hnqso/minigrid](https://github.com/hnqso/minigrid) - 📏 Minimal 2kb zero dependency cascading grid layout
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [kubetail-org/loadjs](https://github.com/kubetail-org/loadjs) - A tiny async loader / dependency manager for modern browsers (899 bytes)
 - [ytiurin/html5tooltipsjs](https://github.com/ytiurin/html5tooltipsjs) - Tooltips with smooth 3D animation
@@ -7990,7 +7993,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56288, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56311, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
@@ -8044,6 +8047,7 @@
 
 ## llm 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
@@ -8188,6 +8192,7 @@
 
 ## machine-learning 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -8685,7 +8690,7 @@
 
 - [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [implerhq/impler.io](https://github.com/implerhq/impler.io) - Powerful CSV & Excel Import experience for SaaS 🚀 Save months building data import experience from scratch 💰
@@ -9146,6 +9151,7 @@
 
 ## nlp 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -9863,6 +9869,7 @@
 
 ## osint 
 
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -9872,8 +9879,9 @@
 
 ## others 
 
+- [instantdb/instant](https://github.com/instantdb/instant) - The realtime client-side database
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Surfer is the world's first personal data scraper.
+- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click
 - [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 - [upleveled/system-setup](https://github.com/upleveled/system-setup) - Set up a PERN development environment on Windows, macOS and Linux
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
@@ -9927,7 +9935,7 @@
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
 - [AndrewGuenther/fck-nat](https://github.com/AndrewGuenther/fck-nat) - Feasible cost konfigurable NAT: An AWS NAT Instance AMI
-- [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+- [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [pgspider/dynamodb_fdw](https://github.com/pgspider/dynamodb_fdw) - DynamoDB Foreign Data Wrapper for PostgreSQL
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
@@ -9997,7 +10005,7 @@
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [prisma/ecosystem-tests](https://github.com/prisma/ecosystem-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [airbytehq/glossary](https://github.com/airbytehq/glossary) - Data Glossary 🧠: An interactive digital garden for deeper data exploration. Learn through a graph and backlinks, enabling layered knowledge discovery.
@@ -10181,7 +10189,7 @@
 - [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 - [hoophq/sequence](https://github.com/hoophq/sequence) - Immutable, scalable, and easy to use ledger service.
 - [fertapric/files](https://github.com/fertapric/files) - A service to upload files to AWS S3, in around 200 LOC of NGINX configuration!
-- [brainless/dwata](https://github.com/brainless/dwata) - AI assistants for everyone
+- [brainless/dwata](https://github.com/brainless/dwata) - AI assisted app for our private data
 - [QuintGao/GKPageScrollView](https://github.com/QuintGao/GKPageScrollView) - iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果
 - [themesberg/volt-bootstrap-5-dashboard](https://github.com/themesberg/volt-bootstrap-5-dashboard) - Free and open source Bootstrap 5 Admin Dashboard Template with vanilla Javascript
 - [schmidyy/Loaf](https://github.com/schmidyy/Loaf) - 🍞 A Swifty Framework for Easy iOS Toasts
@@ -13623,7 +13631,7 @@
 - [google/j2objc](https://github.com/google/j2objc) - A Java to iOS Objective-C translation tool and runtime.
 - [scotthasbrouck/HackerSurf](https://github.com/scotthasbrouck/HackerSurf) - All the hacker jobs in one place.
 - [stirno/FluentAutomation.Repl](https://github.com/stirno/FluentAutomation.Repl) - 
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [serilog/serilog](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events
 - [GitTools/GitLink](https://github.com/GitTools/GitLink) - Making .NET open source accessible!
 - [anaisbetts/ModernHttpClient](https://github.com/anaisbetts/ModernHttpClient) - HttpClient implementations that use platform-native HTTP clients for :rocket:
@@ -14421,6 +14429,7 @@
 
 ## python 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
@@ -14434,7 +14443,7 @@
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -14700,8 +14709,9 @@
 
 ## pytorch 
 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Transform your database into your AI platform! Integrate AI models and machine learning workflows with your database  to implement custom AI applications, without moving your data. Includi
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
@@ -15898,6 +15908,7 @@
 
 ## security 
 
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. 
 - [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated host & network intrusion detection platform. Detects malware from behavioural patterns rather than signatures and enables deeper visibility than legacy tools.
 - [microsoft/Security-101](https://github.com/microsoft/Security-101) - 8 Lessons, Kick-start Your Cybersecurity Learning.
