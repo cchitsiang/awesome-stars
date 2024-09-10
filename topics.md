@@ -300,7 +300,7 @@
 
 ## ai 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
 - [smallcloudai/refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
@@ -723,7 +723,7 @@
 - [laobie/NineGridImageView](https://github.com/laobie/NineGridImageView) - A custom widget for Android, which used for showing grid pictures.
 - [Hitomis/FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) - [暂停维护]好玩的下拉刷新控件，让我们一起来回味童年
 - [lincanbin/Android-Carbon-Forum](https://github.com/lincanbin/Android-Carbon-Forum) - Android Client for Carbon Forum with Material Design.
-- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [klinker24/talon-twitter-holo](https://github.com/klinker24/talon-twitter-holo) - [Deprecated] The Holo version of my popular Android Talon for Twitter app, 100% open-source
 - [hugeterry/coderfun](https://github.com/hugeterry/coderfun) - knowledge&girls,RxJava&Retrofit&DBFlow
@@ -1962,7 +1962,7 @@
 
 ## chatgpt 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
@@ -5597,7 +5597,7 @@
 - [unform/unform](https://github.com/unform/unform) - Performance-focused API for React forms 🚀
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [mddanishyusuf/json-apis-with-github](https://github.com/mddanishyusuf/json-apis-with-github) - 🔨 Tool to make Simple and Quick JSON APIs with GitHub.
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -7495,7 +7495,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [dotnetcore/WebApiClient](https://github.com/dotnetcore/WebApiClient) - A REST API library with better functionality, performance, and scalability than refit
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package to Query over JSON/YAML/XML/CSV Data
+- [thedevsaddam/gojsonq](https://github.com/thedevsaddam/gojsonq) - A simple Go package for querying over JSON, YAML, XML, and CSV data.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
@@ -8095,7 +8095,7 @@
 
 ## llm 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
@@ -8239,7 +8239,7 @@
 
 ## machine-learning 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
@@ -8404,7 +8404,6 @@
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [nikolaeu/numi](https://github.com/nikolaeu/numi) - Beautiful calculator app for macOS, Linux & Windows
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 - [Dimillian/RedditOS](https://github.com/Dimillian/RedditOS) - The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -8969,7 +8968,7 @@
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [flexxnn/sequelize-auto-migrations](https://github.com/flexxnn/sequelize-auto-migrations) - Migration generator && runner for sequelize
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
+- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Strongly typed exceptions for Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
 - [actiontech/dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [dbacked/agent](https://github.com/dbacked/agent) - The best way to backup and restore your database
@@ -9199,7 +9198,7 @@
 
 ## nlp 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -14301,7 +14300,7 @@
 - [notadd/notadd](https://github.com/notadd/notadd) - A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。
 - [flexxnn/sequelize-auto-migrations](https://github.com/flexxnn/sequelize-auto-migrations) - Migration generator && runner for sequelize
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
+- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Strongly typed exceptions for Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
 - [dbacked/agent](https://github.com/dbacked/agent) - The best way to backup and restore your database
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
@@ -14478,7 +14477,7 @@
 
 ## python 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -14759,7 +14758,7 @@
 
 ## pytorch 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, 
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -16463,7 +16462,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
+- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Strongly typed exceptions for Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) - Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit
 - [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
@@ -16499,7 +16498,7 @@
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [flexxnn/sequelize-auto-migrations](https://github.com/flexxnn/sequelize-auto-migrations) - Migration generator && runner for sequelize
 - [yi-jiayu/datamall-sql](https://github.com/yi-jiayu/datamall-sql) - LTA DataMall data in an SQLite database and Elasticsearch
-- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
+- [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Strongly typed exceptions for Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
@@ -16608,7 +16607,6 @@
 - [inaka/EventSource](https://github.com/inaka/EventSource) - A simple Swift client library for the Server Sent Events (SSE)
 - [jogendra/BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.
 - [SebastianBoldt/Jelly](https://github.com/SebastianBoldt/Jelly) - 🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller  transitions and presentations with the focus on a simple and yet flexible API.
-- [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [ruslanskorb/RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks.
 - [wxxsw/GSMessages](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications, in Swift.
 - [vapor/console-kit](https://github.com/vapor/console-kit) - 💻 APIs for creating interactive CLI tools.
