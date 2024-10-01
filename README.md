@@ -315,7 +315,7 @@
 - [fiyazbinhasan/GraphQLCore](https://github.com/fiyazbinhasan/GraphQLCore) - Learn how to implement scalable APIs with GraphQL and ASP.NET Core. Branch wise code with relevant topic for smooth and easy walkthrough.
 - [microsoft/GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine
 - [pnp/PnP-PowerShell](https://github.com/pnp/PnP-PowerShell) - SharePoint PnP PowerShell CmdLets
-- [stride3d/stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
+- [stride3d/stride](https://github.com/stride3d/stride) - Stride (formerly Xenko), a free and open-source cross-platform C# game engine.
 - [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [octokit/octokit.graphql.net](https://github.com/octokit/octokit.graphql.net) - A GitHub GraphQL client library for .NET
 - [danielgerlag/workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
@@ -1115,7 +1115,7 @@
 
 ## Elixir 
 
-- [zoonk/zoonk](https://github.com/zoonk/zoonk) - Platform for creating interactive courses.
+- [zoonk/archived-zoonk](https://github.com/zoonk/archived-zoonk) - Platform for creating interactive courses.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 - [Phineas/pika](https://github.com/Phineas/pika) - 🆔 The friendly, pragmatic and functional ID system
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -6451,7 +6451,7 @@
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks.                            ~Supabase for building AI agents.
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Build AI agents and workflows with a simple API.                       Supabase for AI agents
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
