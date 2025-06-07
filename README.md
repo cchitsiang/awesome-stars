@@ -305,7 +305,7 @@
 - [hardkoded/puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
 - [dotnetcore/FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [Yortw/RSSDP](https://github.com/Yortw/RSSDP) - Really Simple Service Discovery Protocol - a 100% .Net implementation of the SSDP protocol for publishing custom/basic devices, and discovering all device types on a network.
-- [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
+- [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - KurrentDB is a database that's engineered for modern software applications and event-driven architectures. Its event-native design simplifies data modeling and preserves data integrity while the integ
 - [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 - [microsoft/SmartHotel360-Mobile](https://github.com/microsoft/SmartHotel360-Mobile) - SmartHotel360 Mobile
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
@@ -3261,7 +3261,7 @@
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [adieuadieu/serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - 🌐 Run headless Chrome/Chromium on AWS Lambda
-- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
 - [dwyl/learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) - :closed_lock_with_key: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -5203,7 +5203,6 @@
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
-- [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [unional/typescript-blackbook](https://github.com/unional/typescript-blackbook) - The TypeScript Blackbook
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -8471,6 +8470,7 @@
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [hotwired/stimulus](https://github.com/hotwired/stimulus) - A modest JavaScript framework for the HTML you already have
 - [dblens/app](https://github.com/dblens/app) - Database explorer for Mac, Windows & Linux
+- [leerob/next-mdx-blog](https://github.com/leerob/next-mdx-blog) - Next.js + MDX blog template with Tailwind CSS and TypeScript.
 - [next-page-tester/next-page-tester](https://github.com/next-page-tester/next-page-tester) - DEPRECATED - DOM integration testing for Next.js
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
