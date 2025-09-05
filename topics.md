@@ -336,8 +336,8 @@
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Easily self-hostable and works with your infrastructure.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents. Fully Open Source.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
@@ -365,7 +365,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [HyperMink/inferenceable](https://github.com/HyperMink/inferenceable) - Scalable AI Inference Server for CPU and GPU with Node.js | Utilizes llama.cpp and parts of llamafile C/C++ core under the hood.
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -437,7 +437,7 @@
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate inter
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -679,7 +679,7 @@
 - [esafirm/android-conductor-boilerplate](https://github.com/esafirm/android-conductor-boilerplate) - Boilerplate code for ➡️  https://github.com/esafirm/generator-android-conductor
 - [MaksTuev/ferro](https://github.com/MaksTuev/ferro) - Simple and powerful MVP library for Android
 - [macacajs/NoSmoke](https://github.com/macacajs/NoSmoke) - A cross platform UI crawler which scans view trees then generate and execute UI test cases.
-- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
+- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
 - [mayubao/KuaiChuan](https://github.com/mayubao/KuaiChuan) - 仿茄子快传的一款文件传输应用
 - [airbnb/AirMapView](https://github.com/airbnb/AirMapView) - A view abstraction to provide a map user interface with various underlying map providers
 - [huangyanbin/smartTable](https://github.com/huangyanbin/smartTable) - 一款android自动生成表格框架---An Android automatically generated table framework
@@ -847,7 +847,7 @@
 - [HarlonWang/AVLoadingIndicatorView](https://github.com/HarlonWang/AVLoadingIndicatorView) - DEPRECATED
 - [kaelaela/VerticalViewPager](https://github.com/kaelaela/VerticalViewPager) - Vertically ViewPager and vertically transformer for Android.
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [snowdream/awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
 - [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material Design ProgressBar with consistent appearance
 - [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout) - Smooth version of Google Support Design AppBarLayout
@@ -1142,7 +1142,7 @@
 ## artificial-intelligence 
 
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
@@ -1171,7 +1171,6 @@
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [ssusnic/Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird) - Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [Swift-AI/Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -1202,7 +1201,7 @@
 ## automation 
 
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
@@ -2020,7 +2019,7 @@
 
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [bragai/bRAG-langchain](https://github.com/bragai/bRAG-langchain) - Everything you need to know to build your own RAG application
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -2094,7 +2093,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
 - [feramhq/FastLint-Issues](https://github.com/feramhq/FastLint-Issues) - FastLint automatically finds bugs in your code with cutting-edge AI-powered code analysis
 - [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
@@ -2895,6 +2894,7 @@
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -3120,7 +3120,7 @@
 
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
@@ -3210,7 +3210,7 @@
 
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
@@ -3532,7 +3532,7 @@
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
 - [Seedstars/django-react-redux-base](https://github.com/Seedstars/django-react-redux-base) - Seedstars Labs Base Django React Redux Project
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [geex-arts/django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [viewflow/django-material](https://github.com/viewflow/django-material) - Material Design for Django
@@ -3545,6 +3545,7 @@
 
 ## docker 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [metorial/mcp-containers](https://github.com/metorial/mcp-containers) - Metorial MCP Containers - Containerized versions of hundreds of MCP servers 📡 🧠
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -3745,7 +3746,6 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [zuBux/drydock](https://github.com/zuBux/drydock) - drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [vasuadari/docker](https://github.com/vasuadari/docker) - A simple guide to get you started on docker. (Might be outdated but it should still give you a basic overview.)
 - [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
 - [rootdevelop/rpi-aspnetcore](https://github.com/rootdevelop/rpi-aspnetcore) - Raspberry PI docker image for ASP.Net Core
@@ -4434,7 +4434,7 @@
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [goravel/goravel](https://github.com/goravel/goravel) - A full-featured Golang Development Framework.
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
 - [fzyzcjy/flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) - Write and debug tests easily, with full action history, time travel, screenshots, rapid re-execution, video records, interactivity, isolation and more
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -4652,7 +4652,7 @@
 ## game-development 
 
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
@@ -5182,7 +5182,7 @@
 
 ## godot 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 
 ## golang 
 
@@ -5843,6 +5843,7 @@
 - [triggerdotdev/json-infer-types](https://github.com/triggerdotdev/json-infer-types) - Infers the type and format of JSON values
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
@@ -6006,7 +6007,7 @@
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.62876, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63003, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -6681,7 +6682,7 @@
 - [hulab/ClusterKit](https://github.com/hulab/ClusterKit) - An iOS map clustering framework targeting MapKit, Google Maps and Mapbox.
 - [macacajs/NoSmoke](https://github.com/macacajs/NoSmoke) - A cross platform UI crawler which scans view trees then generate and execute UI test cases.
 - [Mybridge/learn-swift](https://github.com/Mybridge/learn-swift) - Learn Swift from Top 45 Articles of 2017
-- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
+- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
 - [etsy/VIPERBuilder](https://github.com/etsy/VIPERBuilder) - Scaffolding for building apps in a clean way with VIPER architecture
 - [bustoutsolutions/siesta](https://github.com/bustoutsolutions/siesta) - The civilized way to write REST API clients for iOS / macOS
 - [bmfe/eros](https://github.com/bmfe/eros) - 📱 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
@@ -6836,7 +6837,7 @@
 - [ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自
 - [CocoaPods/CocoaPods](https://github.com/CocoaPods/CocoaPods) - The Cocoa Dependency Manager.
 - [Boris-Em/BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox) - Tasteful Checkbox for iOS. (Check box)
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [johnlui/Pitaya](https://github.com/johnlui/Pitaya) - 🏇 A Swift HTTP / HTTPS networking library just incidentally execute on machines
 - [sahin/mobileplayer-ios](https://github.com/sahin/mobileplayer-ios) - :iphone: :movie_camera: A powerful and completely customizable media player for iOS
@@ -6970,7 +6971,7 @@
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [hummatli/AndroidAppUpdater](https://github.com/hummatli/AndroidAppUpdater) - :sunny::package::racehorse: An Android library to check new versions(update) of your Android applications on the PlayStore (free, open source, third party).
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [dromara/lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 支持jdk21、jdk17、jdk11、jdk8，ta基于 SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
@@ -7478,7 +7479,7 @@
 - [ExpressGateway/express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-- [matthieu-beteille/redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) - Declarative Side Effects for Redux
+- [mt-bt/redux-data-fx](https://github.com/mt-bt/redux-data-fx) - Declarative Side Effects for Redux
 - [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -8201,7 +8202,6 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [cloud66-oss/habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
@@ -8235,7 +8235,7 @@
 ## laravel 
 
 - [goravel/goravel](https://github.com/goravel/goravel) - A full-featured Golang Development Framework.
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 - [amir9480/vscode-laravel-extra-intellisense](https://github.com/amir9480/vscode-laravel-extra-intellisense) - This extension adds extra autocompletion for laravel projects to VSCode.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -8391,6 +8391,7 @@
 
 ## linux 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
@@ -8431,7 +8432,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.62876, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.0.63003, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [web-pal/chronos-timetracker](https://github.com/web-pal/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
@@ -8520,7 +8521,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
@@ -8604,7 +8605,7 @@
 
 ## low-code 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -8629,7 +8630,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -8773,7 +8774,6 @@
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
@@ -9164,7 +9164,7 @@
 
 ## mongodb 
 
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
@@ -9550,7 +9550,6 @@
 - [PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) - PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [microsoft/CNTK](https://github.com/microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -9561,14 +9560,14 @@
 
 - [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [mehatab/fettle](https://github.com/mehatab/fettle) - Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -9664,7 +9663,7 @@
 ## no-code 
 
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -9777,10 +9776,10 @@
 ## nodejs 
 
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Easily self-hostable and works with your infrastructure.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [Skyscanner/backpack](https://github.com/Skyscanner/backpack) - Backpack Design System for the Web
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
 - [HyperMink/inferenceable](https://github.com/HyperMink/inferenceable) - Scalable AI Inference Server for CPU and GPU with Node.js | Utilizes llama.cpp and parts of llamafile C/C++ core under the hood.
@@ -10372,7 +10371,7 @@
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
@@ -10382,7 +10381,7 @@
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
@@ -10483,7 +10482,7 @@
 - [bytedance/MegaTTS3](https://github.com/bytedance/MegaTTS3) - 
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [NVIDIA/nv-ingest](https://github.com/NVIDIA/nv-ingest) - NeMo Retriever extraction is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contex
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -10670,7 +10669,7 @@
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 - [slicknode/stylemapper](https://github.com/slicknode/stylemapper) - Flexible utility to create styled and type-safe React components
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Modern Authentication—On Your Terms. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Privacy-first authentication and user management for B2C and B2B. Open source alternative to Auth0, Cognito, Clerk, Descope, Stytch.
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [firdaus/awesome-cadence-temporal-workflow](https://github.com/firdaus/awesome-cadence-temporal-workflow) - A curated list of awesome things related to the Cadence and Temporal Workflow Engines
@@ -11311,7 +11310,6 @@
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [tvillarete/apple-music-js](https://github.com/tvillarete/apple-music-js) - A music streaming service built from the ground up using React & Redux
 - [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
-- [yamill/react-native-orientation](https://github.com/yamill/react-native-orientation) - Listen to device orientation changes in react-native and set preferred orientation on screen to screen basis.
 - [zmxv/react-native-sound](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [phynet/iOS-URL-Schemes](https://github.com/phynet/iOS-URL-Schemes) - iOS URL list schemes: This is a github solution from my gist of iOS list for urls schemes https://gist.github.com/phynet/471089a51b8f940f0fb4 a list of different URL Schemes for iOS (Swift 3 and Objc)
 - [WeTransfer/WeTransfer-iOS-CI](https://github.com/WeTransfer/WeTransfer-iOS-CI) - Containing all the shared CI logic for WeTransfer repositories
@@ -14920,6 +14918,7 @@
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -15015,6 +15014,7 @@
 
 ## project-management 
 
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -15295,7 +15295,7 @@
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [paicha/gxgk-wechat-server](https://github.com/paicha/gxgk-wechat-server) - 校园微信公众号，使用 Python、Flask、Redis、MySQL、Celery [DEPRECATED]
@@ -15400,7 +15400,6 @@
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [pqpo/SmartCropper](https://github.com/pqpo/SmartCropper) - 🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 
 ## qt 
 
@@ -15465,7 +15464,7 @@
 ## react 
 
 - [greatfrontend/top-javascript-interview-questions](https://github.com/greatfrontend/top-javascript-interview-questions) - Top JavaScript interview questions and answers for Front End Engineers in 2025
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -15810,7 +15809,7 @@
 - [final-form/react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
 - [Atyantik/react-pwa](https://github.com/Atyantik/react-pwa) - An upgradable boilerplate for Progressive web applications (PWA) with server side rendering, build with SEO in mind and achieving max page speed and optimized user experience.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
-- [matthieu-beteille/redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) - Declarative Side Effects for Redux
+- [mt-bt/redux-data-fx](https://github.com/mt-bt/redux-data-fx) - Declarative Side Effects for Redux
 - [dsuryd/dotNetify-react-template](https://github.com/dsuryd/dotNetify-react-template) - Real-time React SPA template using dotNetify.
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
@@ -15933,7 +15932,7 @@
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [hypeserver/react-date-range](https://github.com/hypeserver/react-date-range) - A React component for choosing dates and date ranges.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -16023,7 +16022,7 @@
 - [prscX/react-native-styled-dialogs](https://github.com/prscX/react-native-styled-dialogs) - React Native: Native Styled Dialogs
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Allows users to get monthly subscription of trendy clothes and accessories.
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
-- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native!
+- [hyochan/react-native-iap](https://github.com/hyochan/react-native-iap) - In App Purchase module for React Native that confirms OpenIAP
 - [callstack/react-native-ios-kit](https://github.com/callstack/react-native-ios-kit) - The missing React Native UI Kit for iOS
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [mariodev12/react-native-netflix](https://github.com/mariodev12/react-native-netflix) - React Native App from my video Course on Youtube
@@ -16098,7 +16097,7 @@
 - [binggg/mrn](https://github.com/binggg/mrn) - Material React Native (MRN) - A Material Design style React Native component library.
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [react-native-share/react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
@@ -16208,7 +16207,7 @@
 - [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [bigardone/phoenix-trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [jrowny/react-absolute-grid](https://github.com/jrowny/react-absolute-grid) - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React.
 
@@ -16262,7 +16261,7 @@
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
 - [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
 - [dvajs/dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
-- [matthieu-beteille/redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) - Declarative Side Effects for Redux
+- [mt-bt/redux-data-fx](https://github.com/mt-bt/redux-data-fx) - Declarative Side Effects for Redux
 - [deadcoder0904/react-native-redux-calculator](https://github.com/deadcoder0904/react-native-redux-calculator) - Sexy Calculator made using React Native & Redux :heart_eyes:
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
 - [jamesplease/redux-resource](https://github.com/jamesplease/redux-resource) - 3kb resource management for Redux
@@ -16485,7 +16484,7 @@
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
@@ -16570,7 +16569,7 @@
 - [getnelson/nelson](https://github.com/getnelson/nelson) - Automated, multi-region container deployment
 - [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
 - [spotify/scio](https://github.com/spotify/scio) - A Scala API for Apache Beam and Google Cloud Dataflow.
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [gatling/gatling](https://github.com/gatling/gatling) - Modern Load Testing as Code
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [PkmX/lcamera](https://github.com/PkmX/lcamera) - A camera app using the new camera2 API in Android Lollipop
@@ -16584,7 +16583,6 @@
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 
 ## security 
@@ -16821,12 +16819,12 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [infinyon/fluvio](https://github.com/infinyon/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [unjs/unpdf](https://github.com/unjs/unpdf) - 📄 PDF extraction and rendering across all JavaScript runtimes
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript
 - [dynamodb-toolbox/dynamodb-toolbox](https://github.com/dynamodb-toolbox/dynamodb-toolbox) - Lightweight and type-safe query builder for DynamoDB and TypeScript
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -16996,7 +16994,7 @@
 
 ## spring 
 
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
@@ -17015,7 +17013,6 @@
 
 - [xuchengsheng/spring-reading](https://github.com/xuchengsheng/spring-reading) - 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
@@ -17032,7 +17029,7 @@
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
 - [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+
 - [dromara/lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 支持jdk21、jdk17、jdk11、jdk8，ta基于 SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
@@ -17627,7 +17624,7 @@
 
 ## symfony 
 
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [eko/docker-symfony](https://github.com/eko/docker-symfony) - Run a Symfony application using Docker & docker-compose
 - [php-pm/php-pm](https://github.com/php-pm/php-pm) - PPM is a process manager, supercharger and load balancer for modern PHP applications.
@@ -17653,7 +17650,7 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
@@ -17757,7 +17754,6 @@
 - [pqpo/SmartCropper](https://github.com/pqpo/SmartCropper) - 🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
-- [PipelineAI/pipeline](https://github.com/PipelineAI/pipeline) - PipelineAI
 - [tensorflow/serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -17801,7 +17797,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [dhruvramani/Terminal-on-FB-Messenger](https://github.com/dhruvramani/Terminal-on-FB-Messenger) - Allows user to take full control of the terminal of their computer through Facebook's messaging service.
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints throug
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -17999,8 +17995,8 @@
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 The open-source alternative to Durable Objects. Easily self-hostable and works with your infrastructure.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
 - [everweij/typescript-result](https://github.com/everweij/typescript-result) - Supercharge your TypeScript error handling with a powerful Result type that transforms chaotic try-catch blocks into elegant, type-safe code.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -18012,10 +18008,10 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
-- [marcj/untitled-code](https://github.com/marcj/untitled-code) - modular TypeScript framework
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular TypeScript framework
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
@@ -18077,7 +18073,7 @@
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [module-federation/core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
+- [frourios/frourio](https://github.com/frourios/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - 🔷🎯 TypeScript DDD Example: Complete project applying Hexagonal Architecture and Domain-Driven Design patterns
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
@@ -18531,7 +18527,7 @@
 
 ## unreal-engine 
 
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
+- [rivet-gg/engine](https://github.com/rivet-gg/engine) - Scale and orchestrate RivetKit
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 
@@ -18618,7 +18614,7 @@
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成-&gt;OnlineCoding-&gt; 代码生成-&gt; 手工MERGE，显著的提高效率
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI低代码平台，助力企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot3，SpringCloud、Mybatis，Ant Design&Vue3、TS+vite！强大代码生成器实现前后端一键生成，无需手写代码! 引领AI低代码开发模式：AI生成→在线编码→代码生成→手工合并，解决Java项目80%重复工作，提升效率，节省成本，兼顾灵活性~
 - [ncform/ncform](https://github.com/ncform/ncform) - 🍻 ncform, a very nice configuration generation way to develop forms ( vue, json-schema, form, generator )
 - [vue-generators/vue-form-generator](https://github.com/vue-generators/vue-form-generator) - :clipboard: A schema-based form generator component for Vue.js
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
@@ -18862,7 +18858,7 @@
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - React + Vue Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components.
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
-- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native ,This project moved to new organization : https://github.com/scalajs-react-interface/sri#sri, new chat ro
+- [chandu0101/sri](https://github.com/chandu0101/sri) - Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [flexxui/flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python
 - [dntzhang/cax](https://github.com/dntzhang/cax) - Canvas 渲染引擎，支持 SVG，兼容了小程序、小游戏和 Web
@@ -19013,6 +19009,7 @@
 
 ## windows 
 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
