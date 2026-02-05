@@ -782,7 +782,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65655, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65727, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1929,7 +1929,7 @@
 - [microsoft/hcsshim](https://github.com/microsoft/hcsshim) - Windows - Host Compute Service Shim
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [divan/gobenchui](https://github.com/divan/gobenchui) - UI for overview of your Golang package benchmarks progress.
 - [bogdanovich/siberite](https://github.com/bogdanovich/siberite) - Siberite is a simple, lightweight, leveldb backed message queue written in Go.
@@ -6722,7 +6722,7 @@
 - [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
 - [klaudiosinani/moviebox](https://github.com/klaudiosinani/moviebox) - Machine learning movie recommending system
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
 - [zalando-stups/stups-gotthard](https://github.com/zalando-stups/stups-gotthard) - Gotthard provides tunneling for PostgreSQL in a STUPS environment
 - [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 - [madhavanmalolan/awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) - Awesome React Native UI components updated weekly
@@ -7594,7 +7594,7 @@
 - [krzysztofzablocki/AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
 - [radianttap/CardPresentationController](https://github.com/radianttap/CardPresentationController) - Custom UIPresentationController which mimics the behavior of Apple Music UI
 - [woshiccm/Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused Swift code.
-- [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
+- [XcodeReleasesOrg/xcinfo](https://github.com/XcodeReleasesOrg/xcinfo) - Install as many Xcodes at once as you can
 - [uptechteam/AirBar](https://github.com/uptechteam/AirBar) - iOS library - UIScrollView driven expandable menu.
 - [inaka/EventSource](https://github.com/inaka/EventSource) - A simple Swift client library for the Server Sent Events (SSE)
 - [jogendra/BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.
@@ -8206,7 +8206,7 @@
 - [run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude) - Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows
 - [better-auth/better-call](https://github.com/better-auth/better-call) - a tiny web framework for typescript
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
-- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Simple Context Storage for Cloud Agents.
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for AI Agents
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
