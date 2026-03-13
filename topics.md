@@ -120,6 +120,7 @@
 - [games](#games)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
+- [gh-extension](#gh-extension)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -376,7 +377,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
 - [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
@@ -402,6 +403,8 @@
 
 ## ai 
 
+- [pantalk/pantalk](https://github.com/pantalk/pantalk) - Give your AI agent a voice on every chat platform.
+- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -467,7 +470,7 @@
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -476,7 +479,7 @@
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
@@ -505,7 +508,7 @@
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
@@ -575,6 +578,8 @@
 
 ## ai-agents 
 
+- [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) - Multi-agent autonomous framework — let your AI work while you sleep 🌙
+- [pantalk/pantalk](https://github.com/pantalk/pantalk) - Give your AI agent a voice on every chat platform.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -597,7 +602,7 @@
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
@@ -735,7 +740,7 @@
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [rogerluan/arkana](https://github.com/rogerluan/arkana) - Use dotenv files for Android and iOS projects.
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - 动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案
@@ -1325,7 +1330,7 @@
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -1379,6 +1384,7 @@
 
 ## automation 
 
+- [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) - Multi-agent autonomous framework — let your AI work while you sleep 🌙
 - [autopkg/autopkg](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -2004,8 +2010,9 @@
 
 ## bash 
 
+- [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) - Multi-agent autonomous framework — let your AI work while you sleep 🌙
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
@@ -2216,7 +2223,6 @@
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [wladpaiva/aibitat](https://github.com/wladpaiva/aibitat) - Multi-Agent Conversation Framework in TypeScript
@@ -2255,7 +2261,6 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -2368,6 +2373,7 @@
 
 ## cli 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [openbootdotdev/openboot](https://github.com/openbootdotdev/openboot) - Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing
 - [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -2838,7 +2844,7 @@
 ## cpp 
 
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
@@ -3440,7 +3446,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3521,7 +3527,7 @@
 ## deno 
 
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [cicadahq/cicada](https://github.com/cicadahq/cicada) - Write CI/CD pipelines using TypeScript
 - [Escape-Technologies/graphman](https://github.com/Escape-Technologies/graphman) - Quikly scaffold a postman collection for a GraphQL API. Compatible with Postman & Insomnia.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
@@ -3825,6 +3831,7 @@
 
 ## discord 
 
+- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 - [discord-net/Discord.Net](https://github.com/discord-net/Discord.Net) - An unofficial .Net wrapper for the Discord API (https://discord.com/)
@@ -3874,7 +3881,7 @@
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [iusztinpaul/hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) - 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -4174,6 +4181,7 @@
 - [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [dotnetcore/SmartCode](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; Build Everything!!!
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.
 - [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 - [EISK/eisk.webapi](https://github.com/EISK/eisk.webapi) - Project based on latest .NET (v6.0) technologies for building scalable web api, along with clean architecture patterns.
@@ -4760,14 +4768,14 @@
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
-- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) - PraisonAI 🦞 - Your 24/7 AI employee team. Automate and solve complex challenges with low-code multi-agent AI that plans, researches, codes, and delivers to Telegram, Discord, and WhatsApp. Handoffs, g
 - [fzyzcjy/flutter_convenient_test](https://github.com/fzyzcjy/flutter_convenient_test) - Write and debug tests easily, with full action history, time travel, screenshots, rapid re-execution, video records, interactivity, isolation and more
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [zhudotexe/kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for tool-calling language models. (NLP-OSS @ EMNLP 2023)
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -4917,6 +4925,7 @@
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [getmeli/meli](https://github.com/getmeli/meli) - Platform for deploying static sites and frontend applications easily. Automatic SSL, deploy previews, reverse proxy, and more.
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
@@ -5046,6 +5055,10 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
+## gh-extension 
+
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
+
 ## gis 
 
 - [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
@@ -5120,6 +5133,7 @@
 
 ## github 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [mineiros-io/terraform-github-repository](https://github.com/mineiros-io/terraform-github-repository) - A Terraform module to manage GitHub Repositories. https://github.com/
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -5210,6 +5224,7 @@
 
 ## go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [openbootdotdev/openboot](https://github.com/openbootdotdev/openboot) - Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing
 - [goravel/framework](https://github.com/goravel/framework) - The full-featured Golang Development Framework source code
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -5228,13 +5243,12 @@
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [siglens/siglens](https://github.com/siglens/siglens) - 100x Efficient Log Management than Splunk :rocket: Reduce your observability cost by 90%
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 - [rwynn/monstache](https://github.com/rwynn/monstache) - a go daemon that syncs MongoDB to Elasticsearch in realtime. you know, for search.
@@ -5534,6 +5548,7 @@
 
 ## golang 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [goravel/framework](https://github.com/goravel/framework) - The full-featured Golang Development Framework source code
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [bootdotdev/curriculum](https://github.com/bootdotdev/curriculum) - An open roadmap for Boot.dev's backend development curriculum
@@ -5558,7 +5573,6 @@
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [pion/turn](https://github.com/pion/turn) - Pion TURN, an API for building TURN clients and servers
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 - [xhd2015/xgo](https://github.com/xhd2015/xgo) - All-in-one go testing library
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
@@ -6379,7 +6393,7 @@
 - [tenancy/tenancy](https://github.com/tenancy/tenancy) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.
 - [tenancy/multi-tenant](https://github.com/tenancy/multi-tenant) - Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66263, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66337, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -6887,7 +6901,7 @@
 - [rogerluan/arkana](https://github.com/rogerluan/arkana) - Use dotenv files for Android and iOS projects.
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [alibaba/GaiaX](https://github.com/alibaba/GaiaX) - 动态模板引擎是一套轻量化、跨平台、高性能的纯原生移动端卡片渲染动态化解决方案
 - [ali-master/pwa-badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps
@@ -7536,7 +7550,7 @@
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -7621,6 +7635,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) - 🎭 Lightweight WebGL & JavaScript library for real-time multi-face detection, tracking and augmented-reality face filters. Supports rotation, mouth-opening and integrates with Three.js, Babylon.js, Can
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js) - A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
@@ -7756,7 +7771,7 @@
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
@@ -8189,7 +8204,7 @@
 
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [Tony133/fastify-api-boilerplate-jwt](https://github.com/Tony133/fastify-api-boilerplate-jwt) - An API Boilerplate to create a ready-to-use REST API in seconds with Fastify + Kysely and JWT Authentication
 - [elringus/bootsharp](https://github.com/elringus/bootsharp) - Use C# in web apps with comfort
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -8669,7 +8684,7 @@
 
 ## learning 
 
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
@@ -8812,7 +8827,7 @@
 - [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downlo
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66263, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66337, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ProspectOne/perfops-cli](https://github.com/ProspectOne/perfops-cli) - A simple command line tool to interact with hundreds of servers around the world.
 - [it-pal-net/chronos-timetracker](https://github.com/it-pal-net/chronos-timetracker) - Desktop client for JIRA. Track time, upload worklogs without a hassle.
@@ -8871,7 +8886,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [campfirein/cipher](https://github.com/campfirein/cipher) - Byterover Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Codex, Claude Code, Windsurf, Cline, Claude Desktop, Gemini CLI, AWS's Kiro, VS Code, Ro
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 - [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS) - Long-term memory for your 24/7 OpenClaw agents across LLMs and platforms.
@@ -8922,7 +8937,7 @@
 - [henomis/lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose is a Go framework for building awesome AI/LLM applications.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
@@ -9080,7 +9095,7 @@
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! Register here 👇🏼
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [UFund-Me/Qbot](https://github.com/UFund-Me/Qbot) - [🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot   ✨ :news: qbot-mini: https://github.com/Charmve/iQuant
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -9357,7 +9372,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -9492,7 +9507,7 @@
 - [campfirein/cipher](https://github.com/campfirein/cipher) - Byterover Cipher is an opensource memory layer specifically designed for coding agents. Compatible with Cursor, Codex, Claude Code, Windsurf, Cline, Claude Desktop, Gemini CLI, AWS's Kiro, VS Code, Ro
 - [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift) - Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. MCP server for any IDE. Offline CLI.
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS) - Long-term memory for your 24/7 OpenClaw agents across LLMs and platforms.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [aws/mcp-proxy-for-aws](https://github.com/aws/mcp-proxy-for-aws) - AWS MCP Proxy Server
@@ -9978,7 +9993,7 @@
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [vkuznecovas/mouthful](https://github.com/vkuznecovas/mouthful) - Mouthful is a self-hosted alternative to Disqus
 - [atulmy/crate](https://github.com/atulmy/crate) - 👕 👖 📦  A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Allows users to get monthly subscription of trendy clothes and accessories.
@@ -10136,7 +10151,7 @@
 - [mehatab/fettle](https://github.com/mehatab/fettle) - Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
@@ -10498,7 +10513,7 @@
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
 - [cedricblondeau/world-cup-2018-cli-dashboard](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard) - ⚽🏆 World Cup 2018 CLI dashboard: watch matches in your terminal.
 - [ParallelTask/dinoloop](https://github.com/ParallelTask/dinoloop) - Rest API framework built on top of expressjs powered by Typescript.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [manrajgrover/football-cli](https://github.com/manrajgrover/football-cli) - ⚽ Command line interface for Hackers who love football
 - [sekwiatkowski/awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape
 - [kyle8998/Vynchronize](https://github.com/kyle8998/Vynchronize) - Watch videos with friends online with the new real time video synchronization platform
@@ -10852,6 +10867,7 @@
 
 ## open-source 
 
+- [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) - Multi-agent autonomous framework — let your AI work while you sleep 🌙
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [eiondb/eion](https://github.com/eiondb/eion) - Shared Memory Storage for Multi-Agent Systems
@@ -10866,7 +10882,7 @@
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
@@ -10954,7 +10970,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [sgasser/pasteguard](https://github.com/sgasser/pasteguard) - AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -11006,7 +11022,6 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - The open source AI engineering platform. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI agents, LLM applications, and ML models while controlling cos
 
@@ -11051,7 +11066,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - High-performance GraphRAG inspired from LightRag written in Rust
 - [saiyam1814/ing-switch](https://github.com/saiyam1814/ing-switch) - Migrate Kubernetes Ingress NGINX to Traefik or Gateway API — CLI + web UI
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store
@@ -11177,6 +11192,7 @@
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) - 
 - [thoas/bokchoy](https://github.com/thoas/bokchoy) - Simple job queues for Go backed by Redis
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [ionorg/ion-e2e-test](https://github.com/ionorg/ion-e2e-test) - End-to-end test suite container for ion, ion-app-web (and eventually ion-sfu)
 - [moonbitlang/core](https://github.com/moonbitlang/core) - MoonBit's Core library
@@ -11953,7 +11969,7 @@
 - [PrototypeZ/SaveState](https://github.com/PrototypeZ/SaveState) - :icecream: Generate 'onSaveInstanceState' and 'onRestoreInstanceState' methods for your application automatically
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for m
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
 - [forcecore/Keras-GAN-Animeface-Character](https://github.com/forcecore/Keras-GAN-Animeface-Character) - GAN example for Keras. Cuz MNIST is too small and there should be something more realistic.
 - [Codigami/CFAlertViewController](https://github.com/Codigami/CFAlertViewController) - It is a highly configurable iOS library which allows easy styling with built in styles as well as extra header and footer views so that you can make extremely unique alerts and action sheets.
 - [lambci/lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
@@ -15269,7 +15285,7 @@
 
 ## penetration-testing 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
@@ -15278,7 +15294,7 @@
 
 ## pentesting 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [hakluke/hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
@@ -15453,7 +15469,7 @@
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
 - [aarondl/sqlboiler](https://github.com/aarondl/sqlboiler) - Generate a Go ORM tailored to your database schema.
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate](https://github.com/the-road-to-graphql/fullstack-apollo-express-postgresql-boilerplate) - 💥 A sophisticated GraphQL with Apollo, Express and PostgreSQL boilerplate project.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -15746,7 +15762,7 @@
 - [CaptainIRS/programmer-lyf-bot](https://github.com/CaptainIRS/programmer-lyf-bot) - Your Daily Dose of Programming Content via IM (ft. GitHub Actions)
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
@@ -16009,7 +16025,7 @@
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! Register here 👇🏼
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -16132,7 +16148,7 @@
 ## raspberry-pi 
 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [orosandrei/Home-Monitoring-Raspberry-Pi-Node](https://github.com/orosandrei/Home-Monitoring-Raspberry-Pi-Node) - Raspberry Pi & Node.js diy Home Monitoring & Intruder Alert system
@@ -16158,13 +16174,13 @@
 - [panoratech/Panora](https://github.com/panoratech/Panora) - Open-Sourcing the integration engine our platform runs on
 - [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -16289,6 +16305,7 @@
 - [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
 - [jeremybarbet/react-native-modalize](https://github.com/jeremybarbet/react-native-modalize) - A highly customizable modal/bottom sheet that loves scrolling content.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -16806,7 +16823,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
@@ -16898,6 +16915,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [reZach/secure-electron-template](https://github.com/reZach/secure-electron-template) - The best way to build Electron apps with security in mind.
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
@@ -17163,11 +17181,11 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [gabotechs/signway](https://github.com/gabotechs/signway) - Bring the power of pre-signed URLs to your apps. Signway is a gateway for redirecting ephimeral signed URLs to the requested API
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -17223,6 +17241,7 @@
 
 - [aullah/quickmenu](https://github.com/aullah/quickmenu) - The new era of mobile navigation for the web, we're out of hamburgers.
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [CreativeIT/material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - Material Angular Admin Template
 - [flatlogic/react-dashboard](https://github.com/flatlogic/react-dashboard) - 🔥React Dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync) 🔥
@@ -17262,7 +17281,7 @@
 ## scikit-learn 
 
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [KartikChugh/Otto](https://github.com/KartikChugh/Otto) - Otto makes machine learning an intuitive, natural language experience. 🏆  Facebook AI Hackathon winner ⭐️ #1 Trending on MadeWithML.com ⭐️ #4 Trending JavaScript Project on GitHub ⭐️ #15 Trending (All
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -17365,7 +17384,7 @@
 
 ## security-tools 
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [bgenev/impulse-xdr](https://github.com/bgenev/impulse-xdr) - Fully automated host & network intrusion detection platform. Detects malware from behavioural patterns rather than signatures and enables deeper visibility than legacy tools.
@@ -17402,7 +17421,7 @@
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -17619,7 +17638,7 @@
 ## shell 
 
 - [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - 🧠 The Copilot that lives in your shell. Type in your thoughts, press ^Z and let the AI do it's magic ✨
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -17781,7 +17800,7 @@
 - [sqorn/sqorn](https://github.com/sqorn/sqorn) - A Javascript library for building SQL queries
 - [Aaronong/SQLitmus](https://github.com/Aaronong/SQLitmus) - A simple and practical tool for SQL data generation and performance testing
 - [dmfay/massive-js](https://github.com/dmfay/massive-js) - A data mapper for Node.js and PostgreSQL.
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [src-d/gitbase](https://github.com/src-d/gitbase) - SQL interface to git repositories, written in Go. https://docs.sourced.tech/gitbase
@@ -17828,7 +17847,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [Tencent/wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [swiftcarrot/queryx](https://github.com/swiftcarrot/queryx) - Schema-first and type-safe ORM for Golang and TypeScript
@@ -17856,7 +17875,7 @@
 - [yi-jiayu/datamall-sql](https://github.com/yi-jiayu/datamall-sql) - LTA DataMall data in an SQLite database and Elasticsearch
 - [Giorgi/EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Strongly typed exceptions for Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [amitshekhariitbhu/Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - A library for debugging android databases and shared preferences - Make Debugging Great Again
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -17897,6 +17916,7 @@
 
 ## storybook 
 
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
 - [pascalduez/react-module-boilerplate](https://github.com/pascalduez/react-module-boilerplate) - Sample React presentational components package.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -17943,7 +17963,7 @@
 
 ## swift 
 
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [bernaferrari/FigmaToCode](https://github.com/bernaferrari/FigmaToCode) - Generate responsive pages and apps on HTML, Tailwind, Flutter and SwiftUI.
 - [rogerluan/arkana](https://github.com/rogerluan/arkana) - Use dotenv files for Android and iOS projects.
@@ -18384,7 +18404,6 @@
 ## telegram 
 
 - [thevxn/dish](https://github.com/thevxn/dish) - A simple, remotely configurable monitoring service.
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
 - [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
 - [paulpierre/RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 - [lawxls/HackerNews-Alerts-Bot](https://github.com/lawxls/HackerNews-Alerts-Bot) - Telegram bot for all kinds of notifications from Hacker News
@@ -18423,7 +18442,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months! Register here 👇🏼
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.
@@ -18456,6 +18475,7 @@
 
 ## terminal 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -18663,6 +18683,7 @@
 
 ## tui 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [openbootdotdev/openboot](https://github.com/openbootdotdev/openboot) - Set up your Mac dev environment in one command — CLI + Web Dashboard + Team sharing
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
@@ -18698,6 +18719,7 @@
 
 ## typescript 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -18735,7 +18757,7 @@
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
@@ -18898,6 +18920,7 @@
 - [karanpratapsingh/fullstack-starterkit](https://github.com/karanpratapsingh/fullstack-starterkit) - GraphQL first full-stack starter kit with Node, React. Powered by TypeScript
 - [trungvose/angular-tetris](https://github.com/trungvose/angular-tetris) - Tetris game built with Angular and Akita 🎮
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
+- [TowhidKashem/snapchat-clone](https://github.com/TowhidKashem/snapchat-clone) - 👻 A Snapchat clone built with React and Redux. Written in Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [odavid/typeorm-transactional-cls-hooked](https://github.com/odavid/typeorm-transactional-cls-hooked) - A Transactional Method Decorator for typeorm that uses cls-hooked to handle and propagate transactions between different repositories and service methods. Inpired by Spring Trasnactional Annotation an
@@ -18999,7 +19022,7 @@
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [este/este](https://github.com/este/este) - This repo is suspended.
@@ -20040,7 +20063,7 @@
 ## zsh 
 
 - [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - 🧠 The Copilot that lives in your shell. Type in your thoughts, press ^Z and let the AI do it's magic ✨
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [lucagrulla/cw](https://github.com/lucagrulla/cw) - The best way to tail AWS CloudWatch Logs from your terminal
