@@ -750,7 +750,6 @@
 
 ## C++ 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.
@@ -963,7 +962,6 @@
 
 ## Clojure 
 
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [hoophq/sequence](https://github.com/hoophq/sequence) - Immutable, scalable, and easy to use ledger service.
@@ -3209,7 +3207,6 @@
 - [FGRibreau/node-request-retry](https://github.com/FGRibreau/node-request-retry) - :guardsman: Wrap NodeJS request module to retry http requests in case of errors
 - [narendrashetty/uber-mobile-web](https://github.com/narendrashetty/uber-mobile-web) - This is an attempt to mock the new uber app into mobile web to learn how react can be used to optimize for mobile web.
 - [thoov/mock-socket](https://github.com/thoov/mock-socket) - Javascript mocking library for WebSockets and Socket.IO
-- [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 - [DXY-F2E/api-mocker](https://github.com/DXY-F2E/api-mocker) - Api Mocker is more of an api management system than a mocker.
 - [mholt/PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 - [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
@@ -4534,7 +4531,7 @@
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [speckjs/speckjs](https://github.com/speckjs/speckjs) - Comment Driven Development
 - [magnetikonline/slack-post](https://github.com/magnetikonline/slack-post) - Node.js module for sending posts to Slack via the incoming webhooks API. Supports both simple and advanced messaging formats.
-- [jessehorne/jerbs](https://github.com/jessehorne/jerbs) - A representation of job listings in the form of an interactive map using Mapbox and Leaflet.
+- [jessefromearth/jerbs](https://github.com/jessefromearth/jerbs) - A representation of job listings in the form of an interactive map using Mapbox and Leaflet.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [Olical/d3-react](https://github.com/Olical/d3-react) - Render React elements with D3
 - [davidjamesstone/superviews.js](https://github.com/davidjamesstone/superviews.js) - Template engine targeting incremental-dom
@@ -5679,6 +5676,7 @@
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 - [kalaiser/awesome-cdk](https://github.com/kalaiser/awesome-cdk) - A collection of awesome things related to the AWS Cloud Development Kit (CDK)
 - [firdaus/awesome-cadence-temporal-workflow](https://github.com/firdaus/awesome-cadence-temporal-workflow) - A curated list of awesome things related to the Cadence and Temporal Workflow Engines
@@ -6472,7 +6470,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
@@ -6616,7 +6614,6 @@
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [lawxls/HackerNews-Alerts-Bot](https://github.com/lawxls/HackerNews-Alerts-Bot) - Telegram bot for all kinds of notifications from Hacker News
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [jiggy-ai/hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
@@ -7798,7 +7795,7 @@
 - [BendingSpoons/tempura-swift](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM
 - [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
 - [jdisho/Papr](https://github.com/jdisho/Papr) - 🌁 An Unsplash app for iOS
-- [Danie1s/Tiercel](https://github.com/Danie1s/Tiercel) - 简单易用、功能丰富的纯 Swift 下载框架
+- [Danie1s/Tiercel](https://github.com/Danie1s/Tiercel) - Pure Swift iOS download framework with background downloads, relaunch recovery, resumable transfers, and task management.
 - [HarshilShah/NotchKit](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X
 - [codytwinton/SwiftyVIPER](https://github.com/codytwinton/SwiftyVIPER) - Swift Interaction with VIPER Architecture
 - [zalando/SwiftMonkey](https://github.com/zalando/SwiftMonkey) - A framework for doing randomised UI testing of iOS apps
@@ -8196,7 +8193,7 @@
 
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
-- [mgechev/skill-eval](https://github.com/mgechev/skill-eval) - Unit tests for your agent skills
+- [mgechev/skillgrade](https://github.com/mgechev/skillgrade) - Unit tests for your agent skills
 - [platformatic/job-queue](https://github.com/platformatic/job-queue) - 
 - [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil) - AI-native design editor. Open-source Figma alternative.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -8235,6 +8232,7 @@
 - [valtyr/prisma-kysely](https://github.com/valtyr/prisma-kysely) - 🪄 Generate Kysely types directly from your Prisma schema!
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [kokouaserge/ai-patterns](https://github.com/kokouaserge/ai-patterns) - 
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [glide-browser/glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
@@ -8302,6 +8300,7 @@
 - [figma/sds](https://github.com/figma/sds) - Simple Design System (SDS) is a base design system that shows how Figma’s Variables, Styles, Components, and Code Connect can be used alongside a React codebase to form a complete picture of a respons
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [mehatab/fettle](https://github.com/mehatab/fettle) - Free GitHub-powered beautiful status page utilizing GitHub Pages, Actions, and Issues for real-time updates and incident management. Make sure to share love by giving it a star.🌟
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 - [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 - [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es) - Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
@@ -8347,7 +8346,7 @@
 - [vitalics/ajv-ts](https://github.com/vitalics/ajv-ts) - First-class ajv typescript JSON-schema builder inspired from Zod
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [isaacharrisholt/supawright](https://github.com/isaacharrisholt/supawright) - A Playwright test harness for E2E testing with Supabase
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
 - [subquery/subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
@@ -8836,6 +8835,7 @@
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [szokodiakos/typegoose](https://github.com/szokodiakos/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 - [timqian/open-source-jobs](https://github.com/timqian/open-source-jobs) - A list of Open Source projects offering jobs.
+- [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
 - [dotnet/try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [frontier-forms/frontier-forms](https://github.com/frontier-forms/frontier-forms) - The smartest web-forms.
