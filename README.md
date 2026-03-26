@@ -128,7 +128,6 @@
 
 ## Bicep 
 
-- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 
 ## Bikeshed 
@@ -206,6 +205,7 @@
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [martincostello/dotnet-minimal-api-integration-testing](https://github.com/martincostello/dotnet-minimal-api-integration-testing) - An example of integration testing ASP.NET Core Minimal hosting and APIs
+- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing) - Adds relational support to the Microsoft EntityFrameworkCore in-memory database provider by mocking relational operations.
 - [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi) - ASP.NET Core 10.0 - Minimal API Example - Todo API implementation using ASP.NET Core Minimal API, Entity Framework Core, Token authentication, Versioning, Unit Testing, Integration Testing and Open AP
 - [nuyonu/N-Tier-Architecture](https://github.com/nuyonu/N-Tier-Architecture) - This is a n-layer architecture based on Common web application architectures.
@@ -255,6 +255,7 @@
 - [iamoldli/NetModular](https://github.com/iamoldli/NetModular) - NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架
 - [dotnetcore/SmartCode](https://github.com/dotnetcore/SmartCode) - SmartCode = IDataSource -&gt; IBuildTask -&gt; IOutput =&gt; Build Everything!!!
 - [davidfowl/Micronetes](https://github.com/davidfowl/Micronetes) - Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [Daddoon/BlazorMobile](https://github.com/Daddoon/BlazorMobile) - Create full C# driven hybrid-apps for iOS, Android, UWP & Desktop with Blazor!
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [lampo1024/DncZeus](https://github.com/lampo1024/DncZeus) - DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.
@@ -782,7 +783,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66527, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66562, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -1152,7 +1153,7 @@
 - [eiondb/eion](https://github.com/eiondb/eion) - Shared Memory Storage for Multi-Agent Systems
 - [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [mudler/LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No 
 - [mudler/LocalRecall](https://github.com/mudler/LocalRecall) - :brain: 100% Local Memory layer and Knowledge base for agents with WebUI
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
@@ -1280,7 +1281,7 @@
 - [ywadi/crimsonq](https://github.com/ywadi/crimsonq) - One Message to Multi Consumer Queue with persistence and Queue Stages. Crimson Queue allows you to have multiple consumers listening on topics and receive a copy of a message that targets its topic pr
 - [golobby/orm](https://github.com/golobby/orm) - A lightweight yet powerful, fast, customizable, type-safe object-relational mapper for the Go programming language.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [teamcode-inc/kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Test your application on Kubernetes in a brand new simple way⚡ 轻量高效的微服务本地联调测试工具
 - [agola-io/agola](https://github.com/agola-io/agola) - Agola: CI/CD Redefined
 - [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
@@ -1390,7 +1391,7 @@
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [simagix/keyhole](https://github.com/simagix/keyhole) - Survey Your Mongo Land - MongoDB Performance Analytics
 - [talariadb/talaria](https://github.com/talariadb/talaria) - TalariaDB is a distributed, highly available, and low latency time-series database for Presto
-- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
+- [aws/copilot-cli](https://github.com/aws/copilot-cli) - AWS Copilot CLI will reach end-of-support on June 12, 2026.
 - [nlpodyssey/spago](https://github.com/nlpodyssey/spago) - Self-contained Machine Learning and Natural Language Processing library in Go
 - [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
 - [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
@@ -2106,7 +2107,6 @@
 - [Ramotion/iOS-design-tips](https://github.com/Ramotion/iOS-design-tips) - Simple iOS design guidelines that will assist you in selecting the dimensions for your AppStore assets:
 - [phodal/ideabook](https://github.com/phodal/ideabook) - 一个全栈增长工程师的练手项目集. A Growth Engineering Idea in Action.
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [prakhar21/spark-streaming](https://github.com/prakhar21/spark-streaming) - Twitter Spark Streaming using PySpark
 - [aviaryan/resume](https://github.com/aviaryan/resume) - :bowtie: Simple and clean resume in Jekyll
 - [jamiehenson/snippet](https://github.com/jamiehenson/snippet) - An easy way to glam up your truncated comments/reviews/whatever!
@@ -2254,7 +2254,7 @@
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [hazelcast/hazelcast-jet](https://github.com/hazelcast/hazelcast-jet) - Distributed Stream and Batch Processing
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 难得一见 Jetpack MVVM 最佳实践。在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解。
@@ -2283,7 +2283,7 @@
 - [rabbitmq/rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) - Tutorials for using RabbitMQ in various ways
 - [2227324689/gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
 - [amitshekhariitbhu/android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
-- [tensorhero-dev/staffjoy](https://github.com/tensorhero-dev/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+- [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 - [iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw) - 🔥🔥Qigsaw ['tʃɪɡsɔ] is a dynamic modularization library which is based on Android App Bundles(Do not need Google Play Service). It supports dynamic delivery for split APKs without reinstalling the base
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll 
 - [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
@@ -3238,7 +3238,6 @@
 - [lavas-project/lavas](https://github.com/lavas-project/lavas) - 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题
 - [storeon/storeon](https://github.com/storeon/storeon) - 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [ever-co/ever-traduora](https://github.com/ever-co/ever-traduora) - Ever® Traduora™ - Open Translation Management Platform - https://traduora.co
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
@@ -3611,7 +3610,7 @@
 - [sheerun/knex-migrate](https://github.com/sheerun/knex-migrate) - Modern database migration toolkit for knex.js
 - [danielireson/formplug](https://github.com/danielireson/formplug) - Form forwarding service for AWS Lambda
 - [ayastreb/money-tracker](https://github.com/ayastreb/money-tracker) - :moneybag: Personal finances tracking web app
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [aino/react-native-embryo](https://github.com/aino/react-native-embryo) - The unborn child of react native apps
 - [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -5207,6 +5206,7 @@
 - [jake-low/hadoop.docker](https://github.com/jake-low/hadoop.docker) - Run a highly configurable, fully distributed Hadoop cluster with Docker!
 - [ritazh/s3proxydocker](https://github.com/ritazh/s3proxydocker) - :ship: Dockerize your s3proxy instance - run s3proxy in a docker container anywhere!
 - [RedHatOfficial/Overpass](https://github.com/RedHatOfficial/Overpass) - Overpass open source web font family — Sponsored by Red Hat
+- [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [git-game/git-game-v2](https://github.com/git-game/git-game-v2) - Second version of the terminal based game that teaches users git commands
 
 ## Markdown 
@@ -5260,6 +5260,7 @@
 - [uber/UberSignature](https://github.com/uber/UberSignature) - Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
 - [AatiqUrRehman/ting_flutter](https://github.com/AatiqUrRehman/ting_flutter) - Clone of React Native app (Ting) developed in Flutter
 - [AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [tbl00c/ZZFLEX](https://github.com/tbl00c/ZZFLEX) - 一个完善的iOS敏捷开发框架，基于UIKit实现，包含常用控件的链式API拓展、一个数据驱动的列表框架、一个事件处理队列。
 - [nacker/LZEasemob3](https://github.com/nacker/LZEasemob3) - 酷信 | 高仿微信| WeChat | 高仿朋友圈 | moments| Github上最牛逼的高仿微信项目没有之一
 - [alibaba/coobjc](https://github.com/alibaba/coobjc) - coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foun
@@ -5651,7 +5652,6 @@
 - [chps-dev/chps](https://github.com/chps-dev/chps) - Container Hardening Priorities Specification (CHPS)
 - [rivet-dev/rivetkit](https://github.com/rivet-dev/rivetkit) - An open-source library for long-lived processes with realtime, persistence, and hibernation
 - [anitwek/alternatives-to-us](https://github.com/anitwek/alternatives-to-us) - A curated list of non-U.S.-based alternatives to popular services, focusing on privacy and global accessibility.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [upleveled/system-setup](https://github.com/upleveled/system-setup) - Set up a PERN development environment on Windows, macOS and Linux
@@ -5779,7 +5779,6 @@
 - [emmabostian/design-inspiration](https://github.com/emmabostian/design-inspiration) - A collection of websites to spark creativity
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
-- [twhite96/js-dev-reads](https://github.com/twhite96/js-dev-reads) - A list of books 📚and articles 📝 for the discerning web developer to read.
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [joelparkerhenderson/queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 - [aliyr/Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) - A Developer Roadmap to becoming a Node.js developer in 2019
@@ -6182,7 +6181,7 @@
 - [SwiftEducation/teaching-app-dev-swift](https://github.com/SwiftEducation/teaching-app-dev-swift) - DEPRECATED. Instructor lesson plans that accompany Xcode projects, for guiding in-class experiential learning.
 - [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
 - [futurice/ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
-- [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [philipamour/ios9-uikit](https://github.com/philipamour/ios9-uikit) - iOS 9 UIKit for Sketch
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
@@ -6444,7 +6443,7 @@
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [harshkedia177/axon](https://github.com/harshkedia177/axon) - Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers.
 - [HKUDS/FastCode](https://github.com/HKUDS/FastCode) - "FastCode: Accelerating and Streamlining Your Code Understanding"
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
@@ -6546,7 +6545,7 @@
 - [GerevAI/gerev](https://github.com/GerevAI/gerev) - 🧠 AI-powered enterprise search engine 🔎
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [truefoundry/cognita](https://github.com/truefoundry/cognita) - RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
@@ -6849,7 +6848,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [ianmiell/git-101-tutorial](https://github.com/ianmiell/git-101-tutorial) - Guided git intro in a real shell, using Docker
 - [Alephbet/gimel](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using AWS Lambda and Redis HyperLogLog
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python APIs for web automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection.
 - [alerta/alerta](https://github.com/alerta/alerta) - Alerta monitoring system
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -6862,6 +6861,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [sahildua2305/ping-check](https://github.com/sahildua2305/ping-check) - An app Indicator that keeps pinging a particular server and shows the ping status in menu bar so that you never have to manually check for ping status.
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 - [dcos/dcos](https://github.com/dcos/dcos) - DC/OS - The Datacenter Operating System
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
@@ -7041,7 +7041,7 @@
 - [tgalal/yowsup](https://github.com/tgalal/yowsup) - The WhatsApp lib
 - [tgalal/wazapp](https://github.com/tgalal/wazapp) - Unofficial WhatsApp client for Meego/Harmattan
 - [etianen/django-herokuapp](https://github.com/etianen/django-herokuapp) - A set of utilities and a project template for running Django sites on Heroku.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [Suor/funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools
 - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control th
@@ -7241,8 +7241,8 @@
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -7400,6 +7400,7 @@
 
 ## Shell 
 
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [JudyaiLab/ai-night-shift](https://github.com/JudyaiLab/ai-night-shift) - Multi-agent autonomous framework — let your AI work while you sleep 🌙
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
@@ -7524,7 +7525,6 @@
 - [docker-archive/tutum-mongodb](https://github.com/docker-archive/tutum-mongodb) - [Deprecated] Docker image to run an out-of-the-box MongoDB server
 - [gyuho/learn](https://github.com/gyuho/learn) - learn
 - [Juude/droidReverse](https://github.com/Juude/droidReverse) - reverse engineering tools for android（android 逆向工程工具集）
-- [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sveinungkb/ios-ota-buddy](https://github.com/sveinungkb/ios-ota-buddy) - Command line tool to aid in distributin iOS appliactions OTA using the ITMS-protocol (supported by iOS4 and later).
@@ -8198,6 +8198,7 @@
 
 ## TypeScript 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
@@ -8329,7 +8330,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [unjs/unpdf](https://github.com/unjs/unpdf) - 📄 PDF extraction and rendering across all JavaScript runtimes
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -8374,7 +8375,6 @@
 - [thewh1teagle/mobslide](https://github.com/thewh1teagle/mobslide) - Turn your smartphone into presentation remote controller
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [microsoft/aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -8723,7 +8723,7 @@
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [aramalipoor/aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver) - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
@@ -9005,7 +9005,7 @@
 - [nhn/tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!
 - [dsys/cleargraph](https://github.com/dsys/cleargraph) - ⛓ Cleargraph is a GraphQL runtime for decentralized applications
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [javieraviles/node-typescript-koa-rest](https://github.com/javieraviles/node-typescript-koa-rest) - REST API boilerplate using NodeJS and KOA2, typescript. Logging and JWT as middlewares. TypeORM with class-validator, SQL CRUD. Docker included. Swagger docs, actions CI and valuable README
 - [kylecorbelli/typescript-nullable](https://github.com/kylecorbelli/typescript-nullable) - A TypeScript Nullable&lt;T&gt; Type with Corresponding Utility Functions
 - [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
