@@ -783,7 +783,7 @@
 - [openstf/ios-minicap](https://github.com/openstf/ios-minicap) - iOS Minicap provides a socket interface for streaming realtime screen capture data out of iOS devices.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
 - [idea4good/GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest header-only GUI library(4 KLOC) for all platforms
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66562, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66709, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9) - works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) - A high available service discovery & registration & fault-tolerance framework
 - [TarsCloud/Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
@@ -2234,6 +2234,7 @@
 - [Codecademy/EventHub](https://github.com/Codecademy/EventHub) - An open source event analytics platform
 - [IridiumIdentity/iridium](https://github.com/IridiumIdentity/iridium) - An OIDC provider integrator.  Choose your social providers without needing to write code.
 - [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [zalando/problem](https://github.com/zalando/problem) - A Java library that implements application/problem+json
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -3024,7 +3025,6 @@
 
 ## JavaScript 
 
-- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [ranuts/document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
@@ -6616,7 +6616,6 @@
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [lawxls/HackerNews-Alerts-Bot](https://github.com/lawxls/HackerNews-Alerts-Bot) - Telegram bot for all kinds of notifications from Hacker News
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
 - [jiggy-ai/hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
@@ -6680,7 +6679,7 @@
 - [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [techgaun/github-dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+- [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database.
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
@@ -7205,7 +7204,7 @@
 - [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library.
 - [Sutto/rocket_pants](https://github.com/Sutto/rocket_pants) - API building tools on top of ActionController. Also, an awesome name.
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
-- [spree/spree](https://github.com/spree/spree) - Spree is an API-first, open-source eCommerce platform for fast growing businesses and enterprises. Spree supports complex commerce scenarios natively — from B2B wholesale to multi-vendor marketplace t
+- [spree/spree](https://github.com/spree/spree) - Open-source commerce platform for fast growing businesses and enterprises. Supports complex commerce scenarios natively - from B2B wholesale to multi-vendor marketplace to global multi-region or multi
 - [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) - The administration framework for Ruby on Rails applications.
 - [activeadmin/demo.activeadmin.info](https://github.com/activeadmin/demo.activeadmin.info) - A demo application for Active Admin
 - [kiwiupover/open-pos](https://github.com/kiwiupover/open-pos) - A Point of Sale using Ember JS, Ember Data, and Rails as the JSON API
@@ -8198,6 +8197,9 @@
 
 ## TypeScript 
 
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 5,600+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
@@ -8232,6 +8234,7 @@
 - [run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude) - Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows
 - [better-auth/better-call](https://github.com/better-auth/better-call) - a tiny web framework for typescript
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer.
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
@@ -8270,7 +8273,7 @@
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [langwatch/scenario](https://github.com/langwatch/scenario) - Agentic testing for agentic codebases
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 - [yuanqing/create-figma-plugin](https://github.com/yuanqing/create-figma-plugin) - :battery: The comprehensive toolkit for developing plugins and widgets for Figma
@@ -8895,7 +8898,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [stenciljs/core](https://github.com/stenciljs/core) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) 
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
