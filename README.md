@@ -2341,7 +2341,7 @@
 - [baishixian/Share2](https://github.com/baishixian/Share2) - Content Share For Android.
 - [MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了
 - [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [Blankj/FreeProGuard](https://github.com/Blankj/FreeProGuard) - :beginner: Config proguard for common Android libraries.
 - [pqpo/SmartCamera](https://github.com/pqpo/SmartCamera) - 📷SmartCamera 是一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。SmartCamera is an Android camera extension library，provides a scanning module that can recognizes whether the object's border inside the camera
@@ -4830,7 +4830,6 @@
 - [wtayyeb/draw.io](https://github.com/wtayyeb/draw.io) - obsolete jgraph/draw.io open source repo, become live again!
 - [goinstant/goangular](https://github.com/goinstant/goangular) - AngularJS bindings for GoInstant. Build realtime, multi-user apps with AngularJS and GoInstant easily. https://developers.goinstant.com/v1/GoAngular/index.html
 - [drewblaisdell/monitor.io](https://github.com/drewblaisdell/monitor.io) - remote monitoring and debugging for socket.io
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [codelovers/asana-time-track](https://github.com/codelovers/asana-time-track) - An extension for the popular task management tool Asana. This Extension provides you with time track for your Asana-Tasks.
 - [gaganpreet/apk-downloader](https://github.com/gaganpreet/apk-downloader) - APK Downloader Chrome Extension
 - [serenity-is/serene](https://github.com/serenity-is/serene) - Serenity Application Template
@@ -6458,7 +6457,7 @@
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [microsoft/fara](https://github.com/microsoft/fara) - Fara-7B: An Efficient Agentic Model for Computer Use
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-- [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS) - A memory OS that makes your OpenClaw agents more personal while saving tokens.
+- [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) - A memory OS that makes your OpenClaw agents more personal while saving tokens.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 - [aws/mcp-proxy-for-aws](https://github.com/aws/mcp-proxy-for-aws) - AWS MCP Proxy Server
@@ -6479,7 +6478,6 @@
 - [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) - "Your Fully-Automated Personal AI Assistant"
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [jayrodge/ai-agents](https://github.com/jayrodge/ai-agents) - 
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
@@ -7234,7 +7232,6 @@
 - [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) - High-performance GraphRAG inspired from LightRag written in Rust
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP
@@ -9329,6 +9326,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
+- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
